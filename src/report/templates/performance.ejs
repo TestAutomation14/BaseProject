@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title><%= title %> - Performance Report</title>
+  <link rel="stylesheet" href="assets/theme.css" />
+  <style>
+    table { width: 100%; border-collapse: collapse; margin: 16px 0 28px; }
+    th, td { border: 1px solid #d1d5db; padding: 8px; text-align: left; }
+    th { background: #f3f4f6; }
+    .report-container { padding: 24px; }
+    .metric-summary { margin: 12px 0 18px; }
+    .metric-summary td, .metric-summary th { font-size: 12px; }
+    .metric-summary th { white-space: nowrap; }
+    .metric-table th[title], .metric-table td[title] { cursor: help; }
+    .metric-table td.metric-best { background: #dcfce7; color: #166534; font-weight: 600; }
+    .metric-table td.metric-worst { background: #fee2e2; color: #991b1b; font-weight: 600; }
+    .legend { font-size: 13px; margin: 0 0 14px; }
+    .legend-best { color: #166534; font-weight: 600; }
+    .legend-worst { color: #991b1b; font-weight: 600; }
+    .scorecard { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 18px 0 24px; }
+    .score-card { border-radius: 8px; padding: 14px; border: 1px solid #d1d5db; background: #fff; }
+    .score-card h3 { margin: 0 0 8px; font-size: 14px; }
+    .score-value { font-size: 24px; font-weight: 700; }
+    .score-good { border-left: 6px solid #22c55e; }
+    .score-needs-improvement { border-left: 6px solid #f59e0b; }
+    .score-poor { border-left: 6px solid #ef4444; }
+    .score-na { border-left: 6px solid #9ca3af; }
+    .status-label { font-size: 12px; font-weight: 600; text-transform: uppercase; }
+    .threshold-track { position: relative; height: 12px; border-radius: 8px; background: linear-gradient(to right, #bbf7d0 0%, #bbf7d0 45%, #fde68a 45%, #fde68a 72%, #fecaca 72%, #fecaca 100%); margin: 10px 0 5px; }
+    .threshold-marker { position: absolute; top: -4px; width: 3px; height: 20px; background: #111827; }
+    .threshold-scale { display: flex; justify-content: space-between; font-size: 11px; color: #6b7280; }
+    .recommendations li { margin: 8px 0; }
+    .methodology { color: #4b5563; font-size: 13px; }
+    .user-tag { display: inline-block; margin-left: 8px; padding: 4px 9px; border-radius: 999px; background: #dbeafe; color: #1e40af; font-size: 12px; font-weight: 600; vertical-align: middle; }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="header-text">
+      <h1><%= title %> - Performance Report</h1>
+      <p><strong>Product:</strong> <%= product %></p>
+      <p><strong>Generated:</strong> <%= generatedAt %></p>
+      <p><strong>Users executed:</strong> <%= userCount %></p>
+    </div>
+  </header>
+
+  <main class="report-container">
+    <% 
+      const metricDefinitions = [
+        { key: 'ttfb', label: 'TTFB', unit: 'ms', description: 'Time until the first byte of the response arrives. Lower is better.' },
+        { key: 'domContentLoaded', label: 'DOM Content Loaded', unit: 'ms', description: 'Time until the initial HTML document is parsed. Lower is better.' },
+        { key: 'load', label: 'Load', unit: 'ms', description: 'Time until the page load event completes. Lower is better.' },
+        { key: 'fcp', label: 'FCP', unit: 'ms', description: 'First Contentful Paint: when the first visible content appears. Lower is better.' },
+        { key: 'lcp', label: 'LCP', unit: 'ms', description: 'Largest Contentful Paint: when the main content appears. Lower is better.' },
+        { key: 'cls', label: 'CLS', unit: '', description: 'Cumulative Layout Shift: visual stability score. Lower is better.' },
+        { key: 'inp', label: 'INP', unit: 'ms', description: 'Interaction to Next Paint: page interaction responsiveness. Lower is better.' },
+        { key: 'resourceCount', label: 'Resources', unit: '', description: 'Number of resources loaded by the page. Lower usually means less network work.' }
+      ];
+      const numericValue = function(screen, definition) {
+        const value = definition.key === 'resourceCount'
+          ? screen.resourceCount
+          : screen.navigation && ['ttfb', 'domContentLoaded', 'load'].includes(definition.key)
+            ? screen.navigation[definition.key]
+            : screen.webVitals && screen.webVitals[definition.key];
+        return typeof value === 'number' && Number.isFinite(value) ? value : null;
+      };
+      const percentile = function(values, percentileRank) {
+        if (!values.length) return null;
+        const sorted = values.slice().sort(function(left, right) { return left - right; });
+        const index = (sorted.length - 1) * percentileRank;
+        const lower = Math.floor(index);
+        const upper = Math.ceil(index);
+        if (lower === upper) return sorted[lower];
+        return sorted[lower] + (sorted[upper] - sorted[lower]) * (index - lower);
+      };
+      const allScreens = performanceTests.reduce(function(screens, test) {
+        return screens.concat(test.performanceMetrics.screens || []);
+      }, []);
+      const metricStats = metricDefinitions.map(function(definition) {
+        const values = allScreens.map(function(screen) {
+          return numericValue(screen, definition);
+        }).filter(function(value) { return value !== null; });
+        return {
+          definition: definition,
+          min: values.length ? Math.min.apply(Math, values) : null,
+          max: values.length ? Math.max.apply(Math, values) : null,
+          average: values.length ? values.reduce(function(sum, value) { return sum + value; }, 0) / values.length : null,
+          p75: percentile(values, 0.75),
+          p95: percentile(values, 0.95)
+        };
+      });
+      const formatMetric = function(value, definition) {
+        if (value === null) return 'N/A';
+        return definition.key === 'cls' ? value.toFixed(6) : Math.round(value);
+      };
+      const cellClass = function(value, stats) {
+        if (value === null || stats.min === stats.max) return '';
+        // CLS is threshold-based; a small relative difference should not look like a failure.
+        if (stats.definition.key === 'cls') return '';
+        if (value === stats.max) return 'metric-worst';
+        if (value === stats.min) return 'metric-best';
+        return '';
+      };
+      const statusFor = function(value, threshold) {
+        if (value === null) return { key: 'na', label: 'No data' };
+        if (value <= threshold.good) return { key: 'good', label: 'Good' };
+        if (value <= threshold.needsImprovement) return { key: 'needs-improvement', label: 'Needs improvement' };
+        return { key: 'poor', label: 'Poor' };
+      };
+      const thresholds = {
+        fcp: { good: 1800, needsImprovement: 3000 },
+        lcp: { good: 2500, needsImprovement: 4000 },
+        inp: { good: 200, needsImprovement: 500 },
+        cls: { good: 0.1, needsImprovement: 0.25 }
+      };
+      const requiredMetricKeys = ['fcp', 'lcp', 'cls'];
+      const pageGroups = [];
+      allScreens.forEach(function(screen) {
+        const pageUrl = screen.url || 'Unknown page';
+        let group = pageGroups.find(function(candidate) { return candidate.url === pageUrl; });
+        if (!group) {
+          group = { url: pageUrl, screens: [] };
+          pageGroups.push(group);
+        }
+        group.screens.push(screen);
+      });
+      pageGroups.forEach(function(group) {
+        group.stats = metricDefinitions.map(function(definition) {
+          const values = group.screens.map(function(screen) {
+            return numericValue(screen, definition);
+          }).filter(function(value) { return value !== null; });
+          return {
+            definition: definition,
+            min: values.length ? Math.min.apply(Math, values) : null,
+            max: values.length ? Math.max.apply(Math, values) : null,
+            average: values.length ? values.reduce(function(sum, value) { return sum + value; }, 0) / values.length : null,
+            p75: percentile(values, 0.75),
+            p95: percentile(values, 0.95)
+          };
+        });
+        group.coreStats = metricDefinitions.filter(function(definition) {
+          return thresholds[definition.key];
+        }).map(function(definition) {
+          return group.stats.find(function(stats) { return stats.definition.key === definition.key; });
+        });
+        group.resourceStats = group.stats.find(function(stats) { return stats.definition.key === 'resourceCount'; });
+        group.overallStatus = group.coreStats.reduce(function(current, stats) {
+          if (requiredMetricKeys.indexOf(stats.definition.key) === -1 && stats.p75 === null) return current;
+          const status = statusFor(stats.p75, thresholds[stats.definition.key]);
+          if (status.key === 'na') return status;
+          if (status.key === 'poor' || (status.key === 'needs-improvement' && current.key === 'good')) return status;
+          return current;
+        }, { key: 'good', label: 'Good' });
+      });
+      const coreMetricDefinitions = metricDefinitions.filter(function(definition) {
+        return thresholds[definition.key];
+      });
+      const coreStats = coreMetricDefinitions.map(function(definition) {
+        return metricStats.find(function(stats) { return stats.definition.key === definition.key; });
+      });
+      const overallStatus = coreStats.reduce(function(current, stats) {
+        const value = stats && stats.p75 !== null ? stats.p75 : null;
+        const status = statusFor(value, thresholds[stats.definition.key]);
+        if (status.key === 'na' && current.key === 'good') return status;
+        if (status.key === 'poor' || (status.key === 'needs-improvement' && current.key === 'good')) return status;
+        return current;
+      }, { key: 'good', label: 'Good' });
+      const markerPosition = function(value, threshold) {
+        if (value === null) return 0;
+        const max = threshold.needsImprovement * 1.5;
+        return Math.min(100, Math.max(0, value / max * 100));
+      };
+      const recommendations = [];
+      const missingMetrics = coreStats
+        .filter(function(stats) { return requiredMetricKeys.indexOf(stats.definition.key) !== -1 && stats.p75 === null; })
+        .map(function(stats) { return stats ? stats.definition.label : 'Core Web Vital'; });
+      coreStats.forEach(function(stats) {
+        const value = stats && stats.p75 !== null ? stats.p75 : null;
+        const status = statusFor(value, thresholds[stats.definition.key]);
+        if (status.key === 'poor' || status.key === 'needs-improvement') {
+          recommendations.push({
+            metric: stats.definition.label,
+            text: 'P75 is ' + formatMetric(value, stats.definition) + (stats.definition.unit ? ' ' + stats.definition.unit : '') + '; ' +
+              (stats.definition.key === 'lcp'
+              ? 'Investigate server response time, render-blocking resources, and the main content asset.'
+              : stats.definition.key === 'fcp'
+                ? 'Inspect server response time, CSS delivery, and render-blocking scripts.'
+                : stats.definition.key === 'inp'
+                  ? 'Investigate long JavaScript tasks and expensive event handlers.'
+                  : 'Reserve space for images and late content to prevent layout movement.')
+          });
+        }
+      });
+      const resourceStats = metricStats.find(function(stats) { return stats.definition.key === 'resourceCount'; });
+      if (resourceStats && resourceStats.p75 !== null && resourceStats.p75 > 150) {
+        recommendations.push({ metric: 'Resources', text: 'P75 is ' + formatMetric(resourceStats.p75, resourceStats.definition) + '; review duplicate, third-party, and non-critical requests.' });
+      }
+    %>
+
+    <% if (!performanceTests.length) { %>
+      <p>No performance metrics were captured for this suite.</p>
+    <% } %>
+
+    <% if (performanceTests.length) { %>
+      <section class="test-card">
+        <h2>Page-specific summaries</h2>
+        <p class="methodology">Each URL is evaluated independently; metrics are not combined across navigations.</p>
+        <% pageGroups.forEach(function(group) { %>
+          <h3><%= group.url %></h3>
+          <p><strong>Status:</strong> <span class="status-label score-<%= group.overallStatus.key %>"><%= group.overallStatus.label %></span></p>
+          <div class="scorecard">
+            <% group.coreStats.forEach(function(stats) {
+              const value = stats.p75;
+              const status = statusFor(value, thresholds[stats.definition.key]);
+            %>
+              <div class="score-card score-<%= status.key %>" title="<%= stats.definition.description %>">
+                <h3><%= stats.definition.label %></h3>
+                <div class="score-value"><%= formatMetric(value, stats.definition) %><%= stats.definition.unit ? ' ' + stats.definition.unit : '' %></div>
+                <span class="status-label"><%= status.label %> (P75)</span>
+              </div>
+            <% }); %>
+            <div class="score-card score-na">
+              <h3>Resources</h3>
+              <div class="score-value"><%= formatMetric(group.resourceStats ? group.resourceStats.p75 : null, { key: 'resourceCount' }) %></div>
+              <span class="status-label">P75 requests</span>
+            </div>
+          </div>
+        <% }); %>
+      </section>
+
+      <% if (false) { %>
+      <section class="test-card">
+        <h2>Executive Summary</h2>
+        <p><strong>Overall status:</strong>
+          <span class="status-label score-<%= overallStatus.key %>"><%= overallStatus.label %></span>
+        </p>
+        <p class="methodology">Lab measurement from this test run. Status uses P75 values; values are not real-user percentiles.</p>
+        <div class="scorecard">
+          <% coreStats.forEach(function(stats) {
+            const value = stats.p75;
+            const status = statusFor(value, thresholds[stats.definition.key]);
+          %>
+            <div class="score-card score-<%= status.key %>" title="<%= stats.definition.description %>">
+              <h3><%= stats.definition.label %></h3>
+              <div class="score-value"><%= formatMetric(value, stats.definition) %><%= stats.definition.unit ? ' ' + stats.definition.unit : '' %></div>
+              <span class="status-label"><%= status.label %> (P75)</span>
+            </div>
+          <% }); %>
+          <div class="score-card score-na" title="Average number of resources loaded across captured screens.">
+            <h3>Resources</h3>
+            <div class="score-value"><%= formatMetric(resourceStats ? resourceStats.p75 : null, { key: 'resourceCount' }) %></div>
+            <span class="status-label">P75 requests</span>
+          </div>
+        </div>
+
+        <h3>Core Web Vitals thresholds</h3>
+        <% coreStats.forEach(function(stats) {
+          const value = stats.p75;
+          const threshold = thresholds[stats.definition.key];
+          const status = statusFor(value, threshold);
+        %>
+          <div title="<%= stats.definition.description %>">
+            <strong><%= stats.definition.label %>:</strong>
+            <%= formatMetric(value, stats.definition) %><%= stats.definition.unit ? ' ' + stats.definition.unit : '' %>
+            - <span class="status-label"><%= status.label %></span>
+            <div class="threshold-track">
+              <% if (value !== null) { %><span class="threshold-marker" style="left:<%= markerPosition(value, threshold) %>%"></span><% } %>
+            </div>
+            <div class="threshold-scale"><span>Good ≤ <%= formatMetric(threshold.good, stats.definition) %></span><span>Needs improvement ≤ <%= formatMetric(threshold.needsImprovement, stats.definition) %></span><span>Poor</span></div>
+          </div>
+        <% }); %>
+      </section>
+
+      <section class="test-card recommendations">
+        <h2>What to investigate</h2>
+        <% if (missingMetrics.length > 0) { %>
+          <p>Missing metrics: <%= missingMetrics.join(', ') %>. These values were not available from the browser during capture and are excluded from threshold evaluation.</p>
+        <% } else if (!recommendations.length) { %>
+          <p>All captured Core Web Vitals are within the good lab guidance thresholds.</p>
+        <% } else { %>
+          <ul>
+            <% recommendations.forEach(function(recommendation) { %>
+              <li><strong><%= recommendation.metric %>:</strong> <%= recommendation.text %></li>
+            <% }); %>
+          </ul>
+        <% } %>
+      </section>
+      <% } %>
+
+      <p class="legend">
+        <span class="legend-best">Green = lowest/best value</span>;
+        <span class="legend-worst">Red = highest/worst value</span>.
+        Hover over a heading or value for details.
+      </p>
+      <h2>Suite Summary</h2>
+      <table class="metric-summary">
+        <thead>
+          <tr>
+            <th>Metric</th>
+            <th title="Lowest value across all captured screens.">Lowest</th>
+            <th title="Highest value across all captured screens.">Highest</th>
+            <th title="Average value across all captured screens.">Average</th>
+            <th title="75th percentile: 75% of captured values are at or below this value.">P75</th>
+            <th title="95th percentile: 95% of captured values are at or below this value.">P95</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% metricStats.forEach(function(stats) { %>
+            <tr>
+              <td title="<%= stats.definition.description %>"><%= stats.definition.label %></td>
+              <td><%= formatMetric(stats.min, stats.definition) %></td>
+              <td><%= formatMetric(stats.max, stats.definition) %></td>
+              <td><%= formatMetric(stats.average, stats.definition) %></td>
+              <td><%= formatMetric(stats.p75, stats.definition) %></td>
+              <td><%= formatMetric(stats.p95, stats.definition) %></td>
+            </tr>
+          <% }); %>
+        </tbody>
+      </table>
+    <% } %>
+
+    <% performanceTests.forEach(function(test) { %>
+      <section class="test-card">
+        <h2><%= test.title %><span class="user-tag" title="Actual test start order in this report">#<%= test.executionOrder %> · Execution <%= test.executionOrder %></span><span class="user-tag" title="Playwright worker assigned to this test">👤 <%= test.executionUser %></span></h2>
+        <p class="methodology">Execution order: <strong>#<%= test.executionOrder %></strong>; worker: <strong><%= test.executionUser %></strong>.</p>
+        <% if (typeof test.performanceMetrics.testDurationMs === 'number') { %>
+          <h3>Automatic execution timings</h3>
+          <p class="methodology">Captured by the shared browser fixture; no timing code is required in the test.</p>
+          <table class="metric-table">
+            <thead>
+              <tr>
+                <th>Test</th>
+                <th>Duration (ms)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% if (typeof test.performanceMetrics.testDurationMs === 'number') { %>
+                <tr>
+                  <td>Entire test</td>
+                  <td><%= test.performanceMetrics.testDurationMs %></td>
+                </tr>
+              <% } %>
+            </tbody>
+          </table>
+        <% } %>
+        <table class="metric-table">
+          <thead>
+            <tr>
+              <th title="URL of the captured screen.">Screen</th>
+              <% metricDefinitions.forEach(function(definition) { %>
+                <th title="<%= definition.description %>"><%= definition.label %><%= definition.unit ? ' (' + definition.unit + ')' : '' %></th>
+              <% }); %>
+            </tr>
+          </thead>
+          <tbody>
+            <% test.performanceMetrics.screens.forEach(function(screen) { %>
+              <% const screenValues = metricDefinitions.map(function(definition) { return numericValue(screen, definition); }); %>
+              <tr>
+                <td title="Captured page: <%= screen.url || 'N/A' %>"><%= screen.url || 'N/A' %></td>
+                <% metricDefinitions.forEach(function(definition, index) {
+                  const value = screenValues[index];
+                  const stats = metricStats[index];
+                %>
+                  <td class="<%= cellClass(value, stats) %>" title="<%= definition.description %> Value: <%= formatMetric(value, definition) %>">
+                    <%= formatMetric(value, definition) %>
+                  </td>
+                <% }); %>
+              </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </section>
+    <% }); %>
+  </main>
+</body>
+</html>

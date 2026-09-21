@@ -1,0 +1,180 @@
+{
+  "245778": {
+    "CFS": "502",
+    "SOPType": "All Condition",
+    "TextName": "CFS Code Template"
+  },
+  "263603": {
+    "Name": "Dispatch",
+    "ScreenType": "F3 - Dispatch",
+    "Screen": "F3 - Dispatch"
+  },
+  "263605": {
+    "Name": "Call Status"
+  },
+  "263609": {
+    "Name": "Unit Status"
+  },
+  "263610": {
+    "Name": "Call Status",
+    "ScreenType": "F3 - Dispatch",
+    "Screen": "F3 - Dispatch"
+  },
+  "263611": {
+    "Name": "Call Screen"
+  },
+  "263616": {
+    "CallForService": "502",
+    "CFS": "502",
+    "AlarmLevel": "1",
+    "SubLevel": "2",
+    "ALSubAL": "1/2",
+    "Description": "Fire Response CFS"
+  },
+  "263617": {
+    "CallForService": "FIREmer",
+    "CFS": "FIREmer",
+    "AlarmLevel": "2",
+    "SubLevel": "3",
+    "Agency": "Fire",
+    "DispatchPriority": "Priority 1",
+    "Description": "Fire Emergency",
+    "SOPType":"All Condition",
+    "TextName":"CFS Code Template"
+  },
+  "263618": {
+    "CallForService": "101",
+    "CFS": "101"
+  },
+  "263619": {
+    "CallForService": "IEN",
+    "CFS": "IEN"
+  },
+  "263620": {
+    "CallForService": "IENE",
+    "CFS": "IENE",
+    "NFIRSIncidentType": "500"
+  },
+  "263621": {
+    "CallForService": "IENE",
+    "CFS": "IENE",
+    "SOPType": "All Condition",
+    "TextName": "CFS Code Template",
+    "Description": "CFS Code"
+  },
+  "263622": {
+    "Description1": "Theft",
+    "Description": "Incident NIFRS EMS",
+    "PoliceOEMOtherCfs": "100",
+    "ServiceType": "Police",
+    "CFSCode": "100",
+    "ServiceType1": "OEM"
+  },
+  "263623": {
+    "CallForService": "101",
+    "CFS": "101",
+    "InitialCFS": "101",
+    "ReportedLocation": "Koeller;PX",
+    "Status": "Report Due",
+    "Exp": "000"
+  },
+  "263625": {
+    "CallForService": "101",
+    "CFS": "101",
+    "SOPType": "All Condition",
+    "TextName": "Code Entry Details",
+    "Description": "Code Entry Details",
+    "Remarks": "Code Entry Details"
+  },
+  "AlrmRspnseEnt":{
+  "AlarmLevel":"1",
+  "SubLevel":"1",
+  "Description":"Test",
+  "ScheduleName":"Test"
+  
+  },
+  "CADStatus":{
+  "Name":"Automation",
+  "ScreenType":"F3 - Dispatch"
+  
+  },
+  "CFSCode":{
+  "CallForService":"Test2",
+  "Description":"Automation test3",
+  "SubLevel":"2",
+   "AlarmLevel":"1",
+  "DispatchPriority":"Priority 1",
+  "Agency":"EMS"
+  
+  },
+  "RnassgnmntEnt":{
+  "RANo":"225"
+  },
+  "21540":{
+  "RANo":"123",
+  "Description":"Ladders"
+  },
+  "23109":{
+  "FromTime":"00:00",
+  "FromTimeDescription":"Engine Assigned Entry",
+  "ToTimeDescription":"Engine Assigned Entry",
+  "ToTime":"23:59"
+  },
+  "50839":{
+  "Header":"Quantity",
+  "AlarmLevel":"0",
+  "SubLevel":"0",
+  "Description":"Automation2",
+  "ScheduleName":"Automation Schedule",
+  "fromTime":"0:00",
+  "ToTime":"23:59",
+  "PrimeResponseRequired0":"Ambulance",
+  "PrimeQuantity":"2",
+  "PrimeLevel":"6 - 6",
+  "PrimeLevelGrid":"6",
+  "PrimeResponseRequired1":"Ladders",
+  "PrimeResponseRequired2":"Fire Station"
+  },
+  "50814":{
+  "RANo":"3",
+  "fromTime":"0:00",
+  "ToTime":"23:59",
+  "Agency": "Fire",
+   "AlarmLevel": "0",
+   "SubLevel": "0",
+   "Description0":"Ambulance",
+   "UnitOne0":"15",
+   "UnitTwo0":"16",
+   "Description1":"Ladders",
+   "Description2":"Fire Station",
+   "UnitOne1":"@BC01",
+   "UnitTwo1":"@S01",
+   "Units0":"@BC01, @S01",
+   "Units1":"15, 16",
+   "Units2":"15, 16",
+   "Header":"Units"
+  },
+  
+  "74458":{
+	"CopyFrom":"PX - 0/0 - - test run - test run",
+	"AlarmLevel": "1",
+	"SubLevel": "3",
+	"LevelSubLevel":"1/3",
+	"Description":"Ambulance Test",
+	"ScheduleName":"Test Schedule Name"
+  },
+  "74340":{
+	"CallForService":"#$%^&*%&*%$",
+	"AlarmLevel":"1",
+	"SubLevel": "0",
+	"Description":"#$%^&*%&*%$",
+	"DispatchPriority":"Priority 1",
+	"Agency":"EMS"
+  },
+  "77689":{
+	"CallForService":"101",
+	"CFS":"101",
+	"Description":"CFS Code",
+	"CFSCode":"2C:11-2"
+  }
+}

@@ -1,0 +1,16 @@
+export {
+  DetailWorkPage,
+  DetailSearchPage,
+  DetailEntryPage,
+  FlagsTabPage,
+  DetailRequestedByTabPage,
+  DetailBillToTabPage,
+  DetailOfficersTabPage,
+  DetailStatusUpdateTabPage,
+  DetailFeesTabPage,
+  DetailInvoiceTabPage,
+  OfficerPeckingOrderSearchPage,
+  ReferedToSearchPage,
+  DetailHierarchyOrderPage,
+  DetailRateCodesPage,
+} from './detail-work.page';

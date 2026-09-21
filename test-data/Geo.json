@@ -1,0 +1,1480 @@
+{
+	"112850": {
+		"Prefix": "N",
+		"StreetName": "Jade",
+		"StreetType": "St",
+		"Suffix": "S",
+		"ZipCode": "08057",
+		"CSZ": "Moorestown, NJ 08057",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"112851": {
+		"Prefix": "N",
+		"StreetName": "Commerce",
+		"StreetType": "Dr",
+		"Suffix": "S"
+	},
+	"112852": {
+		"Prefix": "N",
+		"StreetName": "Executive",
+		"StreetType": "Dr",
+		"OddEven": "16",
+		"Odd": "7",
+		"Premise": "9",
+		"Even": "8",
+		"ZipCode": "08057",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"112853": {
+		"Address": "824 Lenola Rd"
+	},
+	"112854": {
+		"StreetName": "Lenola",
+		"Odd": "1",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"112860": {
+		"StreetName": "Crider",
+		"OddEven": "12",
+		"StreetType": "Ave"
+	},
+	"112861": {
+		"StreetName": "Glen",
+		"OddEven": "16",
+		"StreetType": "Ave",
+		"Prefix": "N"
+	},
+	"112862": {
+		"StreetName": "Whittendale",
+		"DisplayCondition": "All Condition",
+		"Address": "1 Whittendale D",
+		"PremiseOdd": "1-1",
+		"Remarks":"Automation Address Flag Review"
+	},
+	"112864": {
+		"OddEven": "16",
+		"StreetName": "Georgian",
+		"DisplayCondition": "All Condition",
+		"Address": "1 N Georgian"
+	},
+	"112874": {
+		"StreetName": "GILROY",
+		"Premise": "9",
+		"ApartmentFrom": "1",
+		"ApartmentTo": "10",
+		"Address": "9 GILROY St",
+		"Apartment": "1",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ",
+		"Location":"9 GILROY St, Cape May, NJ, 08204",
+		"ApartmentRange":"1 ;"
+	},
+	"112875": {
+		"StreetName": "Heritage",
+		"Premise": "9",
+		"ApartmentFrom": "1",
+		"ApartmentTo": "10",
+		"SplitTo": "5",
+		"Address": "9 Heritage Rd",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"112876": {
+		"StreetName": "Smithfield",
+		"Premise": "9",
+		"Apartment": "2",
+		"CommonName": "Smith",
+		"SortOrder": "0",
+		"Address": "92 Smithfield Ave, 2"
+	},
+	"112877": {
+		"StreetName": "Riverton",
+		"Premise": "9",
+		"ApartmentFrom": "1"
+	},
+	"112878": {
+		"StreetName": "Morningview",
+		"Premise": "9",
+		"CommonName": "Morningview",
+		"AppartmentTo": "10",
+		"Address": "9 Morningview Land",
+		"ApartmentFrom": "1"
+	},
+	"112879": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ",
+		"InterPrefix": "E",
+		"InterStreetName": "Airmount1",
+		"InterStreetType": "Dr",
+		"InterSuffix": "W",
+		"StreetName": "Wellfleet",
+		"StreetType": "Rd",
+		"Premise": "9",
+		"IntersectionAddressByStreetName": "Wellfleet Rd/E Airmount1 Dr W",
+		"IntersectionAddressByIntersectionStreetName": "E Airmount1 Dr W/Wellfleet Rd",
+		"ZipCode": "08057"
+	},
+	"112880": {
+		"StreetName": "Meadowview",
+		"CommonName": "IntersectionCommonName",
+		"InterStreetName": "Georgetown",
+		"SortOrder": "0",
+		"StreetType": "Rd",
+		"Address": "Meadowview Rd/Georgetown Rd"
+	},
+	"112881": {
+		"StreetName": "Forge",
+		"InterStreetName": "WestOver"
+	},
+	"112882": {
+		"StreetName": "Parry",
+		"CommonName": "ParryIntersection",
+		"InterStreetName": "SouthView",
+		"Address": "SouthView/Parry"
+	},
+	"112884": {
+		"StreetName": "Coopers Kill",
+		"StreetType": "Rd",
+		"AlterStreetName": "Dorado",
+		"AlterStreetType": "Rd",
+		"Address": "7 Coopers Kill Rd",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"112885": {
+		"StreetName": "Pelham",
+		"StreetType": "Rd",
+		"AlterStreetName": "Wayside",
+		"AlterStreetType": "Rd",
+		"Premise": "7",
+		"Address": "7 Pelham Rd"
+	},
+	"112886": {
+		"StreetName": "Country Club",
+		"ZipCode": "08016",
+		"SubZone": "SZ",
+		"Custom1": "Automation",
+		"PatrolZone": "PZ",
+		"NPACard": "NPA",
+		"Track": "TP",
+		"Census": "12540",
+		"CivilDistrict": "NJ",
+		"StreetType": "Dr",
+		"PremiseType": "High School"
+	},
+	"112888": {
+		"StreetName": "Hartford",
+		"PatrolZone": "PZ",
+		"SubZone": "SZ",
+		"Census": "12540",
+		"Premise": "9",
+		"PremiseType": "High School",
+		"CivilDistrict": "NJ",
+		"Track": "TP",
+		"NPACard": "NPA",
+		"Custom1": "Automation",
+		"StreetType": "Rd",
+		"ZipCode": "08057"
+	},
+	"112931": {
+		"CommonName": "RoaneAveCommonName",
+		"SortOrder": "0",
+		"CommonName1": "RoaneAveCommonName1",
+		"SortOrder1": "1",
+		"Premise": "9",
+		"StreetName": "Roane",
+		"StreetType": "Ave",
+		"Address": "9 Roane Ave",
+		"CommonName3": "RoaneAveCommonName2",
+		"SortOrder2": "2"
+		
+	},
+	"112934": {
+		"CommonName": "BrooksCommonName",
+		"CommonName1": "BrooksCommonName1",
+		"Address": "9 Brooks Rd"
+	},
+	"112935": {
+		"URL": "https://maps.google.com/",
+		"Name": "Google Map",
+		"CommonName": "AutumnCommonName"
+	},
+	"112947": {
+		"HydrantID": "HYD002",
+		"Address": "1 Fairgrounds St;PX",
+		"AddressInGrid":"1 Fairgrounds St",
+		"WaterGrid": "021",
+		"Model":"Centurion"
+	},
+	"112975": {
+		"Location": "1 Glenmont Rd;PX",
+		"Chemical": "Alcide",
+		"locationInGrid":"1 Glenmont Rd",
+		"DoTIDChemical":"9191 /Alcide"
+	},
+	"112976": {
+		"StreetName": "Autumn",
+		"StreetType": "Rd",
+		"Address": "9 Autumn Rd"
+	},
+	"159694": {
+		"StreetName": "Willow Grove",
+		"StreetType": "Rd",
+		"OddTo": "7051",
+		"EvenTo": "8052",
+		"PremiseOdd": "7001-7099",
+		"PremiseEven": "8000-8098",
+		"Odd": "7001",
+		"PremiseOddSplit1": "7001-7051",
+		"PremiseOddSplit2": "7053-7099",
+		"PremiseEvenSplit1": "8000-8052",
+		"PremiseEvenSplit2": "8054-8098"
+	},
+	"207329": {
+		"StreetName": "Genesse Rd",
+		"StreetName1": "Catskill Rd",
+		"IntStreet2": "Catskill Rd",
+		"ZipCode": "54246",
+		"CommonName": "Mich Count",
+		"Address": "Genesse Rd/Catskill Rd",
+		"InterStreetName": "Range Line Rd",
+		"CSZ": "Washington Islan, WI 54246",
+		"UserName":"Auto",
+		"Password":"Pnx@2016",
+		"Database":"AutomationFireMJ"
+	},
+	"207330": {
+		"CommonName": "DooPlatte",
+		"Address": "Platte St/Doolittle St",
+		"CSZ": "Conway, NC 27820",
+		"StreetName": "Platte St",
+		"StreetName1": "Doolittle St",
+		"Address1": "Platte St/Doolittle St",
+		"Address2": "Doolittle St/Platte St"
+	},
+	"242675": {
+		"ZipCode": "08006",
+		"Premise": "10"
+	},
+	"244249": {
+		"Address": "1560 S Koeller St",
+		"PhoneType1": "Home",
+		"LastName": "Lawrence",
+		"FirstName": "Mike",
+		"Phone": "9874563210",
+		"PhoneNo": "(987) 456-3210",
+		"NameRelation": "Building Owner"
+	},
+	"246376": {
+		"InspectionZoneCode": "ZN2",
+		"SystemIDNo": "57",
+		"Zonevalue": "ZN2",
+		"BaseMonth": "December",
+		"LastName": "Gavin",
+		"FirstName": "Jordan",
+		"Name": "Gavin, Jordan",
+		"StateRegID": "WI09NJ",
+		"PhoneType1": "Home",
+		"PhoneType2": "Work"
+	},
+	"247877": {
+		"Address": "177 Larrison St",
+		"Address1": "177 Larrison",
+		"Address2": "108 Applegate Ave",
+		"PremiseOdd": "177-179",
+		"Premise": "177",
+		"StreetName": "Larrison"
+	},
+	"247879": {
+		"Address": "902 Monmouth Rd",
+		"LastName": "Mikel",
+		"FirstName": "Hussey",
+		"StreetType": "Rd",
+		"ZipCode": "08514",
+		"StreetName": "Monmouth",
+		"BirthDate": "15/10/1999",
+		"Sex": "Male",
+		"Resident": "Unknown",
+		"Ethnic": "Unknown",
+		"Race": "White",
+		"PremiseNo": "902",
+		"EvenFrom": "884",
+		"EvenTo": "902",
+		"Street": "Monmouth",
+		"EvenNo": "884-902"
+	},
+	"247880": {
+		"Address": "135 Fairgrounds Memorial",
+		"LastName": "Mikel",
+		"FirstName": "Jackson",
+		"EvenFrom": "884",
+		"EvenTo": "902",
+		"StreetType": "Pkwy",
+		"ZipCode": "14850",
+		"StreetName": "Fairgrounds Memorial",
+		"BirthDate": "10/15/1999",
+		"Sex": "Male",
+		"Premise": "135",
+		"Resident": "Unknown",
+		"Ethnic": "Unknown",
+		"Race": "White",
+		"PremiseOdd": "135",
+		"Street": "Fairgrounds Memorial",
+		"Name": "Mikel, Jackson",
+		"Name1": "Mikel, Jackson"
+	},
+	"247881": {
+		"Address": "10 Anawana Lake Rd",
+		"Prefix": "NE",
+		"FirstName": "Jackson",
+		"InterStreetName": "Madeline Ave",
+		"InterStreetName1": "Gipson St",
+		"StreetType": "Rd",
+		"ZipCode": "12701",
+		"InterStreetName2": "Monticello St",
+		"InterStreetName3": "York Ave",
+		"EvenFrom": "10",
+		"EvenTo": "10",
+		"StreetName": "Anawana Lake"
+	},
+	"247882": {
+		"StreetName": "Richardson Ave 7",
+		"ZipCode": "12701",
+		"Premise": "177",
+		"Odd": "177",
+		"EvenNo": "2-6",
+		"PremiseOdd": "177",
+		"Address": "177 Richardson Ave 7",
+		"StreetName1": "Richardson",
+		"StreetType": "Ave",
+		"OddEven": "Odd"
+	},
+	"247900": {
+		"StreetName": "Dixwell",
+		"ZipCode": "06511",
+		"Premise": "172",
+		"OddNo": "1-5",
+		"EvenNo": "2-6",
+		"PremiseOdd": "1-5"
+	},
+	"247901": {
+		"StreetName": "Rock Ridge",
+		"StreetType": "Ave",
+		"Premise": "172",
+		"AppartmentTo": "65",
+		"Address": "172 Rock Ridge Ave",
+		"ApartmentFrom": "65",
+		"ApartmentTo": "65",
+		"InvalidApartmentFrom": "5"
+	},
+	"248201": {
+		"SystemID": "58",
+		"Location": "172 Rock Ridge Ave",
+		"Chemical": "Chemical under pressure, flammable, toxic, n.o.s.",
+		"InactiveDate": "06/22/2020",
+		"SystemIDNo": "58"
+	},
+	"249123": {
+		"Remarks": "Application should allow to add Alpha Numeric character in the field. There is no limitation to enter the remark.",
+		"Address": "9 Autumn Rd",
+		"DisplayCondition": "All Condition",
+		"ActiveAsDate": "07/01/2020",
+		"InactiveDate": "07/13/2020"
+	},
+	"250095": {
+		"StreetName": "Magnolia",
+		"Prefix": "W",
+		"StreetType": "Ave",
+		"StreetName1": "Range Line Rd",
+		"InterStreet2": "Range Line Rd",
+		"ZipCode": "06340",
+		"Odd": "51",
+		"CommonName": "Mich Count",
+		"Address": "598 Old Charleston Rd",
+		"InterStreetName": "Crawford Ln",
+		"InterStreetName1": "Gold Star Hwy",
+		"InterStreetName2": "Northfork Rd",
+		"InterStreetName3": "Old Charleston Rd",
+		"IntersectionAddressByStreetName": "598 Old Charleston Rd",
+		"CSZ": "Washington Islan, WI 54246"
+	},
+	"250097": {
+		"JobName": "TippsParking",
+		"JobType": "System",
+		"EndDate": "12/20/2045"
+	},
+	"250172": {
+		"Address": "101 S Beltline Hwy",
+		"Category": "Document - File",
+		"Link": "http://192.168.14.82/Police/Records/frmCBEUpdCase.aspx",
+		"FileName": "TextDoc1.txt"
+	},
+	"250423": {
+		"Address": "9336 N Rivercrest Dr",
+		"CommonName": "Rivercrest",
+		"ZipCode": "53051",
+		"CommonName1": "Rivercrest;PX",
+		"CommonName2": "Port - Washington",
+		"Address1": "2900 Milwaukee Rd",
+		"CommonName3": "A-1 Milk",
+		"SortOrder": "0",
+		"SortOrder1": "2",
+		"CommonName4": "A1 Milk"
+	},
+	"251441": {
+		"Street": "Gold Star",
+		"Address": "150 Gold Star Hwy"
+	},
+	"253383": {
+		"Address": "150 Gold Star Hwy"
+	},
+	"253687": {
+		"CaseNo": "20-000121",
+		"Code": "L0000000022",
+		"CADCFS": "1",
+		"Location": "1498 Mc Kinley St",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Type": "Incident Report",
+		"Type1": "Supplemental Report",
+		"Reason": "Seized/Confiscated",
+		"Property": "Aircraft",
+		"Disposition": "Sent to Property Room"
+	},
+	"255120": {
+		"Prefix": "S",
+		"StreetName": "Jefferson",
+		"ZipCode": "57501",
+		"StreetType": "Ave"
+	},
+	"255121": {
+		"StreetName": "Spruce",
+		"Prefix": "N",
+		"ZipCode": "20171",
+		"StreetType": "Ave"
+	},
+	"255122": {
+		"StreetName": "10th",
+		"PatrolZone": "PatrolArea2",
+		"SubZone": "Sub Zone1",
+		"NPACard": "N PA",
+		"EvenOdd": "Odd",
+		"EvenOddPremise": "61",
+		"ZipCode": "01219",
+		"State": "AZ - Arizona",
+		"City": "West Los Angeles ",
+		"OddNoWithLetters": "135752775AA",
+		"Odd": "1"
+	},
+	"255123": {
+		"StreetName": "Ball Park",
+		"Premise": "200",
+		"ApartmentFrom": "10",
+		"ApartmentTo": "100",
+		"InterStreetName": "Saint Lawrence Dr",
+		"ZipCode": "08001",
+		"AlterStreetName": "Glendale",
+		"AlterStreetType": "Anx"
+	},
+	"255124": {
+		"Address": "303 W 2nd St",
+		"PhoneType1": "M - Mobile",
+		"Phone": "9874546321",
+		"PhoneNo": "(987) 454-6321"
+	},
+	"255125": {
+		"Address": "151 N Phillips St",
+		"NameRelation": "Building Owner",
+		"NameRelation1": "Manager",
+		"Name": "Jeffery, Joshuva",
+		"LastName1": "Mark",
+		"PhoneType1": "W - Work",
+		"PhoneNumber": "9526487563",
+		"LastName": "Jeffery",
+		"FirstName": "Joshuva",
+		"PhoneType2": "M - Mobile",
+		"PhoneNumber1": "9785412302",
+		"PhoneNumber2": "9785412405"
+	},
+	"255126": {
+		"Juris": "PX - ProPhoenix",
+		"StreetName": "North Bay",
+		"StreetType": "Dr",
+		"ZipCode": "53402",
+		"Juris1": "BP - Bloomville Police Dept",
+		"PremiseEven": "3900",
+		"Address": "3900 North Bay Dr",
+		"StreetName1": "North Bay Dr",
+		"PremiseNo": "3900",
+		"Address1": "3900 north bay Dr",
+		"EvenOdd": "Even",
+		"Address2": "3900North Bay Dr",
+		"RealAddress1": "Barrymore Dr"
+	},
+	"255723": {
+		"StreetName": "HATCH",
+		"ZipCode": "7099",
+		"InterStreetName": "Bowden Dr",
+		"NPACard": "CNPA",
+		"PatrolZone": "PS",
+		"SubZone": "SZ",
+		"PremiseType": "Grocery/Supermarket",
+		"Track": "TB",
+		"Even": "20",
+		"PatrolZone1": "PZ",
+		"EvenOdd":"EVEN"
+	},
+	"256802": {
+		"StreetName": "Fresno",
+		"Odd": "21",
+		"OddTo": "27",
+		"CommonName": "Fresno",
+		"Premise": "21",
+		"ApartmentFrom": "1",
+		"Apartment": "1",
+		"ApartmentTo": "1",
+		"UserName": "Auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ",
+		"StreetType": "St"
+	},
+	"256804": {
+		"Address": "a",
+		"Address1": "423 N Hemlock St S",
+		"Address2": "301 N Albany St",
+		"Address3": "699 1st Ave N",
+		"IntersectionAddress": "Minnesota Ave/Saxon Rd",
+		"IntersectionStreet": "Norrie/101 N",
+		"CommonName": "Alsip",
+		"PhoneNumber": "(256) 656-5656",
+		"Address4": "1208 Arlington Ave",
+		"Address5": "1208 Arlington Ave,5",
+		"Address6": "1208 Arlington Ave, Suite",
+		"Address7": "1 W Damn St E",
+		"Address8": "786 Boston Ave",
+		"Address9":"1800 Whipple St",
+		"AlarmNo": "#2",
+		"IntStreet": "/101 N",
+		"InterStreetName": "Norrie",
+		"StreetName": "201 W Norrie",
+		"IntStreetName": "101 N Lawrence St Ironwood MI",
+		"IntersectionAddressByIntersectionStreetName":"201 W Norrie St/101 N Lawrence St Ironwood MI",
+		"IntersectionAddressByStreetName":"Minnesota Ave/Saxon Rd"
+	},
+	"256806": {
+		"Address": "1409 Or Connor Ave",
+		"ZipCode": "48146",
+		"CommonName": "Connor",
+		"NPACard": "CNPA",
+		"CivilDistrict": "MN"
+	},
+	"257114": {
+		"Address": "18887",
+		"ZipCode": "08006",
+		"StreetName":"tense",
+		"StreetType":"st",
+		"PatrolZone":"PZ",
+		"TowArea":"T2"
+	},
+	"257115": {
+		"StreetName": "Test2Gunderson",
+		"StreetType": "Ave",
+		"ZipCode": "60402",
+		"OddNo": "525",
+		"EvenNo": "626",
+		"PremiseOdd": "5-5"
+	},
+	"257117": {
+		"StreetName": "Scoville",
+		"StreetName1": "Scoville Ave   ",
+		"ZipCode": "60402",
+		"PremiseOdd": "2301-2301",
+		"District": "D1",
+		"SubDistrict": "S1"
+	},
+	"257118": {
+		"Address": "2398 Elmwood Ave",
+		"Remarks": "Automation Address Flag Review",
+		"InActiveAfter": "12/20/2020",
+		"ActiveAsDate": "12/20/2020",
+		"Inactive": "12/20/2020",
+		"Text": "Flag Functionality",
+		"DisplayCondition": "All Condition",
+		"Address1":"1 wildWood Ave"
+		
+	},
+	"257119": {
+		"Address": "4 Ruins Rd,4",
+		"MergeToAddress": "14 Ruins Rd",
+		"Location": "4 Ruins Rd,4",
+		"CADCFS": "1",
+		"CADDisposition": "I",
+		"Unit": "Auto",
+		"Address1": "2 Ruins Rd"
+	},
+	"257120": {
+		"Address": "1628 Wenonah Ave"
+	},
+	"257122": {
+		"Address": "Humph",
+		"PremiseNo": "1185",
+		"StreetName": "S Humphrey Ave",
+		"ZipCode": "60304",
+		"Address1":"1185 S Humphrey Ave"
+		
+	},
+	"257123": {
+		"Address": "2525 flim st",
+		"ZipCode": "60644",
+		"CommonName": "Lex",
+		"PremiseType": "Grocery/Supermarket",
+		"Description0":"Track Person",
+		"Description1":"Patrol corner",
+		"Description2":"Automation",
+		"Description3":"Neillsville",
+		"VotingDistrict": "CD - City",
+		"Address1":"2525 flim St"
+		
+	},
+	"257125": {
+		"Juris": "BC - Brown County Police Department",
+		"StreetName": "Akon Kiln",
+		"StreetType": "Rd",
+		"ZipCode": "54302",
+		"PremiseNo": "101",
+		"Odd": "101-201",
+		"LastName": "Schoen",
+		"FirstName": "Edison",
+		"MiddleName": "K",
+		"Name": "Schoen, Edison K",
+		"BirthDate": "10/10/2000",
+		"Sex": "Male",
+		"Street": "Akon Kiln"
+	},
+	"257126": {
+		"StreetName": "Pinehurst",
+		"StreetName1": "Sunrise",
+		"StreetType1": "Ct",
+		"StreetType": "Ave",
+		"ZipCode": "54302",
+		"PremiseNo": "101",
+		"Odd": "101-201",
+		"Name": "Schoen, Edison K",
+		"BirthDate": "10/10/2000",
+		"Sex": "Male",
+		"Street1": "Pinehurst Ave",
+		"Street2": "Sunrise Ct",
+		"InitialCFS": "12AU25",
+		"ReceivedSource": "Incident 9",
+		"ReportedLocation": "101 Pinehurst ave/",
+		"CADDisposition": "PI",
+		"Location": "Pinehurst ave/",
+		"InterStreetName": "Sunrise",
+		"PrimeUnit": "PRMS"
+	},
+	"257127": {
+		"StreetName": "Vanderbraak",
+		"StreetType": "St",
+		"ZipCode": "54302",
+		"PremiseNo": "1300",
+		"Even": "1300",
+		"EvenTo": "1398",
+		"Premise": "1300-1398",
+		"Name": "Doblon, Perrot",
+		"LastName": "Doblon",
+		"FirstName": "Perrot",
+		"NameID": "A-0000000328",
+		"Address": "1300 Vanderbraak st",
+		"Location": "1300 Vanderbraak st",
+		"Notes": "Contact has been Created",
+		"NameRelation": "Building Owner",
+		"PhoneType1": "Home",
+		"Phone": "9874563210",
+		"PhoneNumber1": "9653624788"
+	},
+	"257128": {
+		"Prefix": "S",
+		"StreetName": "Telulah",
+		"StreetType": "Ave",
+		"ZipCode": "54915",
+		"PremiseNo": "1040-1000",
+		"Even": "1040",
+		"EvenTo": "1000",
+		"Premise": "1000",
+		"Address": "1000 Telulah Ave",
+		"Location": "1000 Telulah Ave",
+		"CommonName": "Telulah",
+		"SortOrder": "1"
+	},
+	"257129": {
+		"Address": "800 S Arlington St",
+		"PatrolZone": "PS",
+		"SubZone": "SZ",
+		"District": "D2",
+		"SubDistrict": ""
+	},
+	"257925": {
+		"Address": "4220 King Arthur Pl",
+		"TextName": "AddressFlag for Critical Weapon",
+		"DisplayCondition": "All Condition",
+		"ActiveAsDate": "11/24/2020"
+	},
+	"257948": {
+		"StreetName": "Ma Koons",
+		"StreetType": "Trail",
+		"Description": "Trail",
+		"PremiseOddFrom": "201",
+		"PremiseOddTo": "215",
+		"PremiseEvenFrom": "200",
+		"PremiseEvenTo": "2014",
+		"ZipCode": "54538",
+		"EvenOdd": "BOTH"
+	},
+	"257949": {
+		"Address": "2732 Little Pines Rd,a1",
+		"Address1": "2732 Little Pines Rd",
+		"Apartment": "a1",
+		"LatAndLong": "45.979788300000 / -89.890785800000"
+	},
+	"257950": {
+		"StreetName": "PEaz Hask",
+		"StreetType": "Trail",
+		"Description": "Trail",
+		"ZipCode": "54538",
+		"PremiseOddFrom": "2601",
+		"PremiseOddTo": "2607",
+		"PremiseEvenFrom": "2700",
+		"PremiseEvenTo": "2742",
+		"EvenOdd": "ODD",
+		"InterStreetName": "Miskwaadesi Dr",
+		"CSZ": "Lac Du, WI 54538"
+	},
+	"257951": {
+		"Address": "2599 Thorofare Rd",
+		"InvalidPremises": "2565",
+		"Address1": "2732 Little Pines Rd, B5",
+		"StreetName": "Thorofare Rd",
+		"InvalidAddress": "2565 Thorofare Rd",
+		"Premise": "2599-2599",
+		"Address1WithOutApartmentNo": "2732 Little Pines Rd",
+		"StreetName1": "Thorofare"
+	},
+	"257970": {
+		"Location": "13 Energy Dr",
+		"ChemicalName": "Fluorine(cryogenic liquid)",
+		"GeneralLocation": "Storage",
+		"ContainerType": "30",
+		"Address": "13 Energy Dr"
+	},
+	"258308": {
+		"StreetName": "Gatewood",
+		"Premise": "4698",
+		"Address": "4698 Gatewood Ave",
+		"Address1": "4698 Gatewod",
+		"PremiseNo": "4698"
+	},
+	"259474": {
+		"Location": "180 N King St;PX",
+		"ChemicalName": "Acryloyl chloride"
+	},
+	"259725": {
+		"Address": "4220 King Arthur Pl",
+		"TextName": "AddressFlag for Critical Weapon",
+		"DisplayCondition": "All Condition",
+		"ActiveAsDate": "11/24/2020"
+	},
+	"260149": {
+		"ZipCode": "ASE59",
+		"ZipCode1": "9002",
+		"ZipCode2": "36938",
+		"State": "AK - Alaska",
+		"City": "California",
+		"LocationName": "West Los Angeles"
+	},
+	"260150": {
+		"Address": "235 Clendenny Ave",
+		"RecordCount": "1",
+		"MergeToAddress": "111 Clarke Ave",
+		"CSZ": "Jersey City, NJ 07304",
+		"CallNo": "20-000189",
+		"ReportedLocation": "111 Clarke Ave",
+		"Address1": "50 Clarke Ave",
+		"MergeToAddress1": "290 Clendenny Ave",
+		"CallNo1": "20-000190",
+		"ReportedLocation1": "290 Clendenny Ave"
+	},
+	"260806": {
+		"CodeID": "4874",
+		"Description": "Map Point Layers",
+		"CodeValue": "B002",
+		"LayerDescription": "Bubble layer",
+		"LayerIcon": "EventMarker",
+		"LayerName": "Bubble layer",
+		"LayerName1": "Bubble layer",
+		"LayerType": "Point",
+		"FeatureName": "Events",
+		"Address": "1900 Declaration Dr",
+		"Name": "Events"
+	},
+	"261098": {
+		"Address": "2518 John Eppes Rd",
+		"MergeToAddress": "404 Smith Ln",
+		"Address1": "2518 John Eppes Rd,205",
+		"MergeToAddress1": "10 N Main Ave E,10",
+		"Address2": "2518 John Eppes Rd,206",
+		"MergeToAddress2": "111 Clarke Ave",
+		"Address3": "John Eppes Rd/William Short Cir",
+		"MergeToAddress3": "Deerfield Rd/Larkspur Rd",
+		"IntersectionAddress": "William Short Cir, Herndon, VA 20171"
+	},
+	"261407": {
+		"StreetName": "CLARA",
+		"StreetType": "Rd",
+		"ZipCode": "07820",
+		"ZipCodeDescription": "Allamuchy, NJ",
+		"Premise": "99",
+		"Even": "100",
+		"EvenOdd": "Both",
+		"ApartmentFrom": "25",
+		"InterStreetName": "Xirginia St",
+		"Streetname":"Virginia Randolph"
+	},
+	"273898": {
+		"Location": "1609 Old Freehold Rd",
+		"ChemicalName": "Lithium batteries installed in cargo transport unit (lithium metal batteries)"
+	},
+	"273916": {
+		"Location": "1577 Old Freehold Rd;PX",
+		"ChemicalName": "Articles containing flammable gas, n.o.s.",
+		"locationInGrid":"1577 Old Freehold Rd"
+	},
+	"275255": {
+		"Address": "100 W University Ave",
+		"Apartment": "10"
+	},
+	"275256": {
+		"Address": "W University Ave",
+		"StreetName": "University",
+		"Address1": "100 W University Ave"
+	},
+	"275257": {
+		"Address": "University Ave"
+	},
+	"275941": {
+		"Address": "401 Caroline Cir",
+		"MergeToAddress": "2401 Harrison Ave",
+		"Address1": "2401 Harrison Ave",
+		"RecordCount": "1"
+	},
+	"277269": {
+		"Location": "2799 S Gladstone Pl",
+		"ChemicalName": "Ammonium benzoate"
+	},
+	"278223": {
+		"StreetName": "Manchester",
+		"StreetType": "",
+		"Premises": "11624",
+		"Premise": "11621",
+		"PremiseEven": "11622",
+		"ZipCode": "64138",
+		"ZipCode1": "64152",
+		"Address": "11 Manchester",
+		"CSZ": "Raytown, MO 64138"
+	},
+	"278645": {
+		"Address": "1399 N Caldwell St",
+		"RecordCount": "1",
+		"MergeToAddress": "1301 N Caldwell St",
+		"Address1": "1301 N Caldwell St",
+		"UserName": "Auto",
+		"Password": "Pnx@2016",
+		"Database": "FireMJAutomation"
+	},
+	"278659": {
+		"Address": "10124 Shaffer Valley Way",
+		"LayerType": "Point",
+		"LayerName": "Schools",
+		"FeatureName": "Events"
+	},
+	"283633": {
+		"LayerType": "Point",
+		"LayerType1": "Line",
+		"LayerType2": "Polygon",
+		"LayerName": "Parks"
+	},
+	"286444": {
+		"NearestAddress": "1587 Old Freehold Rd;PX"
+	},
+	"271623": {
+		"StreetName": "tow",
+		"StreetType": "St",
+		"ZipCode": "53186",
+		"PremiseEven": "50-50",
+		"ApartmentFrom": "106",
+		"ApartmentTo": "108",
+		"Address": "50 N tow St",
+		"CommonName": "Golden Pond",
+		"CommonName0": "Golden Pond",
+		"CommonName1": "GP",
+		"Juris": "PX - ProPhoenix",
+		"Prefix": "N",
+		"InterStreetName": "tow",
+		"Premise": "50",
+		"SortOrder": "0",
+		"SortOrder1": "1",
+		"Address1": "GP,106"
+	},
+	"150286": {
+		"Address": "1 primary St"
+	},
+	"AFSmoke": {
+		"Address": "1300 Hurlbut St",
+		"DisplayCondition": "All Condition"
+	},
+	"SE1Smoke": {
+		"StreetName": "RicFlair",
+		"StreetType": "St",
+		"ZipCode": "08006",
+		"ApartmentFrom": "1",
+		"ApartmentTo": "10",
+		"Premise": "1",
+		"PremiseOddFrom": "01",
+		"PremiseOddTo": "15",
+		"PremiseEvenFrom": "02",
+		"PremiseEvenTo": "16",
+		"Address": "1 RicFlair St",
+		"InterStreetName": "Juniper St",
+		"AlterStreetName": ""
+	},
+	"SE2Smoke": {
+		"StreetName": "Parkview",
+		"StreetType": "St",
+		"ZipCode": "08006",
+		"Apartment": "10",
+		"Premise": "1417",
+		"PremiseOddFrom": "01",
+		"PremiseOddTo": "15",
+		"PremiseEvenFrom": "02",
+		"PremiseEvenTo": "16",
+		"Address": "1 RicFlair St",
+		"InterStreetName": "Juniper St",
+		"AlterStreetName": "RicVic"
+	},
+	"CNSmoke": {
+		"Address": "20 Haywire In",
+		"CommonName": "Wired",
+		"SortOrder": "5"
+	},
+	"CESmoke": {
+		"Address": "9 TomBrown Rd,1",
+		"NameRelation": "Building Owner",
+		"LastName": "Carlos",
+		"FirstName": "Cole",
+		"Name": "Carlos, Cole",
+		"PhoneType1":"H - Home",
+		"PhoneType2":"H - Home",
+		"PhoneNumber1":"14725836971",
+		"PhoneNumber2":"35352125121"
+	},
+	"MLEntry": {
+		"LayerType": "Point",
+		"LayerName": "Schools",
+		"FeatureName": "Play School",
+		"Address": "1636 W Forest Home Ave"
+	},
+	"ZIPEntry": {
+		"ZipCode": "43643-6736",
+		"State": "CO - Colorado",
+		"City": "Chennai"
+	},
+	"AddressFlagSharedBox": {
+		"Address": "333 S BroadTest St",
+		"Address1": "333 S BroadTest St",
+		"DisplayCondition": "All Condition",
+		"CommonName": "Barrymore",
+		"UserName": "Auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"PremiseAlphaNum": {
+		"StreetName": "Commerce",
+		"Premise": "20DD",
+		"PremiseOdd": "20DD-20DD",
+		"EvenOdd": "Both",
+		"Address": "20DD Commerce"
+	},
+	"AddApartmentForIntersection": {
+		"StreetName": "MONTEREY",
+		"Premise": "1",
+		"ApartmentFrom": "5",
+		"ApartmentTo": "5",
+		"Address": "1 MONTEREY, 5",
+		"IntersectionAddressByStreetName": "MONTEREY St/201 W Norrie St",
+		"Odd": "1",
+		"ZipCode": "07801"
+	},
+	"AddressflagOfPoliceNotInFire": {
+		"Address": "12 Crystal Rd",
+		"DisplayCondition": "All Condition",
+		"Remarks": "Automation Test",
+		"Remarks1": "Automation Demo",
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"VerifyContactInNameEntry": {
+		"Address": "1399 N Caldwell St",
+		"NameRelation": "Tenant",
+		"LastName": "Vicky",
+		"FirstName": "Berger",
+		"PhoneType1": "H - Home",
+		"PhoneNumber1": "1472583697",
+		"PhoneNo": "1472583697"
+	},
+	"ShowUpdatesOlderThan": {
+		"Days": "60"
+	},
+	"AddressFlagReviewBasedOnSysParam79": {
+		"Days": "90"
+	},
+	"UpdateGeoCode": {
+		"Address": "1 Doane St"
+	},
+	"ZipcodeBatchUpdate": {
+		"StreetName1": "Albert St",
+		"StreetName2": "Antrues St",
+		"StreetName3": "Applegate Ave",
+		"Code": "08001",
+		"CodeValue": "08001"
+	},
+	"282063": {
+		"StreetName": "Gandhi",
+		"StreetType": "St",
+		"Premise": "201",
+		"PremiseEven": "100",
+		"NPACard": "NPA",
+		"ZipCode": "07820",
+		"CensusTract": "125",
+		"PremiseOdd": "201-201"
+	},
+	"AddressFlagEntryFire": {
+		"Address": "180 N King St;PX",
+		"DisplayCondition": "All Condition"
+	},
+	"CommonNamesEntryFire": {
+		"Address": "101 Virginia St;PX",
+		"CommonName": "Vat",
+		"SortOrder": "3"
+	},
+	"ContactEntryFire": {
+		"Address": "1560 S Koeller St;PX",
+		"NameRelation": "Building Owner",
+		"LastName": "Virtis",
+		"FirstName": "Wan",
+		"Name": "Virtis, Wan"
+	},
+	"HazMatFlagEntryFire": {
+		"Location": "1258 E Hiawatha Dr;PX",
+		"ChemicalName": "Potassium cyanide",
+		"Description": "Potassium cyanide"
+	},
+	"HydrantEntryFire": {
+		"NearestAddress": "2001 Fort Park Blvd;PX"
+	},
+	"MapLayerEntryFire": {
+		"LayerType": "Line",
+		"LayerName": "Parks",
+		"FeatureName": "Good Vibes",
+		"Address": "107 E Pinchelone St;PX"
+	},
+	"114295": {
+		"StreetName": "GoRaly",
+		"StreetType": "Rd",
+		"ZipCode": "07718",
+		"Premise": "N16068",
+		"PremiseOdd":"N16068-N16068",
+		"ApartmentFrom": "1",
+		"ApartmentTo": "2",
+		"Address": "N16068 GoRaly Rd,1",
+		"Remarks":"AutomationTest",
+		"DisplayCondition": "All Condition"
+	},
+	"9063": {
+		"StreetName": "Street93",
+		"StreetType": "Rd",
+		"ZipCode": "08072",
+		"PremiseOdd": "1-1",
+		"Premise": "1",
+		"ApartmentFrom": "A",
+		"Address": "1 Street93",
+		"OddEven": "Both",
+		"Odd": "1",
+		"Even": "2"
+	},
+	"18492":{
+	"Address":"108 Applegate Ave",
+	"Reason":"Rental House",
+	"Remarks":"Automation Test"
+	},
+	
+	"19292": {
+		"Chemical": "Pyrethrins",
+		"Location": "Manufacturing",
+		"Location1": "Storage",
+		"ContainerCapacity":"1",
+		"NameOfContainers":"2"
+		},
+		
+		"35429": {
+		"ActiveAsDate": "07/02/2024",
+		"InActiveAfter": "07/02/2024",
+		"InactiveDate": "07/02/2024",
+		"ContainerCapacity":"1",
+		"NameOfContainers":"2"
+		},
+		"42020":{
+		
+		"partialAddress":"A",
+		"CommonName":"Acorn ",
+		"Address":"101 W Acorn Dr"
+	
+		},
+		
+		"42033":{
+		"Address":"ellenold",
+		"Premise":"23",
+		"ZipCode":"07715",
+		"MapOption":"Heat Map"
+	
+		},
+		"42048":{
+		"LayerType":"Point",
+		"LayerName":"Gang",
+		"Address":"1560 S Koeller St",
+		"FeatureName":"UnverifiedAddress"	
+		},
+		"42104":{
+		"StreetName":"conway",
+		"Premise0":"4",
+		"Premise1":"0",
+		"Premise2":"1",
+		"IntPremise0":"7",
+		"IntPremise1":"9",
+		"IntPremise2":"10",
+		"ZipCode":"07715",
+		"IntStreetName":"intersection St",
+		"InterStreetName":"intersection St",
+		"IntPremise":"10",
+		"Premise":"1"
+		
+		
+		},
+		
+		"42125":{
+		"Address":"1 cathole St",
+		"CommonName":"edmundo eddie sr. escodom",
+		"SortOrder0":"0",
+		"CommonName0":"edmundo eddie sr. escodom",
+		
+		"CommonName1":"edmundo eddie sr. escodo",
+		"SortOrder1":"1",
+		"CommonName1":"edmundo eddie sr. escodo",
+		
+		"CommonName3":"escliace",
+		"SortOrder2":"2",
+		"CommonName3":"escliace",
+	
+		"CommonName4":"escamo ms",
+		"SortOrder3":"3",
+		"CommonName4":"escamo ms",
+		"AddressSearchCommonName0":"Esc"
+	
+		
+		},
+		
+		"42052":{
+		"LayerType":"Point",
+		"LayerName":"Schools",
+		"FeatureName":"AutiomationMap",
+		"Address":"13201 Adventures Camp Ln",
+		"LayerType0":"Line",
+		"FromLatitude":"45.975413500000",
+		"FromLongitude":"-89.844266700000",
+		"ToLatitude":"45.975413500000",
+		"ToLongitude":"-89.844266700000"
+		},
+	
+	"43939":{
+	"NearestAddress":"Meadowview Rd/Georgetown Rd;PX",
+	"ActivityType":"Hydrant Inspection",
+	"PFCode":"001"
+	},
+	
+	"48875":{
+	"Chemical":"Methanephosphonyl chloride",
+	"SystemIDNo":"5000",
+	"DOTIDChemicalNo":"9602 /Methanephosphonyl chloride",
+	"ID":"Methanephosphonyl chloride/9602"
+	},
+		
+	"47650":{
+	"Address":"50 Clarke Ave",
+	"NameRelation": "Building Owner",
+	"LastName":"Aaron",
+	"FirstName":"Finch",
+	"PhoneNumber":"(123) 456-7890",
+	"PhoneNumber1":"(987) 654-3210"
+	},
+	
+	"50824":{
+	"Address":"13201 Adventures Camp Ln",
+	"RANo":"PNX"
+	},
+	
+	"50078":{
+	"SelectAll":"Select All",
+	"SelectedCount":"0"
+	},
+	"55172":{
+    "Address":"101 Virginia St",
+    "NameRelation":"Business Owner",
+    "LastName":"Dsd",
+    "FirstName":"Dennis",
+    "PhoneType1":"H - Home",
+    "PhoneNumber1":"7867867876",
+    "PhoneType2":"W - Work",
+    "Name":"Dsd, Dennis"
+},
+"55945":{
+"StreetName":"kiran St",
+"InterStreetName":"chandrasekar St",
+"ZipCode":"80219",
+"InterStreetName1":"mithun St",
+"ZipCode1":"80219",
+"InterStreetName2":"absar St",
+"ZipCode2":"80219",
+"Street21":"chandrasekar St",
+"Street22":"mithun St",
+"Street23":"absar St",
+"Street":"kiran St",
+"Address":"kiran st /",
+"Address1":"kiran St/chandrasekar St",
+"Address2":"kiran St/mithun St",
+"Address3":"kiran St/absar St"
+},
+"55974":{
+"Address":"50 Clarke Ave",
+"NameRelation":"Business Owner",
+"LastName":"Selenium",
+"FirstName":"E",
+"PhoneType1":"H - Home",
+"PhoneNumber1":"3332266978",
+"Name":"Selenium, E",
+"CommonName":"Acorn"
+},
+"55048":{
+"Address":"199 Sand Hill Crane Dr",
+"juris":"  --  "
+},
+"55542":{
+"StreetName":"Temp",
+"StreetType":"Bch",
+"ZipCode":"07715",
+"EvenOddPremise":"52",
+"PremiseEven":"2",
+"PremiseOdd":"5",
+"InterStreetName":"Temp",
+"Apartment":"22",
+"Address":"5 Temp Bch 22",
+"Premise":"2"
+},
+"57979":{
+"HydrantID":"2",
+"OrificeType":"--",
+"Coefficient":"22"
+},
+"55037":{
+"Address":"495 Flatbush Ave",
+"NameRelation":"Building Owner",
+"LastName":"mojo",
+"FirstName":"paul",
+"PhoneType1":"H - Home",
+"PhoneNumber1":"6565325698",
+"PhoneType2":"C - Cell",
+"PhoneNumber2":"8989988912",
+"PhoneNumber3":"4664646489",
+"SortOrderOne1":"1",
+"SortOrderTwo1":"2",
+"SortOrderThree1":"3",
+"SortOrderOne2":"1",
+"SortOrderTwo2":"2",
+"SortOrderThree2":"3",
+"NameRelation1":"Agent",
+"LastName1":"eo",
+"color":"rgba(0, 0, 0, 1)",
+"color1":"rgba(153, 0, 0, 1)"
+},
+"64336":{
+"Address":"A Turin aly",
+"":""
+},
+"63475":{
+"State":"AK",
+"ORI":"123"
+
+},
+"63464":{
+"Address":"7699 Henrich Ave",
+"CommonName1":"Zavi",
+"CommonName2":"Xavi",
+"CommonName3":"Navi",
+"CommonName4":"Kovi",
+"CommonName5":"Tovi",
+"SortOrder1":"1",
+"SortOrder2":"2",
+"SortOrder3":"3",
+"SortOrder4":"4",
+"SortOrder5":"5",
+"ColumnName0":"Common Name"
+},
+"61473":{
+"Location":"101 W Acorn Dr",
+"Chemical":"Aluminum, molten",
+"GeneralLocation":"Storage",
+"DoTIDChemical":"9260 /Aluminum, molten",
+"locationInGrid":"101 W Acorn Dr",
+"ChemicalInGrid":"9260 /Aluminum, molten"
+},
+"63448":{
+"NearestAddress":"301 N Albany St",
+"ActivityType":"Flow Test",
+"PFCode":"001"
+},
+"63445":{
+"Address":"10 Antrues St",
+"DisplayCondition":"All Condition",
+"":""
+},
+"63433":{
+"Address":"1 N Atwood Rd",
+"DisplayCondition":"All Condition"
+
+},
+"63433A":{
+"Address":"1 N Atwood Rd",
+"DisplayCondition":"All Condition"
+
+},
+"63428":{
+"StreetName":"7 3 Rte",
+"ZipCode":"08212"
+
+},
+"63420":{
+"InterStreetName":"Azusa",
+"LinkButton0":"Manage Apartment",
+"LinkButton1":"Manage Street",
+"LinkButton2":"Manage Intersection"
+},
+"62998":{
+"Address":"150 Gold Star Hwy",
+"":""
+},
+"62523":{
+"Address":"801 Drummond Ave,a1"
+},
+"63415":{
+"Address":"108 Applegate Ave",
+"TabName1":"Premise History",
+"TabName2":"Names",
+"TabName3":"Flags",
+"TabName4":"Attachments",
+"TabName5":"Contacts",
+"TabColor0":"rgba(0, 0, 255, 1)"
+},
+"62832":{
+"Address":"10 Yuma Trl",
+"Juris":"BC - Brown County FireDepartment",
+"JurisInGrid":"BC",
+"Location":"4099 N Reese St",
+"locationInGrid":"4099 N Reese St",
+"Chemical":"Alcide",
+"ChemicalInGrid":"9191 /Alcide",
+"GeneralLocation":"Storage",
+"DoTIDChemical":"9191 /Alcide",
+"":""
+},
+"62532":{
+"OddFrom":"2",
+"OddTo":"2",
+"EvenTo":"1",
+"EvenFrom":"1"
+},
+"66063":{
+"Address":"10124 Shaffer Valley Way"
+},
+"68326":{
+"LayerName":"Gang",
+"FromLatitude":"44.003884100000",
+"FromLongitude":"-88.581329100000",
+"ToLatitude":"44.003884100000",
+"ToLongitude":"-88.581329100000"
+
+},
+"68355":{
+"Juris1":"BC - Brown County FireDepartment",
+"Juris2":"PX - ProPhoenix",
+"Location":"3211 Tivoly Ave",
+"ChemicalName":"Aluminum, molten",
+"Address":"3211 Tivoly Ave"
+
+
+},
+"68467":{
+"Location":"15 Gary Ave",
+"ChemicalName":"Alcide",
+"InactiveDate":" ",
+"ID":"Alcide/9191"
+
+
+},
+"68558":{
+"StreetName":"Oakland CN",
+"InterStreetName":"Salvia St",
+"ZipCode":"08001"
+
+},
+
+	"72201": {
+		"Address": "13201 Adventures Camp Ln",
+		"RequestedByPF": "Auto",
+		"DistrubutionList": "Police Auto",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent": "Call Summary",
+		"CFSCodeAdd0": "1-Theft",
+		"LeftSidePaneCFSValue0": "1-Theft",
+		"FilterCFS0": "Theft",
+		"CFSCodeAdd1": "100-Theft",
+		"LeftSidePaneCFSValue1": "100-Theft",
+		"CFSCodeAdd2": "788-Homicide",
+		"LeftSidePaneCFSValue2": "788-Homicide",
+		"CFSCodeAdd3": "Alarm-Single Alarm",
+		"LeftSidePaneCFSValue3": "Alarm-Single Alarm",
+		"CFSCodeAdd4": "ANE-Animal Issue",
+		"LeftSidePaneCFSValue4": "ANE-Animal Issue",
+		"FilterCFS1": "Theft",
+		"FilterCFS2": "Homicide",
+		"FilterCFS3": "Single Alarm",
+		"FilterCFS4": "Animal Issue"
+	}
+	}

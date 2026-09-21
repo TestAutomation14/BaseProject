@@ -1,0 +1,60 @@
+{
+"CodedEntry":{
+"CodeID":"3443",
+"Description":"Automation Test",
+"CodeType":"User Code",
+"Product":"Global",
+"Module":"System Wide",
+"State":"AZ"
+
+
+},
+
+"ConnectionEntry":{
+"CRMNo":"",
+"ReasonFor":"",
+"ReasonForConnection":"",
+"DetailOfTaskPerformmed":"",
+"ProphoenixServerUsedToConnect":""
+},
+
+"ReleaseEntry":{
+"Product":"CRM",
+"Release":"2016",
+"PreparedBy":"Auto"
+},
+
+"ResponsibleEntry":{
+"Product":"CRM",
+"Module":"Interface",
+"PFNo":"Auto",
+"SortOrder":"1",
+"Interface":"STEP",
+"Section":"Primary QA"
+},
+
+"TeamManager":{
+"TeamName":"AUTO Test",
+"TeamManager":"Auto",
+"TeamEmail":"automation@prophoenix.com",
+"Members":"Sam"
+},
+
+"WeeklyReport":{
+"PreparedBy":"Auto"
+},
+
+"WorkActivityTypeSetup":{
+"Type":"Automation Test",
+"MainCategory":"General",
+"Category":"General Journal",
+"ActivityType":"Daily Log",
+"RepeatCycle":"Weekly",
+"Reminder":"1 Day",
+"DefaultPoints":"10",
+"DelayedCompletionPoints":"20",
+"Division":"New Jersey",
+"Section":"Interfaces",
+"Squad":"SE"
+}
+}

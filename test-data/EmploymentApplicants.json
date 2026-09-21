@@ -1,0 +1,512 @@
+{
+  "278108": {
+    "JobName": "Hairdresser",
+    "JobNo": "HD403",
+    "Location": "Office",
+    "JobApplication": "Employment Application"
+  },
+  "278109": {
+    "JobName": "Computer programmer",
+    "Location": "Office",
+    "JOBNo": "IT001",
+    "TaskDescription": "First Interview",
+    "Order": "001",
+    "AssignedPF": "Auto",
+    "PFNo": "Auto"
+  },
+  "278110": {
+    "JobName": "Receptionist",
+    "Location": "Office",
+    "JOBNo": "RP001",
+    "TaskDescription": "Manager Interview",
+    "Order": "1234",
+    "AssignedPF": "Auto",
+    "PFNo": "Auto",
+    "TemplateName": "Job Offer Letter1234",
+    "EmailTemplate": "Receptionist"
+  },
+  "278111": {
+    "JobName": "Office worker",
+    "Location": "Office",
+    "JOBNo": "OW002",
+    "TextName": "Office worker",
+    "ScreenID": "1206",
+    "Template": "DM"
+  },
+  "278112": {
+    "JobName": "Politician",
+    "Location": "Outdoors",
+    "JOBNo": "DM"
+  },
+  "278114": {
+    "JobName": "Receptionist",
+    "Name": "Keanu, Reeves",
+    "Name1": "Johnny, Depp",
+    "ApplicantNo": "21-000003"
+  },
+  "278117": {
+    "JobID": "Office worker",
+    "LastName": "Jake",
+    "FirstName": "Gyllenhaal",
+    "PhoneNo": "6987545666",
+    "Email": "Jake@Test.com",
+    "YOSYear": "0",
+    "YOSMonth": "1",
+    "DurationMonth": "0",
+    "DurationYear": "1"
+  },
+  "278118": {
+    "JobName": "Computer programmer",
+    "ApplicationNo": "21-000002",
+    "ApplicantNo": "21-000002",
+    "ForLocation": "Office",
+    "PF": "Auto",
+    "Name": "Bradley, Cooper"
+  },
+  "278119": {
+    "JobName": "Receptionist",
+    "ApplicantNo": "21-000003",
+    "TaskDescription": "In Person Interview",
+    "Order": "1",
+    "PFNo": "Auto",
+    "EmailTemplate": "Receptionist",
+    "Name": "Keanu, Reeves"
+  },
+  "278120": {
+    "LastName": "James",
+    "FirstName": "Earl",
+    "ApplicationNo": "21-000004",
+    "ApplicantNo": "21-000004",
+    "ScreenID": "1033",
+    "Template": "HR Applicant",
+    "Name": "James, Earl Jones",
+    "TextName": "Employement"
+  },
+  "278121": {
+    "LastName": "Bradley",
+    "FirstName": "Cooper",
+    "ApplicationNo": "21-000002",
+    "Name": "Bradley, Cooper",
+    "ApplicantNo": "21-000002",
+    "Result": "Joined",
+    "LoginUserName": "Automation"
+     },
+  "278122": {
+    "LastName": "James",
+    "FirstName": "Earl",
+    "ApplicationNo": "21-000004",
+    "Name": "James, Earl Jones",
+    "ApplicantNo": "21-000004",
+    "Result": "Joined"
+  },
+  "278238": {
+    "JobName": "Computer programmer",
+    "Name": "Sylvester, Stallone",
+    "Reason": "Automation Test",
+    "ConductedBy": "AUTO",
+    "Status": "Pending"
+  },
+  "281039": {
+    "JobName": "PNX Begineer",
+    "Location": "Chennai",
+    "JOBNo": "JOB12"
+  },
+  "281041": {
+    "JobName": "PNX Mark",
+    "Location": "United States",
+    "JobEdit": "JOB15",
+    "JOBNo": "JOB15",
+    "PostFromDate": "08/01/2021",
+    "PosttoDate": "08/23/2040"
+  },
+  "287869": {
+    "LastName": "James",
+    "FirstName": "Earl",
+    "ApplicationNo": "21-000004",
+    "ApplicantNo": "21-000004",
+    "ScreenID": "1033",
+    "Template": "HR Applicant",
+    "Name": "James, Earl Jones",
+    "TextName": "Employement"
+  },
+  "287875": {
+    "JobName": "Office worker",
+    "Location": "Office",
+    "JOBNo": "OW002",
+    "TextName": "Name Notification",
+    "ScreenID": "1206",
+    "TemplateFor": "Name Notification",
+    "Template": "Name Notification"
+  },
+  "293162":{
+  "JobName":"Receptionist",
+  "JobID":"Receptionist",
+  "Job":"Receptionist"
+  },
+ "10879":{
+  "Password":"Pnx@2016",
+  "BaseJuris":"PX",
+  "Juris":"  --  ",
+  "Juris1":"BC - Brown County Police Department",
+  "OtherJuris":"BC",
+  "PXJuris":"PX - ProPhoenix"
+  },
+  
+  "16364":{
+  "JobName":"Automation Program"
+    },
+  "18602":{
+  "JobID":"Politician",
+  "LastName":"Kumar",
+  "FirstName":"Ajith",
+  "DefaultName":"Custom2",
+  "YOSYear":"55",
+  "Name":"Kumar, Ajith"
+},
+
+"21724":{
+"SelectedItem":"--",
+"Juris":"--"
+},
+"21770":{
+"ApplicantNo":"24-000001",
+"TextName":"TestAuto",
+"JobName":"Test Automation",
+"TaskDescription":"First Interview",
+"Order":"3"
+},
+
+"21719": {
+		"JobName": "Application for Automation",
+		"JobNo":"AFA",
+		"RichText":"Automation"
+	},
+
+"21723":{
+	"JobName":"AutoDemo",
+	"JobNo":"AD1",
+	"Template":"DM"
+	},
+	"29477":{
+	"DefaultName":"Custom2",
+	"CustomName":"Height",
+	"CustomName1":"Weight",
+	"CustomLabel1Text":"Weight",
+	"CustomLabel2Text":"Height",
+	"JobID":"Test Automation",
+	"LastName":"William",
+	"FirstName":"Jones",
+	"YOSYear":"24"
+	
+	
+	},
+	"43997":{
+	"ApplicationNo":"24-000002",
+	"Name":"Bradley, Cooper",
+	"ApplicantNo":"24-000002",
+	"OfferedCTC0":"1234AA",
+	"GetOfferedCTC0":"1234.00",
+	"OfferedCTC1":"ABCDB",
+	"GetOfferedCTC1":"",
+	"OfferedCTC2":"@##$$$",
+	"GetOfferedCTC2":"",
+	"OfferedCTC3":"@##$$AA23$",
+	"GetOfferedCTC3":"23.00"
+	
+	
+	
+	},
+	"44235":{
+	"LastName":"William",
+	"FirstName":"Black",
+	"JobID":"PNX Mark",
+	"PhoneNo":"1234567891",
+	"Email":"Autotest@prophoenix.com",
+	"YOSYear":"2",
+	"Remarks":"AUtomation"
+	},
+	"47632":{
+		"ApplicationNo":"25-000001",
+		"ApplicantNo":"25-000001",
+		"TaskDescription":"First Interview",
+		"Order":"0",
+		"PFNo":"Ken",
+		"UserName":"ken",
+		"Password":"Pnx@2016",
+		"AssignedToPF":"Ken, Domiguez - Ken",
+		"Reason":"TestCheck"
+	},
+	"48691": {
+		"JobName":"Emergency Medical Service",
+		"TemplateFor": "Job Entry(Job Listings)",
+		"TextName": "Acknowledge Temp",
+		"Text": "Automation Testing purpose",
+		"Template": "Acknowledge Temp"
+	},
+	"48506":{
+		"ApplicantNo":"25-000002",
+		"ApplicationNo":"25-000002",
+		"TaskDescription":"Technical Interview",
+		"Order":"0",
+		"PFNo":"AUTO",
+		"ColumnHeader1":"Job#",
+		"ColumnHeader2":"Job Name",
+		"ColumnHeader3":"Location",
+		"Remarks":"For Testing",
+		"JobName":"Public Safety"
+	},
+	
+	"44001": {
+    "JobName": "PNX Mark",
+    "Location": "United States",
+    "JobEdit": "JOB15",
+    "JOBNo": "JOB15",
+    "PostFromDate": "08/01/2021",
+    "PosttoDate": "08/23/2040"
+  },
+
+  	"60102":{
+	"Juris0":"BC - Brown County Police Department",
+	"Juris1":"PX - ProPhoenix",
+	"Juris2":"TP - Tiffin Police Department",
+	"OtherJuris0":"BC",
+	"OtherJuris1":"TP"	
+	},
+	
+	"60108":{
+		"ColumnHeader0":"Applicant#",
+		"ColumnHeader1":"Name",
+		"ColumnHeader2":"Phone#",
+		"ColumnHeader3":"Email",
+		"ColumnHeader4":"Job",
+		"ColumnHeader5":"Application Phase",
+		"ColumnHeader6":"Status",
+		"ColumnHeader7":"Date",
+		"ColumnHeader8":"Selected Rank",
+		"ColumnHeader9":"Task Description",
+		"ColumnHeader10":"Scheduled Date"
+	},
+	
+	"60111":{
+		"JobID":"PNX Mark",
+		"LastName":"Test",
+		"FirstName":"Check",
+		"YOSYear":"25"
+	},
+	
+	"60593":{
+		"JobID":"Receptionist",
+		"LastName":"Ortan",
+		"FirstName":"Randy",
+		"PhoneNo0":"98765",
+		"PhoneNo1":"9876542145",
+		"Email0":"ortan",
+		"Email1":"ortan@gmail.com"
+	},
+	
+	"60096":{
+		"Juris":"PX - ProPhoenix",
+		"JobName":"Computer programmer",
+		"Job":"Computer programmer",
+		"Location":"Manufacturing",
+		"ApplicationPhase":"Schedule Interview",
+		"Result":"Joined",
+		"Status":"Selected",
+		"PF":"AUTPOL",
+		"ApplicationID":"25-000004",
+		"PhoneNo":"9865214587",
+		"PhoneNo1":"(986) 521-4587",
+		"Email":"Brand@gmail.com",
+		"ApplicationFromDate":"05/01/2024",
+		"ApplicationToDate":"07/18/2025",
+		"JobID":"45",
+		"Name1":"James, Earl Jones",
+		"LastName":"Jennifer",
+		"FirstName":"Kasal",
+		"Name":"Jennifer, Kasal"
+	},
+	
+  "55574":{
+  "ApplicantNo":"25-000003",
+  "ApplicationNo":"25-000003",
+  "JobName":"DMKD",
+  "JobNo":"3857",
+  "PostFromDate":"06/24/2025",
+  "OrThirdPartyWaterMark":"Or Third Party"
+  },
+ 
+  "62791":{
+	"ApplicationNo":"25-000005",
+	"ApplicantNo":"25-000005",
+	"TextName":"AutoTest1",
+	"Text":"CheckNotesText",
+	"Template":"AutoTest1",
+	"Remarks":"CheckNotesText"		
+  },
+  
+  "63355":{
+		"JobID":"PNX Mark",
+		"LastName":"Merlin",
+		"FirstName":"Mary",
+		"PhoneNo":"9652145872",
+		"Email":"testing@gmail.com",
+		"YOSYear":"20",
+		"YOSMonth":"05",
+		"DurationYear":"25",
+		"DurationMonth":"06",
+		"ExpLevel":"--Add 2673 --"
+  },
+  
+  "63355A":{
+	"JobID":"Programming",
+	"LastName":"Merlin",
+	"FirstName":"Mary",
+	"PhoneNo":"9652145872",
+	"Email":"testing@gmail.com",
+	"YOSYear":"20",
+	"YOSMonth":"05",
+	"DurationYear":"25",
+	"DurationMonth":"06",
+	"ExpLevel":"--Add 2673 --"	
+  },
+  
+  "63609":{
+		"JobEdit":"PG",
+		"Text":"Entering Text..."
+  },
+  
+  "62791A":{
+  		"ApplicationNo":"25-000001",
+  		"ApplicantNo":"25-000001",
+  		"TextName":"AutoTest1",
+  		"Text":"CheckNotesText",
+  		"Template":"AutoTest1",
+  		"Remarks":"CheckNotesText"		
+    },
+	
+	"62791B":{
+  		"ApplicationNo":"25-000001",
+  		"ApplicantNo":"25-000001",
+  		"TextName":"AutoTest1",
+  		"Text":"CheckNotesText",
+  		"Template":"AutoTest1",
+  		"Remarks":"CheckNotesText"		
+	    },
+  
+	"62791C":{
+  		"ApplicationNo":"25-000001",
+  		"ApplicantNo":"25-000001",
+  		"TextName":"AutoTest1",
+  		"Text":"CheckNotesText",
+  		"Template":"AutoTest1",
+  		"Remarks":"CheckNotesText"		
+	    },
+		
+	"68346":{
+		"JobID":"PNX Begineer",
+		"LastName":"Robert",
+		"FirstName":"Rachel",
+		"PhoneNo":"9865432170",
+		"Email":"rachel@phoenix.com",
+		"YOSYear":"25",
+		"YOSMonth":"6",
+		"DurationYear":"1",
+		"DurationMonth":"3",
+		"Result":"Not joined",
+		"SelectedRank":"3",
+		"CandidateStatus":"Selected",
+		"Template":"TestCheck",
+		"Remarks":"TestCheck"		
+	},
+	
+	"68364":{
+		"ApplicationID":"25-000007",
+		"ApplicantNo":"25-000007",
+		"Custom1":"Custom1test",
+		"Custom2":"Custom2test"
+	},
+	
+	"70509":{
+		"ApplicationNo":"25-000006",
+		"ApplicantNo":"25-000006",
+		"TextName":"TextCheck1",
+		"ReportID":"1031",
+		"SeqNo":"2"
+	},
+	"70509A":{
+		"TextName":"TextCheck1",
+		"ReportID":"1039",
+		"SeqNo":"2"
+	},
+	"70509B":{
+		"TextName":"TextCheck1",
+		"ReportID":"1031",
+		"SeqNo":"2"
+	},  
+	"70509C":{
+		"JobID":"Programming",
+		"LastName":"Granny",
+		"FirstName":"May",
+		"PhoneNo":"9865473214",
+		"YearOfServiceYear":"25",
+		"DurationYear":"26",
+		"TextName":"TextCheck1",
+		"ReportID":"13761",
+		"SeqNo":"2"
+	},
+	
+	"71894":{
+		"ApplicationNo":"25-000009",
+		"ApplicantNo":"25-000009",
+		"Result":"Joined",
+		"CandidateStatus":"Selected",
+		"PhoneExt":"4569",
+		"IPAddressForThePC":"10.103.28.75",
+		"PFNo":"PF15877",
+		"PFCode":"PF15877",
+		"LoginUserName":"Jingle"
+	},
+	
+	"72430":{
+		"ApplicationNo":"25-000008",
+		"ApplicantNo":"25-000008",
+		"Result":"Not joined",
+		"CandidateStatus":"Rejected"
+	},
+	
+	"72430A":{
+		"ApplicationNo":"25-000002",
+		"ApplicantNo":"25-000002",
+		"Result":"Not joined",
+		"CandidateStatus":"Rejected"
+	},
+	
+	"72430B":{
+		"ApplicationNo":"25-000002",
+		"ApplicantNo":"25-000002",
+		"Result":"Not joined",
+		"CandidateStatus":"Rejected"
+	},
+	
+	"72430C":{
+		"ApplicationNo":"25-000002",
+		"ApplicantNo":"25-000002",
+		"Result":"Not joined",
+		"CandidateStatus":"Rejected"
+	},
+	
+	"76666":{
+		"ColumnHeader0":"Applicant#",
+		"ColumnHeader1":"Name",
+		"ColumnHeader2":"Phone#",
+		"ColumnHeader3":"Email",
+		"ColumnHeader4":"Job",
+		"ColumnHeader5":"Application Phase",
+		"ColumnHeader6":"Status",
+		"ColumnHeader7":"Date",
+		"ColumnHeader8":"Selected Rank",
+		"ColumnHeader9":"Scheduled Date",
+		"ColumnHeader10":"PDF",
+		"ColumnHeader11":"Task Description"
+	}
+}

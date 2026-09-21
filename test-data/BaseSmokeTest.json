@@ -1,0 +1,20 @@
+{
+  "150001": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "AutomationPoliceMJ",
+    "Module": "Geo",
+    "Screen": "Street Entry",
+    "Action": "NavigateAndVerify",
+    "ExpectedResult": "StreetEntryLoaded"
+  },
+  "150002": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "AutomationPoliceMJ",
+    "Module": "Names",
+    "Screen": "Master Name Entry",
+    "Action": "NavigateAndVerify",
+    "ExpectedResult": "MasterNameEntryLoaded"
+  }
+}

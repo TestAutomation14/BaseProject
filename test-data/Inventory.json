@@ -1,0 +1,1424 @@
+{
+	"118716": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "4012",
+		"CodeValue": "11",
+		"Description": "Hose",
+		"ItemType": "Asset Item",
+		"PanelType": "Hose"
+	},
+	"118718": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "5088",
+		"CodeValue": "28",
+		"Description": "Long Hose",
+		"ItemCategory": "Hose"
+	},
+	"118721": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "4013",
+		"CodeValue": "HOS",
+		"Description": "American Hose",
+		"InventoryType": "Long Horse"
+	},
+	"118723": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "5098",
+		"CodeValue": "02",
+		"Description": "Self Checkout"
+	},
+	"118724": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "2282",
+		"CodeValue": "WS",
+		"Description": "Window Shopping"
+	},
+	"118725": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "5131",
+		"CodeValue": "02",
+		"Description": "High Pressure"
+	},
+	"118729": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Description": "Inventory Room3",
+		"LocationUseFor": "Inventory Room"
+	},
+	"118730": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"LastName": "McDonald",
+		"Address": "201 Paul Dr",
+		"BusinessID": "1100",
+		"State": "NJ - New Jersey"
+	},
+	"118902": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"ScanBarcode": "8500",
+		"InventoryNo": "18-000007"
+	},
+	"118903": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"IssuedTo": "Patrol, Officer",
+		"PFCode": "P001",
+		"InventoryNo": "18-000008",
+		"Assigned": "Patrol, Officer"
+	},
+	"118904": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryLocation": "Inventory Room1",
+		"ServicedTestedBy": "P002",
+		"InventoryNo": "18-000013",
+		"PFNo": "AUTO",
+		"Assigned": "Prophoenix, Automation"
+	},
+	"118906": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000014",
+		"UpdatedBy":"auto",
+		"FleetID": "AutomationFleet",
+		"Location": "Fleet Location1",
+		"Assigned": "AutomationFleet->Fleet Location1"
+	},
+	"118908": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000007",
+		"Serial": "Ladder2"
+	},
+	"118939": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"DeptTracking": "NJ3",
+		"Checkout": "Inv3",
+		"InventoryNo": "18-000001",
+		"CheckoutType": "Service Checkout"
+	},
+	"119496": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Station": "Station 1",
+		"PFCode": "P001",
+		"InventoryNo": "18-000012",
+		"Assigned": "Station 1"
+	},
+	"119497": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"FleetID": "AutomationUnit",
+		"Make": "Audi",
+		"Model": "A2",
+		"Year": "2016",
+		"VinNo": "Aut456",
+		"StorageLocation": "Fleet Location1"
+	},
+	"119985": {
+		"InvName": "Inventory",
+		"Category": "Oil",
+		"Type": "Engine Oil",
+		"Make": "American Oil",
+		"Model": "500 Litre",
+		"Description": "Oil foe Engine",
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"119993": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Comment": "Expendable Item Oil",
+		"CheckoutType": "Service Checkout",
+		"ReorderQty": "3",
+		"ExistingDeptTracking": "1",
+		"NewDeptTracking": "2",
+		"InventoryNo": "18-000006"
+	},
+	"120005": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"VendorName": "1001",
+		"HowAcquired": "Online Shopping",
+		"QtyReceived": "10",
+		"UnitCost": "10",
+		"By": "P002",
+		"InventoryLocation": "Inventory Room1",
+		"InventoryNo": "18-000006"
+	},
+	"121369": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"VendorName": "Vinton Store",
+		"ScanBarcode": "200",
+		"ScanBarcode2": "201",
+		"InventoryNo": "18-000006"
+	},
+	"121373": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Quantity": "1",
+		"Fleet": "AutomationFleet",
+		"Location": "Fleet Location1",
+		"PFCode": "P001",
+		"InventoryNo": "18-000009",
+		"Assigned": "Patrol, Officer"
+	},
+	"121374": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Quantity": "2",
+		"Fleet": "AutomationFleet",
+		"Location": "Fleet Location1",
+		"InventoryNo": "18-000009",
+		"Assigned": "AutomationFleet->Fleet Location1",
+		"ReorderQty": "9"
+	},
+	"121376": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Quantity": "1",
+		"InventoryNo": "18-000015",
+		"Assigned": "Administration",
+		"Division": "Administration"
+	},
+	"121377": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Quantity": "1",
+		"Station1": "Station 2",
+		"InventoryNo": "18-000015",
+		"Assigned": "Station 1",
+		"Station": "Station 1"
+	},
+	"121378": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CodeID": "2079",
+		"CodeValue": "SC",
+		"Description": "Sherrif Car"
+	},
+	"47660": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "RP1542",
+		"Description": "Patrol Vehicle",
+		"Make": "BMBR",
+		"Year": "2017",
+		"Model": "WHE",
+		"VinNo": "HondaJazz1233",
+		"StorageLocation": "Fleet Location1",
+		"DefUnit": "Not Assigned",
+		"MakeDescription": "Bombardier (Ski Doo - Moto Ski)",
+		"ModelDescription": "Snowmobile/ATV - Wheels Only",
+		"Color": "Black"
+	},
+	"123012": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA1",
+		"Description": "Patrol Fleet Vehicle WDA1",
+		"Make": "AUDI",
+		"Year": "2017",
+		"VinNo": "VIN123321",
+		"DefUnit": "Not Assigned",
+		"Tag": "WDA1",
+		"UsageType": "Patrol Car",
+		"FuelType": "Petrol",
+		"VendorName": "1001",
+		"PO": "PO1",
+		"MakeDescription": "Audi",
+		"VendorRef": "Vendor1",
+		"ModelDescription": "100",
+		"StorageLocation": "Storage Station I",
+		"Model": "100"
+	},
+	"123013": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Tag": "WDA2",
+		"Model": "100",
+		"VIN": "AudiA4123",
+		"VendorRef": "Vendor2",
+		"ScanBarcode": "1526",
+		"InventoryNo": "22-000001",
+		"FleetLocation": "Fleet Location1",
+		"ItemDescription": "Steel Ladder",
+		"Make": "AUDI"
+	},
+	"123014": {
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"PO": "PO23",
+		"VendorRef": "Vendor3"
+	},
+	"123015": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA4",
+		"ServiceType": "Oil Change"
+	},
+	"123016": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA3",
+		"ServiceType": "Body Damage Repair",
+		"Miles": "101"
+	},
+	"123017": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA3",
+		"ServiceType": "Engine Repair",
+		"Hours": "100"
+	},
+	"123018": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA5",
+		"PFCode": "P001",
+		"Make": "AUDI",
+		"Model": "100"
+	},
+	"123019": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA5",
+		"PFCode": "P001",
+		"Division": "Administration",
+		"VIN": "VINAUDI6709"
+	},
+	"123020": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA5",
+		"PFCode": "P001",
+		"Station": "Station 1",
+		"VendorRef": "Vendor4",
+		"Action": "Assigned",
+		"VendorName": "1001"
+	},
+	"123021": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Vendor": "1100",
+		"Tag": "WDA5",
+		"FleetID": "WDA5"
+	},
+	"123022": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetId": "WDA6"
+	},
+	"126713": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"QtyReceived": "5",
+		"UnitCost": "2",
+		"By": "P002",
+		"InventoryNo": "18-000006"
+	},
+	"126721": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000002",
+		"invent": "15-000001"
+	},
+	"126724": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "24-000003",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"CheckoutType": "Service Checkout",
+		"Checkout": "1234",
+		"DeptTracking": "12345",
+		"LadderType": "Fast Expend"
+	},
+	"126725": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000003",
+		"CheckoutType": "Service Checkout",
+		"Checkout": "1234",
+		"DeptTracking": "12345",
+		"LadderType": "Fast Expend"
+	},
+	"126968": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "WDA7",
+		"Location": "Fleet Location1",
+		"InventoryNo": "18-000006"
+	},
+	"127726": {
+		"Make": "ABAR",
+		"Model": "02",
+		"ModelDescription": "Trailer"
+	},
+	"133950": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Model": "Ladder Type 1",
+		"Description": "Steel Ladder",
+		"Action": "Not Assigned",
+		"PFCode": "P001",
+		"UserName": "P002",
+		"UnitCost": "1",
+		"Password": "Pnx@2016"
+	},
+	"134023": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryName": "Inventory",
+		"InventoryNo": "18-000005"
+	},
+	"134024": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000005",
+		"LadderType": "FastExpend",
+		"Serial": "Ladder1",
+		"Custom1": "Custom1",
+		"CheckoutType": "Service Checkout",
+		"Checkout": "Inv1",
+		"DeptTracking": "NJ1"
+	},
+	"134026": {
+		"InventoryLocation": "Inventory Room1",
+		"VendorName": "1001",
+		"HowAcquired": "Online Shopping",
+		"UnitCost": "100",
+		"UserName": "P002",
+		"By": "",
+		"Password": "Pnx@2016",
+		"InventoryNo": "18-000005"
+	},
+	"134027": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"UnitCost": "10",
+		"InventoryNo": "24-000001"
+	},
+	"134028": {
+		"Fleet": "AutomationFleet",
+		"Location": "Fleet Location1",
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P002",
+		"InventoryNo": "18-000008",
+		"Assigned": "AutomationFleet->Fleet Location1"
+	},
+	"134034": {
+		"Division": "Administration",
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"InventoryLocation": "Inventory Room1",
+		"PFName": "Supervisor, Officer",
+		"PFCode": "P001",
+		"InventoryNo": "18-000012",
+		"Assigned": "Administration"
+	},
+	"254472": {
+		"FleetID": "TAT120",
+		"Make": "AGRO",
+		"Model": "SM",
+		"Year": "2019",
+		"VinNo": "TAERT6790OKL",
+		"Color": "",
+		"TAGNo": "POMJH8764TYH",
+		"StorageLocation": "Left Running Board",
+		"VendorName": "1100",
+		"PFCode": "Auto",
+		"UserName":"Auto",
+		"Password":"Pnx@2016",
+		"Database":"AutomationFireMJ",
+		"Disposition":"Destroyed"
+	},
+	"256428": {
+		"InventoryNo": "20-000001",
+		"Fleet": "AURMS",
+		"Location": "Storage 2",
+		"Status": "Assigned To: AURMS; Storage 2",
+		"Assigned": "AURMS->Storage 2",
+		"PFCode": "AUTO",
+		"FleetID": "AURMS",
+		"Purchased": "10/12/20",
+		"Model": "Radio Mic Phone",
+		"DateAcq": "10/13/20",
+		"": ""
+	},
+	"258915": {
+		"InventoryNo": "20-000002",
+		"InventoryNo1": "20-000001",
+		"VendorCode": "SCC",
+		"Notes": "Service history shows Vendor,Notes and Cost",
+		"Cost": "100",
+		"ActivityType": "Inventory Service",
+		"ItemType": "Service Weapon"
+	},
+	"259719": {
+		"FleetID": "35338",
+		"Description": "Amazon",
+		"Make": "ACUR",
+		"Model": "RDX",
+		"VinNo": "1FVHG3DX3DHFE3747",
+		"StorageLocation": "Storage Station I",
+		"PFCode": "AUTO",
+		"Color": "Black",
+		"Tag": "12",
+		"VendorName": "1001",
+		"Year": "2020",
+		"Action": "Disposition",
+		"UsageType": "Administration",
+		"Comments": "Fleet Created For Autoation"
+	},
+	"261420": {
+		"FleetID": "387",
+		"Category": "VEHCK - Vehicle Inspection",
+		"ActivityType": "Vehicle Equipment Problem",
+		"ActivityStatus": "Completed Activity",
+		"PFCode": "P003"
+	},
+	"275264": {
+		"FleetID": "AD345WR",
+		"Make": "TMTO",
+		"Model": "CYL",
+		"Year": "2020",
+		"ServiceType": "State Inspection",
+		"StorageLocation": "Fleet Location1",
+		"VinNo": "2T2BK1BA5EC231984"
+	},
+	"278658": {
+		"FleetID": "FL0258",
+		"PFCode": "AUTO",
+		"ActivityType": "Damage",
+		"Category": "DAM - Damage",
+		"Subject": "Automation Testing On board",
+		"Category1": "Damage"
+	},
+	"118716B": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "4012",
+		"CodeValue": "12",
+		"Description": "Ink",
+		"ItemType": "Expendable Item",
+		"PanelType": "Issue item"
+	},
+	"118718B": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "5088",
+		"CodeValue": "29",
+		"Description": "Printer Ink",
+		"ItemCategory": "Ink"
+	},
+	"118721B": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "4013",
+		"CodeValue": "INK",
+		"Description": "HP Ink",
+		"InventoryType": "Printer Ink"
+	},
+	"118725B": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"CodeID": "5095",
+		"CodeValue": "02",
+		"Description": "Disposition"
+	},
+	"118729B": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Description": "Fleet Location3",
+		"LocationUseFor": "Fleet Location"
+	},
+	"118729C": {
+		"UserName": "auto",
+		"Password": "Pnx@2016",
+		"Description": "Station Location3",
+		"LocationUseFor": "Station"
+	},
+	"292511": {
+		"FleetID": "AU1234",
+		"MobileNo": "6523652365"
+	},
+	"121378B": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CodeID": "4920",
+		"CodeValue": "D",
+		"Description": "Diesel"
+	},
+	"140511": {
+		"ParameterID": "1211"
+	},
+	"145447": {
+		"Days": "30",
+		"NumberofDays": "100",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Make": "Other",
+		"BaseMonth": "January",
+		"Category1": "Oil",
+		"Make1": "American Oil",
+		"QtyReceived": "5",
+		"UnitCost": "100",
+		"By": "AUTO",
+		"ServiceDueDate": "10/01/23"
+	},
+	"9116": {
+		"FleetId": "AutomationFleet",
+		"Quantity": "10",
+		"Oil": "10",
+		"CurrentMileage": "1000"
+	},
+	"9135": {
+		"FleetID": "2564",
+		"Make": "AJIN",
+		"Model": "TL",
+		"Year": "2023",
+		"VinNo": "4123",
+		"StorageLocation": "Fleet Location1",
+		"Location": "Newyork"
+	},
+	"12379": {
+		"InventoryNo": "23-000003",
+		"PurchaseDate": "06/13/2023",
+		"PurchasedDate": "06/11/23",
+		"QtyReceived": "20",
+		"UnitCost": "50",
+		"InventoryNo1": "23-000004",
+		"Date": "06/14/2023",
+		"Date1": "06/14/2023",
+		"Date2": "06/14/2023"
+	},
+	"12378": {
+		"DefaultVehicle": "VAHAAN",
+		"FleetID": "VAHAAN",
+		"Description": "VH122915",
+		"Make": "AEAG",
+		"Model": "CYL",
+		"Year": "2023",
+		"VinNo": "VH14521",
+		"StorageLocation": "Storage 2",
+		"Unit#": "THAR14",
+		"DispatchUnitType": "PR - Patrol-Radar",
+		"Unit":"THAR14"
+		
+	},
+	"9111": {
+		"InventoryNo": "23-000005",
+		"PFNo": "AUTPOL",
+		"PFName": "Automation, Police"
+	},
+	"14913": {
+		"ByPF": "AUTPOL",
+		"PF": "HAM",
+		"Comment": "Automation Test",
+		"InventoryNo": "23-000006"
+	},
+	"17014":{
+	
+	"Audit":"23-000001",
+	"AuditName":"Automation"
+	
+	
+	},
+	"292509": {
+		"AuditName": "Test Automation",
+		"AuditType": "Fleet",
+		"InventoryLocation": "Storage1",
+		"Date": "06/14/2023",
+		"Date1": "06/14/2023",
+		"Date2": "06/14/2023"
+	},
+	"18598":{
+	"FleetID":"FL123",
+	"Description":"Test Automation",
+	"Make":"AONE",
+		"Model":"TL",
+	"Year":"2023",
+	"VinNo":"VIN123",
+	"StorageLocation":"Storage1",
+	"StorageLocation1":"Storage 2",
+	"StorageLocation2":"Fleet Location1"
+	},
+	"18668":{
+	"FleetID":"186",
+	"Description":"Automation Test",
+	"Make":"GILM",
+	"Model":"TL",
+	"Year":"2023",
+	"VinNo":"2326"
+},
+	
+	"18603":{
+	"InvName":"Inventory",
+	"Type":"Dispatch Radio",
+	"Action":"Disposition",
+	"Category":"Communications Equipment",
+	"Category1":"Ammunition"
+	},
+
+  "20100":{
+  "ByPF":"AUTO",
+  "PF":"AUTPOL"
+},
+
+	"20290": {
+		"InvName": "Inventory",
+		"Category": "Ammunition",
+		"Make": "Other",
+		"Description": "Checking Radio Buttons"
+	},
+	"20236": {
+		"NameID1": "A",
+		"AtypeNameID": "A-0000000125",
+		"NameID": "A-0000000125",
+		"InventoryNo": "18-000009",
+		"Type": "Inventory"
+	},
+	"23149":{
+	"FleetID":"ASMR",
+	"Make":"TMTO",
+	"Model":"CYL",
+	"Year":"2024",
+	"VinNo":"NJ587ASASM",
+	"StorageLocation":"Fleet Location1",
+	"ServicedBy":"PASS",
+	"Mileage":"10.0"
+	},
+	
+		"21722": {
+		"InvName": "Inventory",
+		"Category": "Ammunition",
+		"Make": "Other",
+		"Type": "Duty Ammunition",
+		"Description": "Automation Test"
+	},
+
+"21728":{
+"InventoryNo":"24-000002",
+"PFCode":"AUTPOL",
+"Action":"Disposition",
+"Disposition":"Dismantle",
+"Comments":"killer",
+"ColumnName":"Comment"
+},
+"21781":{
+"Category":"Communications Equipment",
+"Type":"Dispatch Radio",
+"Make":"AntennaPLUS",
+"Serial":"22056",
+"InventoryName":"Inventory"
+},
+"23336":{
+"FleetId":"123AB",
+"FromDate":"02/16/2024",
+"ToDate":"02/22/2024",
+"Mileage1":"706.0"
+},
+"23153":{
+"FleetID":"22056",
+"Make":"AECD",
+"Description":"Fleet",
+"Year":"2024",
+"VinNo":"15978562",
+"Model":"TL"
+
+},
+"42031":{
+"PopUpFleetID":"Will",
+"Mileage":"125",
+"MileageInGrid":"125.0",
+"FleetID":"Will"
+},
+"48743":{
+"FleetID":"WDA6",
+"Located":"--"
+},
+
+"48782":{
+"FleetID":"AU24",
+"FleetID1":"123DE",
+"Fuel":"1",
+"Oil":"1",
+"Mileage":"20.0",
+"MileageInGrid":"20.0"
+},
+
+"46103":{
+"ColumnName":"Make",
+"InventoryNo":"25-000001",
+"FleetID":"AURA3"
+},
+"48815":{
+"InventoryNo":"25-999999"
+},
+"53083A": {
+	"Category": "EMS Equipment",
+	"Type": "Patient Assessment",
+	"Make": "Phillips Medical",
+	"Serial": "53083A"
+},
+"51612":{
+	"InventoryNo":"25-000002",
+	"ActivityType":"Inventory Service"
+},
+"123011": {
+	"UserName": "P001",
+	"Password": "Pnx@2016",
+	"FleetID": "Regular Patrol",
+	"Description": "Regular Patrol Vehicle",
+	"Make": "BMBR",
+	"Year": "2017",
+	"Model": "WHE",
+	"VinNo": "HondaJazz1233",
+	"StorageLocation": "Fleet Location1",
+	"Color": "Black"
+},
+"55002A":{
+	"FleetID":"1002"
+},
+"57928": {
+	"Description": "Allow multiple windows at the same time",
+	"Description1": "Allow multiple windows at the same time 1",
+	"Description2": "Allow multiple windows at the same time 2",
+	"Description3": "Allow multiple windows at the same time 3",
+	"InventoryNo1": "25-000003",
+	"InventoryNo2": "25-000004",
+	"InventoryNo3": "25-000005"
+},
+"55856":{
+	"InventoryNo":"25-000004",
+	"InventoryNo1":"25-000004",
+	"ActivityType1":"Inventory Service",
+	"ActivityType2":"Out of Service",
+	"Category1":"Asset/Inventory",
+	"Category2":"Fleet Activity",
+	"Subject1":"25-000004 Automatic Save",
+	"Subject2":"UnitID Automatic Save",
+	"FleetID":"UnitID"
+},
+"55856A":{
+	"InventoryNo":"25-000002",
+	"InventoryNo1":"25-000002",
+	"ActivityType1":"Inventory Service",
+	"ActivityType2":"Out of Service",
+	"Category1":"ASSET - Asset/Inventory",
+	"Category2":"FLEET - Fleet Activity",
+	"Subject1":"25-000002 Automatic Save",
+	"Subject2":"FL001 Automatic Save",
+	"FleetID":"FL001"
+},
+"55031": {
+	"InvName": "Inventory",
+	"Category": "Firearms",
+	"Type": "Dessert Eagle",
+	"Description": "Able to assign/checkout item without any entry in purchase"
+},
+"55164": {
+	"InventoryNo": "25-000002",
+	"InventoryNo1": "25-000002",
+	"Comment": "Color Verification",
+	"Comments": "Color Verification",
+	"UnitCost": "100",
+	"PFCode": "DEM001",
+	"UpdatedBy": "AUTO",
+	"Link": "65.pdf",
+	"By": "AUTO"
+},
+"55164A": {
+	"InventoryNo": "25-000001",
+	"InventoryNo1": "25-000001",
+	"Comment": "Color Verification",
+	"Comments": "Color Verification",
+	"UnitCost": "100",
+	"PFCode": "PAA001",
+	"UpdatedBy": "001",
+	"FileName1": "65.pdf",
+	"By": "001"
+},
+"55760":{
+	"InventoryName1":"Inventory",
+	"InventoryName2":"Animal",
+	"InvName1":"Inventory",
+	"InvName2":"Animal"
+},
+"55760A":{
+	"InventoryName1":"Inventory",
+	"InventoryName2":"Animal",
+	"InvName1":"Inventory",
+	"InvName2":"Animal"
+},
+"55741":{
+	"Audit":"25-000002",
+	"Show1":"Audited",
+	"Show2":"Not Audited",
+	"Audited1":"Audited",
+	"Audited2":"Not Found",
+	"Audited3":"Status Error",
+	"Audited4":"Location Error",
+	"Audited5":"Not Audited"
+},
+"58232": {
+	"AuditResult1": "Assigned ",
+	"AuditResult2": "Checkout",
+	"Show1": "Assigned ",
+	"Show2": "Checkout",
+	"DisplayFilter1": "Assigned ",
+	"DisplayFilter2": "Checkout",
+	"Description1": "Audit Entry - Show Filter & Display Filter"
+},
+"60466": {
+	"ParameterID": "1211"
+},
+"55492": {
+	"FleetID": "PV01",
+	"Description": "Patrol Vehicle",
+	"Make": "TMTO",
+	"Model": "CYL",
+	"Year": "2025",
+	"VinNo": "NJ01AB1234",
+	"StorageLocation": "Fleet Location1",
+	"Location": "Fleet Location1",
+	"FleetLocation": "Fleet Location1",
+	"Comments": "Fleet Entry",
+	"InventoryNo": "25-000006",
+	"ActivityType1": "Back in Service",
+	"Action": "Assigned",
+	"PFCode": "Auto",
+	"Link": "https://ch175.prophoenix.com/Law/Login.aspx",
+	"Trigger": "Patrol",
+	"VehicleSlot": "1",
+	"TabName1": "Main",
+	"TabName2": "Equipment & Supplies",
+	"TabName3": "Maintenance Schedule",
+	"TabName4": "Activity Log",
+	"TabName5": "History",
+	"TabName6": "Notes",
+	"TabName7": "Attachments",
+	"TabName8": "Triggers",
+	"Status":"Assigned",
+	"ServiceType":"Oil Change",
+	"Miles":"1000",
+	"Vendor":"Vinton Store"
+},
+"64307":{
+"CodeValue":"81",
+"Description":"A",
+"Category":"Ammunition",
+"Type":"A",
+"Make":"Other",
+"CodeID":"5088",
+"InvName":"Inventory",
+"ItemType":"Asset Item"
+},
+"67704":{
+"Category":"Employee Issued Items",
+"Type":"Badge",
+"InvName":"Inventory",
+"Make":"Other",
+"UnitCost":"4",
+"PFCode":"WAut",
+"Status1":"Assigned",
+"LabelStatus2":"Assigned To: WDA, Automation",
+"Action1":"Returned",
+"By":"AUTO",
+"Status2":"Returned",
+"LabelStatus1":"Available",
+"InventoryLocation1":"Newyork",
+"Action2":"Checked Out",
+"To1":"HFIW",
+"Status3":"Checked Out",
+"LabelStatus3":"Checked Out To: History, Work - HFIW",
+"Action3":"Checked In",
+"From1":"PRES",
+"Status4":"Checked In",
+"Action4":"Out-of-Service",
+"InventoryServiceLocation1":"Inventory Room1",
+"Status5":"Out-of-Service",
+"Action6":"Disposition",
+"Status7":"Disposition",
+"LabelStatus4":"Disposition: Dismantle",
+"LabelStatus5":"Out-of-Service",
+"Disposition":"Dismantle",
+"Action5":"In-Service",
+"Status6":"In-Service"
+},
+"63932": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Date2": "08/30/2024",
+		"Date1": "08/30/24",
+		"Date3": "07/22/25",
+		"UnitCost": "5",
+		"Action": "Assigned",
+		"ProcessedDate1": "08/30/2024",
+		"ProcessedDate2": "07/22/2025",
+		"PFCode": "PASS",
+		"ToFromSinceDisp1": "Prophoenix, Automation",
+		"ToFromSinceDisp2": "Prophoenix, Automation",
+		"Status1": "Assigned",
+		"Status3": "Returned"
+	},
+"63932A": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Date2": "08/26/2024",
+		"UnitCost": "5",
+		"Action1": "Out-of-Service",
+		"Action2": "In-Service",
+		"ProcessedDate1": "08/26/2024",
+		"ProcessedDate2": "08/27/2024",
+		"OutOfServiceSince": "07/16/2025",
+		"InServiceSince1": "08/27/2024",
+		"InServiceSince2": "07/20/2025",
+		"Location1": "Oakland",
+		"ToFromSinceDisp1": "07/16/25",
+		"ToFromSinceDisp3": "07/20/25",	
+		"Status1": "Out-of-Service",
+		"Status3": "In-Service"
+	},
+"63932B": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Date2": "08/30/2024",
+		"UnitCost": "5",
+		"Action1": "Checked Out",
+		"Action2": "Checked In",
+		"CheckedOutDate1": "07/23/2025",
+		"CheckedInDate1": "07/20/2025",
+		"CheckedInDate2": "07/24/2025",
+		"To": "PASS",
+		"Date1": "07/23/25",
+		"Date3": "07/24/25",
+		"Status1": "Checked Out",
+		"Status3": "Checked In"
+	},
+	"63381":{
+	"InventoryNo1":"25-000011",
+	"InventoryNo2":"25-000014",
+	"Status1":"Expendable Item",
+	"Status2":"Assigned"
+},
+	"63186":{
+	"ByPF": "AUTPOL",
+	"PF": "HAM",
+	"Status":"Assigned",
+	"AvailableQty":"0",
+	"Comment":"Expendable Item"
+},
+"63537":{
+"Category":"Communications Equipment",
+"Type":"Dispatch Radio",
+"Make":"AntennaPLUS",
+"InventoryName":"Inventory"
+},
+"64245": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Date2": "08/30/2024",
+		"UnitCost": "5",
+		"Action": "Assigned",
+		"ProcessedDate1": "08/30/2024",
+		"ProcessedDate2": "07/22/2025",
+		"PFCode": "PASS",
+		"ToFromSinceDisp1": "Prophoenix, Automation",
+		"ToFromSinceDisp2": "Prophoenix, Automation",
+		"Status1": "Assigned",
+		"Status2": "Returned"
+	},
+"63319":{
+"FleetID":"123AB",
+"ServiceType":"Oil Change",
+"Miles":"20",
+"Comments":"AutomationTest",
+"UpdatedBy":"P008"
+},
+"32724":{
+"FleetID":"123AB"
+},
+"62756":{
+	"InventoryNo":"25-000009",
+	"ActivityType":"Incident",
+	"ActivityType1":"Incident",
+	"Subject1":"25-000009 Allow multiple windows at the same time 1"
+},
+"63446": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"PFCode1": "Lock",
+		"Status1": "Assigned",
+		"Status2": "Returned",
+		"UnitCost": "5",
+		"InventoryNo": "25-000010",
+		"Action": "Assigned",
+		"PFCode": "PASS",
+		"Location": "",
+		"InventoryLocation1": "Inventory Room1",
+		"InventoryLocation2": " -- ",
+		"ToFromSinceDisp1": "Locked, Personnel",
+		"ToFromSinceDisp2": "Prophoenix, Automation"
+	},
+	"65542":{
+"InventoryNo":"25-999999",
+"InventoryNo1":"25-000010"
+},
+
+"65786":{
+"InvName": "Inventory",
+"Category": "Firearms",
+"Type": "Service Weapon",
+"Make": "IBM",
+"CodeID": "5088",
+"CodeValueDescription": "Service Weapon",
+"ItemType": "Expendable Item",
+"QtyReceived": "30",
+"UnitCost": "1",
+"ItemCategory":"Firearms"
+},
+"65835":{
+"FleetID1":"FIAT70",
+"Mandatory":"rgba(153, 0, 0, 1)",
+"NonMandatory":"rgba(0, 0, 0, 1)"
+
+},
+"65875":{
+"FleetID1":"FL0258",
+"ColumnName":"Make",
+"FleetLocation":"Fleet Location1",
+"InventoryNo1":"25-000006"
+},
+
+"65882":{
+"ColumnName1":"Audit#",
+"ColumnName2":"Audit Type",
+"ColumnName3":"Audit By",
+"ColumnName4":"Audit Date",
+"ColumnName5":"Audit Name",
+"ColumnName6":"Total Items",
+"ColumnName7":"Audited",
+"ColumnName8":"Not Found",
+"ColumnName9":"Loc Error",
+"ColumnName10":"Status Error"
+},
+"62534A": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Oil",
+		"Type": "Engine Oil",
+		"Make": "Key",
+		"Action1": "Out-of-Service",
+		"Action2": "In-Service",
+		"QtyReceived": "5",
+		"UnitCost": "100",
+		"Location1": "Inventory 1",
+		"Status1": "Out-of-Service",
+		"Status2": "Out-of-Service",
+		"Duration1": "2 d ",
+		"Duration2": "1d"
+	},
+"62534": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Oil",
+		"Type": "Engine Oil",
+		"Make": "Key",
+		"Action1": "Out-of-Service",
+		"Action2": "In-Service",
+		"QtyReceived": "5",
+		"UnitCost": "100",
+		"Location1": "Inventory Room1",
+		"Status1": "Out-of-Service",
+		"Status2": "Out-of-Service",
+		"Duration1": "2 d ",
+		"Duration2": "1d"
+	},
+"68197":{
+"Date1":"02/15/2018",
+"LastTest":"02/15/2018"
+},
+"68197A":{
+"Date1":"02/15/2018",
+"LastTest":"02/15/2018"
+},
+"68035":{
+	"Audit":"25-000003",
+	"AcceptedBy":"P008"
+},
+"68306":{
+	"Description1":"Internal Audit",
+	"AuditResult1":"Audited",
+	"Juris":"PX - ProPhoenix",
+	"FleetID":"AURA3"
+},
+"68397":{
+	"Description":"##Vinton-WDA",
+	"FleetID":"Vinton-WDA"
+},
+"68460":{
+	"InventoryNo": "25-000020"
+},
+"69322": {
+		"FleetID": "SKAB154",
+		"Make": "Audi",
+		"Model": "A2",
+		"Year": "2016",
+		"VinNo": "ATF521454",
+		"VendorName": "1002",
+		"StorageLocation": "Fleet Location1"
+	},
+"69368": {
+		"CodeID": "5126",
+		"CodeValue": "HTS",
+		"Category": "FLEET",
+		"FleetID1": "AURA3",
+		"Description": "Invent",
+		"ItemCategory": "FLEET - Fleet Activity"
+		},
+"69888": {
+		"VendorCode": "SCC",
+		"Notes": "Service history",
+		"Cost": "100",
+		"ActivityType": "Inventory Service",
+		"ItemType": "Laptop Computer",
+		"Type": "Laptop Computer",
+		"InventoryNo1": "25-000013"
+},
+"69900":{
+	"LocationUseFor1": "Fleet Location"
+	},	
+"69914":{
+	"LocationUseFor1": "Inventory Room"
+	},
+"69923":{
+	"Description1":"External Audit",
+	"AuditResult1":"Audited",
+	"Juris":"PX - ProPhoenix",
+	"StorageBuilding":"Prophoenix",
+	"StorageRoom":"Automation",
+	"StorageRow":"Docker",
+	"StorageShelf":"Drawer",
+	"Category":"Computers",
+	"Type":"Check All",
+	"TotalItems":"0",
+	"ColumnName":"Audited",
+	"AuditType":"Inventory Room",
+	"AuditBy":"AUTO",
+	"AuditedStatus1":"CheckedOut",
+	"AuditedStatus2":"Assigned",
+	"Description":"External Audit"
+},		
+"70015":{
+	"Description1":"External Audit",
+	"AuditResult1":"Audited",
+	"Juris":"PX - ProPhoenix",
+	"StorageBuilding":"Prophoenix",
+	"StorageRoom":"Automation",
+	"StorageRow":"Docker",
+	"StorageShelf":"Drawer",
+	"Category":"Vehicle Equipment",
+	"Type":"Lightbar",
+	"TotalItems":"0",
+	"ColumnName":"Audited",
+	"AuditType":"Inventory Room",
+	"AuditBy":"AUTO",
+	"AuditedStatus1":"CheckedOut",
+	"AuditedStatus2":"Assigned",
+	"Description":"External Audit"
+},
+"70038": {
+		"InventoryNo1": "25-000014",
+		"InventoryNo2": "25-000015",
+		"InventoryNo": "25-000015",
+		"VendorCode": "SCC",
+		"Notes": "Service history",
+		"Cost": "100",
+		"ActivityType": "Inventory Service",
+		"ColumnName": "Make",
+		"Make": "Cannon",
+		"Type": "Cannon"
+	},
+"70288": {
+		"InventoryNo1": "25-000016",
+		"VendorCode": "SCC",
+		"Notes": "Computer Related",
+		"Cost": "100",
+		"ServiceCycle1": "Monthly",
+		"ItemType": "Mobile Computer",
+		"Type": "Mobile Computer"
+},
+"70303": {
+		"InventoryNo1": "25-000021",
+		"InventoryNo2": "25-000016",
+		"InventoryNo3": "25-000018",
+		"InventoryNo4": "25-000017",
+		"Make1": "Adesso",
+		"Make2": "Other",
+		"PF": "PS008",
+		"PFNo": "PS008",
+		"Comment": "Assigned",
+		"Qty1": "15",
+		"Qty2": "10",
+		"ServiceCycle1": "Monthly",
+		"ItemType": "Engine Oil",
+		"Type": "Engine Oil"
+},
+"70315": {
+		"InventoryNo1": "25-000022",
+		"InventoryNo2": "25-000023",
+		"InventoryNo3": "25-000011",
+		"Make1": "American Oil",
+		"Make2": "Other",
+		"PF": "PS008",
+		"PFNo": "PS008",
+		"Comment": "Returned",
+		"Qty1": "12",
+		"Qty2": "10",
+		"ToFromSinceDisp1": "EdgeWood, Celia",
+		"Status1": "Returned",
+		"Quality1": "10",
+		"ToFromSinceDisp2": "EdgeWood, Celia",
+		"Status2": "Returned",
+		"Quality2": "10"
+},
+"70342": {
+"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ladder",
+		"Type": "Short Ladder",
+		"Make": "American Steel",
+		"Model": "Ladder Type 1",
+		"Description": "Steel Ladder",
+		"Action": "Not Assigned",
+		"PFCode": "P001",
+		"UserName": "P002",
+		"UnitCost": "1"
+},
+"70496": {
+		"PF": "Lock",
+		"ScanInventoryOrPartNo": "25-000025",
+		"InventoryNo": "25-000025",
+		"Status1": "Returned",
+		"ToFromSinceDisp1": "Locked, Personnel",
+		"Status2": "Assigned",
+		"ToFromSinceDisp2": "Locked, Personnel"
+},
+"70513": {
+		"FleetId": "SK0121",
+		"FleetID": "SK0121",
+		"FleetID1": "SK0121",
+		"Fuel1": "10",
+		"DEF1": "10.00",
+		"Mileage1": "10.0",
+		"Mileage2": "20.0",
+		"Fuel2": "20",
+		"Oil2": "20",
+		"DEF2": "20.00"
+},
+"70552": {
+		"FleetId": "SK0121",
+		"FleetID": "SK0121",
+		"FleetID1": "SK0121"
+},
+"67966": {
+		"CheckOutInByPF": "Lock",
+		"InventoryNo": "24-000002",
+		"InventoryNo1": "24-000002"
+},
+"72165":{
+"UserName": "P0225",
+"Password": "Auto@123",
+"Module":"Inventory Audit Entry",
+"Juris":"PX - ProPhoenix",
+"Description1":"AutomationTest",
+"Type":"Laser Printer",
+"Type1":"Laser Printer",
+"Audited1":"Audited",
+"EnterInventoryOrScan":"25-000026",
+"Audit":"25-000002",
+"NewAction1":"Send for Approval",
+"NewAction2":"Approved",
+"Status1":"Submitted",
+"Status2":"Approved",
+"ItemType1":"InventoryAuditEntry",
+"ItemType2":"InventoryAuditEntry",
+"ItemType":"InventoryAuditEntry",
+"Supervisor":"P0225",
+"CodeValueDescription":"System"
+},
+"72221": {
+		"CodeID": "5126",
+		"InventoryNo": "25-000008",
+		"ActivityType1": "Inventory Service",
+		"ActivityType": "Inventory Service",
+		"Category1": "ASSET - Asset/Inventory",
+		"ItemCategory": "FLEET - Fleet Activity"
+		},
+"72221A": {
+		"CodeID": "5126",
+		"InventoryNo": "25-000008",
+		"ActivityType1": "Inventory Service",
+		"ActivityType": "Inventory Service",
+		"PFCode1": "PRES",
+		"PFCode2": "PS008",
+		"PF2": "PS008",
+		"PF1": "PRES",
+		"HoursWorked": "12",
+		"Points": "10",
+		"Category1": "ASSET - Asset/Inventory",
+		"ItemCategory": "FLEET - Fleet Activity"
+		},
+"65806": {
+	"FleetID": "SK0121",
+	"FleetId": "SK0121",
+	"FleetID1": "SK0121",
+	"Fuel1": "50",
+	"DEF1": "50.00",
+	"Mileage": "50",
+	"Hours": "50",
+	"Oil1": "50",
+	"ColumnValue1": "50.0",
+	"ColumnValue2": "50",
+	"ColumnValue3": "50.00",
+	"ColumnValue4": "50.00",
+	"ColumnValue5": "50.00",
+	"ColumnName1": "Mileage",
+	"ColumnName2": "Hours",
+	"ColumnName3": "Fuel",
+	"ColumnName4": "Oil",
+	"ColumnName5": "DEF"
+}
+
+}

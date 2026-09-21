@@ -1,0 +1,1077 @@
+{
+	"23245":{
+	"UserName":"Automation",
+	"Password":"Pnx@2023",
+	"Database":"AutomationNJ",
+	"AlarmType":"Single Alarm",
+	"BusinessOrPersonNameID":"B-0000000001",
+	"NameID1":"B-0000000002",
+	"FileName":"TempFile"
+	},
+	"21539": {
+		"CaseNo": "24-000008",
+		"Type1": "Incident Report",
+		"Type2":"Supplemental Report",
+		"NIBRS": "120 - Robbery",
+		"Reason": "Stolen",
+		"Property": "Bicycles",
+		"Description": "Testing",
+		"Quantity": "1",
+		"Value": "50",
+		"Status": "Sent to Lab (Outside of the Property Room)",
+		"LastName": "Davis"
+	},
+	"251299": {
+		"CADCFS": "1",
+		"Location": "331 Vine St",
+		"CADDisposition": "SAC",
+		"CFS": "1313",
+		"Charge":"940.19(1)",
+		"ChargeOffense":"940.19(1) - Battery - Simple Assault",
+		"Type": "Incident Report",
+		"NIBRS": "13B -Simple Assault",
+		"LocationType": "Air/Bus/Train Terminal",
+		"SuspectedOfUsing": "Drugs/Narcotics",
+		"WeaponsForceUsed": "Handgun",
+		"CriminalActivity": "None/Unknown",
+		"Category": "Document - File",
+		"NameID": "A-0000000248",
+		"NameID1": "A-0000000250",
+		"Unit": "Auto",
+		"Offender": "Mason, Taylor",
+		"CallNo": "20.000083",
+		"Description":"MA-Battery - Simple Assault"
+	},
+
+  "274785": {
+		"CADCFS": "100",
+		"Location": "1575 Old Freehold Rd",
+		"NameID": "A-0000000429",
+		"CADDisposition": "I",
+		"Category": "Photograph"
+	},
+
+	"273479": {
+		"CaseNo": "21-000156",
+		"Category": "Scan - Document",
+		"Count1":"2",
+		"Count2":"1"
+	},
+
+"32675":{
+"Pawn":"24-000001",
+"Category":"Scan - Document"
+},
+
+"32674A":{
+"CitizenNo":"24-000003",
+"Address":"101 W Acorn Dr",
+"Category":"Scan - Document"
+},
+"35094":{
+"NIBRS":"100 - Kidnapping/Abduction",
+"CaseNo":"24-000005",
+"Reason":"Found",
+"Property":"Aircraft",
+"Description":"JOSHAUTOMATION",
+"Value":"10",
+"LastName":"Mikeoen",
+"Status":"Retained by the Investigative Agency",
+"FileName":"image (2)",
+"NameID":"A-0000000022",
+"Activity":"Victim",
+"Category":"Scan - Document"
+},
+
+"12120": {
+		"NameID": "A-0000000124",
+		"FileName": "Image1.jpg",
+		"FileName1": "Image2.jpg"
+	},
+
+"263936": {
+	"CaseNo": "20-000034",
+	"Reason": "Evidence",
+	"Property": "Clothes/Furs",
+	"Status": "Recovered for an Other Agency",
+	"Storage": "Recovered for an Other Agency",
+	"Type": "Property Report"
+},
+"263932": {
+	"CaseNo": "21-000031",
+	"Reason": "Evidence",
+	"Property": "Firearms",
+	"Caliber": "9mm"
+},
+"281421": {
+	"CaseNo": "21-000229"
+},
+"10300": {
+		"CaseNo": "23-000012",
+		"Charge": "100.02(1)",
+		"Type": "Incident Report",
+		"ReportType": "Incident Report",
+		"PropertyNo": "23-000004-1",
+		"Property": "Bicycles",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "auto",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Value": "200"
+},
+"15751":{
+	"VinNo":"13579",
+	"Year":"2023",
+	"Make":"AARD",
+	"Model":"TL",
+	"Style":"CI",
+	"Custom1":"Test",
+	"PlateNumber":"Veh13",
+	"State":"WI - Wisconsin",
+	"PlateNo":"12144-NY",
+	"NameID":"A-0000000063",
+	"CallNo":"23.000051",
+	"PlateState":"WI",
+	"EquipmentUsed":"Auto Truck",
+	"Wrecker":"Falcon Service",
+	"TowReason":"Accident",
+	"TowNo":"24-000003"
+ 	},
+ 		"ImageEditor": {
+		"FileName": "Image1.jpg",
+		"LastName": "Harper",
+		"FirstName": "Thomas"
+	},
+	"ImageEditor_2": {
+		"FileName": "Image2.jpg",
+		"LastName": "Harper",
+		"FirstName": "Thomas"
+	},
+	
+	"18683":{
+	"DashBoardName":"TestingPerfect",
+	"DasboardType":"PDF File"
+},
+
+		"16344": {
+		"FormRefNo": "Candidate1",
+		"FormName": "Candidate form",
+		"Version": "1",
+		"RepositoryID": "1210",
+		"PFCode": "AUTO",
+		"PFName": "Prophoenix, Automation",
+		"SelectForm": "Candidate form"
+	},
+	"256422": {
+		"NameID": "A-0000000485",
+		"Name": "Ronie, Kean",
+		"LastName": "Ronie",
+		"FirstName": "Kean",
+		"Address": "4220 King Arthur Pl, Columbus, WI 31907",
+		"ArrestNo": "24-000002",
+		"ArrestBooking": "24-000002",
+		"Password": "Pnx@2016"
+	},
+		"256798": {
+		"NameID": "A-0000000322",
+		"LastName": "Sandy",
+		"FirstName": "Scotty",
+		"Description": "Physically Fit"
+	},
+		"256411": {
+		"LastName": "Daniel",
+		"FirstName": "Jack",
+		"Address": "743 Windsor Dr",
+		"Marks": "ART L ARM",
+		"Officer": "AUTO",
+		"Name": "Cedar, Sauki",
+		"CaseNo": "20-000060",
+		"FileName": "Image1.jpg",
+		"SMT": "ART ARM"
+	},
+	"40867":{
+		"PFCode":"PASS",
+		"Category":"Document - File",
+		"FileName1":"Drug Form.pdf",
+		"FileName2":"Image1.jpg",
+		"FileName3":"Image2.jpg",
+		"FileName4":"Registration_Export.xlsx",
+		"FileName5":"Sample_wav.wav",
+		"FileName6":"Sample_CR3.CR3"
+	},
+	"41558":{
+		"PFCode":"PASS"
+	},
+	"145144A": {
+		"SortOrder": "1",
+		"FormName": "M2f",
+		"Name": "Test Automation",
+		"Reason": "Model",
+		"CodeValueDescription": "Names",
+		"Category": "  --Add 3059 --  ",
+		"To": "automationqa@prophoenix.com",
+		"Subject": "QA Form",
+		"Message": "Auto Test"
+	},
+	"145144B": {
+		"FormRefNo": "Fee",
+		"FormName1": "chk",
+		"Version": "1.2",
+		"RepositoryID": "1077",
+		"Category": "Administration"
+	},
+	
+  "38593":{
+	"CaseNo":"24-000095",
+	"Type":"Incident Report"
+	},
+
+	"44378":{
+"NameID":"A-0000000443",
+"Name":"Jordan, Holt St",
+"Type":"Business Notification",
+"FileName":"img2.png",
+"TabName":"Notification"
+},
+"46239":{
+"LastName":"Rock",
+"FirstName":"Moon",
+"Address":"606 Azusa",
+"Password":"Pnx@2016",
+"Category":"Scan - Document",
+"TabName":"Main",
+"TabName1":"Attachments"
+},
+"46140":{
+	"PFCode":"GAL",
+	"Category":"Scan - Document",
+	"FileName":"Drug Form.pdf",
+	"GridRowCount":"1"
+},
+
+  "47631":{
+"ArrestNo1":"25-000004",
+"CustodyReason":"New Arrest",
+"Risk Level":"High Risk",
+"AssignCellNo":"C9",
+"AssignedBy":"AUTO",
+"Link":"img2.png"
+},
+"48521":{
+"NameID":"A-0000000552",
+"Flags1":"Armed Dangerous",
+"Flags2":"Domestic Violence",
+"Name":"Benjamin, Levi"
+},
+
+	 "42124":{
+    "VinNo":"R54545S",
+    "Flags":"Attempt",
+    "Comments":"Automation Test",
+    "Category":"Photograph",
+    "Model":"01",
+    "Style":"4d",
+    "Color1":"Black",
+    "Plate":"F152694",
+     "VehicleNo": "4",
+     "PlateNumber": "84523",
+    "State":"WI - Wisconsin"
+	},
+
+"48804":{
+"ParameterID":"231",
+"PFCode":"TPR001",
+"Link1":"Crash.pdf",
+"FileName1":"Drug Form.pdf",
+"FileName5":"Sample_wav.wav",
+"FileName6":"Sample_CR3.CR3",
+"Link":"https://prophoenix.com/",
+"Category":"Scan - Statement",
+"Link2":"8904_7.pdf",
+"Link3":"8904_4.pdf"
+},
+
+"48608":{
+"CaseNo":"25-000029",
+"Type":"Incident Report",
+"Charge":"100.188",
+"NIBRS":"90Z -All Other Offenses",
+"NameID":"A-0000000441",
+"NameID1":"A-0000000309",
+"Description":"100.188 - Electricals Codes < ICE>",
+"Offender":"Frederick, Hamilton",
+"Incident":"MU-Electricals Codes < ICE>",
+"Field":"Incident",
+"RedactReason":"Test Automation"
+},
+
+"48783": {
+		"ClassNo": "25-000001",
+		"PFCode1": "AU24",
+		"PFCode2": "Px404",
+		"PFCode3": "25",
+		"ReportName": "Personnel Training Class Detail",
+		"Course":"Selenium"
+		},
+		"48790I":{
+			"PFCode":"3235",
+			"Category":"Document - File",
+			"FolderName":"DEFECT DOCUMENT",
+			"FileName1":"Crash.pdf",
+			"FileName2":"Image1.jpg",
+			"FileName":"Image1.jpg"
+		},
+		"48790":{
+			"PFCode":"WYAT",
+			"Category":"Document - File",
+			"FolderName":"DEFECT DOCUMENT",
+			"Link":"Crash.pdf",
+			"Link1":"Image1.jpg",
+			"FileName":"Image1.jpg"
+		},
+		"50847":{
+		"Type":"Business Notification",
+		"Name":"Harold, Das",
+		"NameID":"A-0000000545",
+		"FileName":"Drug Form.pdf"
+		},
+		"48910":{
+			"40ParamValue1":"http://ch176.prophoenix.com/ReportServer",
+			"40ParamValue2":"https://ch176.prophoenix.com/ReportServer",
+			"40ParamValue1181":"http://ch119.prophoenix.com/ReportServer",
+			"40ParamValue1182":"https://ch119.prophoenix.com/ReportServer",
+			"ReportName":"System Parameter Settings"
+		},
+		"50825":{
+		"Version":"16",
+		"FormName":"User Guide",
+		"FormName1":"Release Guide",
+		"FormName2":"User Guide",
+		"ItemValue":"Manage Repository",
+		"RepositoryID":"1210"
+	},		
+		"50813":{
+       "SPNNo1":"21",
+       "SPNNo2":"47",
+	   "Category":"Scan - Document"
+},
+"48819":{
+  "PF":"CM002",
+  "Message":"AutomationAuto",
+  "Image":"img2.png"
+},
+"50403":{
+"AlarmNo":"47",
+"Amount": "45",
+"Payment": "45",
+"PaymentMethod": "Cash",
+"InvoiceNo": "25-000004"
+},
+"55894": {
+"FormName":"PhoneixPX",
+"Version": "1.118"
+},		
+
+  "54995":{
+"Name":"Sudhrsan, Chakra",
+"Type":"Community Notification"
+},
+
+"23180":{
+    "SortOrder":"3",
+    "FormName":"Streo"
+},
+
+ "55572":{
+"RequestNo":"18-000001",
+"Category":"Scan - Document",
+"FileName":"Drug Form.pdf"
+},
+"55906":{
+"CaseNo":"25-000040",
+"NameID":"A-0000000023",
+"TypeofForce":"Blunt instrument/Flashlight"
+},
+"55765":{
+"CaseNo":"25-000043",
+"Category":"Scan - Document",
+"FileName":"Drug Form.pdf",
+"Link":"Drug Form.pdf",
+"Type":"Drug Form.pdf"
+},
+
+"48780":{
+"Purpose":"Automation"
+},
+
+"55498":{
+"ScreenID":"1210",
+"ReportType":"SSRS Report",
+"Category":"Reports",
+"ReportOrFormName":"Automation Report",
+"FileName":"RDL Personnel.rdl",
+"UploadFileName":"RDL Personnel",
+"ReportName":"Automation Report",
+"Name":"Course Title/Course#"
+},
+
+"58090A":{
+"PF":"Berry, John",
+"Category":"Scan - Document",
+"EarnedVia":"Manual Entry",
+"color1":"rgba(0, 0, 255, 1)"
+},
+"55573":{
+"Code":"8525",
+"PFCode":"8525",
+"Supervisor":"AUTPOL",
+"TypeOfInjury":"Mental Stress",
+"Ref":"75",
+"Unit":"087",
+"NatureAndExtentOfInjury":"Death",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"HowOccured":"TrafficOverrule",
+"Form":"Drug Form (Multiple)",
+"FormName":"Drug Form",
+"NewAction":"Send for Approval",
+"Password":"Pnx@2016",
+"NewAction1":"Approve",
+"NewAction2":"More Info Needed",
+"RejectionCode":"Poor Grammar",
+"Status0":"Submitted",
+"Status1":"Approved",
+"Category":"Scan - Statement",
+"Module":"Personnel Injury",
+"Officer":"True",
+"Supervisor":"True"
+},
+
+"55751":{
+"PFCode":"T067",
+"Category":"Scan - Statement"
+},
+"55185":{
+"ReportName":"PF Injury Report",
+"Column1":"PF Code",
+"Column2":"PF Name ",
+"Column3":"Injury Date",
+"Column4":"Injury Type ",
+"Column5":"Division",
+"Column6":"Nature"
+},
+
+"56852":{
+"ReportName":"PF Injury Report",
+"PFName":"Ezequiel"
+},
+
+"55705":{
+"ReportName":"PF Medical History",
+"Column1":"PF Code",
+"Column2":"PF Name ",
+"Column3":"Date of Event",
+"Column4":"Medical Code",
+"Column5":"Notes"
+},
+"55885A": {
+	"ColumnName1": "JurisID",
+	"ColumnName2": "Date",
+	"ColumnName3": "Sender",
+	"ColumnName4": "Receiver",
+	"ColumnName5": "Message",
+	"ColumnName6": "UnitRef"
+},
+"55913":{
+"CaseNo":"25-000060",
+"Type":"Incident Report",
+"NarrativeText":"ChatGPT is an advanced AI chatbot designed to assist with a variety of tasks, including writing, coding, learning, and problem-solving. Launched in November 2022, it utilizes large language models like GPT-4o to generate human-like conversational responses, enabling users to refine and steer conversations towards desired outcomes. ChatGPT can write and debug computer programs, compose music, answer test questions, generate business ideas, translate and summarize text, and simulate a Linux system. It also offers features like voice and image inputs, memory retention, and a marketplace for custom chatbots. The service operates on a freemium model, with free users having access to GPT-4o within usage limits, while paid subscriptions provide increased usage limits and access to additional features or models. OpenAI's ChatGPT is an advanced AI chatbot designed to assist with a variety of tasks, including writing, coding, learning, and problem-solving ",
+"TextNarrative":"OpenAI's ChatGPT is an advanced AI chatbot designed to assist with a variety of tasks, including ",
+"Text":"Intoday’rapidlyadvancingworld,technologycontinuestotransformhowwelive,work,andcommunicate.Digitalplatformsconnectpeopleglobally,enablinginstantaneouscommunication,informationaccess,andcollaborationacrossborders.Asartificialintelligence,automation,anddataanalyticsbecomemoreprevalent,industriesmustadapttoleveragethesetoolsforgrowth,efficiency,andinnovation.However,thesetechnologicaladvancementsalsoraiseimportantquestionsaboutprivacy,security,andthefutureofwork.Societiesmustnavigateethicalconcernswhilepreparingthenextgenerationwithskillsneededforthisnewlandscape.Education,therefore,playsacriticalroleinensuringthateveryonehasopportunitiestocontributetotheireconomiesandcommunities.Withbalanceddevelopmentandthoughtfulimplementation,technologyhaspotentialtoaddressglobalchallenges,bridgeinequalitygaps,andcreateamoreconnected,resilientworldforall.Intoday’rapidlyadvancingworld,technologycontinuestotransformhowwelive,work,andcommunicate.Digitalplatformsconnectpeopleglobally,enablinginstantaneouscwork,andcommunicate.Digitalplatformsconnectpeopleglobally,enablinginstantaneouscommunication,informationaccess"
+},
+
+"55936":{
+"CaseNo":"25-000069",
+"Type":"Incident Report",
+"Activity":"Victim",
+"Activity1":"Arrested",
+"NameID":"A-0000000594",
+"NameID1":"A-0000000592",
+"NameID2":"A-0000000596",
+"OffenderName1":"Roberts, Ethan",
+"OffenderName2":"Darren, Daniels",
+"ConfidentialReason":"Disclosure",
+"ConfidentialReasonInpdf":"CONFIDENTIAL - Disclosure"
+},
+"48779":{
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"InitialCFS":"Alarm",
+"ReportedLocation":"8 Bleecker St",
+"CADDisposition":"BI",
+"NameID":"A-0000000124",
+"Officer1":"Auto",
+"Charge":"100.03(7)(b)",
+"ReportName":"Arrest Docket 1",
+"ArrestNo":"25-000001",
+"Name":"Zaltan, King",
+"ReportFieldName":"ReportDate"
+},
+"58189":{
+"GangName":"QATeam",
+"Name":"Mikepty, Morganlkm",
+"Rank":"Captain",
+"ReportName":"Gang Detail",
+"ReportFieldName":"Rank"
+},
+"58009":{
+"Purpose":"Test",
+"Lastname":"Anawana",
+"NameID":"A-0000000242"
+},
+"46313":{
+"RoleName":"System Administrator",
+"ScreenID":"1921",
+"Purpose":"Test",
+"Lastname":"Anawana",
+"NameID":"A-0000000242",
+"Name":"Anawana, Newton",
+"LastName":"Anawana",
+"FirstName":"Newton"
+},
+"48418":{
+"Purpose":"Test"
+},
+
+"55460":{
+"CaseNo":"25-000080",
+"Activity1":"Court",
+"Activity2":"Arrested",
+"Activity3":"Victim",
+"Name1":"Mikevjr, Morganhly",
+"Name2":"Orin, Vexley",
+"Name3":"Boone, Marcellus"
+},
+"55916":{
+"FromDate":"06/17/2025",
+"FromTime":"00:00:00",
+"ToDate":"06/19/2025",
+"ToTime":"00:00:00",
+"FromDateInGrid":"06/17/25",
+"ToDateInGrid":"06/19/25",
+"columnValues":"Request#",
+"Status":"Open",
+"Request":"25-000001"
+},
+"60462": {
+	"LocationCode":"L100010200000014",
+	"ReportName": "Inventory Storage Lists",
+	"ColumnName1": "Code",
+	"ColumnName2": "Location Use For",
+	"ColumnName3": "Description",
+	"ColumnName4": "Storage Building",
+	"ColumnName5": "Storage Row",
+	"ColumnName6": "Storage Shelf"
+	},
+"60331": {
+	"ReportName":"Session Info Report",
+	"ColumnName1": "IP Address",
+	"ColumnName2": "PF",
+	"ColumnName3": "LastName",
+	"ColumnName4": "FirstName",
+	"ColumnName5": "PFCode"
+},
+"60362": {
+	"ColumnName0": "Juris",
+	"ColumnName1": "Interface",
+	"ColumnName2": "HostSite"
+	},
+"60338": {
+	"ColumnName0": "Juris",
+	"ColumnName1": "Screen ID",
+	"ColumnName2": "Document Title",
+	"ColumnName3": "File Name",
+	"ColumnName4": "Inactive"
+	},
+"60323": {
+	"ColumnName0": "Code ID",
+	"ColumnName1": "Description",
+	"ColumnName2": "Code Category",
+	"ColumnName3": "Display Type",
+	"ColumnName4": "Modules"
+	},
+"55755": {
+	"ColumnName0": "Juris",
+	"ColumnName1": "Form Ref#",
+	"ColumnName2": "Name",
+	"ColumnName3": "Type",
+	"ColumnName4": "Version",
+	"ColumnName5": "Active As of",
+	"ColumnName6": "Score",
+	"ColumnName7": "Response",
+	"ColumnName8": "In Use",
+	"ColumnName9": "Shared",
+	"ColumnName10": "Is Active"
+	},
+	"58060": {
+		"ColumnName0": "Juris",
+		"ColumnName1": "Interface",
+		"ColumnName2": "HostSite",
+		"ColumnName3": "FTPUser",
+		"ColumnName4": "DB Name"
+	},
+
+"60442":{
+"PFCode":"T099;",
+"Section":"Patrol",
+"Division":"Administration",
+"FirstName":"Alex",
+"LastName":"Gred",
+"ReportName":"PF Assignment History"
+},
+"55591":{
+"ReportName":"Random Camera Screening Report",
+"EnterNumberOfEmployeesToTest":"14",
+"EnterNumberOfEmployeesToTest":"14",
+"OutOfTotalBottomMessage0":"Out of a total of ",
+"OutOfTotalBottomMessage1":" active sworn employees, ",
+"OutOfTotalBottomMessage1":" were randomly selected for Body Camera screening on "
+},
+"57920":{
+"ReportName":"PF Medical History",
+"PFName":"Stuart, Mark"
+},
+  "55857":{
+"GangName":"Mad Boys",
+"GangName1":"Yakusa"
+},
+"60194":{
+"ArrestNo":"24-000007",
+"ReportName":"Arrest Docket"
+},
+"60369":{
+"NameID":"A-0000000569",
+"ReportName":"Name Activity Detail SSRS",
+"ActivityType":"Arrest",
+"Charge":"100.03(14) - (Public Order Crimes)",
+"Charge0":"100.03(14) - (Public Order Crimes)"
+},
+"60174":{
+"ArrestNo":"25-000011",
+"Sex":"Male",
+"Race":"White",
+"Ethnic":"Carribean",
+"ReportName":"Booking simple SSRS",
+"FieldName1":"Sex",
+"FieldName2":"Race",
+"RaceEthnic":"White - Carribean"
+},
+"60688":{
+"NameType":"A",
+"LastName":"sergio",
+"FirstName":"Busquetts",
+"Address":"37 Forsythe Rd",
+"UCAccountName":"Automation",
+"Notes":"Test",
+"TabName1":"Criteria",
+"TabName2":"Sites",
+"TabName3":"History",
+"TabName4":"Attachments",
+"Category":"Scan - Document"
+},
+"55493":{
+"NameID":"A-0000000621",
+"CaseNo":"25-000078",
+"ArrestDate":"06/24/2025",
+"How":"On-View Arrest",
+"Officer1":"Auto",
+"Armed":"Unarmed",
+"Charge":"100.03(22)(a)",
+"Status":"Arrested Adult",
+"Type":"Incident Report",
+"NIBRS":"120 - Robbery",
+"Reason":"Stolen",
+"Property":"Alcohol",
+"Value":"10",
+"OwnerNameID":"A-0000000621",
+"ActivityType":"Property",
+"ActivityType1":"Arrest",
+"ReportName":"Name Rap Sheet SSRS",
+"FieldName1":"ActivityType"
+},
+"55858":{
+"JobName":"ADMK",
+"JobNo":"834",
+"Category":"Resume"
+},
+"63547":{
+"ScreenID":"1211",
+"DocumentTitle":"Automate"
+},
+"46297":{
+"ACENo":"24-000001",
+"Species1":"--",
+"Species":"Goat",
+"Breed1":"Altai Mointain",
+"Breed2":"Altai Mointain",
+"Color1":"Black",
+"Color2":"Black",
+"Markings":"Caramel",
+"ReportName":"Animal Name Detail",
+"ReportName1":"Animal Name Detail",
+"Species":"Goat",
+"ReportName":"Animal Case Detail",
+"ReportName1":"Animal Case List"
+},
+"46297A":{
+"Species1":"--",
+"Species":"Goat",
+"Breed1":"Altai Mointain",
+"Breed2":"Altai Mointain",
+"Color1":"Black",
+"Color2":"Black",
+"Markings":"Caramel",
+"ReportName":"Animal Name Detail",
+"ReportName1":"Animal Name Detail",
+"Species":"Goat",
+"ReportName":"Animals Lost or Found",
+"ReportName1":"Animal Case List",
+"ColunmName1":"LF#",
+"ColunmName2":"Date",
+"ColunmName3":"Location Where Lost/Found",
+"ColunmName4":"Breed(1)",
+"ColunmName5":"Breed(2)",
+"ColunmName6":"Color(1)",
+"ColunmName7":"Color(2)",
+"ColunmName8":"Species"
+},
+"60560":{
+"ScreenID":"1039",
+"SecurityScreenID":"1033",
+"DocumentTitle":"NextGen",
+"SortOrder":"2",
+"Description":"NextGenTest",
+"CustomDescription":"NextGenAutomationTest",
+"ScreenID1":"1050",
+"SecurityScreenID1":"1020",
+"DocumentTitle1":"Exception",
+"Link":"http://www.poenix.com"
+},
+"60524":{
+"ReportName":"Inventory Storage Lists",
+"ColunmName":"Code"
+},
+
+"63057":{
+"UserName1":"ftoof",
+"Password1":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"FTONo":"25-000016",
+"DOREntryType":"DOR: CommentsCell"
+},
+"66051":{
+"CodeID":"3090",
+"CodeValueDescription":"Resume",
+"PFCode":"K211",
+"Category":"Resume"
+},
+"65953":{
+  "Action": "Allow",
+  "ReportName": "Access List Control",
+   "PFCode":"iarms",
+   "PFCode1":"RMS, IA-IARMS"
+},
+"64733":{
+"CaseNo":"25-000088",
+"ReportName1":"Incident Report",
+"ReportName2":"Supplemental Report",
+"ChargeDescription":"NU-Farm Contracts - Fail to Meet Financing",
+"Charge":"100.03(7)(a)"
+},
+"62883":{
+"Name":"Kanchi Mack",
+"BookName":"Phone",
+"PhoneType":"Work",
+"PhoneNumber":"(256) 325-6322",
+"Extn":"234 ",
+"ReportName":"Contact Details",
+"LastName":"Kanchi",
+"FirstName":"Mack"
+},
+"67353":{
+"CaseNo":"25-000098",
+"Type":"Incident Report",
+"NIBRS":"120 - Robbery",
+"Reason":"Stolen",
+"Property":"Crops",
+"Description":"Test Property",
+"Value":"1",
+"OwnerNameID":"A-0000000674",
+"Reason1":"Recovered",
+"RelatedPropertyNo":"25-000009-1",
+"Status":"Destroyed (Closed)",
+"NameID":"A-0000000676",
+"value1":"1",
+"Charge":"100.03(2)(a)",
+"PoliceForceUsed":"Baton",
+"ReportType":"# Property Report",
+"NIBRS1":"90Z -All Other Offenses"
+},
+"57972":{
+"DocumentTitle":"Automation",
+"Comments":"Test",
+"TabName1":"Blog",
+"TabName2":"Attachment"
+},
+"64093":{
+"NameID":"A-0000000678",
+"":""
+},
+"64738":{
+"LastName":"Lost",
+"FirstName":"Merry",
+"Address":"9 Autumn Rd",
+"Sex":"Male",
+"Race":"White",
+"Ethnic":"Unknown",
+"CADCFS":"1",
+"Location":"579 Troy-Schenectady Rd",
+"CADDisposition":"CLO",
+"Activity":"Victim",
+"OffenderName":"Lost, Merry",
+"Resident":"Unknown"
+},
+"60692": {
+	"NameID": "A-0000000641",
+	"Cell1": "1DC4",
+	"Cell2": "--",
+	"PreBookOfficer": "AUTO",
+	"Sex": "Male",
+	"Officer": "AUTO",
+	"InmateType": "Racine City Police",
+	"ConfineReason": "Board",
+	"SentenceStatus": "Hung Up",
+	"ArrestingOfficer": "Automation Police",
+	"ArrestingOfficerName": "Automation Police",
+	"ArrestingOfficerID": "202",
+	"AgencyORI": "WI",
+	"AgencyCode": "001017C",
+	"DetainerType": "Rev Order & Warrant",
+	"Description": "ADAMS",
+	"AgencyCaseNo": "22",
+	"DocumentType": "Sentence",
+	"Court": "County Court",
+	"Statute1": "100.03(22)(a)",
+	"PF": "AUTO",
+	"ArrivalOfficer": "AUTO",
+	"IntakeOfficer": "AUTO",
+	"ReviewType0": "Intake",
+	"ReviewType1": "Intake",
+	"ReviewType2": "Intake",
+	"SupervisorPFCode": "AUTO",
+	"SupervisorPFDescription": "Prophoenix, Automation",
+	"Action1": "Approved",
+	"Type": "Front",
+	"Action": "Assign Position 1",
+	"ArrivalOfficerPF":"AUTO"
+},
+"60692A": {
+	"NameID": "A-0000000695",
+	"Cell1": "1DC4",
+	"Cell2": "--",
+	"PreBookOfficer": "AUTO",
+	"Sex": "Male",
+	"Officer": "AUTO",
+	"InmateType": "Racine City Police",
+	"ConfineReason": "Board",
+	"SentenceStatus": "Hung Up",
+	"ArrestingOfficer": "Automation Police",
+	"ArrestingOfficerName": "Automation Police",
+	"ArrestingOfficerID": "202",
+	"AgencyORI": "WI",
+	"AgencyCode": "001017C",
+	"DetainerType": "Rev Order & Warrant",
+	"Description": "ADAMS",
+	"AgencyCaseNo": "22",
+	"DocumentType": "Sentence",
+	"Court": "County Court",
+	"Statute1": "100.03(22)(a)",
+	"PF": "AUTO",
+	"ArrivalOfficer": "AUTO",
+	"IntakeOfficer": "AUTO",
+	"ReviewType0": "Intake",
+	"SupervisorPFCode": "AUTO",
+	"SupervisorPFDescription": "Prophoenix, Automation",
+	"Action1": "Rejected",
+	"Action2": "Approved",
+	"Type": "Front",
+	"Action": "Assign Position 1",
+	"Comments": "Test for 60690A",
+	"ArrivalOfficerPF":"AUTO"
+},
+"65512":{
+	"SPNNo":"104",
+	"SPN#":"104",
+	"ReportName":"CMS Booking Sheet",
+	"Charge":"100.06(1g)(d)"
+},
+"60475":{
+"FeeType":"Calling Card Account",
+"Amount":"1452",
+"SPN":"21",
+"FullName":"Theodore,Lowe"
+},
+"65408":{
+"PFCode":"60328"
+},
+"67604":{
+"ArrestNo":"25-000011",
+"Charge1":"100.03(15)(b)"
+},
+	"60393": {
+		"Certification": "01 - Selenium Certification",
+		"FileName": "Image1",
+		"Link": "Image1.jpg",
+		"Reason": "Automation",
+		"PFCode": "AUTPOL",
+		"UserName": "Lock",
+		"EnteredBy": "Lock",
+		"CertificationOrLicenseNo": "TD51455554",
+		"EarnedCEU":"5.00",
+		"EarnedHours":"1:00",
+		"PF":"Automation, Police"
+	},
+"64254":{
+"SelfProfileText":"Text",
+"TextType":"Names Comments"
+},
+"63658":{
+"Interface":"CMS-Keefe",
+"FolderPath":"Automation",
+"LocationType":"Local Folder/Shared Folder",
+"LogonType1":"--",
+"KeyFile1":"--",
+"KeyId1":"--",
+"LogonType2":"LOGON32_LOGON_BATCH",
+"KeyFile2":"LOGON32_PROVIDER_DEFAULT",
+"KeyId2":"Security Anonymous",
+"LogonType":"LOGON32_LOGON_BATCH",
+"KeyFile":"LOGON32_PROVIDER_DEFAULT",
+"KeyID":"Security Anonymous",
+"HostSite":"Automation"
+},
+"62656":{
+"FTONo":"25-000011",
+"ReportName":"FTO Daily Observation Report Consolidated"
+},
+"67472":{
+"UserName1":"ftoof",
+"Password1":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"SelectForm1":"Canditate Form",
+"FormName1":"Canditate Form",
+"SelectForm2":"Medical 2016 MD1",
+"FormName2":"Medical 2016 MD1",
+"LastName":"Automation",
+"FTONo":"25-000010"
+},
+"60321":{
+"ReportName1":"Personnel Training Class summary report",
+"ReportName2":"Training Class Instructors",
+"ReportName3":"Training Class students"
+},
+"63933":{
+"PFCode":"09172025",
+"RoleName":"System Administrator",
+"FleetID":"09232025",
+"Category":"Scan - Document",
+"ScreenID":"4870"
+},
+
+"68317":{
+"PFCode":"68317",
+"FileName":"Video File_11490.mp4",
+"SelectSourceLanguage":"English (US)",
+"TransalateTo":"Croatian",
+"Notes":"Croatian",
+"PromptDropDown":"AI Editor",
+"Link":"Video File_11490.mp4",
+"AIForwardStatus":"Check AI output"
+},
+"68302":{
+"FormName":"Administration",
+"SubFormName":"Demo",
+"Name":"Demo",
+"QAFromAddress":"Demo",
+"Form Ref":"107",
+"serverPath":"\\\\10.103.28.75\\ShareFolder\\FileUpload\\DownloadedPDF\\"
+},
+	"67921": {
+		"CADCFS": "100",
+		"Location1": "101 W Acorn Dr",
+		"CADDisposition": "I",
+		"Type": "Incident Report",
+		"LocationOfficerBecameInvolved": "W/N Spring Field",
+		"Charge": "10-2-1.1",
+		"Officer": "Prophoenix, Automation",
+		"ReportFieldName1": "Officer",
+		"ReportFieldName2": "InvolvedOfficer"
+	},
+"68211":{
+"NameID":"A-0000000721"
+},
+"68614":{
+"LayerName":"Gang",
+"Category":"Document - File"
+},
+"68275":{
+	"CaseNo":"25-000125",
+	"Description":"For verify the TC 68275",
+	"StorageLocation":"L0000000150",
+	"PackageMark":"12",
+	"ContainerMark":"12"
+},
+"70011":{
+	"SPNNo":"119",
+	"Type":"Front",
+	"Action":"Assign Position 1",
+	"PF":"AUTO",
+	"NameType":"A",
+	"NameID":"0000000730"
+},
+"60642": {
+	"NameID": "A-0000000125",
+	"PreBookOfficer": "AUTO",
+	"Officer": "AUTO",
+	"InmateType": "Racine City Police",
+	"ConfineReason": "Board",
+	"SentenceStatus": "Hung Up",
+	"Sex": "Male",
+	"ArrestingOfficer": "Automation Police",
+	"ArrestingOfficerName": "Automation Police",
+	"ArrestingOfficerID": "202",
+	"AgencyORI": "WI",
+	"Description": "ADAMS",
+	"AgencyCaseNo": "22",
+	"DocumentType": "Sentence",
+	"Court": "County Court",
+	"Statute1": "100.03(22)(a)",
+	"DetainerType": "Rev Order & Warrant",
+	"AgencyCode": "001017C",
+	"PF": "AUTO",
+	"MethodUsed": "Card Type",
+	"ConfirmedByPF": "AUTO",
+	"TabName1": "Finger Print",
+	"Type": "Front",
+	"Action": "Assign Position 1"
+},
+"74381":{
+"LevyCaseID1":"26-000002",
+"LevyID":"26-000002",
+"Category":"Scan - Document",
+"FileName": "Image1.jpg"
+}
+
+}

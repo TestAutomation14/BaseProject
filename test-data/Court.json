@@ -1,0 +1,160 @@
+{
+	"11416": {
+		"CitationNo": "29",
+		"NameID": "A-0000000045",
+		"Charge1": "100.03(12)",
+		"CourtActivityType": "Initial Appearance",
+		"CurrentCharge": "100.03(12)",
+		"ChargeCode": "100.03(12)",
+		"Charge": "100.03(12)",
+		"CurrentChargeDescription": "**Current Charge is Inactive / Not Found. **"
+	},
+	"11685": {
+		"Charge": "100.025(5)"
+	},
+	"34475": {
+		"CitationNo": "129",
+		"Remarks": "TestAutomation"
+	},
+	"34981": {
+		"CitationNo": "77",
+		"NameID": "A-0000000124",
+		"Charge1": "10-2-1.1",
+		"CourtActivityType": "Initial Trial",
+		"Charge2": "10-2-1.2",
+		"Charge3": "100.02(1)"
+	},
+	"AssessmentsEntry": {
+		"Code": "DV",
+		"Cost": "20",
+		"Sort": "10"
+	},
+	"CreateCase": {
+		"CitationNo": "13",
+		"NameID": "A-0000000484",
+		"Charge1": "10-2-1.1",
+		"CourtActivityType": "Initial Trial"
+	},
+	"RegisterCodeEntry": {
+		"CategoryCode": "Automation",
+		"CategoryDescription": "Automation Test",
+		"FormType": "A - Citation",
+		"SortOrder": "1"
+	},
+	"PaymentSchedulingEntry": {
+		"NameID": "B-0000000028"
+	},
+	"42291": {
+		"CitationNo": "4444",
+		"Charge": "100.025(5)",
+		"Subject": "Automation"
+	},
+	"42095": {
+		"CitationNo": "895",
+		"NameID": "A-0000000027",
+		"Charge0": "100.03(2)(a)"
+	},
+	"42292": {
+		"CitationNo": "2205",
+		"NameID": "A-0000000102",
+		"Charge0": "100.025(4)"
+	},
+	"63632": {
+		"CategoryCode": "Test",
+		"CategoryDescription": "Test",
+		"FormType": "A - Citation",
+		"SortOrder": "1"
+	},
+	"63633": {
+		"CitationNo": "32432",
+		"NameID1": "B-0000000033",
+		"NameID2": "O-0000000012",
+		"NameID3": "J-0000000033",
+		"NameID4": "A-0000000033",
+		"CourtActivityType": "Initial Appearance",
+		"Charge1": "100.025(5)",
+		"ChargeDescription1": "MU-Dairy Calves - Falsify Certificate/ID of Calves",
+		"Defendant": "Test, T"
+	},
+	"72548": {
+		"Filter": "Plea - Guilty",
+		"Defendant": "Moore, Perez",
+		"InitialViolation": "100.03(15)(b)",
+		"Charge": "100.03(15)(b)"
+	},
+	"72682": {
+		"Filter": "Plea - Guilty",
+		"LastName": "Colin",
+		"FirstName": "Cairo",
+		"Defendant": "Colin, Cairo",
+		"InitialViolation": "100.03(12)",
+		"Charge": "100.03(12)"
+	},
+	"63633": {
+		"CitationNo": "32432",
+		"NameID1": "B-0000000033",
+		"NameID2": "O-0000000012",
+		"NameID3": "J-0000000033",
+		"NameID4": "A-0000000669",
+		"CourtActivityType": "Initial Appearance",
+		"Charge1": "100.025(5)",
+		"ChargeDescription1": "MU-Dairy Calves - Falsify Certificate/ID of Calves",
+		"Defendant": "Zayden, Knox"
+	},
+	"69238": {
+		"CitationNo": "3097",
+		"CaseNo1": "25-000137",
+		"NameID": "A-0000000724",
+		"Charge1": "100.03(15)(b)",
+		"Charge": "100.03(15)(b)",
+		"BirthDate": "10/04/1976",
+		"": ""
+	},
+	"62689": {
+		"CitationNo": "11",
+		"NameID": "A-0000000773",
+		"Charge1": "10-2-1.1",
+		"CourtActivityType": "Initial Appearance",
+		"PrimaryANameID": "A-0000000121",
+		"MergeLastName": "Olivia",
+		"MergeFirstName": "Ava",
+		"LastName": "Olivia",
+		"FirstName": "Ava",
+		"MergeNameID": "A-0000000773",
+		"MergeANameID": "A-0000000773",
+		"Remarks": "Test Auto"
+	},
+	"74424": {
+		"RateCode": "38"
+	},
+	
+	"74734": {
+		"CourtCaseStartDate": "01/08/2026",
+		"CourtCaseEndDate": "01/08/2026"
+	},
+	
+	"74736": {
+			"CourtDateTime1": "01/09/2026 00:00",
+			"CourtDateTime2": "01/02/2026 00:00",
+			"CourtDateTime3": "01/01/2026 00:00",
+			"CitationNo": "12",
+			"CourtActivityType1":"Initial Appearance",
+			"CourtActivityType2":"Initial Trial",
+			"CourtActivityType3":"Pretrial",
+			"Charge":"100.03(15)(b)",
+			"Charge1":"100.03(15)(b)",
+			"Charge2":"100.03(15)(b)",
+			"Charge3":"100.03(15)(b)"
+			
+		},
+		
+		"74450":{
+			"CitationNo":"4",
+			"NameID":"A-0000000030",
+			"Charge0":"100.03(14) - (Public Order Crimes)",
+			"Charge1":"100.03(14)",
+			"AtypeNameID":"A-0000000030",
+			"ActivityType":"Defendant",
+			"CourtActivityType":"Initial Appearance"
+		}
+}

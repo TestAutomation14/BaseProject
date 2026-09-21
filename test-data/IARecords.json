@@ -1,0 +1,668 @@
+{
+  "278741": {
+    "ComplaintType": "Improper Entry",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "1 a,A1",
+    "ReportedBy": "Public",
+    "LastName": "Penguin",
+    "FirstName": "Cobbelpot",
+    "NameID": "A-0000000012",
+    "SelectAgencyEmployedBy": "Professional Responsibility",
+    "Classification": "Administrative Misconduct"
+  },
+  "278742": {
+    "LastName": "Salina",
+    "FirstName": "Kyle",
+    "CaseNo": "22-000002",
+    "Location": "55 NW sage St,15",
+    "NameID": "A-0000000009",
+    "ComplaintType": "Improper Search",
+    "SelectAgencyEmployedBy": "Inspectorate general",
+    "Classification": "Performance Deficiency",
+    "LastName1": "Lee",
+    "FirstName1": "Thomkin"
+  },
+  "278743": {
+    "LastName": "Salina",
+    "FirstName": "Kyle",
+    "CaseNo": "22-000002",
+    "Location": "55 NW sage St,15",
+    "AssignedSupervisor": "Auto",
+    "AssignedToPF": "IARMS",
+    "TaskCode": "Status Update",
+    "TaskDetails": "Verify Tasks Tab functionality",
+    "TaskCode1": "Status Update",
+    "Description": "Status Update"
+  },
+  "278744": {
+    "CaseNo": "22-000002",
+    "Action": "Complaint form completed",
+    "Note1": "Verify Status update Tab functionality",
+    "Note2": "Verify Status update Tab functionality Edit",
+    "UpdateBy": "AUTO",
+    "RelatedCases":"24-000001"
+  },
+  "278745": {
+    "CaseNo": "22-000002",
+    "Template": "Case Notification",
+    "Template1": "SummaryAuto4",
+    "TextName": "SummaryAuto4",
+    "Text": "THIS IS FOR DEMO"
+  },
+  "278746": {
+    "CaseNo": "22-000002",
+    "Template": "Case Notification",
+    "Template1": "NarrativeAuto",
+    "TextName": "NarrativeAuto",
+    "Text": "THIS IS FOR DEMO"
+  },
+  "278747": {
+    "CaseNo": "22-000003",
+    "NameID": "A-0000000006",
+    "LastName": "Jim",
+    "FirstName": "Gorden",
+    "NameID1": "J-0000000001",
+    "LastName1": "Master",
+    "FirstName1": "Bruce",
+    "Activity": "Victim",
+    "Activity1": "Arrested"
+  },
+  "278748": {
+    "CaseNo": "22-000003",
+    "CompliantType": "Motor Vehicle Accident",
+    "Scene": "Auto Dealership",
+    "TypeOfSecurity": "Dog",
+    "Evidence": "E-mail",
+    "DomesticVoilence": "1 - Yes",
+    "DamageAmount": "200"
+  },
+  "278749": {
+    "RelatedCases": "22-000002",
+    "Location": "55 NW sage St,15",
+    "Location1": "276 Lexington Ave",
+    "RelatedCaseNo1": "22-000010",
+    "Notes": "ForTest",
+    "CaseNo": "22-000003"
+  },
+  "278750": {
+    "FirstName": "Thomkin",
+    "LastName": "Lee",
+    "Information": "test",
+    "VehicleNum": "2192",
+    "CaseNo": "22-000003",
+    "State": "NJ",
+    "Activity": "Tow",
+    "VehicleNo": "126957"
+  },
+  "278751": {
+    "CaseNo": "22-000018",
+    "Reason": "Lost",
+    "Property": "Other",
+    "Description": "This is for Demo",
+    "MainTabValue": "25",
+    "Quantity": "1",
+    "LastName": "Timberlake",
+    "FirstName": "A",
+    "RecoveredTabValue": "25",
+    "Value": "Recovered for an Other Agency"
+  },
+  "278752": {
+    "CaseNo": "22-000003",
+    "Reason": "Found",
+    "Property": "Other",
+    "Description": "This is for Demo",
+    "MainTabValue": "25",
+    "Quantity": "1",
+    "LastName": "Timberlake",
+    "FirstName": "A",
+    "RecoveredTabValue": "25",
+    "Value": "Recovered for an Other Agency",
+    "Type": "Property Report"
+  },
+  "278753": {
+    "CaseNo": "22-000003",
+    "Type": "IA Incident Report",
+    "CompliantType": "Demeanor",
+    "Status": "Submitted",
+    "Action": "Send for Approval",
+    "Scene": "Auto Dealership",
+    "TypeOfSecurity": "Dog",
+    "Evidence": "E-mail",
+    "DamageAmount": "200"
+  },
+  "278754": {
+    "CaseNo": "22-000003",
+    "Type": "IA Supplemental Report",
+    "CompliantType": "Demeanor",
+    "Status": "Submitted",
+    "Status1": "Approved",
+    "Action": "Send for Approval",
+    "Action1": "Approve",
+    "Scene": "Auto Dealership",
+    "TypeOfSecurity": "Dog",
+    "Evidence": "E-mail",
+    "DamageAmount": "200"
+  },
+  "278755": {
+    "Reported By": "Federal LEA",
+    "FirstName": "Kyle",
+    "LastName": "Salina",
+    "NameID": "A-0000000001",
+    "ReportedLastName":"Jim",
+    "ReportedFirstName":"Gorden",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "10 Gotham",
+    "Type": "Improper Arrest",
+    "Classification": "Performance Deficiency",
+    "SelectAgencyEmployedBy": "Agency 1"
+  },
+  "278756": {
+    "NameID": "A-0000000003",
+    "LastName": "Dumbledoor",
+    "IncidentNo": "22-000002",
+    "IncidentCategory": "Citizen Complaint",
+    "SelectAgencyEmployedBy": "Agency 1",
+    "Classification": "Administrative Misconduct",
+    "Type": "Improper Arrest"
+  },
+  "278757": {
+    "InvestigatorPF": "Auto",
+    "IncidentType": "Citizen Compliant",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentNo": "22-000001",
+    "Template": "Case Notification",
+    "Template2": "NarrativeIncident1",
+    "TextName": "Case Notification",
+    "TextName1":"NarrativeIncident1",
+    "Text": "THIS IS FOR DEMO",
+     "ScreenID":"2414",
+    "ScreenID1":"2418"
+  },
+  "278761": {
+    "SubjectsNameID": "A-0000000004"
+  },
+  "278762": {
+    "CaseNo": "22-000001",
+    "UOFNo": "22-000001",
+    "SubjectName": "Joesph, Vijay",
+    "Officer": "IA, Automation",
+    "DispositionbyPFNo": "AUTO"
+  },
+  "281466": {
+    "Status": "OnHold",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "OnHold",
+    "Status1": "On Hold"
+  },
+  "281467": {
+    "Status": "Submitted",
+    "Action": "Send for Approval",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Submitted"
+  },
+  "281468": {
+    "Status": "Approved",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Approved"
+  },
+  "281471": {
+    "Status": "OnHold",
+    "Action": "Send To Transcriber",
+    "Status1": "Keypunch",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "OnHold",
+    "MyReportStatus1": "Transcriber"
+  },
+  "281487": {
+    "Status": "Keypunch",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Transcriber",
+    "Action": "Send for Approval",
+    "CompliantType": "Demeanor",
+    "TypeOfSecurity": "Dog",
+    "Evidence": "E-mail",
+    "DamageAmount": "200",
+    "Status1": "OnHold"
+  },
+  "281514": {
+    "Status": "Submitted",
+    "Action": "Reject",
+    "Action1": "Rejected",
+    "RejectionCode": "Poor Grammar",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Submitted",
+    "PFName": "Phoenix,Automation"
+  },
+  "281530": {
+    "Status": "Rejected",
+    "Action": "Send for Approval",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Rejected"
+  },
+  "281532": {
+    "Status": "Submitted",
+    "Action": "Approve",
+    "Action1": "Approved",
+    "PFName": "Phoenix,Automation",
+    "Type": "IA Incident Report",
+    "MyReportStatus": "Submitted",
+    "PFName1": "Phoenix, Automation"
+  },
+  "281619": {
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "44 Jade St",
+    "ReportedBy": "Public",
+    "ComplaintType": "Improper Entry",
+    "LastName": "Edward",
+    "FirstName": "Nigma",
+    "NameID": "A-0000000011",
+    "Type": "IA Incident Report",
+    "Classification": "Performance Deficiency"
+  },
+  "282122": {
+    "CaseNo": "22-000001",
+    "TaskCode1": "Citizen information Form Provided to Complainant",
+    "TaskCode2": "Initial Interview of Complainant",
+    "TaskCode3": "Photographs taken of any injuries as a result of this incident.",
+    "Description": "Citizen information Form Provided to Complainant",
+    "Description1": "Initial Interview of Complainant",
+    "Description2": "Photographs taken of any injuries as a result of this incident."
+  },
+  "282133": {
+    "IncidentNo": "22-000005",
+    "NameID": "A-00000009",
+    "Type": "Improper Entry",
+    "Name": "Lee, Thomkin",
+    "IncidentDisposition": "Unfounded"
+  },
+  "282141": {
+    "NameID": "A-000000010",
+    "Address": "26 Wellbaum Rd",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "15 Agile ",
+    "Type": "Improper Arrest",
+    "Type1": "Other Criminal Violation",
+    "IncidentNo": "22-000001",
+    "AnonymousName": "Anonymous",
+    "FirstName": "Kean",
+    "LastName": "Barbara"
+  },
+  "282169": {
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "2 Middletown Inlt",
+    "ReportedBy": "Public",
+    "LastName": "Edward",
+    "FirstName": "Nigma",
+    "LastName1": "Penguin",
+    "FirstName1": "Cobbelpot",
+    "NameID": "A-000011",
+    "ComplaintType": "Improper Arrest",
+    "CaseDisposition": "Administratively Closed",
+    "Activity": "Complaint Against",
+    "Name": "Penguin, Cobbelpot"
+  },
+  "282178": {
+    "IncidentCategory": "Citizen Complaint",
+    "ComplaintType": "Improper Entry",
+    "IncidentLocation": "1 Lantern Ln",
+    "ReportedBy": "Public",
+    "LastName": "Bruce",
+    "FirstName": "Wyne",
+    "NameID": "A-0000000006",
+    "NameID1":"A-0000000007",
+    "SelectAgencyEmployedBy": "Professional Responsibility",
+    "Classification": "Administrative Misconduct"
+  },
+  "282695": {
+    "FromDate": "05/02/2022",
+    "ToDate": "09/02/2022",
+    "IncidentCategory": "Citizen Complaint",
+    "ReceiveSource": "External",
+    "IncidentType": "Improper Search",
+    "IncidentType1": "Domestic Violence",
+    "AgainstLastName": "Bruce",
+    "AgainstFirstName": "Wyne",
+    "ReportByLastName": "Jim",
+    "ReportByFirstName": "Gorden"
+  },
+  "282696": {
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "2 Middletown Inlt",
+    "Reported By": "Criminal Justice",
+    "LastName": "Liam",
+    "FirstName": "Olivia",
+    "Type": "Improper Search",
+    "SelectAgencyEmployedBy": "Inspectorate general",
+    "Classification": "Performance Deficiency",
+    "Address": "101 N 25 Birch St",
+    "NameID": "A-00000011",
+    "IncidentType": "Improper Search",
+    "NameType": "O"
+  },
+  "282698": {
+    "CaseNo": "22-000009"
+  },
+  "282700": {
+    "CaseNo": "25-000001"
+  },
+  "283615": {
+    "ComplaintType": "Differential Treatment",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "1 1st St",
+    "ReportedBy": "Public",
+    "LastName": "Sampath",
+    "FirstName": "Sampath",
+    "name": "Sampath, Sampath",
+    "Name":"Jim, Gorden",
+    "NameID": "A-0000000006",
+    "SelectAgencyEmployedBy": "Professional Responsibility",
+    "Classification": "Administrative Misconduct"
+  },
+  "283618": {
+    "ComplaintType": "Differential Treatment",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "advert st",
+    "ReportedBy": "Public",
+    "LastName": "Salina",
+    "FirstName": "Kyle",
+    "NameID": "A-0000000007",
+    "ZipCode": "08201",
+    "PremiseNo":"4",
+    "SelectAgencyEmployedBy": "Professional Responsibility",
+    "Classification": "Administrative Misconduct"
+  },
+  "283844": {
+    "CaseNo": "22-000002",
+    "CaseNo1": "22-000020",
+    "LastName":"Salina",
+    "FirstName":"Kyle"
+  },
+  "289595": {
+    "InvestigatorPF": "Auto",
+    "IncidentType": "Citizen Compliant",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentNo": "22-000001",
+    "Template": "Document-Review",
+    "Template2": "NarrativeIncident1",
+    "TextName": "NarrativeIncident1",
+    "Text": "THIS IS FOR DEMO",
+    "Address":"55 NW sage St,15"
+  },
+   "290054": {
+    "CaseNo": "22-000002",
+    "Template": "Case Notification",
+    "Template1": "SummaryAuto4",
+    "TextName": "SummaryAuto4",
+    "Text": "THIS IS FOR DEMO"
+  },
+   "290055": {
+    "CaseNo": "22-000002",
+    "Template": "CM Review",
+    "Template1": "NarrativeAuto",
+    "TextName": "NarrativeAuto",
+    "Text": "THIS IS FOR DEMO"
+  },
+  "10193":{
+  	"Make":"AECD",
+  	"PlateNumber":"Vehicle50",
+  	"NameID":"A-0000000012",
+  	"NameActivity":"Driver",
+  	"Flags":"Attempt",
+  	"Association":"Vehicle"
+  },
+  "10880":{
+  	"Text":".22-000014",
+  	"CaseNo":"22-000014",
+  	"Location":"15 Agile",
+  	"IncidentCategory":"Citizen Complaint",
+  	"IncidentLocation":"100 Adams St",
+  	"Location1":"100 Adams St",
+  	"ReportedBy":"Public",
+  	"FirstName":"A",
+  	"LastName":"Timberlake",
+  	"NameID":"A-0000000008",
+  	"ComplaintType":"Improper Arrest"
+  },
+
+  "24783":{
+  "CaseNo":"24-000001",
+  "RelatedCases":"24-000002",
+  "Notes":"Test",
+  "Action":"Status Update",
+  "UpdateBy":"Auto",
+  "Note":"Test",
+  "Note1":"Test"
+ }, 
+
+  "24803":{
+  	"Reported By": "Public",
+    "FirstName": "Kyle",
+    "LastName": "Salina",
+    "NameID": "A-0000000008",
+	"Name":"Salina, Kyle",
+    "ReportedLastName":"Jim",
+    "ReportedFirstName":"Gorden",
+    "IncidentCategory": "Citizen Complaint",
+    "IncidentLocation": "10 Gotham",
+    "Type": "Improper Arrest",
+    "Classification": "Performance Deficiency",
+    "SelectAgencyEmployedBy": "Agency 1"
+  },
+  
+  "26816":{
+  "ParameterID":"780",
+  "CaseNo":"24-000003"
+  },
+  "34555":{
+  "ComplaintType1":"Excessive Force",
+  "ComplaintType2":"Improper Arrest",
+  "ComplaintType3":"Improper Entry",
+  "Classification":"Performance Deficiency"
+  },
+  
+  "39170":{
+  "Category":"Scan - Document",
+  "Action":"Allow",
+  "PFCode":"iarms"
+  },
+  "46301":{
+   "ParameterID":"862",
+   "CaseNo":"25-000001",
+   "Action":"Send To Transcriber",
+   "Type": "IA Incident Report"
+   },
+   "45363":{
+	  "IncidentCategory": "Citizen Complaint",
+	  "IncidentLocation": "1 a,A1",
+	  "ReportedBy": "Public",
+	  "LastName": "Penguin",
+	  "FirstName": "Cobbelpot",
+	  "NameID": "A-0000000012",
+	  "ComplaintType": "Improper Entry",
+	  "SelectAgencyEmployedBy": "Professional Responsibility",
+	  "Classification": "Administrative Misconduct",
+	  "Type": "IA Incident Report",
+	  "NameID1": "A-0000000006",
+	  "LastName1": "Jim",
+	  "FirstName1": "Gorden",
+	  "NameID2": "J-0000000001",
+	  "LastName2": "Master",
+	  "FirstName2": "Bruce",
+	  "Activity": "Victim",
+	  "Activity1": "Arrested",
+	  "VehicleNum": "2192",
+	  "State": "NJ",
+	  "Activity2": "Tow",
+	  "VehicleNo": "126957",
+	  "Reason": "Stolen",
+	  "Property": "Alcohol",
+	  "Description": "This is for Demo",
+	  "MainTabValue": "1000",
+	  "Quantity": "1",
+	  "LastName": "Timberlake",
+	  "FirstName": "A",
+	  "RecoveredTabValue": "1000",
+	  "Value": "Recovered for an Other Agency",
+	  "CompliantType1": "Demeanor",
+	  "Scene": "Auto Dealership",
+	  "TypeOfSecurity": "Dog",
+	  "Evidence": "E-mail",
+	  "Action1": "Approve"	 
+     },
+"50385":{
+"IncidentCategory":"Citizen Complaint",
+"IncidentLocation": "15 Agile",
+"LastName": "John",
+"FirstName": "Abraham",
+"NameID": "A-0000000007",
+"ComplaintType": "Improper Entry",
+"Classification": "Administrative Misconduct",
+"ReportedBy":"Public",
+"GunType":"Bomb"
+},
+"55007":{
+"SubjectsNameID":"O-0000000001"
+},
+"67609":{
+"Status1":"Approved",
+"Status2":"Locked",
+"StatusOption":"Rejected",
+"Status3":"Rejected",
+"Officer1":"Auto"
+},
+
+  "72752":{
+"ReportedBy": "Public",
+"IncidentCategory": "Citizen Complaint",
+"IncidentLocation": "100 Adams St",
+"LastName": "Hayes", 
+"FirstName": "Christopher",
+"NameID": "A-0000000023",
+"ComplaintType": "Domestic Violence",
+"LastName1": "Hayes",
+"FirstName1": "Christopher",
+"Name": "Hayes,Christopher",
+"Classification": "Performance Deficiency",
+"Description1": "Prosecutors Office notified",
+"PF": "AUTO",
+"Category": "Court",
+"ActivityCode": "Circuit"
+},
+"72752A":{
+"ReportedBy": "Public",
+"IncidentCategory": "Citizen Complaint",
+"IncidentLocation": "15 Agile",
+"LastName": "Carter", 
+"FirstName": "Matthew",
+"NameID": "A-0000000024",
+"ComplaintType": "Domestic Violence",
+"LastName1": "Carter",
+"FirstName1": "Matthew",
+"Name": "Carter,Matthew",
+"Classification": "Performance Deficiency",
+"Description2": "Citizen Information form given to complainant",
+"PF": "AUTO",
+"Category": "Court",
+"ActivityCode": "Circuit"
+},
+"72752B":{
+"ReportedBy": "Public",
+"IncidentCategory": "Citizen Complaint",
+"IncidentLocation": "10 Gotham",
+"LastName": "Rogers", 
+"FirstName": "Ethan",
+"NameID": "A-0000000025",
+"ComplaintType": "Domestic Violence",
+"LastName1": "Rogers",
+"FirstName1": "Ethan",
+"Name": "Rogers,Ethan",
+"Classification": "Performance Deficiency",
+"PF": "AUTO",
+"Description3": "Interview of officers",
+"Category": "Court",
+"ActivityCode": "Circuit"
+},
+"73996": {
+"CaseNo1": "25-000005",
+"CaseNo2": "25-000007",
+"UserName": "Automation",
+"Password": "Pnx@2016",
+"Database": "AutomationPoliceMJ"
+},
+"73996A":{
+"CaseNo1": "25-000005",
+"CaseNo2": "25-000007", 
+"UserName": "Automation",
+"Password": "Pnx@2016",
+"Database": "AutomationPoliceMJ"
+},
+"73996B":{
+"CaseNo1": "25-000005",
+"CaseNo2": "25-000007", 
+"UserName": "Automation",
+"Password": "Pnx@2016",
+"Database": "AutomationPoliceMJ"
+},
+"68113A":{
+"CaseNo":"25-000004",
+"NameID":"A-0000000009",
+"Activity":"Victim",
+"LastName":"Lee",
+"FirstName":"Thomkin"
+},
+"69917A":{
+"CaseNo":"25-000003"
+},
+"76388":{
+"ReportedBy": "Public",
+"IncidentCategory": "Citizen Complaint",
+"IncidentLocation": "15 Agile",
+"LastName": "Carter", 
+"FirstName": "Matthew",
+"NameID": "A-0000000024",
+"ComplaintType": "Domestic Violence"
+},
+"76487": {
+"IncidentNo": "26-000001",
+"IncidentNo1": "26-000001",
+"IncidentCategory1": "Citizen Complaint",
+"ReportedDate1": "03/03/2026",
+"ReportedTime1": "19:11:54",
+"Against1" : "Sampath Sampath",
+"Location1": "100 Adams St",
+"InvestigatorPF1": "TeamAutomn",
+"InvestigatorPFDescription1": "Carter, Jhon",
+"LastName1" : "Thompson",
+"FirstName1" : "Oliv",
+"Address1" : "15 Agile",
+"City1": "Cape May",
+"ReportedBy1": "Public",
+"State1": "NJ - New Jersey",
+"Zipcode1": "08204",
+"PhoneType1": "H - Home",
+"PhoneNo1": "(999) 999-9999",
+"Email1": "test@gmail.com",
+"Name1" : "Sampath, Sampath"
+},
+"77846": {
+"CaseNo1" : "25-000003"
+},
+"77846A": {
+"RoleName": "System Administrator",
+"ScreenName": "Trespass"
+},
+"77846B": {
+"ParameterName1": "Trespass"
+},
+"77846C": {
+"NameType": "Adult"
+},
+"77846D": {
+"LastName": "Hensworth",
+"FirstName": "Roman",
+"Address": "1 Main Rd"
+},
+"77846E": {
+"Address": "5 Saasam"
+}
+}

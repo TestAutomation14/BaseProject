@@ -1,0 +1,41 @@
+{
+
+"257060":{
+"SystemCommand":"39",
+"SystemCommandCode":"39",
+"UserCommandCode":"PB",
+"Description":"BOLO",
+"DispOrder":"0",
+"CC":"PB"
+},
+
+"LORSearch":{
+	"MaxUnits":"12",
+	"ScheduleName":"Test",
+	"Priority":"1 - 1",
+	"Man":"1 - 1",
+	"Required":"1 - Must",
+	"Level":"1 - 1",
+	"Type":"PR - Patrol-Radar"
+},
+
+"NPASearch":{
+	"NPACard":"Test",
+	"TableName":"TestAuto",
+	"Order":"2"
+},
+
+"TriggerSearch":{
+	"UnitSlotNo":"66",
+	"TriggerName":"TestAuto",
+	"TriggerDescr":"Automation Test"
+},
+
+"CADToneEntry":{
+	"FireStation":"s2",
+	"ToneCode":"123"
+}
+
+}
+
+

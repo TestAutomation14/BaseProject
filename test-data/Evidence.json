@@ -1,0 +1,73 @@
+{
+	"18486": {
+		"PlateNumber": "65AB4321",
+		"State": "NJ",
+		"Text": "Automation Testing"
+	},
+	
+"32658":{
+"ColumnName":"Incident#"
+},
+"34925": {
+"PropertyType":"Article",
+"Type": "Article",
+"IncidentNo":"19-000004"
+},
+
+"43991":{
+"Audit":"24-000001",
+"AuditName":"Automation"
+
+
+
+},
+"44019":{
+"Reason":"Stolen",
+"Property":"Aircraft",
+"LastName":"Sampath",
+"FirstName":"Sampath",
+"LastName1":"Ram",
+"FirstName1":"Raja",
+"Name":"Sampath, Sampath",
+"CaseNo":"24-000002"
+
+},
+"52033A": {
+		"VinNo": "FR20NB8520",
+		"Year": "2025",
+		"Make": "ACUR",
+		"Model": "LEG",
+		"Style": "2D",
+		"PlateNumber": "FRF25MN",
+		"State": "AZ",
+		"Propulsion":"AL",
+		"Material":"AL",
+		"BoatHullNo":"BTF2025MAR13",
+		"RegistrationNo":"BTF2025MAR"
+	},
+	"74483A":{
+		"IncidentLocation":"100 Adams St",
+		"ReportedBy":"Public",
+		"LastName":"Snelson",
+		"FirstName":"Matt",
+		"NameID":"A-0000000027",
+		"ComplaintType":"Other Criminal Violation",
+		"Division":"Administration",
+		"Section":"Internal Affairs",
+		"Supervisor":"Auto",
+		"PrimeInvestigator":"IA002",
+		"StorageLocation":"L0000000003",
+		"Status":"Sent To Property Room"
+	},
+	"74483B":{
+		"IncidentLocation":"100 Adams St",
+		"ReportedBy":"Public",
+		"LastName":"Snelson",
+		"FirstName":"Matt",
+		"NameID":"A-0000000027",
+		"ComplaintType":"Other Criminal Violation",
+		"StorageLocation":"L0000000003",
+		"Status":"Sent To Property Room"
+	}
+}
+

@@ -1,0 +1,989 @@
+{
+
+
+	"243488": {
+			"InvoiceType": "Penalty",
+		"InvoiceNo": "20-000001",
+		"Amount": "10",
+		"PaymentMethod": "Cash"
+	},
+	
+	"243489": {
+		"InvoiceNo": "20-000001",
+		"Amount": "20",
+		"PaymentMethod": "Cash",
+		"InvoiceType": "Penalty"
+	},
+	"243490": {
+		"InvoiceNo": "20-000003",
+		"Amount": "25",
+		"PaymentMethod": "Cash"
+	},
+	
+	"243678": {
+		"InvoiceType": "Penalty",
+		"InvoiceNo": "20-000006",
+		"Amount": "35",
+		"PaymentMethod": "Cash"
+	},
+	"245780": {
+		"InvoiceClass": "Alarms",
+		"AccountName": "O-000038",
+		"Amount": "1000",
+		"InvoiceNo": "18-00006"
+	},
+	"251401": {
+		"InvoiceType": "Smoke",
+		"Description":"ADD",
+		"InvoiceType1":"Incident Report",
+		"InvoiceClass":"Miscellaneous"
+	},
+	"251402": {
+		"InvoiceType": "Penalty",
+		"InvoiceNo": "20-000004",
+		"Amount": "50",
+		"AmountDue": "$50.00"
+	},
+	"251416": {
+		"InvoiceNo": "20-000002",
+		"Amount": "200"
+	},
+	"252264": {
+		"ItemCode": "AA01"
+	},
+	"255731": {
+		"InvoiceNo": "20-000002",
+		"CertificateType": "Payment Receipt",
+		"NameType": "Occupancy Name"
+	},
+	"255848": {
+		"AccountNameID": "A - 0000000015",
+		"Amount": "25",
+		"InvoiceNo": "20-000005",
+		"Payment": "$25.00"
+	},
+	"255866": {
+		"AccountNameID": "A - 0000000017",
+		"Amount": "50",
+		"InvoiceNo": "20-000006",
+		"AccountName": "Jessica, John"
+	},
+	"257076": {
+		"Name": "Maria, Cole",
+		"AccountNameID":"A-0000000005",
+		"InvoiceNo": "17-000071",
+		"InvoiceNo1": "19-000007",
+		"InvoiceNo2": "20-000004"
+	},
+	"259532": {
+		"InvoiceType": "Hazmat"
+	},
+	"259715": {
+		"InvoiceClass": "Animal Control (Law)",
+		"LastName": "Mikepty",
+		"FirstName": "Morganlkm",
+		"Amount": "45",
+		"Payment": "45",
+		"PaymentMethod": "Money Order",
+		"CheckNo": "12345",
+		"InvoiceNo": "20-000004"
+	},
+	"260319": {
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Permit",
+		"BillToAccountNameID": "A-0000000028",
+		"ItemCode": "2ii - Type 2 Fumigation",
+		"SubItemCode": "2ii",
+		"Amount": "300",
+		"Payment": "100",
+		"AvailableCredit": "$84.00",
+		"ItemCode1": "1i - Type 1 Bonfires",
+		"SubItemCode1": "1i",
+		"AmountDue": "42.00",
+		"ApplyCredit": "$42.00",
+		"AmountDue1": "42.00",
+		"ApplyCredit1": "$0.00"
+	},
+	"260514": {
+		"InvoiceType":"Animal Licensing",
+		"ItemCode": "Sheep License/Registration",
+		"Amount": "10000",
+		"LicTagType": "Sheep License/Registration"
+	},
+	"273918": {
+		"InvoiceNo": "21-000003",
+		"Amount": "50",
+		"Payment": "25",
+		"AvailableCredit": "$25.00"
+	},
+	"275848": {
+		"UserName": "AC001",
+		"Password": "Pnx@2016",
+		"Database": "FireMJAutomation",
+		"InvoiceNo": "21-000005",
+		"RoleName": "Administrator"
+	},
+	"275934": {
+		"Name": "Brandon, Raymond",
+		"Amount": "120",
+		"PaymentMethod": "Credit Card",
+		"AccountName": "Brandon, Raymond",
+		"PaymentDate": "Today",
+		"InvoiceNo": "19-000001"
+	},
+	"277257": {
+		"UserName": "AC001",
+		"Password": "Pnx@2016",
+		"Database": "FireMJAutomation",
+		"InvoiceNo": "21-000005"
+	},
+	"277261": {
+		"UserName": "AUTO",
+		"Password": "Pnx@2016",
+		"Database": "FireMJAutomation",
+		"InvoiceNo": "21-000010"
+	},
+	"277270": {
+		"InvoiceClass": "Detail Billing",
+		"InvoiceType": "Detail Bill",
+		"BillToAccountNameID": "A-0000000250",
+		"ItemCode": "D1       - Officer Bill Amount",
+		"Description": "Officer Bill Amount",
+		"Quantity": "10",
+		"Rate": "500",
+		"ConditionsNotes": "Test Automation"
+	},
+	"282103": {
+		"InvoiceNo": "21-000009",
+		"PaymentMethod": "Debit Card"
+	},
+	"288165": {
+		"InvoiceNo": "21-000016"
+	},
+	"288316": {
+		"Name": "Prophoenix, Automation"
+	},
+	"ISEntry": {
+		"InvoiceClass": "Detail Billing",
+		"InvoiceType": "Detail Bill",
+		"BillToAccountNameID": "A-0000000250",
+		"ItemCode": "D1 - Officer Bill Amount",
+		"Quantity": "10",
+		"Rate": "500"
+	},
+	"RPEntry": {
+		"InvoiceNo": "21-000006",
+		"Amount": "200"
+	},
+	"ITEntry": {
+		"InvoiceClass": "Alarms",
+		"InvoiceTemplate": "Invoice Due",
+		"InvoiceType": "Test"
+	},
+	"ICEntry": {
+		"InvoiceClass": "Alarms",
+		"InvoiceType": "Registration",
+		"ItemCode": "Automatd",
+		"Description": "TestAut"
+	},
+	"InvcEnt":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Smoke",
+	"BillToAccountNameID":"A-0000000001",
+	"ItemCode":"Carbon - Carbon Monoxide detection",
+	"SubItemCode":"1i"
+	
+	},
+	"InvcTyp":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Automation Process",
+	"ItemCode":"City/Village/Town - General Fund",
+	"InvoiceTemplate":"Invoice Due"
+	
+	},
+	"ItmCdeEnt":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Hazmat",
+	"ItemCode":"Auto",
+	"Description":"AutomationProcess",
+	"Conditions":"Test",
+	"Amount":"500"
+	},
+	
+	"RecvePymnt":{
+	"InvoiceNo": "20-000002",
+	"Amount": "100"
+	
+	},
+	"110299":{
+	"InvoiceClass":"Manual Invoice",
+	"InvoiceType":"TestInvoiceType",
+	"Description":"Test Invoice Type Description",
+	"InvoiceTemplate":"Invoice",
+	"SendFirstNoticeIn":"20",
+	"SendSubsequentNoticeInEvery":"10"
+	},
+	"110300":{
+	"InvoiceType":"TestInvoiceType",
+	"InvoiceClass":"Manual Invoice",
+	"ItemCode":"IC1",
+	"Description":"ItemcodeTesting"
+	},
+	"110301":{
+	"CodeValue":"MI",
+	"Description":"Miscellaneous"
+	},
+	"110275":{
+	"InvoiceClass":"Detail Billing",
+	"InvoiceType":"Detail Bill",
+	"BillToAccountNameID":"B-0000000008",
+	"Address":"4 Park St",
+	"BillingContact":"Adam, Sandler ( Tenant)",
+	"PhoneType":"H - Home",
+	"PhoneNumber":"7894561239",
+	"PhoneNo":"(789) 456-1239",
+	"ItemCode":"D2 - Cruiser Fee",
+	"Rate":"$15.00",
+	"Description":"Cruiser Fee",
+	"InvoiceTemplate":"",
+	"NameRelation":"Tenant",
+	"LastName":"Adam",
+	"FirstName":"Sandler",
+	"PhoneNumber1":"7894561239"
+	},
+	"110207":{
+	"InvoiceNo":"23-000006"
+	},
+	"276779":{
+	"InvoiceClass":"Miscellaneous",
+	"InvoiceType":"Reports",
+	"Description":"Reports Invoice type",
+	"InvoiceTemplate":"Invoice",
+	"ItemCode":"Report1",
+	"Amount":"100"
+	},
+	"110282":{
+	"InvoiceNo":"21-000004",
+	"InvoiceClass":"Detail Billing",
+	"InvoiceType":"Detail Bill",
+	"Address":"18 Frederick Pl",
+	"PFCode":"AUTO",
+	"ActionType":"Deposit Received (+)",
+	"Amount":"300",
+	"Adjustment":"$300.00"
+	},
+	"110217":{
+	"InvoiceClass":"Alarms",
+	"InvoiceType":"False Alarm",
+	"ItemCode":"FLAL",
+	"Address":"47 cove Rd",
+	"InvoiceNo":"23-000001",
+	"ItemCode1":"NOCRG",
+	"TotalAmount":"$0.00",
+	"InvoiceAmount":"$0.00"
+	},
+	"110169":{
+	"InvoiceClass":"Miscellaneous",
+	"InvoiceType":"Reports",
+	"BillToAccountLastName":"Lopez",
+	"Address":"199 S Jefferson Ave",
+	"ItemCode":"Report1 - Reports Invoice type",
+	"Rate":"$100.00",
+	"Amount":"$100.00",
+	"Quantity":"3",
+	"Amount1":"$300.00",
+	"ItemCode1":"Report1",
+	"TotalAmount":"$300.00",
+	"InvoiceAmount":"$300.00"
+	},
+	"110298":{
+	"InvoiceNo":"21-000003",
+	"ActionType":"Waive (-)",
+	"Amount":"-25",
+	"CreditAmountDecreased":"$25.00",
+	"Adjustment":"($25.00)"
+	},
+	"110297":{
+	"AccountLastName":"Cator",
+	"Account":"A0000000077"
+	},
+	"110322":{
+	"InvoiceClass":"Detail Billing",
+	"InvoiceType":"Detail Bill",
+	"ItemCode":"Bill",
+	"Description":"Create new Item Code Bill",
+	"Conditions":"Test",
+	"Amount":"500"
+	},
+	"159903":{
+	"ItemCode":"OR",
+	"Description":"Check Inactive"
+	},
+	"211802":{
+	"InvoiceType":"Fire Alarm"
+	},
+	"210379":{
+	"InvoiceNo":"23-000004",
+	"InvoiceClass":"Alarms",
+	"AccountBalance":"$100.00",
+	"NameID":"B-0000000010",
+	"Amount":"50",
+	"PaymentMethod":"Cash"
+	},
+	"210380":{
+	"InvoiceNo":"20-000014",
+	"Amount":"50.00",
+	"PaymentMethod":"Credit Card",
+	"TransactionReference":"Card1"
+	},
+	"210390":{
+	"InvoiceNo":"23-000005",
+	"Amount":"$200.00",
+	"Payment":"$200.00",
+	"Applied":"$200.00",
+	"PaymentMethod":"Check",
+	"CheckNo":"159263",
+	"ReferenceNo":"159263",
+	"PaidBy":"Check"
+	},
+	"210392":{
+	"InvoiceNo":"23-000002",
+	"Amount":"$300.00",
+	"OverPayment":"$100",
+	"PaymentMethod":"Debit Card"
+	},
+	"210403":{
+	"InvoiceNo":"23-000011",
+	"Reason":"Test"
+	},
+	"210414":{
+	"InvoiceNo":"23-000003",
+	"Amount":"$200.00",
+	"PaymentMethod":"Credit Card",
+	"TransactionReference":"Test1",
+	"PaidBy":"Credit Card",
+	"ReferenceNo":"Test1"
+	},
+	"202598":{
+	"InvoiceClass":"Alarms"
+	},
+	"213733":{
+	"TemplateName":"Test",
+	"InvoiceType":"Medical",
+	"EmailTemplate":"an office worker",
+	"InvoiceClass":"Other Expenses",
+	"BillToAccountNameID":"B-0000000016",
+	"ItemCode":"Ex1 - Ex1"
+	},
+	"216461":{
+	"Address":"2360 W Clybourn St",
+	"InvoiceClass":"Other Expenses"
+	},
+	"226226":{
+	"InvoiceClass":"Other Expenses",
+	"LastName":"RagaPro",
+	"Amount":"$147.00",
+	"PaymentMethod":"Payment by Trip/SDC"
+	},
+	"216463":{
+	"InvoiceClass":"Detail Billing",
+	"InvoiceNo":"23-000010",
+	"DetailNo":"23-000001"
+	},
+	"136914":{
+	"InvoiceNo":"20-000003",
+	"ItemCode":"ACETL",
+	"Rate":"$100.00",
+	"Amount":"$100.00",
+	"TotalAmount":"$100.00",
+	"InvoiceBalance":"$100.00"
+	},
+	"251401A":{
+	"InvoiceType":"Default",
+	"Description":"Default",
+	"InvoiceType1":"Travel Charges",
+	"InvoiceClass":"Other Expenses"
+	},
+	"259532A":{
+	"InvoiceType":"Rent"
+	},
+	"210448":{
+	"PermitNo":"20-000003",
+	"PaymentMethod":"Credit Card",
+	"TransactionReference":"Paid1"
+	},
+	"110301A":{
+	"CodeValue":"OE",
+	"Description":"Other Expenses"
+	},
+	"110207A":{
+	"InvoiceNo":"23-000006"
+	},
+	"136914A":{
+	"InvoiceNo":"23-000007",
+	"ItemCode":"Carbon",
+	"Rate":"$100.00",
+	"Amount":"$100.00",
+	"TotalAmount":"$100.00",
+	"InvoiceBalance":"$100.00"
+	},
+	"110282A":{
+	"InvoiceNo":"21-000004",
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Permit",
+	"Address":"200 Chatham Park Dr",
+	"PFCode":"001",
+	"ActionType":"Deposit Received (+)",
+	"Amount":"300",
+	"Adjustment":"$300.00"
+	},
+	"110217A":{
+	"InvoiceClass":"Alarms",
+	"InvoiceType":"False Alarm",
+	"ItemCode":"FLAL",
+	"Address":"44 Indianola Ave",
+	"InvoiceNo":"23-000008",
+	"ItemCode1":"NOCRG",
+	"ItemCodeTble1":"NOCRG",
+	"ItemCode1InGrid":"NOCRG",
+	"TotalAmount":"$0.00",
+	"InvoiceAmount":"$0.00"
+	},
+	"110298A":{
+	"InvoiceNo":"21-000003",
+	"ActionType":"Waive(-)",
+	"Amount":"-25",
+	"CreditAmountDecreased":"$25.00",
+	"Adjustment":"($25.00)"
+	},
+	"110297A":{
+	"InvoiceClass":"Detail Billing",
+	"AccountLastName":"Bumrah",
+	"Account":"A0000000027"
+	},
+	"159903A":{
+	"ItemCode":"AE03",
+	"Description":"K-12 education 50 or more"
+	},
+	"210379A":{
+	"InvoiceNo":"19-000004",
+	"InvoiceClass":"Inspection",
+	"AccountBalance":"$150.00",
+	"NameID":"B-0000000010",
+	"Amount":"50",
+	"PaymentMethod":"Cash"
+	},
+	"210380A":{
+	"InvoiceNo":"20-000014",
+	"Amount":"35.00",
+	"PaymentMethod":"Credit Card",
+	"TransactionReference":"Card1"
+	},
+	"210390A":{
+	"InvoiceNo":"23-000009",
+	"InvoiceClass":"Manual Invoice",
+	"Amount":"$200.00",
+	"Payment":"$200.00",
+	"Applied":"$200.00",
+	"PaymentMethod":"Check",
+	"CheckNo":"159263",
+	"ReferenceNo":"159263",
+	"PaidBy":"Check"
+	},
+	"210392A":{
+	"InvoiceNo":"23-000010",
+	"Amount":"$300.00",
+	"OverPayment":"$100",
+	"PaymentMethod":"Debit Card"
+	},
+	"210403A":{
+	"InvoiceNo":"17-000067",
+	"Reason":"Test"
+	},
+	"210414A":{
+	"InvoiceClass":"Miscellaneous",
+	"InvoiceNo":"23-000011",
+	"Amount":"$50.00",
+	"PaymentMethod":"Credit Card",
+	"TransactionReference":"Test1",
+	"PaidBy":"Credit Card",
+	"ReferenceNo":"Test1"
+	},
+	"202598A":{
+	"InvoiceClass":"Alarms"
+	},
+	"202598":{
+	"InvoiceClass":"Alarms"
+	},
+	"213733A":{
+	"TemplateName":"Test",
+	"Rate":"100",
+	"InvoiceType":"Other Report",
+	"EmailTemplate":"Test",
+	"InvoiceClass":"Miscellaneous",
+	"BillToAccountNameID":"B-0000000016",
+	"ItemCode":"OR1 - Other Report",
+	"Bcc": "temp@prophoenix.com" 
+	},
+	"216463A":{
+	"InvoiceClass":"Detail Billing",
+	"InvoiceNo":"23-000012",
+	"DetailNo":"23-000001"
+	},
+	"243489A": {
+		"InvoiceNo": "20-000001",
+		"Amount": "20",
+		"PaymentMethod": "Cash",
+		"InvoiceType": "Penalty"
+	},
+	"255731A": {
+		"InvoiceNo": "20-000002",
+		"CertificateType": "Payment Receipt",
+		"NameType": "Occupancy Name"
+	},
+	"282103A": {
+		"InvoiceNo": "21-000009",
+		"PaymentMethod": "Debit Card"
+	},
+	"160079":{
+	"SystemIDNo":"73",
+	"IDNo":"73",
+	"InvoiceType":"Smoke",
+	"BillToAccountLastName":"New Agency",
+	"Account":"B0000000002",
+	"SubItemCode":"20",
+	"ItemCode":"C1 - Chlorine"
+	},
+	"243674":{
+	"InvoiceNo":"23-000004",
+	"Amount":"50",
+	"PaymentMethod":"Transfer"
+	},
+	"211675":{
+	"SystemIDNo":"70",
+	"SystemID":"70",
+	"InvoiceType":"Hazmat",
+	"OccupancyName":"Symsey",
+	"BillToAccount":"Symsey",
+	"Cycle":"Annual",
+	"ItemCode":"OT - Oil Tank",
+	"Description":"Oil Tank",
+	"Qty":"1",
+	"Rate":"$50.00",
+	"Amount":"$50.00",
+	"ConditionsNotes":"Bulk Oil Tank Installation",
+	"ItemCode1":"OT",
+	"ForYear":"2023"
+	},
+	"110302":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Service",
+	"Description":"Permit Invoice",
+	"InvoiceTemplate":"Invoice Due",
+	"Permit":"5i",
+	"SubItemCode":"Code5",
+	"FeesDescription":"Payment for Permit",
+	"Rate":"500",
+	"ItemCode":"5i"
+	},
+	"211974":{
+	"LastName":"Sammy",
+	"SystemIDNo":"95",
+	"InvoiceType":"Hydrant",
+	"Amount":"100"
+	},
+	"110323":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Penalty",
+	"ItemCode":"27",
+	"ItemCode1":"4i",
+	"Description":"Add",
+	"Permit":"4i"
+	},
+	
+	"16340":{
+	"InvoiceClass":"Permit (Law)",
+	"InvoiceType":"Permit",
+	"Description":"Test Automation",
+	"InvoiceTemplate":"Invoice",
+	"ItemCode":"ANH124",
+	"Rate":"250",
+	"Permit":"Vehicle" 
+	},
+	
+	"17607": {
+	"Payment0": "100.00",
+	"Payment": "$0.00",
+	"InvoiceNo": "17-000069",
+	"AccountNameID": "A-0000000003",
+	"Amount": "$50.00"	
+	},
+		
+	"17787": {
+	"InvoiceNo": "17-000069",
+	"AccountNameID": "A-0000000008",
+	"Amount": "$250.00",
+	"AmountDue1": "$200.00",
+	"Applied": "$200.00",
+	"OverPayment": "$50"
+	},	
+  
+	"19337": {
+		"InvoiceNo": "17-000021"
+	},
+	"17780": {
+		"UserName": "Automation",
+		"Password": "Pnx@2023",
+		"Database": "AutomationNJ",
+		"InvoiceClass": "Animal Control (Law)",
+		"InvoiceType": "Animal Licensing",
+		"InvoiceNo": "24-000002",
+		"Amount": "230",
+		"PaymentMethod": "Cash"
+	},
+	"23048": {
+		"ApprovalStatus": "OnHold",
+		"ApprovalStatus1": "Submitted"
+	},
+
+	"23212":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Registration",
+	"InvoiceNo":"24-000003",
+	"ItemCode":"COM2 - Commercial 2",
+	"ItemCodeInGrid":"COM2",
+	"ItemCode1":"COM1",
+	"Quantity":"1",
+	"ItemCode2":"R1 - Residential 1",
+	"ItemCode2InGrid":"R1"
+	},
+		
+		"23081":{
+		"InvoiceType":"Hazmat",
+		"InvoiceClass":"Inspection",
+		"ItemCode":"12345",
+		"Description":"Test Automation"
+		},
+  
+		"23201":{
+		"Amount":"500",
+		"AccountNameID":"A-0000000030",
+		"InvoiceNo": "24-000001",
+		"InvoiceClass":"Inspection",
+		"Notes":"Received Payment $500.00"
+		},
+  
+		"24867":{
+		"InvoiceDate":"This Week",
+		"DueDate":"In 7 days",
+		"InvoiceClass":"Alarms"
+		},
+  
+		"26733":{
+		"Pf":"001",
+		"Name":"Test, Automation",
+		"Category0":"K9 Vet Expenses",
+		"Category1":"K9 Dog",
+		"Category2":"K9 Cat"
+		},
+
+		"26576":{
+		"InvoiceClass":"Inspection",
+		"InvoiceType":"Inspection",
+		"BillToAccountNameID":"A-0000000005",
+		"ItemCode1":"INS - Inspection Fee",
+		"ItemCode2":"Test1 - Test1",
+		"ItemCode3":"Test2 - Test2",
+		"ItemCodeTble1":"INS",
+		"ItemCodeTble2":"Test1",
+		"ItemCodeTble3":"Test2",
+		"Rate":"100"
+		},
+	"35230":{
+	"ApprovalStatus":"OnHold",
+	"Cost":"$100.00",
+	"Description":"Test"
+	},
+	
+	"EEEntry":{
+		"Description":"Test Automation"
+	},
+
+	"42057":{
+	"InvoiceType":"Chargeable",
+	"InactiveDate":"11/13/2024 19:22:00"
+	},
+	"42004":{
+	"Cost":"$100.00"
+},
+"43936":{
+"ItemCode":"2vi"
+},
+"44244":{
+"InvoiceType":"Final Invoice",
+"InvoiceClass":"Inspection",
+"ItemCode":"2vii",
+"SubItemCode":"2vii"
+},
+"44002":{
+"InvoiceNo":"24-000007",
+"Notes":"Received Payment $1.00",
+"color1":"rgba(0, 0, 255, 1)"
+},
+"44083":{
+"InvoiceClass":"Inspection",
+"InvoiceType":"Hydrant",
+"InvoiceNo":"24-000008"
+},
+"44091":{
+"InvoiceType":"Credit Invoice",
+"InvoiceType1":"Commercial Invoice",
+"ItemCode":"121",
+"Description":"Test",
+"InvoiceClass":"Inspection"
+},
+"48502":{
+"AccountNameID":"O-0000000013",
+"Type":"Invoice Detail List",
+"EmailID":"charlesa@prophoenix.com"
+},
+"55000": {
+	"Juris1": "BC - Brown County FireDepartment"
+},
+"55003":{
+	"InvoiceClass":"Inspection",
+	"InvoiceType":"Penalty",
+	"ItemCode1":"27",
+	"InvoiceDate":"Last Year",
+	"FromDate":"01/01/24",
+	"ToDate":"04/28/25",
+	"InvoiceNoFrom":"24-000001",
+	"InvoiceNoTo":"25-000005",
+	"InvoiceNo":"17-000021"
+},
+"55043": {
+	"Address": "801 Drummond Ave,a1",
+	"AccountNameID": "O-0000000070",
+	"Name": "Drottile, IBM",
+	"Account": "O0000000070",
+	"TrackingNo": "4",
+	"TrackingDescription": "Industrial"
+},
+"55880": {
+	"InvoiceClass": "Manual Invoice",
+	"InvoiceType": "Payable",
+	"Description": "Fire Prevention Equipments",
+	"InvoiceTemplate": "Invoice Due",
+	"ItemCode": "PAY-1",
+	"Conditions": "To preventing fire",
+	"Amount": "$702.00",
+	"Notes": "To preventing fire"
+},
+"55903": {
+	"InvoiceClass": "Manual Invoice",
+	"InvoiceType": "Payable",
+	"ItemCode":"PAY-2",
+	"Description":"Add Functionality in Item code"
+	},
+	"55941": {
+	"InvoiceClass": "Manual Invoice",
+	"InvoiceType": "Travel Charges",
+	"ItemCode":"TRA-1",
+	"ItemCode1":"TRA-2",
+	"Description":"Search Functionality in Item code"
+	},
+	"55391":{
+		"Juris1":"PX - ProPhoenix",
+		"Juris2":"BC - Brown County FireDepartment",
+		"InvoiceClass":"Manual Invoice",
+		"InvoiceType":"Travel Charges",
+		"BillToAccountNameID1":"A-0000000044",
+		"BillToAccountNameID2":"A-0000000003",
+		"ItemCode1":"CHA - To verify the Invoice Entry",
+		"ItemCode2":"CHA - To verify the Invoice Entry",
+		"ItemCodeTble1":"CHA",
+		"ItemCodeTble2":"CHA",
+		"Description1":"To verify the Invoice Entry",
+		"Quantity":"1",
+		"Rate":"$150.00",
+		"Amount":"$150.00",
+		"Conditions":"To verify the Invoice Entry"
+	},
+	"55417":{
+	"InvoiceNo":"25-000013",
+	"InvoiceClass":"Inspection",
+	"AccountBalance":"$50.00",
+	"NameID":"B-0000000137",
+	"Amount":"50",
+	"CashRegister":"Bank"
+  },	
+	"60550":{
+		"InvoiceNo":"25-000013",
+		"Amount":"50",
+		"PaymentMethod":"Cash"		
+	},
+	
+	"63639":{
+		"InvoiceNo":"21-000009",
+		"InvoiceClass":"Inspection",
+		"InvoiceType":"Inspection"		
+	},
+	"63624":{
+	"Description":"Test Automation"
+	},
+	"62696":{
+	"Description":"Test Automation",
+	"Category1":"Food Cost",
+	"NewAction1":"Send for Approval",
+	"NewAction2":"Approve",
+	"NewAction3":"Reject",
+	"NewAction4":"Comment",
+	"Status1":"Submitted",
+	"Status0":"On Hold"
+	
+  },
+	"63482":{
+	"ColumnHeader1":"Date",
+	"ColumnHeader2":"Name",
+	"ColumnHeader3":"Catogory",
+	"ColumnHeader4":"Cost",
+	"ColumnHeader5":"Status",
+	"Description":"Test Automation",
+	"Category1":"K9 Vet Expenses",
+	"NewAction1":"Send for Approval"
+  },
+  	"62810": {
+		"Type": "1iii",
+		"ItemCode": "1iii",
+		"Address": "1203 Dousman St"
+	},
+	  	"62963": {
+		"SystemID": "107",
+		"TotalInvoiceGenerated": "1"
+},
+  	"63051": {
+		"Type": "1iv",
+		"ItemCode": "1iv",
+		"SubItemCode": "1iv",
+		"Supervisor ": "F25",
+		"NewAction1":"Send for Approval",
+		"NewAction2":"Comment",
+		"Supervisor":"SFIRE",
+		"Notes":"Redirect",
+		"Address": "1203 Dousman St"
+	},
+"63478": {
+		"Juris1": "BC - Brown County FireDepartment",
+		"Juris2": "BC",
+		"ForYear": "2025",
+		"ForMonth": "January",
+		"ItemCode": "Oil Tank",
+		"BaseMonth": "January",
+		"InvoiceType": "Hazmat"
+},
+"67959": {
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Permit",
+		"ItemCode": "CSACMAPFEC",
+		"Permit": "CSACMAPFEC",
+		"Description": "Test Automation"
+	},
+	"26771": {
+		"Description": "Test Automation",
+		"Category1": "K9 Vet Expenses"
+	},
+	"68034": {
+		"InvoiceClass1": "Inspection",
+		"InvoiceClass2": "Miscellaneous",
+		"InvoiceClass3": "Manual Invoice",
+		"InvoiceClass4": "Alarms",
+		"InvoiceClass5": "Detail Billing",
+		"InvoiceClass": "Inspection",
+		"InvoiceType1": "Permit",
+		"InvoiceType2": "Penalty",
+		"InvoiceType3": "Hazmat",
+		"InvoiceType4": "Inspection",
+		"InvoiceNo": "25-000024",
+		"InvoiceType": "Permit"
+	},
+	"68076": {
+		"InvoiceClass": "Inspection",
+		"InvoiceClass1": "Inspection",
+		"InvoiceClass2": "Miscellaneous",
+		"InvoiceClass3": "Manual Invoice",
+		"InvoiceClass4": "Alarms",
+		"InvoiceClass5": "Detail Billing"
+	},
+	"68081": {
+		"InvoiceNo": "25-000022"
+	},
+	"68303": {
+		"InvoiceType": "Fire Inspection"
+	},
+	"68308": {
+		"InvoiceNo": "25-000022",
+		"ItemCodeTble1": "CSDCMAC",
+		"ItemCode1": "CSDCMAC",
+		"ItemCode": "CSDCMAC"
+	},
+	"68318": {
+		"InvoiceNo": "25-000023",
+		"Amount": "100",
+		"PaymentMethod": "Cash",
+		"AmountDue": "35.00",
+		"Payment": "$35.00"
+	},
+	"68331": {
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Permit",
+		"BillToAccountNameID": "A-0000000059",
+		"Quantity": "10",
+		"Rate": "100",
+		"ItemCode": "CSACMAPFEC - Test Automation",
+		"SubItemCode": "abcd",
+		"ItemCode1": "CSACMAPFEC",
+		"Qty":"Automation"
+	},
+	"68487": {
+		"InvoiceNo": "25-000025",
+		"Amount": "100",
+		"PaymentMethod": "Cash",
+		"RefundAmount": "$30.00",
+		"Notes": "Refund Amount $30.00"
+	},
+	"68650": {
+		"ReceiptNo": "2450",
+		"PaidBy": "Cash",
+		"PaymentMethod": "Cash"
+	
+	},
+	"69670": {
+		"InvoiceDate": "This Calendar Year",
+		"InvoiceDate1": "Last Year"
+	},
+	"62964": {
+	"Juris1": "BC - Brown County FireDepartment",
+	"ColumnName1": "Juris",
+	"ColumnValues1": "BC",
+	"ExpenseClass": "K9",
+	"Category": "K9 Vet Expenses",
+	"ColumnName2": "Category",
+	"ColumnValues2": "K9 Vet Expenses",
+	"Pf": "001",
+	"PFCode": "001",
+	"PFDescription": "Test, Automation",
+	"ApprovalStatus": "OnHold",
+	"ColumnName3": "Status",
+	"ColumnValues3": "On Hold",
+	"ExpenseFromDate": "11/23/2023",
+	"ExpenseToDate": "11/23/2023",
+	"ColumnName4": "Date",
+	"ColumnValues4": "11/23/2023"
+	},
+	"77549":{
+		"Juris1":"PX - ProPhoenix",
+		"ForYear":"2026",
+		"Juris2":"BC - Brown County FireDepartment"
+}
+
+}

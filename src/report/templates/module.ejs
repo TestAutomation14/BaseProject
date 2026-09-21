@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title><%= title %> – Module Report</title>
+
+  <link rel="stylesheet" href="../assets/theme.css" />
+  <script src="../assets/chart.umd.js"></script>
+</head>
+
+<body>
+
+<header class="header">
+  <img src="../assets/logo.png" class="logo" />
+
+  <div>
+    <h1><%= title %> – Module Report</h1>
+    <p><strong>Product:</strong> <%= product %></p>
+    <p><strong>Generated:</strong> <%= generatedAt %></p>
+  </div>
+</header>
+
+<nav class="breadcrumbs">
+  <a href="<%= overallReportPath %>">Home</a>
+  <span>›</span>
+  <a class="active" href="<%= reportFileName %>"><%= title %></a>
+</nav>
+
+<!-- ✅ SUMMARY + CHART -->
+<section class="module-summary-layout">
+
+  <div class="module-main">
+
+    <%
+      let total = data.summary.total || 0;
+      let passed = data.summary.passed || 0;
+      let failed = data.summary.failed || 0;
+      let skipped = data.summary.skipped || 0;
+
+      let passPercent = total > 0 ? Math.round((passed / total) * 100) : 0;
+      let failPercent = total > 0 ? Math.round((failed / total) * 100) : 0;
+      let skipPercent = total > 0 ? Math.round((skipped / total) * 100) : 0;
+    %>
+
+    
+<!-- ✅ LEFT SIDE -->
+    <div class="module-left">
+
+      <!-- ✅ CARDS ROW -->
+      <div class="module-cards">
+
+
+    <div class="module-card total">
+      <div class="module-card-title">Total</div>
+      <div class="module-card-value"><%= total %></div>
+    </div>
+
+    <div class="module-card passed">
+      <div class="module-card-title">Passed</div>
+      <div class="module-card-value"><%= passed %></div>
+      <div class="module-card-sub"><%= passPercent %>% Passed</div>
+    </div>
+
+    <div class="module-card failed">
+      <div class="module-card-title">Failed</div>
+      <div class="module-card-value"><%= failed %></div>
+      <div class="module-card-sub"><%= failPercent %>% Failed</div>
+    </div>
+
+    <div class="module-card skipped">
+      <div class="module-card-title">Skipped</div>
+      <div class="module-card-value"><%= skipped %></div>
+      <div class="module-card-sub"><%= skipPercent %>% Skipped</div>
+    </div>
+     </div>
+
+    <!-- ✅ PIE CHART -->
+    <div class="module-chart-card module-pie-chart">
+      <h3>Status Distribution</h3>
+      <div class="module-chart-container">
+        <canvas id="pieChart"></canvas>
+      </div>
+    </div>
+
+  </div>
+  
+
+  <!-- ✅ RIGHT SIDE -->
+  <div class="module-execution-wrapper">
+  <h2 class="module-exec-title">Execution Info</h2>
+
+  <div class="module-execution-info">
+
+    <p><strong>Total Tests:</strong> <%= total %></p>
+    <p><strong>Passed:</strong> <%= passed %></p>
+    <p><strong>Failed:</strong> <%= failed %></p>
+    <p><strong>Skipped:</strong> <%= skipped %></p>
+    </div>
+    </div>
+
+</div>
+
+
+</section>
+
+<!-- ✅ CATEGORY GRID -->
+<section>
+  <h2 class="module-category-title">Categories</h2>
+
+  <div class="module-category-grid">
+    <% (data.categories || []).forEach(cat => {
+
+      let percent = 0;
+      let barColor = '#22c55e';
+
+      if (cat.summary.total > 0) {
+        percent = Math.round((cat.summary.passed / cat.summary.total) * 100);
+      }
+
+      if (percent < 70) barColor = '#eab308';
+      if (percent < 50) barColor = '#ef4444';
+    %>
+
+    <a href="./<%= cat.reportPath %>"
+       class="module-category-card <%= cat.summary.failed > 0 ? 'failed-card' : '' %>">
+
+      <h3><%= cat.name %></h3>
+
+      <p>
+        ✅ <%= cat.summary.passed %> |
+        ❌ <%= cat.summary.failed %> |
+        ⏭ <%= cat.summary.skipped %>
+      </p>
+
+      <div class="module-progress-bar">
+        <div class="module-progress-bar-fill"
+             data-width="<%= percent %>"
+             data-color="<%= barColor %>"
+             style="width:0%">
+        </div>
+      </div>
+
+      <small>
+        <%= cat.summary.total %> Tests • <%= percent %>% Passed
+      </small>
+
+    </a>
+
+    <% }) %>
+  </div>
+</section>
+
+<!-- ✅ DATA -->
+<script type="application/json" id="moduleData">
+{
+  "passed": <%= passed %>,
+  "failed": <%= failed %>,
+  "skipped": <%= skipped %>
+}
+</script>
+
+<!-- ✅ SCRIPT -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  // ✅ Progress bars
+  document.querySelectorAll(".module-progress-bar-fill").forEach(el => {
+    const width = el.dataset.width;
+    const color = el.dataset.color;
+
+    if (width) el.style.width = width + "%";
+    if (color) el.style.backgroundColor = color;
+  });
+
+  // ✅ Chart data
+  const d = JSON.parse(document.getElementById("moduleData").textContent);
+
+  // ✅ PIE CHART
+  const pie = document.getElementById("pieChart");
+  if (pie) {
+    new Chart(pie.getContext("2d"), {
+      type: 'doughnut',   // ✅ upgraded from pie → modern donut
+      data: {
+        labels: ['Passed', 'Failed', 'Skipped'],
+        datasets: [{
+          data: [d.passed, d.failed, d.skipped],
+          backgroundColor: ['#22c55e', '#ef4444', '#eab308'],
+          borderWidth: 1,
+        hoverOffset: 10   // ✅ nice hover effect
+
+        }]
+      },
+      options: {
+        
+      responsive: true,
+      maintainAspectRatio: false,   // ✅ CRITICAL
+      cutout: '60%',   // ✅ makes donut hole
+
+        plugins: {
+          legend: { position: 'bottom' }
+        },
+
+        
+tooltip: {
+          callbacks: {
+            label: function(context) {
+              const total = d.passed + d.failed + d.skipped;
+              const value = context.raw;
+              const percent = ((value / total) * 100).toFixed(0);
+              return `${context.label}: ${value} (${percent}%)`;
+            }
+          }
+        }
+      },
+      
+animation: {
+        animateRotate: true,
+        duration: 800   // ✅ smooth animation
+
+      }
+    });
+  }
+
+  // ✅ BAR CHART
+  const bar = document.getElementById("barChart");
+  if (bar) {
+    new Chart(bar.getContext("2d"), {
+      type: 'bar',
+      data: {
+        labels: ['Passed', 'Failed', 'Skipped'],
+        datasets: [{
+          data: [d.passed, d.failed, d.skipped],
+          backgroundColor: ['#22c55e', '#ef4444', '#eab308'],
+          borderRadius: 6
+        }]
+      },
+      options: {
+        plugins: {
+          legend: { display: false }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            ticks: { stepSize: 1 }
+          }
+        }
+      }
+    });
+  }
+
+});
+</script>
+
+</body>
+</html>

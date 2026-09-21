@@ -1,0 +1,647 @@
+{
+	"106665": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"106705": {
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"106706": {
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"106707": {
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"106708": {
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"106709": {
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"261421": {
+		"Juris": "PX - ProPhoenix",
+		"TrainingCategory": "Patrol",
+		"Course": "GAP001",
+		"TrainingType": "Patrol In-Service",
+		"NoOfStudents": "5",
+		"Instructor": "1",
+		"Certification": "01 - Selenium Certification",
+		"Position": "1 - Instructor",
+		"Result": "Pass",
+		"Score": "59",
+		"PFCode": "AUTO",
+		"PFCode1": "FAIL"
+	},
+	"106668A": {
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"106668B": {
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"CertificationManualEntry": {
+		"PFNo": "FRMS",
+		"Certification": "33 - Fire Inspector"
+	},
+	"TrainingClassEntry": {
+		"NoOfStudents": "2",
+		"TrainingCategory": "Fire Training",
+		"Course": "1000",
+		"TrainingType": "Fire Response",
+		"EmployeePF": "FRMS"
+	},
+	"12119": {
+		"Certification": "01 - Selenium Certification",
+		"FileName": "Image1",
+		"Link": "Image1.jpg"
+	},
+	"203667": {
+		"PFCode": "AUTPOL",
+		"Certification": "01 - Selenium Certification",
+		"EarnedCEU":"5.00",
+		"EarnedHours":"01:00",
+		"PF":"Automation, Police"
+	},
+
+  "26487":{
+	"CourseSystemID":"3",
+	"Certification":"01 - Selenium Certification",
+	"CEUsEarned":"20",
+	"HoursCredited":"2",
+	"Comments":"TestAutomation"
+	},
+	"26752":{
+	"FRMS":"AUTPOL",
+	"EmployeePF":"AUTPOL",
+	"Certification":"01 - Selenium Certification",
+	"Cost":"12.00"
+  },
+
+	"26521":{
+	"TrainingCategory":"Administrative",
+	"TrainingType":"Internal Affairs",
+	"CourseTitle":"Dell",
+	"Course#":"Dell12345",
+	"Description":"Dell",
+	"CourseHours":"20"
+	},
+	
+	"29399":{
+	"PFCode":"A208",
+	"Certification0":"01 - Selenium Certification",
+	"Certification1":"3 - Docker Certification",
+	"Certification2":"Q1 - QTP",
+	"certification0":"Selenium Certification",
+	"certification1":"Docker Certification",
+	"certification2":"QTP",
+	"EarnedCEU":"2",
+	"EarnedHours":"2",
+	"PF":"Berry, John"
+	
+	
+	},
+	"29397":{
+	"PFCode":"AUTPOL",
+	"TrainingCategory0":"Administrative",
+	"TrainingCategory1":"Communications",
+	"CourseTitle":"Automation Test",
+	"Result":"Pass",
+	"Result1":"Fail",
+	"Score":"20",
+	"Certification0":"01 - Selenium Certification",
+	"Certification1":"Q1 - QTP",
+	"EmployeePF":"AUTPOL",
+	"EarnedCEUs":"20",
+	"CreditedHours":"1",
+	"Name":"Automation, Police",
+	"Certification":"Selenium Certification"
+	},
+	"48820":{
+	"Name":"Prophoenix, Automation",
+	"Certification":"Selenium Certification",
+	"Cost":"777"
+	},
+	"48820A":{
+	"Name":"Murugappa, Antony B",
+	"Certification":"Firefighter I",
+	"Cost":"777"
+	},
+	"50816":{
+		"ClassNo":"18-000001",
+		"Instructor":"2",
+		"Certification":"01 - Selenium Certification",
+		"Position":"1 - Instructor",
+		"CertificationInGrid":"Selenium Certification"
+	},
+	"50816A":{
+		"ClassNo":"25-000001",
+		"Instructor":"1",
+		"Certification":"1 - Firefighter I",
+		"Position":"1 - Instructor",
+		"CertificationInGrid":"Firefighter I"
+	},
+	"57993":{
+	"PF":"Automation, TeamEffort Jr"	,
+	"EarnedVia":"Manual Entry"
+},
+"58081":{
+"EmployeePF":"P4400",
+"TrainingCategory":"Administrative",
+"TrainingType":"Internal Affairs",
+"CourseTitle":"Automation",
+"CourseHours":"2",
+"Instructor":"2",
+"Certification":"01 - Selenium Certification",
+"Position":"1 - Instructor",
+"TrainingHours":"2"
+},
+"58090":{
+"PFNo":"P033",
+"Certification":"3 - Docker Certification",
+"PF":"Automation, PressOFCR",
+"EarnedVia":"Manual Entry",
+"EarnedCEU":"12.00",
+"EarnedHours":"2:00",
+"Category":"Scan - Document",
+"color1":"rgba(0, 0, 255, 1)"
+},
+"58103":{
+"EmployeePF":"A208",
+"TrainingCategory":"Communications",
+"TrainingType":"E-911 Training",
+"CourseTitle":"WWE",
+"CourseHours":"2",
+"Instructor1":"3",
+"Instructor2":"2",
+"color":"rgba(128, 0, 0, 1)",
+"color1":"rgba(0, 0, 0, 1)"
+},
+"58186":{
+"Certification1":"Docker Certification",
+"Certification2":"QTP",
+"CertificationValues":["3 - Docker Certification", "Q1 - QTP"]
+},
+"58011":{
+"ClassNo":"25-000002",
+"PFCode":"A208",
+"Name":"Prophoenix, Automation",
+"ColumnName":"Name"
+},
+"58158":{
+"Name":"Aadwin, Aalmar",
+"Certification":"Selenium Certification"
+},
+"58158A":{
+"Name":"45F, Oliver",
+"Certification":"1 - Firefighter I"
+},
+"58083":{
+"EmployeePF":"P866",
+"Certification":"01 - Selenium Certification",
+"Name":"Test",
+"Certificat":"Selenium Certification"
+},
+"58109":{
+	"Juris":"PX - ProPhoenix",
+	"CourseID":"7",
+	"CourseSystemID":"7",
+	"TrainingCategory":"Administrative",
+	"TrainingType":"Internal Affairs",
+	"CourseNo":"2025",
+	"Course":"2025",
+	"CourseTitle":"Artificial Testing",
+	"selectAtQualificationPeriod":"1 Month",
+	"RequalificationPeriod":"1 Month"
+	},
+
+"63311":{
+"AgencyName":"Selenium, Java",
+"Name":"Selenium, Java"
+},
+"60336":{
+"Name":"selenium",
+"FacilityID":"65",
+"Address":"610 S Broad St,Trenton,08610",
+"CSZ":"Beach Haven",
+"PhoneType1":"H - Home",
+"PhoneNo1":"2222222222",
+"PhoneType2":"C - Cell",
+"PhoneNo2":"3333333333",
+"Email":"Test@prophoenix.com",
+"Notes":"TestAutomation"
+},
+"63019":{
+"CodeNo":"65",
+"CSZ":"Beach Haven",
+"Name":"Selenium"
+},
+"63369":{
+"TrainingCategory":"Defensive and Arrest Tactics",
+"TrainingFromDate":"02/27/2018",
+"TrainingToDate":"06/04/2080",
+"TrainingFrom":"02/27/18",
+"TrainingTo":"06/04/80",
+"TrainingType":"Empty Handed Control",
+"Course":"Selenium",
+"CourseTitle":"Automation Training",
+"EmployeePF":"A208",
+"Agency":"0000000",
+"Name":"DOJ - MADISON: Elijah, Henry",
+"PFCode":"ElijahH",
+"AgencyName":"Elijah, Henry",
+"MethodOfInstruction":"01 - Classroom",
+"TrainingFacility":"Test1",
+"FacilityName":"Automation",
+"Instructor":"1",
+"InstructorName":"Prophoenix, Automation",
+"LocationName":"Automation Test"
+},
+"65795":{
+"CourseTitle":"Provide Guard & Patrol Services",
+"ClassNo":"25-000003",
+"Name":"Prophoenix, Automation"
+},
+"65797":{
+"HelpDeskClass":"NewRoleRestriction",
+"EmailID":"Test@Prophoenix.com",
+"UserName":"P001",
+"Password":"Pnx@2016",
+"Subject":"Test New Role",
+"CreatorPF":"CM001",
+"Status":"New",
+"Priority":"High"
+},
+"62471":{
+"CourseTitle":"Automation Training",
+"ClassNo":"25-000001",
+"PFCode":"AU24",
+"Name":"Shaun, Jerry",
+"ReportName":"Personnel Training Class Detail"
+},
+"63010":{
+"SSNo":"123333333",
+"Agency":"001057C",
+"LastName":"Automation",
+"FirstName":"Hello"
+},
+"62707":{
+"FirstName":"Test",
+"LastName":"Automation",
+"Address":"610 S Broad St,Trenton,08610",
+"CSZ":"North Cape May",
+"County":"AO",
+"PhoneType1":"H - Home",
+"PhoneType2":"C - Cell",
+"PhoneNo1":"1237533333",
+"PhoneNo2":"1237643333",
+"Email":"Test@Prophoenix.com",
+"Notes":"Automation",
+"StudentSSNo":"4444444444",
+"AgencyORI":"0010200"
+},
+"63527":{
+"PF":"Aadwin, Aalmar",
+"EarnedVia":"Manual Entry"
+},
+"63459":{
+"CSZ":"Beach Haven"
+},
+"63459A":{
+"CSZ":"Cullman"
+},
+"63459C":{
+"CSZ":"Cullman"
+},
+"63020":{
+"TrainingType":"Empty Handed Control",
+"ClassNo":"20-000001"
+},
+"63020A":{
+"TrainingType":"Empty Handed Control",
+"ClassNo":"20-000001"
+},
+"62519":{
+"TrainingType":"Empty Handed Control",
+"CourseID":"5",
+"TrainingCategory":"Defensive and Arrest Tactics",
+"CourseTitle":"JavaSelenium",
+"Course#":"79"
+},
+"63374":{
+"Comments":"Automation",
+"TextName":"Test",
+"Template":"Test",
+"Text":"Test Automation"
+},
+"62523":{
+"MethodOfInstruction":"01 - Classroom",
+"PFCode":"Lock",
+"TabName1": "Training Detail",
+"TabName2": "Additional PF",
+"TabName3": "Instructors",
+"TabName4": "Attachment",
+"TabName5": "CEUs",
+"TabName6":"QA Forms",
+"Link":"https://ch175.prophoenix.com/law",
+"EmployeePF":"AU24",
+"TrainingCategory":"Administrative",
+"TrainingType":"Internal Affairs",
+"CourseTitle":"Tab Color Verification",
+"CourseHours":"73",
+"Instructor":"1",
+"Certification":"01 - Selenium Certification",
+"Position":"1 - Instructor",
+"EarnedCEUs":"10",
+"CreditedHours":"12",
+"Certification1":"01 - Selenium Certification",
+"LastName":"Automation"
+},
+  "68371":{
+	"TrainingType":"K9 Training",
+	"CourseID":"9"
+	},
+  "68621":{
+	"Name":"Patrol, Officer"
+	},
+"69634": {
+	"Juris": "PX - ProPhoenix",
+	"Name1": "Aadwin, Aalmar",
+	"Name2": "Aadwin Aalmar",
+	"Name": "Patrol, Officer",
+	"IDNo1": "4",
+	"IDNo2": "5",
+	"PFGuest1": "P866",
+	"EmployeePF": "P866",
+	"InstructorID": "4",
+	"AgencyORI": "002015G",
+	"TrainingCategory": "Administrative",
+	"Certification": "01 - Selenium Certification",
+	"TrainingType": "Internal Affairs",
+	"PeriodFrom": "11/05/2025",
+	"PeriodTo": "11/27/2025",
+	"LastName": "Aadwin",
+	"FirstName": "Aalmar"
+},
+  "69717":{
+	"FirstName":"Test",
+	"LastName":"Automation",
+	"Address":"610 S Broad St,Trenton,08610",
+	"CSZ":"North Cape May",
+	"County":"AO",
+	"PhoneType1":"H - Home",
+	"PhoneNo1":"23456",
+	"PhoneNo2":"2345678901"
+},
+"69774":{
+	"PFCode":"AUTPOL",
+	"TrainingCategory0":"Administrative",
+	"EmployeePF":"P008",
+	"EmployeePF1":"Patrol, Officer",
+	"CourseTitle":"Automation Test",
+	"ColumnHeader1":"Date"
+	},
+"69864":{
+"Name":"Aadwin, Aalmar",
+"Certification":"Selenium Certification"
+},
+  "69859":{
+	"CourseSystemID":"3",
+	"Certification":"01 - Selenium Certification",
+	"Certificate":"Selenium Certification",
+	"CEUsEarned":"20",
+	"HoursCredited":"2",
+	"TrainingCategory":"Police",
+	"TrainingType":"MTM Training",
+	"Comments":"TestAutomation"
+	},
+"69978":{
+"CourseTitle":"Test's",
+"Title":"Test's"
+},
+"69985":{
+"TrainingCategory": "Patrol",
+		"Course": "GAP001",
+		"TrainingType": "Patrol In-Service",
+		"EmployeePF": "WAut",
+		"NoOfStudents": "20",
+		"ToDate": "10/31/2025",
+		"AutoPFName":"Prophoenix, Automation-AUTO",
+		"Score": "59"
+},
+"72068": {
+	"Juris": "PX - ProPhoenix",
+	"Agency": "0000000",
+	"EmployeePF": "CM001",
+	"TrainingCategory": "Administrative",
+	"TrainingType": "Internal Affairs",
+	"Status1": "Scheduled",
+	"LocalCourse": "2025",
+	"CourseTitle": "Artificial Testing",
+	"CourseHours": "5:00"
+},
+"72068A": {
+	"TrainingCategory": "Administrative",
+	"MethodOfInstruction": "01 - Classroom",
+	"TrainingFacility": "Test1",
+	"EmployeePF": "CM001",
+	"Cost": "100.00",
+	"Cost1": "$100.00",
+	"Address": "92 Smithfield Ave,2",
+	"MealsAndOtherCosts": "15.00",
+	"MealsAndOtherCosts1": "$15.00",
+	"MethodOfPayment": "Card",
+	"Status1": "Scheduled",
+	"Result": "Pass",
+	"Score": "100",
+	"CostCenter": "Phoenix",
+	"Status2": "Completed",
+	"Notes": "Auto",
+	"QualificationPeriod": "1 Month"
+},
+"72068B": {
+	"TrainingCategory": "Administrative",
+	"PFCode": "AUTPOL",
+	"Name1": "Automation, Police",
+	"PFName1": "Hayes, Jett",
+	"Name2": "Hayes, Jett",
+	"Name3": "Kenneth, Carl",
+	"PFName2": "Kenneth, Carl",
+	"EmployeePF": "CM001",
+	"Agency": "0000000",
+	"PF1": "2025000002",
+	"AgencyName": "Elijah, Henry"
+	},
+"72068C": {
+		"Instructor1": "1",
+		"TrainingCategory": "Administrative",
+		"EmployeePF": "CM001",
+		"Certification": "01 - Selenium Certification",
+		"Position": "1 - Instructor",
+		"TrainingHours": "5:00",
+		"ID": "1",
+		"Name": "Prophoenix, Automation"
+	},	
+"72068D": {
+		"TrainingCategory": "Administrative",
+		"EmployeePF": "CM001",
+		"Certification1": "01 - Selenium Certification",
+		"Cerification1": "01 - Selenium Certification",
+		"EarnedCEUs": "10",
+		"CreditedHours": "12:00"	
+},	
+"69208":{
+"ClassNo" : "25-000004",
+"Password" : "Pnx@2016",
+"Instructor" : "2",
+"Certification" : "01 - Selenium Certification",
+"Position" : "1 - Instructor",
+"TrainingHours" : "30",
+"CertificationInGrid" : "01 - Selenium Certification", 
+"Name1" : "Raja, Sadaraj",
+"Position1" : "1 - Instructor",
+"Hours1" : "30",
+"Certification1" : "Selenium Certification",
+"Position2" : "Instructor",
+"Hours2" : "30:00"
+},
+"74401":{
+"EmployeePF":"A208",
+"TrainingCategory":"Administrative",
+"TrainingType":"Internal Affairs",
+"CourseTitle":"QA Form",
+"CourseHours":"73",
+"Certification":"01 - Selenium Certification",
+"Position":"1 - Instructor",
+"EarnedCEUs":"10",
+"CreditedHours":"12",
+"Certification1":"01 - Selenium Certification",
+"Certification2":"Selenium Certification",
+"LastName":"Automation"
+},
+"74420":{
+	"Juris":"BC - Brown County Police Department",
+	"Juris1":"BC",
+	"EmployeePF": "Px404",
+	"EmployeePFDescription": "Clara, David",
+	"Agency": "0000000",
+	"AgencyDescription": "DOJ - MADISON",
+	"Type": "Civilian Employee",
+	"TitleRank": "Chief",
+	"Badge": "150",
+	"Division": "Detective",
+	"Team": "Off-group 1",
+	"Section": "Detective",
+	"Shift1":"Day Shift (1st)",
+	"Status1": "Completed"
+},
+"74420A":{
+	"TrainingCategory":"Administrative",
+	"TrainingType":"Internal Affairs",
+	"CourseTitle":"Playwright Test",
+	"CourseNo":"1000",
+	"LocalCourse":"1000",
+	"Description":"Dell",
+	"FromDate":"01/22/2026",
+	"ToDate":"01/22/2026",
+	"RequalifyBy":"01/22/2026",
+	"Result":"Pass",
+	"Instructor":"1",
+	"ID":"1",
+	"Name":"Prophoenix, Automation",
+	"TrainingFacility":"Test1",
+	"MethodOfInstruction":"01 - Classroom",
+	"CourseHours":"20"
+},
+"74480":{
+"NoOfStudents":"20",
+"TrainingCategory":"General",
+"TrainingType":"General Knowledge",
+"TrainingType1":"1 - General Knowledge",
+"CourseNo":"2",
+"Course":"2"
+},
+"74585":{
+	"TrainingCategory":"Administrative",
+	"TrainingType":"Internal Affairs",
+	"CourseTitle":"Devops",
+	"Template":"Automation",
+	"Text":"Regression Test for all the product",
+	"Course#":"Dev09"
+	},
+"74601"	:{
+"CourseTitle":"Test's",
+"Category":"Administrative"
+},
+"72017"	:{
+"AutoPFName":"Hayes, Jett-09122025",
+"ClassNo":"25-000004",
+"PFCode":"09122025",
+"Name":"Hayes, Jett",
+"ColumnName1":"Result",
+"ColumnValue1":"Pass",
+"ColumnName4":"Result",
+"ColumnValue4":"Fail",
+"ColumnName2":"Score",
+"ColumnValue2":"123546",
+"ColumnName5":"Score",
+"ColumnValue5":"0",
+"ColumnName3":"Notes",
+"ColumnValue3":"Test",
+"Notes1":"Test",
+"Result1":"Pass",
+"Result2":"Fail",
+"Score2":"0",
+"Score1":"1235469"
+},
+"74778": {
+"TrainingCategory" : "Administrative",
+"TrainingType" : "Internal Affairs",
+"CourseTitle" : "Maths",
+"Course#" : "7",
+"CourseID": "7",
+"CourseID1": "7",
+"Course": "7",
+"Course1": "7",
+"TrainingType1":"Internal Affairs"
+},
+"77529": {
+"LastName": "TestingTestingTestingTestingTe",
+"FirstName": "AutomationAutomationAutomation",
+"LastName1" :"TestingTestingTestingTest",
+"FirstName1": "AutomationAutomation"
+},
+	"77860": {
+		"ORI": "112034567",
+		"State": "NV - Nevada",
+		"Title1": "Automation",
+		"Address1": "13201 Adventures Camp Ln",
+		"City1": "West Los Angeles",
+		"Zipcode1": "07820",
+		"Country1": "Ada",
+		"PhoneNo1": "(123) 456 7890",
+		"FaxNo1": "(123) 456 7890",
+		"Email1": "Test@gmail.com",
+		"Comment1": "Automation",
+		"AgencyORI": "112034567",
+		"ORIDescription": "Automation",
+		"LastName": "Cena",
+		"FirstName": "John",
+		"PhoneNo2": "(123) 456-7890",
+		"FaxNo2": "(123) 456-7890"
+	},
+"77645": {
+"PF" : "Prophoenix, Automation",
+"EarnedCEU": "10",
+"EarnedHours" : "10",
+"PF1" : "Aadwin, Aalmar",
+"Certification1":"Play - Playwright Certification",
+"CertificationValues":"Play - Playwright Certification"
+	}
+	}

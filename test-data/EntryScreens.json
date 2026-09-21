@@ -1,0 +1,27 @@
+{
+  "RecordProperty": {
+    "UserName": "admin",
+    "Password": "Pleasant14",
+    "Database": "PoliceMJ Test",
+    "ModuleName": "Records",
+    "ScreensCount": "6",
+    "Screen1": "Call Search-Records",
+    "Screen2": "Case Search-Records",
+    "Screen3": "Drug Overdose Search-Records",
+    "Screen4": "Report Distribution Config-Records",
+    "Screen5": "Records Request Search-Records",
+    "Screen6": "UOF Search-Records",
+    "Screen7": "Audit Search-Property",
+    "Screen8": "Property Search-Property",
+    "Screen9": "Pull Request-Property",
+    "EntryScreen1": "Call Entry",
+    "EntryScreen2": "Case Update",
+    "EntryScreen3": "Drug Overdose Entry",
+    "EntryScreen4": "Report Distribution Entry",
+    "EntryScreen5": "Record Request Entry",
+    "EntryScreen6": "UOF Entry",
+    "EntryScreen7": "Audit Entry",
+    "EntryScreen8": "Property Index",
+    "EntryScreen9": "Request Entry"
+  }
+}

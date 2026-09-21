@@ -1,0 +1,275 @@
+{
+	"19999": {
+		"MatchOnlyWithSameNameType": "--Inq 2204 --",
+		"MatchAddress": "--Inq 2204 --",
+		"UseMiddleInitialOnly": "--Inq 2204 --"
+	},
+	
+	"32667":{
+	"NameID":"A-0000000010",
+	"AssociatesNameID":"A-0000000007",
+	"AssociatesName":"Bruce, Wyne"
+	},
+
+  "34467":{
+	"NameID":"A-0000000003",
+	"AssociatesNameID":"A-0000000004",
+	"Name":"Timberlake,A"
+	},
+	"34938":{
+	"NameID":"A-0000000006",
+	"Password":"Pnx@2016",
+	"LastName":"Test",
+	"FirstName":"Automation"
+	},	
+	
+	"34949":{
+	"MainName":"Adolph",
+	"NickName":"Ad"
+	},
+	
+	"35875":{
+	"NameType":"Adult"
+	},
+	"37761":{
+	"MainName":"Test",
+	"NickName":"Josh"
+	},
+
+	"46271":{
+	"LastName":"Leo",
+	"FirstName":"Das",
+	"Address":"10 Gotham",
+	"IncidentCategory": "Citizen Complaint",
+	"IncidentLocation": "44 Jade St",
+	 "ReportedBy": "Public",
+	 "Classification": "Administrative Misconduct",
+	 "ComplaintType": "Improper Entry",
+	 "NameID":"A-0000000011"
+		},
+
+  "46239B":{
+"LastName":"Cherry",
+"FirstName":"Blue",
+"Address":"100 Adams St",
+"Password":"Pnx@2016",
+"Category":"Scan - Document",
+"TabName":"Main",
+"TabName1":"Attachments"
+},
+
+  "48631":{
+		"NameID":"A-0000000007",
+		"Type":"FBI Number",
+		"Number":"11031999"
+		},
+		"50421B":{
+		"LastName":"David",
+		"FirstName":"Billa",
+		"Address":"15 Agile",
+		"Suffix":"--Add 4005 --",
+		"Suffix1":"NK",
+		"CodeValue":"NK",
+		"Description":"NK"
+		},
+		"54949A":{
+"NameID":"A-0000000014",
+"Flags":"Armed Dangerous"
+
+},
+"55759B":{
+"NameID":"A-0000000015",
+"Address":"100 Robert St",
+"CSZ":"Beach Haven, NJ 08008"
+},
+"54951":{
+"PF":"TeamAutomn",
+"LastName":"Josh",
+"FirstName":"Monster",
+"Address":"15 Agile"
+},
+"54959B":{
+"LastName":"Ousumene",
+"FirstName":"Dembele",
+"Address":"15 Agile"
+
+},
+"54982A":{
+"ColumnName":"Warrant"
+},
+"54972B":{
+"NameID":"A-0000000018"
+},
+"57966B":{
+"PrimaryANameID":"A-0000000017",
+"MergeONameID":"O-0000000025",
+"LastName":"O'Quinn",
+"FirstName1":"L'leel",
+"MergeNameID":"O-0000000025",
+"AliasesName":"O'Quinn, L'leel"
+},
+"55835":{
+"LastName":"kevin",
+"FirstName":"Peterson",
+"Address":"15 Agile",
+"Flag":"Armed Dangerous"
+},
+"54973B":{
+"LastName":"Podi"
+},
+"55560":{
+"NameID":"A-0000000017"
+},
+"51552B":{
+"DateRangeFrom":"05/01/2025",
+"ColumnName":"Last Activity"
+
+},
+"55834B":{
+"RealName":"Teddy, Crozs",
+"ReportName":"Pseudonym Entry Report"
+},
+"60164A":{
+"NameID":"J-0000000006"
+
+},
+"60224":{
+"LastActivity":"06/24/2022",
+"NameID":"A-0000000010",
+"ActivityNo":"22-000016"
+},
+"60340B":{
+"NameID":"A-0000000010",
+"SSNo":"111111111"
+
+},
+"60022B":{
+"MatchAddress":"  --Inq 2204 --  "
+},
+"60520":{
+"LastName":"Brewis",
+"FirstName":"Devald",
+"Address":"100 Adams St",
+"LastName1":"Mark",
+"FirstName1":"Zuckermerbg"
+},
+"46334B":{
+"LastName":"Jouse",
+"FirstName":"Mourinho",
+"Address":"100 Adams St",
+"NameType1":"O",
+"SetNameAs1":"A",
+"NameType2":"A"
+},
+"52998C":{
+"NameID":"A-0000000020",
+"EmpLastName":"Cena",
+"Name1":"Cena",
+"Occupation":"F",
+"EmpNameID":"B-0000000002",
+"LastName":"Cena",
+"FirstName":"Rey",
+"Name2":"Cena, Rey",
+"FamilyNameID1":"A-0000000021",
+"FamilyName":"Cena, Rey",
+"AssociatesNameID1":"A-0000000021",
+"AssociatesName":"Cena, Rey",
+"Juris":"BC - Brown County FireDepartment",
+"BCNameID":"A-0000000004",
+"Code":"F",
+"Description":"Finance"
+},
+"64248B":{
+"NameID":"A-0000000019",
+"BirthCountry1":"AT-Argentina",
+"BirthCountry2":"US-United States of America"
+},
+"67590B":{
+"LabelName1":"Homeless",
+"LastName":"boston",
+"FirstName":"bakki",
+"Address":"100 Adams St",
+"CustomName1":"Test",
+"LabelName2":"Test",
+"CustomName2":"Homeless",
+"CustomName":"Test"
+
+},
+"69990B":{
+"DOB":"06/30/1997"
+},
+"70338A":{
+
+"Address":"15 Agile",
+"FirstName":"Kemmy",
+"LastName":"Ponters"
+
+},
+"70429B":{
+"LastName":"William"
+},
+"70521B":{
+"LastName":"Gousin",
+
+"Address":"15 Agile"
+},
+"70579B":{
+"LastName":"Fanteryu",
+"FirstName":"pberty",
+"Address":"15 Agile",
+"LabelName":"CountyNo",
+"CountyNo":"Mander",
+"LicenseType":"None",
+"GednderIdentity0":"Male",
+"Pronouns":"Co/co/cos/cos/coself",
+"CountyNo1":"Mander",
+"ImmigrationNo":"1044540",
+"Description":"Male",
+"LicenseType1":"None",
+"DrivingLicenseNo":"123456789"
+
+},	
+"72419B":{
+"LastName":"Justin",
+"FirstName":"Timber",
+"Address":"15 Agile"
+},
+"74412":{
+"LastName":"Mint",
+"FirstName":"Street",
+"Address":"15 Agile",
+"LabelName":"CountyNo"
+
+},
+"77663":{
+"PF":"FA2207",
+"Rank0":"Captain",
+"Division0":"Administration",
+"Section0":"Internal Affairs",
+"Squad0":"N - QA",
+"TitleRank":"Chief",
+"Division":"Internal Affairs",
+"Section":"Internal Affairs",
+"Squad":"N - QA",
+"Rank1":"Chief",
+"Division1":"Internal Affairs",
+"Section1":"Internal Affairs",
+"Squad1":"N - QA"
+
+},
+"77817B":{
+"LastName":"Motera",
+"FirstName":"Zack",
+"Address":"100 Adams St",
+"Flags0":"Armed Dangerous",
+"JurisInGrid0":"PP",
+"Juris0":"BC - Brown County FireDepartment",
+"Juris1":"PX - ProPhoenix",
+"LastName1":"Gustavo",
+"FirstName1":"Happy",
+"Address1":"100 Adams St",
+"":""
+}
+
+
+}

@@ -1,0 +1,879 @@
+{
+  "115078": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorLastName": "Prophoenix"
+  },
+  "115079": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300"
+  },
+  "115080": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300",
+    "PhoneNo": "4669758765"
+  },
+  "115081": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300"
+  },
+  "115082": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300",
+    "DriverLastName": "Vinton",
+    "DriverFirstName": "Raja"
+  },
+  "115084": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300",
+    "Vendor": "200 - Wrecker Vendor"
+  },
+  "115087": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "Year": "2016",
+    "Make": "Audi",
+    "Model": "A5",
+    "Color": "Black",
+    "EquipmentUsed": "Tow Truck - Light",
+    "Wrecker": "Wrecker Sam",
+    "PlateNo": "1111",
+    "PlateState": "WI",
+    "CallNo": "18-000001",
+    "PlateNumber": "1111"
+  },
+  "115090": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "NextWrecker": "1 - Daniel Tow Vendor",
+    "Address": "100 Mill St",
+    "Equipment": "Tow Truck - Light",
+    "TowedFrom": "200 N Washington Ave",
+    "AuthDriver": "Vinton, Raja",
+    "Officer": "P001",
+    "Method": "Officer Notification",
+    "CallNo": "18-000005",
+    "PlateState": "WI",
+    "EquipmentUsed": "Tow Truck - Light",
+    "Wrecker": "Wrecker Sam",
+    "PlateNumber": "1111"
+  },
+  "115091": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "OwnerLastName": "Vinton",
+    "OwnerFirstName": "Raja",
+    "CallNo": "18-000002"
+  },
+  "115092": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115093": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115095": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115096": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115097": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115098": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115100": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000005",
+    "Vendor": "400 - Wrecker Sam"
+  },
+  "115101": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CallNo": "18-000002"
+  },
+  "115110": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "100",
+    "VendorName": "Prophoenix",
+    "Address": "100 Mill St;PX, Moorestown, NJ, 08057"
+  },
+  "115141": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300",
+    "TerminatedEmployee": "Edward, Bella",
+    "DriverLastName": "Edward",
+    "DriverFirstName": "Bella"
+  },
+  "115331": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "VendorCode": "300",
+    "Vendor": "300 - Wreckers",
+    "Position": "101-1"
+  },
+  "250100": {
+    "CaseNo": "20-000001",
+    "VinNo": "ATB345YT",
+    "Year": "2018",
+    "PlateNumber": "5489",
+    "Make": "FLAN",
+    "Model": "CYL",
+    "Style": "4D",
+    "State": "WI",
+    "OfVehicle": "2",
+    "VehicleNo": "1",
+    "Officer": "Auto",
+    "UnitNo": "1",
+    "Occupants": "2",
+    "TypeOfPerson": "01 - Driver",
+    "PlateNo": "5489 - WI",
+    "Type": "05 - Pickup",
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceNJAutomation",
+    "VehicleUse": "01 - Personal",
+    "InsuranceCompany": "8 - PARTNERS MUTUAL INS CO",
+    "InsurancePolicyNumber": "AWPRTY234589"
+  },
+  "250445": {
+    "CaseNo": "20-000001",
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceNJAutomation",
+    "PlateNumber": "77777",
+    "InsuranceCompany": "3 - ALLSTATE INS CO",
+    "InsurancePolicyNumber": "ABCD1234"
+  },
+  "251105": {
+    "PlateNo": "641",
+    "Plate":"641",
+    "State": "WI - Wisconsin",
+    "Status":"Transfer",
+    "VehicleNo": "52",
+    "VinNo": "1478520",
+    "PlateNumber": "641"
+  },
+  "251106": {
+    "VinNo": "RTY35723",
+    "CallNo": "20.000063"
+  },
+  "254466": {
+    "CaseNo": "20-000126",
+    "TowNo": "20-000002",
+    "HoldReason": "Air leakage"
+  },
+  "254472": {
+    "FleetID": "TAT20",
+    "Make": "AGRO",
+    "Model": "SM",
+    "Year": "2019",
+    "VinNo": "TAERT67890OKL",
+    "Color": "",
+    "TAGNo": "POMJH8764TYH",
+    "StorageLocation": "Storage 2",
+    "VendorName": "",
+    "PFCode": ""
+  },
+  "256100": {
+    "CallNo": "20.000167",
+    "PlateNumber": "552017",
+    "PlateState": "WI",
+     "EquipmentUsed": "Auto Truck",
+    "Wrecker": "Pizza Hut",
+    "ReleaseToLastName": "Pizza Hut",
+    "TowReason":"Abandoned"
+  },
+    "257679": {
+    "TowedFrom": "825 S Fidelis St",
+    "TowedFromCSZ": "Appleton",
+    "ZipCode": "54915",
+    "TowedFromCSZState": "WI - Wisconsin",
+    "TowedFromCSZZipCode": "54915",
+    "TowedTo": "825 S Fidelis St",
+    "TowedToCSZ": "Appleton",
+    "TowedToCSZState": "WI - Wisconsin",
+    "TowedToCSZZipCode": "54915",
+    "EquipmentUsed": "Auto Truck",
+      "Wrecker": "Pizza Hut",
+    "CallNo": "23.000010",
+    "PlateNumber": "313"
+  },
+  "257680": {
+    "CallNo": "20.000179",
+    "EquipmentUsed": "Truck Ambulance",
+    "PlateNumber": "313",
+    "PlateState": "WI",
+    "ProofOf": "Unstable Tires",
+    "ReleaseToLastName": "Wrecker Sam",
+    "TowReason": "Abandoned",
+    "Wrecker": "ProAgency"
+  },
+    "259714": {
+    "CallNo": "20-000185",
+    "CaseNo": "20-000185",
+    "PlateNumber": "564564",
+    "PlateState": "GA",
+    "EquipmentUsed": "Auto Truck",
+    "Wrecker": "Pizza Hut",
+    "Reason": "Accident"
+  },
+  "259717": {
+    "CallNo": "20-000186",
+    "VehicleNumber": "YURI123",
+    "State": "NJ",
+    "Activity": "Tow",
+    "VehicleNumber1": "QWER",
+    "PlateNumber": "QWER",
+    "CaseNo": "20-000186",
+    "CallDate": "11/20/2020",
+    "CallTime": "14:24:44",
+    "Vehicle": "YURI123",
+    "NameID": "A-0000000040"
+  },
+  "263018": {
+    "IncidentActivity": "Owner",
+    "NameActivity": "Owner",
+    "VinNo": "45689"
+  },
+  "272369": {
+    "CallNo": "21.000137",
+    "Reason": "Automation Test",
+    "Vendor": "DOC - Phoenix Alarm Store"
+  },
+  "272370": {
+    "Year": "20",
+    "VINNo": "2HNYD2H20CH504986"
+  },
+   "275269": {
+    "CallNo": "21.000183",
+    "ReleasedBy": "PRMS",
+    "ReleaseToNameID": "A-0000000040",
+    "PlateNumber": "313",
+    "PlateState": "WI",
+    "EquipmentUsed": "Thar Off Road",
+    "Wrecker": "Phoenix Alarm Store"
+  },
+   "275951": {
+    "TowNo": "21-000002",
+    "TowReason": "Cancel"
+  },
+  "272372": {
+    "VendorCode": "JE09TH",
+    "NameID": "B-0000000002",
+    "OfficeContactNo": "7896541230"
+  },
+    "278226": {
+    "CallNo": "21-000206",
+    "PlateNumber": "XD1253",
+    "PlateState": "KS",
+    "EquipmentUsed": "Phoenix Motors",
+    "Wrecker": "ProAgency",
+    "Address": "2 Second Ave"
+  },
+  "281416": {
+    "BoatHullNo": "11A5BR140530",
+    "RegistrationNo": "11P0JA5",
+    "PlateNo": "11P0JA5",
+    "NameActivity": "Driver"
+  },
+   "284326": {
+    "CallNo": "21-000236",
+    "PlateNumber": "AUDI",
+    "PlateState": "WI",
+    "EquipmentUsed": "Phoenix Motors",
+    "Wrecker": "ProAgency",
+    "VinNo1": "ASW3456UJI78",
+    "TowReason": "Accident",
+    "VINNo": "V-26",
+    "PlateNo":"WI-AUDI123"
+  },
+  "284328": {
+    "VendorCode": "V02",
+    "TowZone": "Tow Area 1",
+    "AssignedZone": "Tow Area 1",
+    "RotationTowZone": "Tow Area 1",
+    "Vendor": "V02  - Moody's Corporation",
+    "Position": "101 - 1",
+    "VendorName": "Moody's Corporation",
+    "RotationTypeLabel": "20 - Rotation by Zone & Tow Vendor",
+    "RotationTypeLabel1": "22 - Rotation by Zone Cycle & Tow Vendor(Reg; Hvy;Spc)"
+  },
+  "284329": {
+    "CodeID": "2102",
+    "CodeValueDescription": "Accident",
+    "CallNo": "21-000144",
+    "PlateNumber": "2222",
+    "EquipmentUsed": "Sun Motors",
+    "Wrecker": "Sunrise Pro",
+    "Towvendor": "VRT - ProAgency",
+    "TowReason": "Accident",
+    "PlateState": "WI"
+  },
+  "286928": {
+    "PlateState": "WI",
+    "VehicleNo": "V-11",
+    "PlateNumber": "4155"
+  },
+  "148438":{
+    "VehicleNumber":"25",
+    "VehicleNo":"25"
+  },
+  "149530":{
+    "BoatHullNo":"134649",
+    "Year":"2018",
+    "Make":"ALUM",
+    "Propulsion":"AL",
+    "Material":"FG",
+    "RegistrationNo":"125899",
+    "PlateST":"125899 - WI"
+  },
+  "147344":{
+    "PlateNumber":"5967",
+    "Flags":"Damaged",
+    "Flags1":"Attempt",
+    "Flags2":"Others"
+  },
+  "153263":{
+    "VinNo":"FP8989876564"
+  },
+  "153239":{
+    "VinNo":"FP8989876564",
+    "VinNo1":"FB222222222",
+    "Year":"2017",
+    "Make":"BMW",
+    "Model":"01",
+    "Style":"4d",
+    "Color1":"Black",
+    "Plate":"FP2022",
+    "State":"WI - Wisconsin"
+  },
+  "163444":{
+    "Plate":"24876",
+    "State":"NJ - New Jersey",
+    "VinNo":"87456932AWED",
+    "NameActivity":"Driver",
+    "Name":"Bullock, Sanda",
+    "Activity":"Driver"
+  },
+  "163451":{
+    "VinNo":"AWE87452DEF5",
+    "PlateNumber":"4578321",
+    "State":"NJ - New Jersey",
+    "Color1":"Brown",
+    "PlateST":"4578321 - NJ"
+  },
+  "275264":{
+    "FleetID":"AD345WR",
+    "Model":"A5",
+    "Year":"2020",
+    "VinNo":"2T2BK1BA5EC231984",
+    "ServiceType":"State Inspection"
+  },
+  "280016":{
+    "BoatHullNo":"1N6AD0ER1234",
+    "RegistrationNo":"BTWI72",
+    "Flags1":"Attempt"
+  },
+  "280010":{
+    "VehicleNo1":"68",
+    "PlateType1":"Truck",
+    "VehicleNo":"67",
+    "Type1":"Truck"
+  },
+  "135827":{
+    "PatrolArea":"Patrol Zone1",
+    "Equipment":"Tow Truck - Light",
+    "Vendor":"2 - PhoenixTowAgency",
+    "Position":"102 - 2",
+    "VendorName":"PhoenixTowAgency",
+    "Position1":"106 - 6",
+    "Vendor1":"101 - Arm Company",
+    "VendorName1":"Arm Company"
+  },
+  "143761":{
+    "PatrolArea":"Patrol Zone1",
+    "Equipment":"Tow Truck - Heavy",
+    "Vendor":"101 - Arm Company",
+    "Position":"104 - 4"
+  },
+  "143763":{
+    "PatrolArea":"Patrol Zone1",
+    "Equipment":"Tow Truck - Light",
+    "Vendor":"101 - Arm Company",
+    "Position":"106 - 6"
+  },
+  "280021": {
+    "TowNo": "21-000009", 
+    "ReleaseToNameID": "A-0000000041",
+    "Name": "Virat",
+    "AuthorizedBy": "AUTO",
+    "Password": "Pnx@2016"
+  },
+  "282074": {
+    "CallNo": "21-000232",
+    "CaseNo": "21-000232",
+    "PlateNumber": "253985",
+    "PlateState": "WI",
+    "TowReason": "Accident",
+    "PlateNumber1": "55WI98",
+    "TowReason1": "Abandoned",
+    "ReleaseToNameID": "A-0000000041",
+    "ReleaseToLastName": "Rebort",
+    "PlateNumber2": "WI456",
+    "PlateNumber3": "AB456",
+    "EquipmentUsed":"Thar Off Road",
+    "Wrecker":"Phoenix Alarm Store"
+  },
+  "280018": {
+    "CallNo": "21.000218",
+    "ReleaseToNameID": "A-0000000042",
+    "ReleasedBy": "AUTO",
+    "AuthorizedBy": "AUTO"
+  },
+ "280015": {
+    "CallNo": "21-000216",
+    "PlateNumber": "313",
+    "PlateState": "WI",
+    "ReleaseToNameID": "A-0000000040",
+    "ReleasedBy": "AUTO",
+    "Password": "Pnx@2016",
+    "ReleasedBy1": "Auto",
+     "EquipmentUsed":"Towing Truck",
+    "Wrecker":"Jackson Mart"
+  },
+  "289936":{
+    "PatrolArea":"Patrol Zone1",
+    "Vendor":"Auto - Asian Market",
+    "VendorName":"Asian Market"
+  },
+  "280014":{
+    "CallNo":"21-000215",
+    "PlateNumber": "85623",
+    "PlateState": "WI",
+    "ReleaseToNameID": "A-0000000040",
+    "ReleasedBy": "AUTO",
+    "Password": "Pnx@2016",
+    "ReleasedBy1": "Auto",
+    "EquipmentUsed":"Towing Truck",
+    "Wrecker":"Jackson Mart"
+  },
+   "280013": {
+    "CallNo": "21.000232",
+    "EquipmentUsed": "Towing Truck",
+    "Wrecker": "Jackson Mart",
+    "TowFrom": "205 Electra Dr",
+    "TowedFromCSZ": "Cary",
+    "TowedTo": "743 Windsor Dr",
+    "TowedToCSZ": "Cedarburg"
+  },
+  "280012": {
+    "TowNo": "21-000007",
+    "AuthorizedBy": "AUTO",
+    "Password": "Pnx@2016"
+  },
+  "280011":{
+    "CodeID":"2390",
+    "CodeValue":"10",
+    "Description":"Test",
+    "CodeValue1":"11",
+    "Description1":"Test1",
+    "CallNo":"21.000233",
+    "PlateNumber": "313",
+    "PlateState": "WI",
+    "LocationOfVehicleKey":"10 - Test",
+    "LocationOfVehicleKey1":"11 - Test1",
+    "TowReason":"Automation Demo",
+    "EquipmentUsed": "Phoenix Motors",
+    "Wrecker": "ProAgency"
+  },
+  "294711":{
+    "RegistrationNo":"BOAT123",
+    "State":"WI - Wisconsin",
+    "BoatHullNo":"AUTO123",
+    "NameActivity":"Owner",
+    "Name":"Coucil, Cary",
+    "Activity":"Owner"
+  },
+  "295029":{
+    "RegistrationNo":"125898",
+    "VinNo": "7845126AD",
+    "Flags":"Damaged",
+    "Flags1":"Attempt",
+    "Flags2":"Others"
+ },
+"295158":{
+  "BoatHullNo":"65236"
+},
+"295159": {
+  "BoatHullNo": "554",
+  "BoatHullNo1": "344",
+  "Year":"2022",
+  "Make":"BKA",
+  "Propulsion":"AL",
+  "Material":"FG",
+  "Color1":"Black",
+  "RegistrationNo":"NEWBOAT123",
+  "State":"WI - Wisconsin"
+},
+"295160": {
+  "IncidentActivity": "Owner",
+  "NameActivity": "Owner",
+  "BoatHullNo": "AUTO123"
+},
+"160537": {
+    "Plate": "11POP",
+    "State": "WI - Wisconsin",
+    "NameActivity": "Suspect",
+    "Activity": "Suspect",
+    "VinNo": "13131336464646449797",
+    "Name": "Martinez, Turner"
+  },
+"294756":{
+  "BoatNo":"5",
+  "PlateType":"Airboat",
+  "Type":"Airboat",
+  "BoatNo1":"6"
+},
+"TowEntry":{
+"CallNo":"20-000059",
+"PlateNumber":"008245",
+"PlateState":"NY",
+"EquipmentUsed":"Tow Truck - Light",
+"TowReason":"Abandoned"
+},
+"TowVendorEntry":{
+"NameID":"B-0000000045",
+"VendorCode":"TOVE"
+},
+"VehicleEntry":{
+"VinNo":"7586942587",
+"PlateNumber":"2560",
+"NameID":"A-0000000047"
+
+},
+"145423":{
+"VinNo":"15175515125",
+"Year":"2022",
+"Make":"ABAR",
+"Model":"Aba",
+"Style":"3D",
+"Custom1":"4540054151001",
+"PlateNumber":"AD56248",
+"State":"AK - Alaska",
+"NameID":"A-0000000452",
+"NameActivity":"Driver",
+"Name":"Nyssa, Vazquez",
+"Activity":"Driver"
+},
+"145936":{
+  "VinNo":"982320222003",
+  "Year":"2022",
+  "Make":"ACUR",
+  "Model":"LEG",
+  "Style":"2D",
+  "Custom1":"665500324584",
+  "PlateNumber":"A3F5LL",
+  "State":"AK - Alaska",
+  "NameID":"A-0000000111",
+  "StatePlate":"AK-A3F5LL",
+  "MakeDescription":"Acura",
+  "ModelDescription":"Legend"
+  },
+  "145236":{
+  "Flag":"Attempt",
+  "Flags":"Attempt"
+  },
+   "9116":{
+  "FleetId":"AutomationFleet",
+  "Quantity":"1",
+  "Oil":"1",
+  "CurrentMileage":"11.6"
+  
+  },
+    "289939": {
+    "CallNo": "21.000025",
+    "VINno":"1236543812",
+    "VINNo": "1236543812",
+    "TowReason": "Accident",
+     "EquipmentUsed":"Thar Off Road",
+    "Wrecker":"Phoenix Alarm Store"
+    
+  },
+
+    "13715": {
+    "CallNo": "23.000029",
+    "PlateNumber":"12144",
+    "PlateState": "NY",
+    "TowReason": "Accident",
+     "EquipmentUsed":"Thar Off Road",
+    "Wrecker":"Phoenix Alarm Store",
+    "Custom1":"Automation",
+    "Custom2":"Test"
+  },
+
+  "14692":{
+  "UserName":"Automation",
+  "Password":"Pnx@2023",
+  "Database":"AutomationNJ",
+  "Custom1":"Test Automation",
+  "RegistrationNo":"2708",
+  "State":"WI - Wisconsin",
+  "NameID":"A-0000000036",
+  "NameActivity":"Owner",
+  "Name":"Jose, J",
+  "Activity":"Owner",
+  "PlateST":"2708 - WI",
+  "Address":"205 Paul Dr;Moorestown, NJ, 08057",
+  "VinNo":"1234" 
+  },
+
+  "15752":{
+   "UserName":"Automation",
+   "Password":"Pnx@2016",
+   "Database":"AutomationPoliceNJ"   
+	},
+	
+	"15751":{
+	"VinNo":"1357",
+	"Year":"2023",
+	"Make":"AARD",
+	"Model":"TL",
+	"Style":"CI",
+	"Custom1":"Test",
+	"PlateNumber":"Veh11",
+	"State":"WI - Wisconsin",
+	"PlateNo":"12144-NY",
+	"NameID":"A-0000000063",
+	"CallNo":"23.000051",
+	"PlateState":"WI",
+	"EquipmentUsed":"Auto Truck",
+	"Wrecker":"Falcon Service",
+	"TowReason":"Accident",
+	"TowNo":"24-000003"
+	},
+	
+	"17016":{
+	"VinNo":"4864",
+	"PlateNumber":"2225",
+	"VehicleNo":"79",
+	"State":"KW - Kiowa"
+	},
+	
+	"21774":{
+   "PlateNumber":"LS786",
+   "PlateState": "WI",
+   "PlateST":"LS786 - WI",
+    "PlateNo":"WI-LS786"
+	},
+	
+	"24775":{
+	"UserName": "Automation",
+    "Password": "Pnx@2023",
+    "Database": "AutomationNJ",
+	"ReleaseToNameID":"A-0000000026",
+	"ReleaseToNameID1":"A-0000000034",
+	"CallNo":"24-000006",
+	"PlateNumber":"VEHICLE1",
+	"PlateState":"NJ",
+	"EquipmentUsed":"Flat Bed Truck",
+	"Wrecker":"Falcon Service",
+	"TowNo":"24-000002"
+},
+
+	"23089":{
+	"VendorCode":"3459",
+	"NameID":"B-0000000047",
+	"OfficeContact":"9952955284",
+	"TowZone":"--Add 2066 --",
+	"AssignedZone":"--Add 2066 --"
+	
+	},
+  
+ "44067":{
+"BoatHullNo":"845",
+"RegistrationNo":"B5132",
+"BoatNo":"7",
+"Model":"TL"
+},
+
+	 "42124":{
+    "VinNo":"R54545S",
+    "Flags":"Attempt",
+    "Comments":"Automation Test",
+    "Category":"Photograph",
+    "Model":"01",
+    "Style":"4d",
+    "Color1":"Black",
+    "Plate":"F152694",
+     "VehicleNo": "11",
+     "PlateNumber": "84523",
+    "State":"WI - Wisconsin"
+	},
+	"44449": {
+		"RegistrationNo": "TN65BT20252",
+		"State": "IN - Indiana",
+		"BoatHullNo": "12345678901234568",
+		"RegistrationNo1": "TN65BT20251",
+		"BoatHullNo1": "12304569875789654"
+	},
+	"52033": {
+		"VinNo": "AK20NB8520",
+		"Year": "2025",
+		"Make": "ACUR",
+		"Model": "LEG",
+		"Style": "2D",
+		"PlateNumber": "A3F25MN",
+		"State": "AZ - Arizona",
+		"Propulsion":"AL",
+		"Material":"AL",
+		"BoatHullNo":"BT2025MAR13",
+		"RegistrationNo":"BT2025MAR"
+	},
+	"57946":{
+	"State1":"AL - Alabama",
+	"PlateNumber1":"1897",
+	"NameID1":"A-0000000119",
+	"State2":"AR - Arkansas",
+	"PlateNumber2":"1891",
+	"NameID2":"B-0000000002",
+	"State3":"AZ - Arizona",
+	"PlateNumber3":"1781",
+	"NameID3":"J-0000000046",
+	"State4":"FL - Florida",
+	"PlateNumber4":"2000",
+	"NameID4":"O-0000000021"
+},
+"58483":{
+"PlateType":"Truck",
+"Type":"Truck",
+"PlateType1":"--"
+},
+"58082":{
+"PrimaryVehicleNo":"V-87",
+"SecondaryVehicleNo":"V-88"
+},
+"58485":{
+"VinNo":"63663",
+"State":"AK - Alaska",
+"PlateType":"Passenger Car",
+"NameID":"A-0000000121",
+"NameActivity":"CAD Traffic Stop",
+"Name":"Olivia, Ava",
+"Activity":"CAD Traffic Stop",
+"Flags":"Attempt",
+"EnteredBy":"Prophoenix, Automation-AUTO",
+"PlateNumber":"72658",
+"PlateST":"72658 - AK"
+},
+"60109":{
+"CallNo":"25-000090",
+"PlateNumber":"AU24",
+"EquipmentUsed":"Auto Truck",
+"OwnerLastName":"Reese",
+"OwnerFirstName":"Atticus",
+"LastName":"Reese",
+"FirstName":"Atticus"
+},
+"60109A":{
+"OwnerLastName":"Reese",
+"OwnerFirstName":"Atticus",
+"LastName":"Reese",
+"FirstName":"Atticus",
+"GasGaugeReading":"35",
+"NameID":"A-0000000253"
+},
+"60109B":{
+"HoldReason":"Air leakage",
+"ReleaseToNameID":"A-0000000253",
+"ReleasedBy":"P4400",
+"AuthorizedBy":"CadTest",
+"Custom1":"1",
+"Custom2":"1",
+"Custom3":"1",
+"Custom4":"1",
+"PlateNumber":"AU24",
+"CallNo":"25.000015",
+"Description":"WI/AU24/67/2019",
+"VinNo":"67",
+"Hold":"✓"
+},
+"59995":{
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"TowNo":"25-000001",
+"Reason":"Tow Test"
+},
+"59996":{
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"PatrolArea":"Patrol Zone 1",
+"Equipment":"Heavy Truck",
+"Vendor":"VE1 - Richard",
+"Position":"101 - 1",
+"Area1":"Patrol Zone 1",
+"Vendor1":"VE1",
+"VendorName1":"Richard",
+"Position1":"101 - 1",
+"Equipment1":"Heavy Truck",
+"EquipCode1":"04"
+},
+"59994":{
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"PrimaryVehicleNo":"22",
+"PlateSt":"AB4567-WI",
+"VehicleNo":"22"
+},
+"69662":{
+"VinNo":"3435431",
+"Year":"2025",
+"Style":"AR",
+"Make":"HLIO",
+"State":"AL - Alabama",
+"MakeDescription":"9299 5000 QUEBEC INC DBA HELIO%QUEBEC CANADA",
+"ModelDescription":"ROOK",
+"StyleDescription":"Armored Truck",
+"PlateNumber":"RH",
+"PlateST":"RH - AL",
+"Model":"ROO"
+},
+"70491":{
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"VendorCode":"218",
+"NameID":"B-0000000001",
+"OfficeContactNo":"3242342342",
+"PhoneNo":"2323423442",
+"PhoneNo1":"2323423442",
+"ColumnName1":"Phone Type",
+"ColumnName2":"Phone#",
+"PatrolArea1":"Patrol Zone 1"
+}
+
+}

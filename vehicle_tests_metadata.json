@@ -1,0 +1,530 @@
+﻿[
+    {
+        "MethodName":  "VerifyPreviousAndFutureDateIsAllowedInFlagTabOfVehicleEntry_148438",
+        "TestID":  "148438",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  77,
+        "EndLine":  112
+    },
+    {
+        "MethodName":  "createNewBoatEntry_149530",
+        "TestID":  "149530",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  115,
+        "EndLine":  167
+    },
+    {
+        "MethodName":  "VerifyPreviousAndFutureDateIsAllowedInFlagTabOfVehicleEntry_147344",
+        "TestID":  "147344",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  171,
+        "EndLine":  215
+    },
+    {
+        "MethodName":  "VerifyApplicationIsShowingValidationMessageWhenUsingSameVinNumber_153263",
+        "TestID":  "153263",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  218,
+        "EndLine":  237
+    },
+    {
+        "MethodName":  "VerifyWhenVinIsTransferredToNewPlateAllHistoricalDataRetainedWithOldPlate_153239",
+        "TestID":  "153239",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  240,
+        "EndLine":  281
+    },
+    {
+        "MethodName":  "AddVehilceDetailtoaNameinVehicleEntryandVerifyActivityAppearsinVehicleTabNameEntryScreen_163444",
+        "TestID":  "147339",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  285,
+        "EndLine":  342
+    },
+    {
+        "MethodName":  "CreateNewVehicleEntryWithInsuranceDetails_163451",
+        "TestID":  "163451",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  346,
+        "EndLine":  386
+    },
+    {
+        "MethodName":  "VerifyPlateTransferLogic_251105",
+        "TestID":  "251105",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  390,
+        "EndLine":  442
+    },
+    {
+        "MethodName":  "AddressenteredinTowedFrom_257679",
+        "TestID":  "257679",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "1",
+        "StartLine":  446,
+        "EndLine":  491
+    },
+    {
+        "MethodName":  "RefusebuttondeleteInTowEntry_259714",
+        "TestID":  "259714",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "2",
+        "StartLine":  495,
+        "EndLine":  535
+    },
+    {
+        "MethodName":  "TowReasonconfiguration_256100",
+        "TestID":  "256100",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "3",
+        "StartLine":  539,
+        "EndLine":  571
+    },
+    {
+        "MethodName":  "PoliceDefect2020_254466",
+        "TestID":  "254466",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "4",
+        "StartLine":  575,
+        "EndLine":  601
+    },
+    {
+        "MethodName":  "RefusedVendordetailsshowninTowRefuseSearchResult_272369",
+        "TestID":  "272369",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "5",
+        "StartLine":  605,
+        "EndLine":  635
+    },
+    {
+        "MethodName":  "VerifyyearandVINNoinTowEntryscreenfromVehicleModule_272370",
+        "TestID":  "272370",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "6",
+        "StartLine":  639,
+        "EndLine":  662
+    },
+    {
+        "MethodName":  "VerifyVehicleBoatSearchisaddedwithIncidentActivitydropdownfield_263018",
+        "TestID":  "263018",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  666,
+        "EndLine":  683
+    },
+    {
+        "MethodName":  "ToverifywhetherTowSignaturelogicforReleasedTo_275269",
+        "TestID":  "275269",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "7",
+        "StartLine":  687,
+        "EndLine":  724
+    },
+    {
+        "MethodName":  "TocheckwhetherCancelledTowrecordsdisplayinggrayed_275951",
+        "TestID":  "275951",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "8",
+        "StartLine":  728,
+        "EndLine":  754
+    },
+    {
+        "MethodName":  "ToCheckDateTimeLabelChangeVehicleFlagTab_280016",
+        "TestID":  "280016",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  779,
+        "EndLine":  821
+    },
+    {
+        "MethodName":  "VerifyTowEntryReleaseTosignatureclearbuttonfunctionality_280021",
+        "TestID":  "280021",
+        "Groups":  "TowSystemParameter",
+        "Priority":  "none",
+        "StartLine":  824,
+        "EndLine":  875
+    },
+    {
+        "MethodName":  "VerifyReleaseToNamefieldfunctionalitywithsystemparameter427_282074",
+        "TestID":  "282074",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "10",
+        "StartLine":  878,
+        "EndLine":  1004
+    },
+    {
+        "MethodName":  "TocheckwhetherSignatureisupdating_280018",
+        "TestID":  "280018",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "1",
+        "StartLine":  1009,
+        "EndLine":  1041
+    },
+    {
+        "MethodName":  "ToverifywhetherTowSignaturelogicforReleasedToReleaseBy_280015",
+        "TestID":  "280015",
+        "Groups":  "TowSystemParameter",
+        "Priority":  "none",
+        "StartLine":  1044,
+        "EndLine":  1121
+    },
+    {
+        "MethodName":  "TocheckwhetherReleasedBySignatureshouldshowproperly_280014",
+        "TestID":  "280014",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "3",
+        "StartLine":  1124,
+        "EndLine":  1194
+    },
+    {
+        "MethodName":  "TocheckwhetherTowEntryScreenchangeworkingproperly_280013",
+        "TestID":  "280013",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "4",
+        "StartLine":  1199,
+        "EndLine":  1239
+    },
+    {
+        "MethodName":  "TocheckwhetherSignatureLogicindispositiontabofTowEntry_280012",
+        "TestID":  "280012",
+        "Groups":  "TowSystemParameter",
+        "Priority":  "none",
+        "StartLine":  1242,
+        "EndLine":  1305
+    },
+    {
+        "MethodName":  "TocheckwhetherLocationofVehiclekeyandTowreason_280011",
+        "TestID":  "280011",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "6",
+        "StartLine":  1308,
+        "EndLine":  1357
+    },
+    {
+        "MethodName":  "ToCheckWhetherTypeFieldshowingproperdataforVehicle_280010",
+        "TestID":  "280010",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  1362,
+        "EndLine":  1406
+    },
+    {
+        "MethodName":  "VerifyTheTowReasonvaluesshouldautopopulatetheVendorinTowEntryScreen_284329",
+        "TestID":  "284329",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "7",
+        "StartLine":  1411,
+        "EndLine":  1451
+    },
+    {
+        "MethodName":  "TocheckWhetherUseRGettingWarningMessageProperlyWhenEnteringVINWhichIsAlreadyHavingAnotherVehicle_284326",
+        "TestID":  "284326",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "8",
+        "StartLine":  1456,
+        "EndLine":  1494
+    },
+    {
+        "MethodName":  "VerifyThePlateControlSearchResultGridIfClickedOnTheRowSelectRightClickViewDetailsVehicleEntryScreen_286928",
+        "TestID":  "286928",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "9",
+        "StartLine":  1498,
+        "EndLine":  1528
+    },
+    {
+        "MethodName":  "VerifyinTowEntrywhilesearchinVehicleownernameshoulddisplaytheIncidentNames_278226",
+        "TestID":  "278226",
+        "Groups":  "TowDefectTestCases2",
+        "Priority":  "10",
+        "StartLine":  1533,
+        "EndLine":  1564
+    },
+    {
+        "MethodName":  "WI_VerifyWhetherAnyBlueScreenErrorTthrowingIinTowEentrySscreenAndAlsoVerifyVINFfunctionalityPproperlyworkingInChangeMmode_289939",
+        "TestID":  "289939",
+        "Groups":  "TowDefectTestCases1",
+        "Priority":  "11",
+        "StartLine":  1567,
+        "EndLine":  1609
+    },
+    {
+        "MethodName":  "AddActivityDetailToANameInBoatEntryAndVerifyActivityAppearsInVehicleTabNameEntryScreen_294711",
+        "TestID":  "294711",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1616,
+        "EndLine":  1650
+    },
+    {
+        "MethodName":  "VerifyWhetherTypeFieldshowingProperdataforBoat_294756",
+        "TestID":  "294756",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1656,
+        "EndLine":  1715
+    },
+    {
+        "MethodName":  "VerifyPreviousAndFutureDateIsAllowedInFlagTabOfBoatEntry_295029",
+        "TestID":  "295029",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1721,
+        "EndLine":  1765
+    },
+    {
+        "MethodName":  "VerifyValidationMessageWhenAddingExixtingHullNo_295158",
+        "TestID":  "295158",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1771,
+        "EndLine":  1790
+    },
+    {
+        "MethodName":  "VerifyWhenHullIsTransferredToNewRegistrationAllHistoricalDataRetainedWithOldRegistration_295159",
+        "TestID":  "295159",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1795,
+        "EndLine":  1840
+    },
+    {
+        "MethodName":  "VerifyBoatSearchisaddedwithIncidentActivitydropdownfield_295160",
+        "TestID":  "295160",
+        "Groups":  "Boat",
+        "Priority":  "none",
+        "StartLine":  1845,
+        "EndLine":  1864
+    },
+    {
+        "MethodName":  "TowEntrySmoke",
+        "TestID":  "",
+        "Groups":  "EntryScreenSmokeScriptVehicle",
+        "Priority":  "none",
+        "StartLine":  1870,
+        "EndLine":  1904
+    },
+    {
+        "MethodName":  "TowVendorEntrySmoke",
+        "TestID":  "",
+        "Groups":  "EntryScreenSmokeScriptVehicle",
+        "Priority":  "none",
+        "StartLine":  1908,
+        "EndLine":  1929
+    },
+    {
+        "MethodName":  "VehicleEntrySmoke",
+        "TestID":  "",
+        "Groups":  "EntryScreenSmokeScriptVehicle",
+        "Priority":  "none",
+        "StartLine":  1933,
+        "EndLine":  1964
+    },
+    {
+        "MethodName":  "VechicleMainTabFunctionality_145423",
+        "TestID":  "145423",
+        "Groups":  "2022Q4EnhancementTestcases",
+        "Priority":  "none",
+        "StartLine":  1967,
+        "EndLine":  2011
+    },
+    {
+        "MethodName":  "VechicleBoatSearchScreenFunctionality_145936",
+        "TestID":  "145936",
+        "Groups":  "2022Q4EnhancementTestcases",
+        "Priority":  "none",
+        "StartLine":  2014,
+        "EndLine":  2052
+    },
+    {
+        "MethodName":  "VechicleBoatFlagTabFunctionality_145236",
+        "TestID":  "145236",
+        "Groups":  "2022Q4EnhancementTestcases",
+        "Priority":  "none",
+        "StartLine":  2055,
+        "EndLine":  2085
+    },
+    {
+        "MethodName":  "CRM153329ToCheckVehicleBoatSearchScreensThrowsBlueScreenError_12919",
+        "TestID":  "12919",
+        "Groups":  "Vehicle",
+        "Priority":  "none",
+        "StartLine":  2089,
+        "EndLine":  2106
+    },
+    {
+        "MethodName":  "ToCheckWhetherUserIsAbleToSaveCustom1AndCustom2FieldUnderDispositionTab_13715",
+        "TestID":  "13715",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2110,
+        "EndLine":  2139
+    },
+    {
+        "MethodName":  "vehicleEntryAndVerifyingInGridDisappearingOrNot_14692",
+        "TestID":  "14692",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2143,
+        "EndLine":  2181
+    },
+    {
+        "MethodName":  "ToVerifyTheVehicleSearchScreenPlateNumberNotDisplaying_15752",
+        "TestID":  "15752",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2185,
+        "EndLine":  2211
+    },
+    {
+        "MethodName":  "ToCheckTheFilterFunctionalityOfDateRangeToFieldInVehicleBoatSearchScreen_17016",
+        "TestID":  "17016",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2217,
+        "EndLine":  2254
+    },
+    {
+        "MethodName":  "VehicleBoatEntryScreenWhileClickOnPrintButtonTheDataWhichWasUnderTheGridGetsDisappearsInBothLAWAndFIRE_21774",
+        "TestID":  "21774",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2261,
+        "EndLine":  2314
+    },
+    {
+        "MethodName":  "ToVerifyBlueScreenIssueInTowVendorEntryArea_ZoneAssignmentTabWhenWeAddCodeIdToTheGrid_23089",
+        "TestID":  "23089",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2319,
+        "EndLine":  2347
+    },
+    {
+        "MethodName":  "ToVerifyVehicleBoatSearchScreenfunctionalities_44067",
+        "TestID":  "44067",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2352,
+        "EndLine":  2394
+    },
+    {
+        "MethodName":  "HowToCreateBoatRegistration_44449",
+        "TestID":  "44449",
+        "Groups":  "Q1VehicleFunctional2025",
+        "Priority":  "none",
+        "StartLine":  2400,
+        "EndLine":  2457
+    },
+    {
+        "MethodName":  "toCheckWhetherVehicleBoatIDIsIncrementingOrNotWhileReloadingEntryScreenInAddModeAfterCreatingVehicleBoatIDCRM156507_52033",
+        "TestID":  "52033",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2461,
+        "EndLine":  2507
+    },
+    {
+        "MethodName":  "ToVerifyVehicleMergeScreen_58082",
+        "TestID":  "58082",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "none",
+        "StartLine":  2512,
+        "EndLine":  2531
+    },
+    {
+        "MethodName":  "ToVerifyVehicleBoatSearch_58483",
+        "TestID":  "58483",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "none",
+        "StartLine":  2536,
+        "EndLine":  2552
+    },
+    {
+        "MethodName":  "ToVerifyVehicleBoatEntry_58485",
+        "TestID":  "58485",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "none",
+        "StartLine":  2557,
+        "EndLine":  2622
+    },
+    {
+        "MethodName":  "CRM186699_ErrorThrowsWhenWeSaveTheScreenWithNamTypeAsA_B_J_O_NegativeScenario_57946",
+        "TestID":  "57946",
+        "Groups":  "VehicleDefectTestCases",
+        "Priority":  "none",
+        "StartLine":  2627,
+        "EndLine":  2708
+    },
+    {
+        "MethodName":  "ToVerifyTowScreen_60109",
+        "TestID":  "60109",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "1",
+        "StartLine":  2715,
+        "EndLine":  2760
+    },
+    {
+        "MethodName":  "ToVerifyTowScreen_60109A",
+        "TestID":  "",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "2",
+        "StartLine":  2763,
+        "EndLine":  2810
+    },
+    {
+        "MethodName":  "ToVerifyTowScreen_60109B",
+        "TestID":  "",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "3",
+        "StartLine":  2814,
+        "EndLine":  2869
+    },
+    {
+        "MethodName":  "ToVerifyTowRefuseScreen_59995",
+        "TestID":  "59995",
+        "Groups":  "Q6VehicleCheckList2025",
+        "Priority":  "none",
+        "StartLine":  2875,
+        "EndLine":  2903
+    },
+    {
+        "MethodName":  "ToVerifyTowRotationScreen_59996",
+        "TestID":  "59996",
+        "Groups":  "VehicleSP406",
+        "Priority":  "none",
+        "StartLine":  2909,
+        "EndLine":  2943
+    },
+    {
+        "MethodName":  "CRM187220VerifyTheVehicleMergeModuleWhenClickingOnLookupIcon_59994",
+        "TestID":  "59994",
+        "Groups":  "VehicleDefectTestCasesS92025",
+        "Priority":  "none",
+        "StartLine":  2949,
+        "EndLine":  2968
+    },
+    {
+        "MethodName":  "CRM193275ToVerifyTheAddTheSameVINUseInVehicleBoatEntry_69662",
+        "TestID":  "69662",
+        "Groups":  "VehicleDefectTestCasesS92025",
+        "Priority":  "none",
+        "StartLine":  2974,
+        "EndLine":  3019
+    },
+    {
+        "MethodName":  "ToVerifyTowEntryAndRelatedModuleFunctionalities_70491",
+        "TestID":  "70491",
+        "Groups":  "VehicleDefectTestCasesS92025",
+        "Priority":  "none",
+        "StartLine":  3026,
+        "EndLine":  3070
+    }
+]

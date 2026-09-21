@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title><%= title %> – Category Report</title>
+  <link rel="stylesheet" href="<%= assetPrefix %>assets/theme.css" />
+  <script src="<%= assetPrefix %>assets/chart.umd.js"></script>
+</head>
+
+<body>
+  <header class="header">
+    <img src="<%= assetPrefix %>assets/logo.png" class="logo" />
+    <div>
+      <h1><%= title %> – Category</h1>
+      <p><strong>Product:</strong> <%= product %></p>
+      <p><strong>Generated:</strong> <%= generatedAt %></p>
+    </div>
+  </header>
+
+  <nav class="breadcrumbs">
+    <a href="<%= overallReportPath %>">Home</a>
+    <% (breadcrumbs || []).forEach((crumb, index) => { %>
+      <span> / </span>
+      <a class="<%= crumb.active ? 'active' : '' %>" href="<%= crumb.href %>"><%= crumb.label %></a>
+    <% }); %>
+  </nav>
+
+  <section class="module-summary-layout">
+    <div class="module-main">
+      <div class="module-left">
+        <div class="module-cards">
+          <div class="module-card total">
+            <div class="module-card-title">Total</div>
+            <div class="module-card-value"><%= data.summary.total %></div>
+          </div>
+
+          <div class="module-card passed">
+            <div class="module-card-title">Passed</div>
+            <div class="module-card-value"><%= data.summary.passed %></div>
+            <div class="module-card-sub"><%= data.summary.total > 0 ? Math.round((data.summary.passed / data.summary.total) * 100) : 0 %>% Passed</div>
+          </div>
+
+          <div class="module-card failed">
+            <div class="module-card-title">Failed</div>
+            <div class="module-card-value"><%= data.summary.failed %></div>
+            <div class="module-card-sub"><%= data.summary.total > 0 ? Math.round((data.summary.failed / data.summary.total) * 100) : 0 %>% Failed</div>
+          </div>
+
+          <div class="module-card skipped">
+            <div class="module-card-title">Skipped</div>
+            <div class="module-card-value"><%= data.summary.skipped %></div>
+            <div class="module-card-sub"><%= data.summary.total > 0 ? Math.round((data.summary.skipped / data.summary.total) * 100) : 0 %>% Skipped</div>
+          </div>
+        </div>
+
+        <div class="module-chart-card module-pie-chart">
+          <h3>Status Distribution</h3>
+          <div class="module-chart-container">
+            <canvas id="categoryChart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <div class="module-execution-wrapper">
+        <h2 class="module-exec-title">Execution Info</h2>
+        <div class="module-execution-info">
+          <p><strong>Total Tests:</strong> <%= data.summary.total %></p>
+          <p><strong>Passed:</strong> <%= data.summary.passed %></p>
+          <p><strong>Failed:</strong> <%= data.summary.failed %></p>
+          <p><strong>Skipped:</strong> <%= data.summary.skipped %></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="module-category-title">Suites</h2>
+    <div class="module-category-grid">
+      <% (data.suites || []).forEach(s => {
+         let percent = 0;
+         if (s.summary.total > 0) {
+           percent = Math.round((s.summary.passed / s.summary.total) * 100);
+         }
+      %>
+        <a href="<%= s.link %>" class="module-category-card">
+          <h3><%= s.name %></h3>
+          <p>
+            ✅ <%= s.summary.passed %> |
+            ❌ <%= s.summary.failed %> |
+            ⏭ <%= s.summary.skipped %>
+          </p>
+
+          <div class="module-progress-bar">
+            <div class="module-progress-bar-fill" data-width="<%= percent %>" style="width:0%"></div>
+          </div>
+
+          <small><%= s.summary.total %> Tests • <%= percent %>% Passed</small>
+        </a>
+      <% }) %>
+    </div>
+  </section>
+
+  <script type="application/json" id="categoryData">
+  {
+    "passed": <%= data.summary.passed %>,
+    "failed": <%= data.summary.failed %>,
+    "skipped": <%= data.summary.skipped %>
+  }
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll(".module-progress-bar-fill").forEach(el => {
+        const width = el.dataset.width;
+        if (width) el.style.width = width + "%";
+      });
+
+      const data = JSON.parse(document.getElementById("categoryData").textContent);
+      const ctx = document.getElementById("categoryChart");
+      if (ctx) {
+        new Chart(ctx.getContext("2d"), {
+          type: "doughnut",
+          data: {
+            labels: ["Passed", "Failed", "Skipped"],
+            datasets: [{
+              data: [data.passed, data.failed, data.skipped],
+              backgroundColor: ["#22c55e", "#ef4444", "#eab308"],
+              borderWidth: 1,
+              hoverOffset: 10
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: "60%",
+            plugins: {
+              legend: { position: "bottom" }
+            },
+            animation: {
+              animateRotate: true,
+              duration: 800
+            }
+          }
+        });
+      }
+    });
+  </script>
+</body>
+</html>

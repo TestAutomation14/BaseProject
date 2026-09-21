@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Test Insights Report - <%= product %></title>
+  <style>
+    body { background:#f5f7fb; color:#212529; font-family:Arial,sans-serif; margin:0; padding:32px; }
+    main { margin:auto; max-width:1280px; }
+    header, section { background:#fff; border-radius:6px; box-shadow:0 2px 8px #00000014; margin-bottom:24px; padding:24px; }
+    h1, h2 { color:#1f4e78; margin-top:0; }
+    .muted { color:#6c757d; }
+    table { border-collapse:collapse; width:100%; }
+    th, td { border-bottom:1px solid #d9e2f3; padding:12px; text-align:left; vertical-align:top; }
+    th { background:#1f4e78; color:#fff; }
+    .passed { color:#198754; font-weight:600; }
+    .failed { color:#dc3545; font-weight:600; }
+    .empty { color:#6c757d; text-align:center; }
+    code { white-space:pre-wrap; word-break:break-word; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Test Insights Report</h1>
+      <p class="muted"><strong>Project:</strong> <%= product %></p>
+      <p class="muted"><strong>Generated:</strong> <%= generatedAt %></p>
+    </header>
+
+    <section>
+      <h2>Flaky Tests</h2>
+      <table>
+        <thead><tr><th>Test</th><th>File</th><th>Status history</th></tr></thead>
+        <tbody>
+          <% if (!insights.flakyTests.length) { %>
+            <tr><td class="empty" colspan="3">No flaky tests detected</td></tr>
+          <% } else { insights.flakyTests.forEach(test => { %>
+            <tr><td><%= test.title %></td><td><code><%= test.file %></code></td><td><%= test.history.join(' → ') %></td></tr>
+          <% }) } %>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Slowest Tests</h2>
+      <table>
+        <thead><tr><th>Test</th><th>File</th><th>Average duration</th></tr></thead>
+        <tbody>
+          <% if (!insights.slowTests.length) { %>
+            <tr><td class="empty" colspan="3">No duration data available</td></tr>
+          <% } else { insights.slowTests.forEach(test => { %>
+            <tr><td><%= test.title %></td><td><code><%= test.file %></code></td><td><%= test.avgDuration %> ms</td></tr>
+          <% }) } %>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Execution Trend</h2>
+      <table>
+        <thead><tr><th>Execution</th><th>Passed</th><th>Failed</th><th>Skipped</th></tr></thead>
+        <tbody>
+          <% if (!insights.executionTrend.length) { %>
+            <tr><td class="empty" colspan="4">No execution history available</td></tr>
+          <% } else { insights.executionTrend.forEach(run => { %>
+            <tr><td><%= run.timestamp %></td><td class="passed"><%= run.passed %></td><td class="failed"><%= run.failed %></td><td><%= run.skipped %></td></tr>
+          <% }) } %>
+        </tbody>
+      </table>
+    </section>
+  </main>
+</body>
+</html>

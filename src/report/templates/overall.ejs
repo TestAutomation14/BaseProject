@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title><%= product %> – Overall Automation Report</title>
+
+  <!-- ✅ Correct asset path -->
+  <link rel="stylesheet" href="./assets/theme.css" />
+</head>
+
+<body>
+
+  <!-- ✅ HEADER -->
+  <header class="header">
+    <img src="./assets/logo.png" class="logo" />
+
+    <div>
+      <h1><%= product %> – Overall Automation Report</h1>
+      <p>Generated: <%= generatedAt %></p>
+    </div>
+  </header>
+
+  <!-- ✅ BREADCRUMB -->
+  <nav class="breadcrumbs">
+    <a href="<%= overallReportPath %>">Home</a>
+    <span> / </span>
+    <a class="active" href="<%= overallReportPath %>"><%= product %></a>
+  </nav>
+
+  <!-- ✅ SUMMARY -->
+  <section class="summary">
+    <h2>Overall Execution Summary</h2>
+
+    <div class="cards">
+      <div class="card total">
+        <div>Total</div>
+        <div><%= data.summary.total %></div>
+      </div>
+
+      <div class="card passed">
+        <div>Passed</div>
+        <div><%= data.summary.passed %></div>
+      </div>
+
+      <div class="card failed">
+        <div>Failed</div>
+        <div><%= data.summary.failed %></div>
+      </div>
+
+      <div class="card skipped">
+        <div>Skipped</div>
+        <div><%= data.summary.skipped %></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ✅ MODULES -->
+  <section>
+    <h2 class="module-category-title">Modules</h2>
+
+    <div class="module-category-grid">
+
+      <% (data.modules || []).forEach(mod => {
+
+        let percent = 0;
+        if (mod.summary.total > 0) {
+          percent = Math.round((mod.summary.passed / mod.summary.total) * 100);
+        }
+
+        let barColor = '#22c55e';
+        if (percent < 70) barColor = '#eab308';
+        if (percent < 50) barColor = '#ef4444';
+
+      %>
+
+      <!-- ✅ Clickable module card -->
+      <a href="./<%= mod.reportPath %>"
+         class="module-category-card <%= mod.summary.failed > 0 ? 'failed-card' : '' %>">
+
+        <h3><%= mod.name %></h3>
+
+        <p>
+          ✅ <%= mod.summary.passed %> |
+          ❌ <%= mod.summary.failed %> |
+          ⏭ <%= mod.summary.skipped %>
+        </p>
+
+        <div class="module-progress-bar">
+          <div
+            class="module-progress-bar-fill"
+            data-width="<%= percent %>"
+            data-color="<%= barColor %>"
+            style="width:0%">
+          </div>
+        </div>
+
+        <small>
+          <%= mod.summary.total %> Tests • <%= percent %>% Passed
+        </small>
+
+      </a>
+
+      <% }) %>
+
+    </div>
+  </section>
+
+  <!-- ✅ SCRIPT (fix for CSS warning + dynamic style) -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll(".module-progress-bar-fill").forEach(el => {
+        const width = el.dataset.width;
+        const color = el.dataset.color;
+
+        if (width) el.style.width = width + "%";
+        if (color) el.style.backgroundColor = color;
+      });
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+export {
+  QAPage,
+  QuestionnariePage,
+  QuestionDataEntryPage,
+  QAFormEntryPage,
+  MainTabPage,
+  RepositoryTabPage,
+  QAFormSectionPage,
+  ManageQuestionsPage,
+  QuestionMasterPage,
+  YesOrNoTabPage,
+  QuestionReviewPage,
+  PDFFormScreenPage,
+  QuestionnarieRepositoryPage,
+  QAFormsPage,
+  FieldNamePDFPage,
+  SendEmailPopUpPage,
+} from './qa.page';

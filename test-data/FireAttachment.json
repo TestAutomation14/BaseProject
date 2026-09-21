@@ -1,0 +1,87 @@
+{
+	"17608": {
+		"Category": "Photo - General"
+	},
+	"286626": {
+		"CSDCMACNo": "24-000003",
+		"CSDCMAC": "24-000003"
+	},
+	"46239A": {
+		"LastName": "Willow",
+		"FirstName": "Feddie",
+		"Address": "606 Azusa",
+		"Password": "Pnx@2016",
+		"Category": "Scan - Document",
+		"TabName": "Main",
+		"TabName1": "Attachments"
+	},
+	"46239B": {
+		"LastName": "Cherry",
+		"FirstName": "Blue",
+		"Address": "100 Adams St",
+		"Password": "Pnx@2016",
+		"Category": "Scan - Document",
+		"TabName": "Main",
+		"TabName1": "Attachments"
+	},
+	"48790F": {
+		"PFCode": "F25",
+		"Category": "Document - File",
+		"FolderName": "DEFECT DOCUMENT",
+		"Link": "Crash.pdf",
+		"Link1": "Image1.jpg",
+		"FileName": "Image1.jpg"
+	},
+	"50895": {
+		"ReportName": "Simultaneous Incidents Summary",
+		"Reason": "To verify test case 50895",
+		"IncidentFromDate": "01/01/2024",
+		"IncidentToDate": "01/01/2025"
+	},
+	"56001": {
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Penalty",
+		"BillToAccountNameID": "A-0000000048",
+		"ItemCode": "27 - Add",
+		"Rate": "175",
+		"Rate2": "35",
+		"Amount": "350",
+		"Payment1": "175",
+		"Payment2": "35",
+		"PaymentMethod": "Credit Balance"
+	},
+
+	"67708":{
+		"EffectiveFromDate":"09/01/2024",
+		"EffectiveToDate":"09/30/2025"
+	 },
+
+	"62883A": {
+		"Name": "William Josh",
+		"BookName": "Detail",
+		"PhoneType": "Home",
+		"PhoneNumber": "(321) 524-5234",
+		"ReportName": "Contact Details",
+		"FirstName":"Josh",
+		"LastName":"William"
+	},
+	"68642": {
+	"InvoiceNo": "25-000024",
+	"Amount": "70",
+	"PaymentMethod": "Cash"
+	},
+	"69695" :{
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Penalty"
+			},
+	"69793": {
+	"InvoiceClass": "Detail Billing",
+	"InvoiceType": "Detail Bill",
+	"Label1": "Municipality",
+	"Label2": "Premises"
+	},
+	"68614A":{
+"LayerName":"Schools",
+"Category":"Document - File"
+}
+}

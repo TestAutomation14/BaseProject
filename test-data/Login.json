@@ -1,0 +1,12 @@
+{
+  "100001": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "AutomationPoliceMJ"
+  },
+  "100002": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "Database": "AutomationFireMJ"
+  }
+}

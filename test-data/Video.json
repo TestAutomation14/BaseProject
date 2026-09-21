@@ -1,0 +1,46 @@
+{
+"74630"	:{
+"ParameterID":"48",
+"CameraWebURL":"HTTP",
+"AllCameras":"Jail cell",
+"ViewType1":"My View",
+"ViewName":"710647",
+"ViewFor":"Auto"
+},
+"74681"	:{
+"AllCameras":"Jail cell",
+"AllCameras1":"Jail cell",
+"ViewType1":"My View",
+"ViewName":"77006",
+"ViewName1":"Prophoenix, Automation - 77006",
+"ConfiguredCameras":"Jail cell",
+"ConfiguredCameras1":"Jail cell",
+"ViewFor":"Auto"
+},
+"74687"	:{
+"ViewName":"77006",
+"ViewName1":"Prophoenix, Automation - 77006",
+"ConfiguredCameras1":"Jail cell",
+"ViewFor":"Auto"
+},
+"74706"	:{
+"InterviewNameID":"A-0000000026",
+"NameID":"A-0000000026"
+},
+"74715"	:{
+"CaseNo1":"25-000001",
+"PF1":"P016",
+"PFDescription1":"CADCFS, CAD Dispotion",
+"PF2":"12162025",
+"PFDescription2":"Campbell, Jennifer",
+"PF3":"AUTO",
+"PFDescription3":"Prophoenix, Automation",
+"InterviewNameID":"A-0000000069"
+},
+"74786"	:{
+"CaseNo1":"25-000008",
+"InterviewNameID":"A-0000000069",
+"PFName1":"CADCFS, CAD Dispotion",
+"PF1":"P016"
+}
+}

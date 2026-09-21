@@ -1,0 +1,955 @@
+{
+  "257920": {
+    "PrimaryNameID": "H-00000024",
+    "MergeNameID": "H-000000025",
+    "MergeAnimalName": "Piglet, Kitten",
+    "MergeLastName": "Camilla",
+    "MergeFirstName": "Boomer"
+  },
+  
+ "258283": {
+    "AnimalLastName":"Oscar",
+    "AnimalFirstName":"Archie",
+    "LastName": "Oscar",
+    "FirstName": "Archie",
+    "Address": "4900 N Kenwood Ave",
+    "Species": "Cat",
+    "PedigreeName": "PetFood",
+    "Height": "3",
+    "LicenseOrTag": "987589632457",
+    "RabiesTag": "8562143789",
+    "Sex": "Male",
+    "Weight": "25",
+    "DOB": "10/09/2019",
+    "Length": "10",
+    "VeterinarianNameID": "A-0000000335",
+    "VeterinarianName":"Oscar, Bailey",
+    "ReasonOfProcedure": "Veterinary anesthesia",
+    "TypeOfProcedure": "Veterinary technician",
+    "WindowTitle":"-"
+  },
+  "258284": {
+    "Location": "5199 N Meridian St",
+    "ACENo": "20-000001",
+    "AnimalNameID":"H-0000000005",
+    "AnimalName":"Ashley, Angus",
+    "WarningSummons": "JE18"
+  },
+  "258285": {
+  	"AnimalLastName": "Ashley",
+  	"AnimalFirstName": "Angus",
+    "LastName": "Oscar",
+    "FirstName": "Archie",
+    "CustomName": "AID",
+    "CustomName1": "PID",
+    "CustomName2": "SB",
+    "AIDCustomField": "AID",
+    "PIDCustomField": "PID",
+    "SBCaseDCustomField": "SB",
+    "AID": "HR5678UI",
+    "PID": "ASH345YH",
+    "SBCase": "H-00025",
+    "NameID": "H-0000000013"
+  },
+  "258286": {
+    "Address": "5099 N College Ave",
+    "AnimalNameID": "H-0000000003",
+    "AnimalName": "Sean, Mong",
+    "NameID": "A-0000000020",
+    "AddressType": "Alternate"
+  },
+  "258287": {
+    "CaseNo": "20-000183",
+    "VictimsName": "Automation, Team",
+    "ActivityType": "Animal Victim",
+    "Officer": "Prophoenix, Automation"
+  },
+  "258289": {
+    "Location": "5099 N College Ave",
+    "Officer": "PRMS",
+    "Municipality": "0106 - JACKSON - 06, Town",
+    "CFSReportedViolation": "ANE",
+    "Activity": "Suspect",
+    "AnimalNameID": "H-0000000020",
+    "AnimalName": "CRYSTAL, DAISY",
+    "InitialNatureOfComplaint": "Animal Issue",
+    "NameID": "A-0000000020"
+  },
+  "258290": {
+    "AnimalLastName": "Pepper",
+    "AnimalFirstName": "Tilly",
+    "AnimalName": "Pepper, Tilly",
+    "LicenseOrTag": "Ani@01",
+    "LicTagType": "Cat License/Registration",
+    "Address": "5099 N College Ave",
+    "OwnerNameID": "A-0000000029",
+    "OwnerName": "Mikedbn, Morganlvv"
+  },
+  "258291": {
+    "AnimalNameID": "H-0000000018",
+    "AnimalNameID1": "H-0000000014",
+    "AnimalName": "Teddy, Bear",
+    "AnimalName1": "BENTLEY, APOLLO",
+    "LicenseOrTag": "Ani@02",
+    "LicenseOrTag1": "Ani@03",
+    "LicTagType": "Cat License/Registration",
+    "Address": "5099 N College Ave",
+    "OwnerNameID1": "A-0000000029",
+    "OwnerNameID": "0-0000000029",
+    "OwnerName1": "Father, F",
+    "OwnerName": "Matthew, Matthew"
+  },
+  "258304": {
+    "LicTagNo": "YU7898776",
+    "LicenseIssuingAgency": "Sheriff",
+    "RegNo": "20-000002",
+    "Notes": "Automation Test"
+  },
+  "258305": {
+    "ItemCode": "Sheep121",
+    "Description": "Sheep License121",
+    "Amount": "25",
+    "LicenseOrTag": "HR567IOJZ11",
+    "AnimalNameID": "H-0000000020",
+    "InvoiceType": "Animal Licensing",
+    "LicTagType": "Sheep License121"
+  },
+  "258306": {
+    "ACENo1": "20-000005",
+    "ACENo": "20-000004",
+    "AnimalsName": "Teddy, Bear ",
+    "AnimalsName1": "BOOMER, BONES "
+  },
+  "258659": {
+    "LicTagType": "Horse License/Registration",
+    "LicenseOrTag": "TYU6788RT",
+    "AnimalNameID": "H-0000000020"
+  },
+  "259713": {
+    "AnimalLastName": "Jubatus",
+    "AnimalFirstName": "Cheetahs",
+    "Species": "Swine",
+    "PedigreeName": "Raw",
+    "Sex": "Male",
+    "DOB": "11/11/2019",
+    "Height": "3",
+    "Weight": "35",
+    "Length": "10",
+    "AnimalLostOrFoundLocation": "655 W Michigan St",
+    "ReportingPersonsNameID": "A-0000000040"
+
+  },
+  "259716": {
+    "AnimalLostOrFoundLocation": "5934 Dearborn Ave ",
+    "ReportingPersonsNameID": "A-0000000341",
+    "AnimalNameID": "H-0000000023"
+  },
+  "260153": {
+    "Location": "Platte St/Doolittle St",
+    "Officer": "AUTO",
+    "Municipality":"0111 - NEW HAVEN - 11, Town",
+	"CFSReportedViolation":"Alarm",
+	"InitialNatureOfComplaint":"Animal",
+	"NameID":"A-0000000093",
+	"Activity":"Caller",
+    "CallNo": "25-000045"
+  },
+  "260392": {
+    "Location": "6503 N Military Trl",
+    "Officer": "Auto",
+    "ComplaintType": "Police Shooting",
+    "NameID": "A-0000000346",
+    "CFSReportedViolation": "ANE",
+    "INOC": "Shooting",
+    "Activity": "Victim",
+    "InitialNatureOfComplaint": "Test"
+  },
+  "274398": {
+    "CaseNo": "21-000167",
+    "Location": "1203 Dousman St",
+    "Officer": "Auto",
+    "ComplaintType": "Danger Animal"
+  },
+  "274399": {
+    "CaseNo": "21-000168",
+    "Location": "1203 Dousman St",
+    "Officer": "Auto",
+    "Municipality": "3757 - HATLEY - 57, Village",
+    "ACENo": "21-000001",
+    "CFSReportedViolation": "IND",
+    "CFS": "IND",
+    "Activity": "Suspect",
+    "InitialNatureOfComplaint": "Verify Main Tab Functionality",
+    "NameID": "A-0000000425"
+  },
+  "274400": {
+    "Officer": "PRMS",
+    "Location": "1203 Dousman St",
+    "CaseNo": "21-000168",
+    "ACENo": "21-000002",
+    "CFSReportedViolation": "2H:11-2",
+    "CFS": "2H:11-2",
+    "AnimalNameID": "H-0000000026",
+    "AnimalName": "Bush, Dog",
+    "Sex": "Male",
+    "Breed1": "Cirneco dell",
+    "Breed2": "Norwegian Elkhound",
+    "DOB": "05/01/2020",
+    "MicroChipID": "TRY5678HYU676"
+  },
+  "274401": {
+    "Officer": "PRMS",
+    "CaseNo": "21-000167",
+    "ACENo": "21-000003",
+    "CFSReportedViolation": "CRIMMISP",
+    "CFS": "CRIMMISP",
+    "AnimalNameID": "H-0000000027",
+    "AnimalName": "Raccoon, Dog",
+    "CageNo": "PS001"
+  },
+  "274402": {
+    "Officer": "Auto",
+    "CaseNo": "21-000168",
+    "ACENo": "21-000004",
+    "CFSReportedViolation": "CF",
+    "CFS": "CF",
+    "AnimalNameID": "H-0000000027",
+    "AnimalName": "Raccoon, Dog",
+    "Resolutions": "Adopted",
+    "VictimNameID": "A-0000000019",
+    "LocationOfWounds": "Laceration",
+    "VictimName": "Mikenwp, Morganxco"
+  },
+  "274403": {
+    "Officer": "Auto",
+    "CaseNo": "21-000168",
+    "ACENo": "21-000004",
+    "CFSReportedViolation": "CF",
+    "CFS": "CF",
+    "AnimalNameID": "H-0000000027",
+    "AnimalName": "Raccoon, Dog",
+    "Resolutions": "Adopted",
+    "Template": "Animal Report",
+    "Text":"North American raccoon is 75 to 90 cm (30 to 36 inches) long"
+  },
+  "274472": {
+  	"AnimalLastName0": " ",
+    "AnimalLastName": "Canines",
+    "AnimalFirstName": "dingo",
+    "Address": "1597 Old Freehold Rd",
+    "Species": "Dog",
+    "PID": "PRT4556FR",
+    "SBCase": "25369",
+    "MicroChipID": "MCRT677G45",
+    "Breed1": "Collie",
+    "Breed2": "Chinook",
+    "PedigreeName": "Nestle Pedigree",
+    "DOB": "01/01/2020",
+    "VeterinarianNameID": "A-0000000245"
+  },
+  "274473": {
+    "AnimalNameID": "H-0000000026",
+    "Species": "Dog",
+    "DOB": "05/01/2020",
+    "OwnerNameID": "A-0000000026",
+    "AnimalName": "Bush, Dog",
+    "ACENo": "21-000002",
+    "OwnerName": "Mikevjr, Morganhly",
+    "TypeOfProcedure": "Zoo veterinarian",
+    "ReasonOfProcedure": "Veterinary anesthesia",
+    "VeterinarianNameID": "A-0000000385",
+    "VeterinarianName": "Javier, Kai",
+    "Name":"Bush, Dog",
+    "NameID":"H-0000000026"
+  },
+  "274474": {
+    "AnimalNameID": "H-0000000027",
+    "AnimalName": "Raccoon, Dog",
+    "ACENo": "21-000002",
+    "TypeOfProcedure": "Veterinary technician",
+    "Address": "1613 Old Freehold Rd",
+    "AddressType": "Old",
+    "Subject": "Automation",
+    "Name":"Raccoon, Dog",
+    "Species": "Goat",
+    "NameID":"H-0000000027"
+
+  },
+  "274499": {
+    "LicTagType": "Dog License/Registration",
+    "LicenseOrTag": "DLI908RT456",
+    "AnimalNameID": "H-0000000028",
+    "OwnerNameID": "A-0000000036",
+    "VetnerianNameID": "A-0000000035",
+    "LicTagNo": "DLI908RT456"
+  },
+  "274500": {
+    "LicTagType": "Equine Trail Use License",
+    "LicTagNo": "DFG43456FG",
+    "AnimalName": "Hunting, Dog",
+    "AnimalFirstName": "Dog",
+    "AnimalLastName": "Hunting",
+    "Species": "Swine",
+    "RegNo": "21-000001",
+    "LicenseOrTag": "DFG43456FG"
+  },
+  "274501": {
+    "LicTagType": "Dog License/Registration",
+    "LicenseOrTag": "DLI908RT456",
+    "PrimaryNameID": "H-0000000030",
+    "LastName": "lupus",
+    "MergeNameID": "H-0000000031",
+    "Address": "1579 Old Freehold Rd",
+    "AddressType": "Old"
+  },
+  "275936": {
+    "PrimaryNameID": "H-0000000032",
+    "MergeNameID": "H-0000000033",
+    "MergeAnimalName": "Puppy, Little Jr",
+    "AnimalNameID": "H-0000000033",
+    "NameID": "H-0000000032"
+  },
+  "275940": {
+    "LicTagType": "Horse License/Registration",
+    "LicenseOrTag": "HGT678UJY445",
+    "AnimalNameID": "H-0000000004",
+    "OwnerNameID": "A-0000000438",
+    "LicTagNo": "HGT678UJY445",
+    "OwnerName": "Kane, Williamson",
+    "AnimalName": "Ferry, Harry"
+  },
+
+  "282071":{
+  "AnimalNameID":"H-0000000034",
+  "OwnerNameID":"A-0000000448",
+  "PrimaryNameID":"H-0000000034",
+  "MergeAnimalID":"H-0000000035",
+  "MergeNameID":"H-0000000035",
+  "RegNo":"21-000002",
+  "ActivityType":"Animal Registration ",
+  "ACENo":"21-000002",
+  "OwnerName":"Anderson,Board"
+  },
+
+"293790":
+{
+
+  "ACENo":"20-000003",
+  "Type":"Supplemental Report",
+  "Status":"OnHold"
+
+},
+
+"294476":{
+  "RegNo":"20-000002",
+  "Comments":"Automation Test"
+
+},
+
+"293965":{
+
+"LicTagType":"Cat License/Registration",
+"LicenseOrTag":"CATTEST2022",
+"AnimalNameID":"H-0000000014",
+"OwnerLastName":"Father",
+"OwnerFirstName":"F",
+"LastName":"Father",
+"FirstName":"F",
+"Description":"Cat License/Registration",
+"BillToAccountLastName":"Father",
+"BillToAccountFirstName":"F",
+"DisplayCondition":"All Condition",
+"Text":"Flag Functionality",
+"Comment":"Address Flag Screen functionality",
+"RegNo":"22-000001",
+"OwnerNameID":"A-0000000049"
+
+},
+
+"293965R2":{
+
+"LicTagType":"Cat License/Registration",
+"LicenseOrTag":"CATTEST2022",
+"AnimalNameID":"H-0000000014",
+"OwnerLastName":"Father",
+"OwnerFirstName":"F",
+"LastName":"Father",
+"FirstName":"F",
+"Description":"Cat License/Registration",
+"BillToAccountLastName":"Father",
+"BillToAccountFirstName":"F",
+"DisplayCondition":"All Condition",
+"Text":"Flag Functionality",
+"Comment":"Address Flag Screen functionality",
+"RegNo":"22-000001",
+"OwnerNameID":"A-0000000049"
+
+},
+
+"294294":{
+  "LicTagType":"Cat License/Registration",
+  "LicenseOrTag":"AutomationTest2022",
+  "AnimalNameID":"H-0000000018",
+  "OwnerNameID":"O-0000000015",
+  "NameRelation":"Building Owner",
+  "LastName":"Matthew",
+  "FirstName":"Matthew",
+  "PhoneType1":"H - Home",
+  "PhoneNumber":"9988855222",
+  "Name":"Matthew, Matthew",
+  "PhoneNo":"(998) 885-5222",
+  "PhoneNumber1":"9988855222"
+
+},
+
+"294741":{
+  "LicTagType":"Horse License/Registration",
+  "LicenseOrTag":"HORSE2022",
+  "AnimalNameID":"H-0000000034",
+  "ActivityType":"Animal Registration",
+  "AnimalLastName":"Hellan",
+  "AnimalFirstName":"Hollow"
+
+},
+"296351":{
+   "AnimalName":"Hunting, Dog",
+   "FirstName": "Vinton",
+   "LastName": "James",
+   "NameID":"A-0000000039"
+},
+"13203":{
+    "LicenseOrTag":"19971",
+    "LicTagType":"Equine Trail Use License",
+    "LicenseOrTag1":"1997214",
+    "LicTagType1":"Dog License/Registration",
+    "RegNo":"24-000003",
+    "AnimalNameID":"H-0000000028",
+    "AnimalFirstName":"Hollow",
+    "AnimalLastName":"Hellan",
+    "Name":"Hellan, Hollow"
+},
+"259720":{
+	"PrimaryNameID":"H-0000000015",
+	"MergeNameID":"H-0000000016",
+	"MergeAnimalName":"Baxter, Dexter",
+	"MergeLastName": "Baxter",
+    "MergeFirstName": "Dexter"
+},    
+  "258288":{
+	"AnimalNameID":"H-0000000028",
+	"AnimalName":"Domestic, Dog",
+	"OwnerName":"Jai, Kumar",
+	"LicTagType":"Dog License/Registration",
+	"LicenseOrTag":"LKIGH486132" 
+},    
+ 
+  "258292":{
+  	"UserName": "Automation",
+	"Password": "Pnx@2016",
+	"InventoryName":"Animal",
+	"Category":"Computers",
+	"Make":"IBM",
+	"ItemCode":"Animal Cage - Medium",
+	"IssuingPF":"AUTPOL",	
+	"NameID":"A-0000000106",
+	"Checkout":"25"
+},
+	 
+	"15553":{
+	"PrimaryNameID":"H-0000000042",
+	"MergeNameID":"H-0000000043",
+	"MergeAnimalName":"Thales, Rock",
+	"MergeLastName": "Thales",
+    "MergeFirstName": "Rock"
+	
+},
+
+	"13731":{
+	"PrimaryNameID":"H-0000000039",
+	"LastName":"Martinez",
+	"FirstName":"Jones",
+	"MergeLastName":"Y"
+	},
+	"17015A":{
+	"VeterinarianNameID":"A-0000000032",
+	"PrimaryANameID":"A-0000000031",
+	"MergeANameID":"A-0000000032",
+	"ActivityType":"Animal Veterinarian",
+	"Address":"1 Silverstone Dr,406",
+	"AliasesName":"Bullock, Sanda",
+	"VeterinarianNameID1":"A-0000000031",
+	"veterinarianLastName":"Sandy",
+	"veterinarianFirstName":"Perks"
+	},
+	"17015B":{
+	"VeterinarianNameID":"A-0000000031",
+	"PrimaryANameID":"A-0000000031",
+	"MergeANameID":"A-0000000034",
+	"ActivityType":"Animal Veterinarian",
+	"Address":"1 Silverstone Dr,406",
+	"AliasesName":"Sasa, Sasa",
+	"veterinarianLastName":"Sandy",
+	"veterinarianFirstName":"Perks"
+	},
+	
+	"18327A":{
+	"ACENo":"23-000001",
+	"CaseNo":"23-000064",
+	"AnimalName":"Parrot, Lucie",
+	"Location":"10 Yuma Trl",
+	"Officer":"AUTPOL",
+	"Municipality":"0111 - NEW HAVEN - 11, Town",
+	"CFSReportedViolation":"Alarm",
+	"InitialNatureOfComplaint":"Animal",
+	"NameID":"A-0000000093",
+	"Activity":"Caller",
+	"AnimalNameID":"H-0000000044"
+	},
+	
+	"18327B":{
+	"ACENo":"23-000001",
+	"CaseNo":"23-000064",
+	"AnimalName":"Parrot, Lucie",
+	"Location":"10 Yuma Trl",
+	"Officer":"AUTPOL",
+	"Municipality":"0111 - NEW HAVEN - 11, Town",
+	"CFSReportedViolation":"Alarm",
+	"InitialNatureOfComplaint":"Animal",
+	"NameID":"A-0000000093",
+	"Activity":"Caller",
+	"AnimalNameID":"H-0000000044"
+	},
+
+	
+	"19918":{
+	"ACENo":"24-000003",
+	"VictimNameID":"A-0000000016",
+	"LocationOfWounds":"  --Add 2331 -- ",
+	"LocationOfWounds1":"Abrasion",
+	"AnimalNameID":"H-0000000051",
+	"AnimalName":"Dog, Siree"
+  	},
+
+	"19901":{
+	"ComplaintType":"Barking",
+	"ACENo":"23-000001"
+	},
+
+	"19974":{
+	"InvName":"Animal",
+	"Category":"Animal Cage",
+	"Make":"Other",
+	"Description":"Animal Cage - Large",
+	"Amount":"4",
+	"IssuingPF":"AUTP",
+	"NameID":"A-0000000087",
+	"ItemCode":"Animal Cage - Large",
+	"DeptTracking":"Zyan2",
+	"Rate":"$4.00"
+  },
+
+	"19900":{
+	"AddressType1":"Address",
+	"AddressType2":"Intersection",
+	"DOB":"05/01/2020",
+	"RegNo":"21-000001"
+	},
+	"20040": {
+		"RegNo": "24-000001",
+		"OwnerNameID": "A-0000000241",
+		"Description": "Equine Trail Use License",
+		"DisplayCondition": "All Condition",
+		"Comments": "For verifying the tabs color",
+		"LastName":"Adams",
+		"Name1":"Adams, Rivera",
+		"AnimalNameID":"H-0000000020",
+		"LicTagType":"Equine Trail Use License",
+		"LicenseOrTag":"126",
+		"NameRelation":"Building Owner"
+  },
+	
+	"260514":{
+	"InvoiceType":"Animal Licensing",
+	"ItemCode":"ACMR",
+	"Description":"Macaw License/Registration",
+	"Amount":"100",
+	"LicTagType":"Macaw License/Registration"
+	},
+
+	"21775":{
+	"CodeValue":"08",
+	"Description":"High Schools",
+	"UserName":"Automation",
+	"Password":"Pnx@2023",
+	"Database":"AutomationNJ",
+	"Track":"08",
+	"ID":"H-0000000001"
+	},
+	
+	"20012":{
+  	"UserName": "Automation",
+  	"Password": "Pnx@2023",
+  	"Database": "AutomationNJ",
+  	"AnimalLastName":"Male",
+  	"AnimalFirstName":"Alpha",
+  	"Species":"Dog",
+  	"MicroChip":"300697",
+  	"Height":"3",
+  	"Field":"Veterinarian",
+  	"PedigreeName":"VitaminBooster",
+  	"VeterinarianNameID":"A-0000000002",
+  	"VeterinarianNameID1":"A-0000000003",
+  	"RegistarionType":"Dog License/Registration",
+  	"veterinarianLastName":"Demi",
+  	"veterinarianFirstName":"Barnes",
+  	"AnimalName":"Male, Alpha"
+	},
+  
+	"20197":{
+	"CaseNo":"24-000002",
+	"CallNo":"24-000003",
+	"ACENo":"24-000003",
+	"Day":"Tuesday",
+	"Day1":"Thursday"
+	},
+  
+	"23086":{
+	"AnimalLastName":"Walter",
+	"AnimalFirstName":"kid",
+	"Address":"1799 W Saint Paul Ave;PX  ",
+	"Species":"Cat",
+	"Sex":"Female",
+	"Breed1":"American Bobtail",
+	"Breed2":"American Bobtail"
+	},
+  
+	"24795":{
+	  "UserName": "Automation",
+      "Password": "Pnx@2023",
+      "Database": "AutomationNJ",
+      "ID":"H-0000000046",
+      "TypeOfProcedure":"Veterinary technician",
+      "ReasonOfProcedure":"Caesarean section",
+      "VeterinarianNameID":"A-0000000012",
+      "PhoneNumber":"9003131757",
+      "PhoneNo":"(900) 313-1757",
+      "PhoneNumber1":"9952955284",
+      "VeterinarianName":"Schnieder, Johnson",
+      "AnimalNameID":"H-0000000046"
+	},
+  
+  "26550":{
+	"AnimalNameID":"H-0000000052",
+	"AnimalFirstName":"Little",
+	"AnimalLastName":"Stuward",
+	"Name":"Pearl, Hodgson",
+	"LastName":"Peter",
+	"FirstName":"Tin",
+	"veterinarianLastName":"Peter",
+	"veterinarianFirstName":"Tin",
+	"OwnerName":"Peter, Tin"
+	},
+  
+	"26349":{
+	"Location":"844 No Colony Rd",
+	"CaseNo":"24-000019",
+	"Officer":"Auto",
+	"ComplaintType":"Barking",
+	"AnimalNameID":"H-0000000047",
+	"VictimNameID":"A-0000000154",
+	"LocationOfWounds":"Abrasion",
+	"AnimalName":"Dobber, Man"
+	},
+  
+  "26224": {
+		"CodeID": "3156",
+		"Description": "Terrier",
+		"CodeValue": "TR5",
+		"NameID": "0000000006",
+		"NameID1": "0000000008",
+		"Species": "Dog",
+		"Color1":"Terrier",
+		"Color2":"Terrier"
+	},
+"29758":{
+"Species":"Dog",
+"Sex":"Male",
+"VeterinarianNameID":"A-0000000185",
+"Location":"199 Sand Hill Crane Dr",
+"AnimalLastName":"Tim",
+"AnimalFirstName":"tiger",
+"Name":"Tim, Tiger"
+
+},
+"34941":{
+		"UserName": "Automation",
+		"Password": "Pnx@2023",
+		"Database": "AutomationNJ",
+		"AnimalLastName": "Raby",
+		"AnimalFirstName": "Will",
+		"AnimalName": "Raby, Will",
+		"PhoneType1": "H - Home",
+		"PhoneNumber": "1111111111",
+		"PhoneType": "H - Home",
+		"PhoneNo": "(111) 111-1111"
+
+
+
+},
+
+"ALFE":{
+	"AnimalLostOrFoundLocation":"a"
+},
+
+"ARE":{
+	"RegistarionType":"Equine Trail Use License"
+},
+
+"44078":{
+	"AnimalNameID": "0000000023"
+},
+
+"37771":{
+	"RegistarionType":"Equine Trail Use License",
+	"LicenseOrTag":"20",
+	"AnimalNameID":"0000000012",
+	"Description":"Equine Trail Use License",
+	"Rate":"12"
+},
+
+"37736":{
+	"AnimalNameID0":"0000000023",
+	"RegistarionType":"Equine Trail Use License",
+	"LicenseOrTag0":"02",
+	"LatLongValue0":"Not Set. Move bubble and update",
+	"LatLongValue1":"32.5294962 / -84.8954814",
+	"LastName":"Mikeoen",
+	"FirstName":"Morganodp",
+	"AnimalNameID1":"0000000012",
+	"LicenseOrTag1":"04"
+},
+"46311":{
+"AnimalLastName":"Jam",
+"AnimalFirstName":"Tom",
+"Sex":"Male",
+"Species":"Horse",
+"Breed1":"Andalusian Horse",
+"Breed2":"Andalusian Horse",
+"MicroChip":"Test",
+"ID":"H-0000000053"
+},
+"48561":{
+"Location":"701 Skatepark Ct",
+"Officer":"Px404",
+"ComplaintType":"Animal Complaint"
+},
+"44018":{
+	"MicroChip":"123456789012345678901",
+	"MicroChip0":"12345678901234567890"
+},
+"58645":{
+"Location":"225 Dogwood St",
+"Officer":"PA002",
+"ComplaintType":"Animal Complaint",
+"Municipality":"0101 - ADAMS - 01, Town",
+"CFSReportedViolation":"0487",
+"InitialNatureOfComplaint":"Test",
+"NameID":"A-0000000635",
+"Activity":"Deceased",
+"Name":"Harlan, Quade",
+"DOB":"06/09/1998",
+"Address":"18 Hawthorne St"
+},
+
+"58645A":{
+"AnimalNameID":"H-0000000055",
+"AnimalName":"Amos, Draven"
+},
+
+"58645B":{
+"AnimalNameID":"H-0000000055",
+"AnimalName":"Amos, Draven",
+"AnimalHeldAt":"Veterinary hospital",
+"HealthStatusIn":"Appears Healthy",
+"PhysicalState":"Broken Bones",
+"WaterAvailable":"Yes",
+"FoodAvailable":"Yes",
+"Attitude":"ABC",
+"Pregnant":"Not Applicable",
+"OffspringPresent":"Not Applicable",
+"EarliestReleaseDate":"06/11/2025",
+"Cage#":"AS001"
+},
+
+"58645C":{
+"AnimalNameID":"H-0000000055",
+"AnimalName":"Amos, Draven",
+"HealthStatusOut":"Appears Healthy",
+"Resolutions":"Returned to Owner"
+},
+
+"58645D":{
+"VictimNameID":"A-0000000635",
+"LocationOfWounds":"Avulsion",
+"AnimalNameID":"H-0000000055",
+"AnimalName":"Amos, Draven",
+"VictimsName":"Harlan, Quade",
+"Address1":"18 Hawthorne St, Browns Mills, NJ, 08015",
+"AnimalNo":"H-0000000055"
+},
+
+"58638":{
+"ACENo":"25-000002",
+"CaseNo":"25-000086",
+"ApprovalStatus":"OnHold",
+"ApprovalStatusInGrid":"On Hold",
+"ColumnName0":"Approval Status"
+},
+"58658":{
+"IssuingPF":"P033",
+"IssuedPF":"P855",
+"NameID":"A-0000000634",
+"InventoryNo":"25-000007",
+"ItemCode":"ACS"
+},
+"58283":{
+"AnimalLostOrFoundLocation":"299 W Ashdale St",
+"ReportingPersonsNameID":"A-0000000633",
+"AnimalNameID":"H-0000000054",
+"OwnerFirstName":"Merrick",
+"OwnerLastName":"Ansel"
+},
+"63110":{
+"Location":"10 Antrues St",
+"Officer":"AUTO",
+"ComplaintType":"Barking",
+"Municipality":"0101 - ADAMS - 01, Town",
+"CFSReportedViolation":"SLBA",
+"CFSReportedViolationCode":"SLBA",
+"CFSReportedViolationDescription":"Single Long Bell Alarm",
+"NameID":"A-0000000033",
+"Activity":"Witness",
+"Name":"Test, T",
+"NewAction":"Send for Approval",
+"InitialNatureOfComplaint":"Test",
+"label":"Submitted"
+},
+"72473":{
+"FollowUpDateFrom":"12/31/2025",
+"FollowUpDateTo":"12/31/2025",
+"CageNo": "PS001",
+"ACENo": "25-000003",
+"ApprovalStatus":"Submitted",
+"ComplaintType":"Barking",
+"Resolutions":"Returned to Owner"
+},
+"72670":{
+  "RegistarionType":"Horse License/Registration",
+  "LicenseOrTag1":"LION2025",
+  "LicenseOrTag2":"LION2027",
+  "AnimalNameID":"H-0000000057",
+  "OwnerNameID":"A-0000000596",
+  "ActivityType":"Animal Registration",
+  "AnimalLastName":"Leo",
+  "Name":"Auto",
+  "AnimalFirstName":"Lion"
+},
+"72726":{
+  "Location2":"1 W Damn St E;PX, Keystone, AL, 35007",
+  "Location1":"1 W Damn St E"
+},
+"72739":{
+  "Location1":"Dogwood 1",
+  "Location2":"225 Dogwood St;PX, Browns Mills, NJ, 08015",
+  "Location3":"Random Loc"
+},
+"72765":{
+  "NameID":"0000000058",
+  "TypeOfProcedure":"Veterinary technician",
+  "ReasonOfProcedure":"Caesarean section",
+  "VeterinarianNameID":"A-0000000503",
+  "Type":"Four Paw Declaw",
+  "Result":"Roundworms"
+  },
+"72778":{
+  "ACENo1":"25-000004",
+  "ACENo2":"25-000005",
+  "Municipality":"0111 - NEW HAVEN - 11, Town",
+  "CFSReportedViolation":"Alarm",
+  "InitialNatureOfComplaint":"Animal",
+  "Activity":"Victim",
+  "NameID":"A-0000000053"
+  },
+"72778A":{
+  "InitialCFS":"12AU25",
+  "ReportedLocation":"125 Shoprite Way",
+  "Location1":"1171 Delmar Dr",
+  "CADDisposition":"Cc",
+  "CFSReportedViolation":"Alarm",
+  "InitialNatureOfComplaint":"Animal",
+  "Activity":"Caller",
+  "NameID":"A-0000000052"
+  },
+"72800":{
+  "AnimalLastName":"Freddie",
+  "AnimalFirstName":"Fox",
+  "Address":"2599 Thorofare Rd",
+  "AnimalName":"Freddie, Fox"
+  },
+ "72754": {
+    "Location": "Platte St/Doolittle St",
+    "Officer": "AUTO",
+    "Municipality":"0111 - NEW HAVEN - 11, Town",
+	"CFSReportedViolation":"Alarm",
+	"InitialNatureOfComplaint":"Animal",
+	"NameID":"A-0000000093",
+	"Activity":"Caller",
+    "CallNo": "25-000197"
+  },
+ "72754A": {
+    "Location": "Platte St/Doolittle St",
+    "Officer": "AUTO",
+    "Municipality":"0111 - NEW HAVEN - 11, Town",
+	"CFSReportedViolation":"Alarm",
+	"InitialNatureOfComplaint":"Animal",
+	"NameID":"A-0000000093",
+	"Activity":"Caller",
+    "CallNo": "25-000045"
+  },
+ "74100":{
+	"InvName":"Animal",
+	"Category": "Ladder",
+	"Type": "Short Ladder",
+	"Make":"Other",
+	"Amount":"4",
+	"IssuingPF":"AUTPOL",
+	"NameID":"A-0000000087"
+  },
+"62496":{
+"LF":"25-000001",
+"AnimalHelAt":"Veterinary hospital",
+"Cage":"AS001"
+},
+"74292":{
+ "ACENo1": "26-000003",
+"CodeValue":"1565",
+"OfficerPF":"1565",
+"Officer":"1"
+},
+"74395":{
+ "AnimalNameID": "0000000057",
+"VeterinarianNameID": "A-0000000335",
+"OwnerNameID": "A-0000000438",
+ "OwnerName": "Kane, Williamson",
+ "VeterinarianName":"Oscar, Bailey",
+ "TypeOfProcedure":"Veterinary technician",
+ "ReasonOfProcedure":"Caesarean section",
+"Officer":"1"
+},
+"74808":{
+  "InitialCFS":"12AU25",
+  "ReportedLocation":"125 Shoprite Way",
+  "Location1":"1171 Delmar Dr",
+  "CADDisposition":"GOA"
+  }
+}

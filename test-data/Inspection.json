@@ -1,0 +1,2853 @@
+{
+	"110145": {
+		"BuildingStatus": "In Normal use",
+		"Address": "37 Forsythe Rd",
+		"InspectionZone": "Zone 1",
+		"BaseMonth": "January",
+		"Cycle": "Annual",
+		"OccupancyName": "ProPhoenix",
+		"PhoneNumber": "9876543210",
+		"PhoneType": "Mobile",
+		"StateReg":"155",
+		"LocalID":"155",
+		"TrackingNo":"1",
+		"ParentRegistration":"130"
+	},
+	"110148": {
+		"SystemID": "5000",
+		"OccupancyName": "Building#22",
+		"Address": "120 minn St",
+		"Address1": "120 minn St;PX",
+		"StateReg": "1",
+		"LocalID": "1",
+		"Contact": "Adam  Willam"
+	},
+	"110149": {
+		"SystemID": "25"
+	},
+	"110150": {
+		"LocalID": "34POL",
+		"BuildingStatus": "Under construction",
+		"SystemID": "4934",
+		"StateReg": "45WER"
+	},
+	"110151": {
+		"StateRegID": "1",
+		"RoomLocation1": "Elevator Room1",
+		"OccupancySpaceName": "Auditorium",
+		"BuildingStatus": "In Normal use"
+	},
+	"110152": {
+		"FirePumpLocation": "Pump Location",
+		"StandpipeType": "1 - Wet",
+		"OtherLocation": "General Room",
+		"BaseMonth": "August",
+		"LocalID": "1",
+		"Manufacturer": "Generac",
+		"Manufacturer1": "Generac",
+		"InspectionType": "State Inspection"
+	},
+	"110153": {
+		"StateRegID": "1",
+		"InspectionZone": "Zone 1",
+		"BaseMonth": "August",
+		"Name": "Willam, Adam",
+		"PhoneNumber": "(556) 453-1246",
+		"InspectionZoneCode": "ZN1",
+		"LastName": "Jack",
+		"Name1": "Jack, Sparrow"
+	},
+	"110154": {
+		"OccupancyName": "Building#22",
+		"ChemicalName": "Trimethoxysilane",
+		"IDNo": "Trimethoxysilane/Trimethoxysilane",
+		"Template":"PreFireNotice",
+		"Text":"The correspondence is to serve as a notice that in the coming days",
+		"Template1":"Misc Info Temp",
+		"TextName":"Misc Info Temp"
+	},
+	"110155": {
+		"LocalID": "1",
+		"SystemID": "5000",
+		"DisplayCondition": "All Condition",
+		"Remarks": "Automation Address Flag Review"
+	},
+	"110156": {
+		"SystemID": "5000",
+		"StateRegID": "1",
+		"LatLongValue": "40.011836391308 / -74.867332060574",
+		"Comments": "Logged in"
+	},
+	"110157": {
+		"SystemID": "5000",
+		"Cycle": "Monthly",
+		"Type": "1i",
+		"InspectionZoneCode": "ZN1"
+	},
+	"110159": {
+		"InspectionGroup": "Group A",
+		"BaseMonth": "August",
+		"SystemID": "5000",
+		"ImageFile": "img1"
+	},
+	"110164": {
+		"SystemID": "7",
+		"LocalID": "35BNM",
+		"OccupancyName": "KTM Services",
+		"Contact": "Minn, Jacob",
+		"Address": "101 minn St",
+		"InspectorPF": "001"
+	},
+	"110167": {
+		"SystemID": "8",
+		"SystemIDNo": "8"
+	},
+	"110170": {
+		"SystemID": "26",
+		"OccupancyName": "  Gongura ",
+		"Floor1": "Main (0)",
+		"Floor2": "Basement (1)",
+		"Location1": "Office",
+		"Location2": "Sales Floor",
+		"Floor1InGrid": "Main",
+		"Floor2InGrid": "Basement",
+		"Status": "New"
+	},
+	"110192": {
+		"BuildingStatus": "Under construction",
+		"SystemID": "9",
+		"SystemIDNo": "9",
+		"NoticesMailTo": "Ethan, James ( Building Owner)",
+		"InspectionBuildingStatus": "Under construction",
+		"OccupancyName": "Gateway"
+	},
+	"110276": {
+		"SystemID": "24",
+		"Location": "Exit Way",
+		"Floor": "General",
+		"PenaltyType": "Daily",
+		"Category": "Extinguishers",
+		"NatureAction": "Need Serviced"
+	},
+	"110277": {
+		"SystemID": "23",
+		"Contact": "Gavin, Jordan",
+		"Floor": "1st Floor",
+		"Category": "Electric",
+		"Address": "705 Cove St, Cinnaminson, NJ 08077  ",
+		"Location": "Display Area",
+		"ViolationCode": "Subchapter I",
+		"ViolationCode2": "CHAPTER 2",
+		"Status": "Recommended"
+	},
+	"110278": {
+		"SystemID": "22",
+		"OccupancyName": "Jose, Angel",
+		"Floor": "Parking Lot",
+		"Category": "Exit Signs",
+		"Status": "Abated",
+		"ViolationCode": "CHAPTER 3"
+	},
+	"110279": {
+		"SystemID": "21",
+		"InspectionType": "Sprinkler",
+		"Type": "Periodic,Systems-Sprinklers"
+	},
+	"110280": {
+		"SystemIDNo": "108",
+		"SystemID": "108",
+		"HydrantID": "108",
+		"NearestAddress": "1 Whittendale Dr;PX",
+		"Address": "89 Wall St",
+		"Type": "Hydrant",
+		"ActivityType": "Hydrant Inspection",
+		"PFCode": "001"
+	},
+	"110281": {
+		"SystemID": "32",
+		"SystemIDNo": "32",
+		"BaseMonth": "November",
+		"Cycle": "Monthly",
+		"Status": "No Violation Found"
+	},
+	"110284": {
+		"SystemID": "31",
+		"SystemIDNo": "31",
+		"InspectionType": "Hood",
+		"Location": "Exit Way",
+		"Category": "Exit Signs",
+		"Nature": "Needed",
+		"Type": "Re-inspection -Hood",
+		"Status": "1 Violations"
+	},
+	"110286": {
+		"SystemID": "30",
+		"SystemIDNo": "30",
+		"Source": "Public",
+		"Address": "200 Perry Ave",
+		"OccupancyName": "John, Michael",
+		"LastName": "Victoria",
+		"FirstName": "Leah",
+		"InspectedBy": "001",
+		"AssignedTo": "001"
+	},
+	"110287": {
+		"SystemIDNo": "29",
+		"SystemID": "29",
+		"ViolationCode": "Subchapter II",
+		"Inspector": "Test, Automation",
+		"ParameterID":"3112"
+	},
+	"110288": {
+		"SystemIDNo": "28",
+		"SystemID": "28",
+		"OccupancyName": "Barbeque nation",
+		"Type": "Periodic"
+	},
+	"110289": {
+		"SystemIDNo": "27",
+		"SystemID": "27",
+		"Status": "No Entry"
+	},
+	"110290": {
+		"SystemIDNo": "27",
+		"SystemID": "27",
+		"InspectorPF": "001",
+		"UpdatedBy": "001"
+	},
+	"110291": {
+		"SystemIDNo": "28",
+		"SystemID": "28",
+		"InspectorPF": "001",
+		"Inspector": "Test, Automation"
+	},
+	"110429": {
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January",
+		"OccupancyName": "ProPhoenix12",
+		"Address": "109 minn St"
+	},
+	"110476": {
+		"Address": "23 peri Ave",
+		"VerifiedAddress": "125 minn st",
+		"RegisteredAddress": "120 minn st",
+		"ClosedAddress": "108 minn st",
+		"UnverifiedAddress": "wert"
+	},
+	"111051": {
+		"InspectionZone": "Zone 1",
+		"Address": "102 minn St",
+		"OccupancyName": "ProPhoenix1",
+		"Cycle": "No Cycle",
+		"BuildingStatus": "Vacant and unsecured",
+		"City": "Mount Laurel",
+		"State": "NJ",
+		"Zipcode": "08054"
+	},
+	"111052": {
+		"BuildingStatus": "In Normal use",
+		"Address": "103 minn St",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Semi Annual",
+		"BaseMonth": "January",
+		"SystemID": "500",
+		"OccupancyName": "ProPhoenix2"
+	},
+	"111124": {
+		"Address": "5364 Rodgers Dr;PX",
+		"BuildingStatus": "In Normal use",
+		"Location": "Address",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Quarterly",
+		"BaseMonth": "January",
+		"Premise": "5364",
+		"Street": "Rodgers",
+		"Address1": "5364 Rodgers Dr;PX"
+	},
+	"111239": {
+		"BuildingStatus": "In Normal use",
+		"Address": "105 minn St",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Quarterly",
+		"BaseMonth": "January",
+		"ParentRegistration": "1",
+		"OccupancyName": "ProPhoenix4",
+		"PhoneType": "Mobile",
+		"LastName": "Sam",
+		"FirstName": "Anderson"
+	},
+	"111240": {
+		"BuildingStatus": "In Normal use",
+		"Address": "105 mill St",
+		"Premise": "5100",
+		"StreetName": "Park",
+		"StreetType": "St",
+		"Suite": "BLDG 1",
+		"ZipCode": "10019",
+		"CommonName": "Bingham Hall",
+		"Tracking": "2",
+		"PremiseType": "Park",
+		"District": "D1",
+		"SubDistrict": "S1",
+		"FixedpropertyUse": "938",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January"
+	},
+	
+	"111242": {
+		"BuildingStatus": "In Normal use",
+		"Address": "114 minn St",
+		"InspectionZone": "Zone 2",
+		"Cycle": "Annual",
+		"BaseMonth": "January",
+		"CommonName": "Building#70",
+		"OccupancyName": "Building#70"
+	},
+	"111243": {
+		"BuildingStatus": "In Normal use",
+		"Address": "110 minn St",
+		"InspectionZone": "Zone 2",
+		"Cycle": "Annual",
+		"CommonName": "ProPhoenix6",
+		"BaseMonth": "January",
+		"OccupancyName": "ProPhoenix6"
+	},
+	"111244": {
+		"Address": "100 minn St",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January",
+		"OccupancyName": "Prophoenix7",
+		"BuildingStatus": "In Normal use"
+	},
+	"111246": {
+		"BuildingStatus": "In Normal use",
+		"Address": "108 minn st",
+		"OccupancyName": "Building# 11",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January"
+	},
+	"140441": {
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "May",
+		"StateRegID": "1000-ABC- GHC",
+		"ParentRegistration": "1",
+		"BaseAddress": "7661 S Glenholme St. Macungie,PA 18062",
+		"OccupancyName": "Sakshi, sinha"
+	},
+	"144392": {
+		"SystemID": "5000",
+		"ElevatorLocation": "ElevatorLocation1",
+		"ElevatorRoom": "1 - Elevator Room1",
+		"LockBoxLocation": "Lock Location1",
+		"Zone": "Zone 1",
+		"Type": "JPCB - Platform - Combustible",
+		"SprinklerType1": "WET - Wet System",
+		"SprinklerType2": "DRY - Dry System",
+		"SprinklerTypeInGrid1":"Wet System",
+		"SprinklerTypeInGrid2":"Dry System",
+		"ElevatorTabNameCount":"Elevator (1)",
+		"SprinklerSystem":"FULL - Full Coverage"
+	},
+	"144398": {
+		"SystemID": "5000",
+		"AtriumLocation": "Atrium Location1",
+		"BaseMonth": "August",
+		"Length": "200",
+		"Width": "200",
+		"SqFeet": "40,000",
+		"floor": "Main",
+		"TotalSqFeet": "80,000",
+		"AtriumLocation1": "School",
+		"AtriumLocation2": "Station",
+		"AtriumTabNameCount": "Atrium (1)",
+		"SeqNo":"1"
+	},
+	"144421": {
+			"UtilityType": "NATG - Natural Gas",
+			"UtilityType1": "Natural Gas",
+			"AlarmType": "3 - Heat Detectors",
+			"HoodLocation": "Hood Location1",
+			"SystemType": "WET - Wet System",
+			"StateRegID": "1",
+			"Cycle": "Monthly"
+		},
+	
+	"144440": {
+		"StateRegID": "1"
+	},
+	"144913": {
+		"InvoiceType": "Smoke",
+		"Permit": "NiO",
+		"Description": "NitrogenOxide",
+		"SubItemCode": "15",
+		"InspectionType": "Maintaining"
+	},
+	"144929": {
+		"Type": "c1",
+		"TypeDescription": "Chlorine",
+		"SubItemCode": "20",
+		"RegisteredAddress": "596 Muirfield CT",
+		"SystemID": "10",
+		"LastName": "Gateway"
+	},
+	"144965": {
+		"Type": "c1",
+		"UnverifiedAddress": "yawn",
+		"Type1": "Autopermit",
+		"RegisteredAddress": "596 Muirfield CT"
+	},
+	"144966": {
+		"BuildingStatus": "In Normal use",
+		"Type": "c1",
+		"VerifiedAddress": "5 Warren St"
+	},
+	"144970": {
+		"RadType": "CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+		"Premise": "15",
+		"Street": "honor St",
+		"PermitNo": "25-000006"
+	},
+	"145031": {
+		"Type": "4v",
+		"UnRegisteredAddress": "13 Bank St",
+		"Type1": "CSDCMAC",
+		"Name": "Mach",
+		"RegisteredAddress": "9 Sumach St"
+	},
+	"145207": {
+		"Type": "CSDCMAC",
+		"Address": "7661 S Glenholme St",
+		"Type1": "Permit",
+		"SubItemCode": "20",
+		"Rate": "100",
+		"ItemCode": "Permit - Permit Automation",
+		"SubItemCode1": "25",
+		"Rate1": "150"
+	},
+	"145227": {
+		"Premise": "3",
+		"Street": "3 Warren St",
+		"InvoiceType": "Chemical",
+		"SystemID": "9001",
+		"InvoiceNo": "17-000065"
+	},
+	"145261": {
+		"Type": "Permit",
+		"RadType": "Permit - Permit Automation",
+		"PermitNo": "17-000016",
+		"Amount": "250"
+	},
+	"145264": {
+		"SubItemCode": "25",
+		"SubItemCodeGrid":"25          ",
+		"SubItemCode1": "20",
+		"Rate": "100",
+		"PermitNo": "17-000017",
+		"TotalInvoiceAmt": "100",
+		"BalanceInvoiceAmt": "0.00",
+		"TotalInvoiceAmtAfterDelete": "$100.00",
+		"BalanceInvoiceAmtAfterDelete": "100",
+		"RadType": "Permit - Permit Automation",
+		"Type": "Permit"
+	},
+	"145318": {
+		"Type": "c1",
+		"Address": "137 Crosby St",
+		"InspectionName": "Chemical Inspection",
+		"AssignedTo": "001",
+		"ScheduledForPF": "Test, Automation"
+	},
+	"145366": {
+		"PermitNo": "17-000009",
+		"AssignedTo": "001",
+		"InspectionName": "Chemical Inspection",
+		"InspectionPerformedBy": "001"
+	},
+	"145392": {
+		"PermitNo": "17-000009",
+		"RadType": "C1",
+		"SystemID": "15",
+		"InspectionName": "Chemical Inspection",
+		"AssignedTo": "001",
+		"QAForm": "Smoke",
+		"PFCode": "001"
+	},
+	"145438": {
+		"StateRegID": "56LOP",
+		"LocalID": "36POL",
+		"PermitNo": "17-000011",
+		"InspectionName": "Chemical Inspection1",
+		"AssignedTo": "001",
+		"Type": "Chlorine"
+	},
+	"145610": {
+		"InspectionName": "2Water Inspection",
+		"InspectorPF": "F25",
+		"PermitNo": "17-000009",
+		"PF": "F25",
+		"Unit": "15",
+		"InspectorName": "Murugappa, Antony B",
+		"InspectionPerformedBy": "F25",
+		"Type": "C1 - Chlorine"
+	},
+	"145695": {
+		"InspectionName": "Permit - System  Inspection",
+		"InspectionName1": "Permit - Alarm Inspection",
+		"Type":"Permit"
+	},
+	"145777": {
+		"OccupancyName": "Lays",
+		"Address": "42 Beech St",
+		"PermitNo": "17-000012"
+	},
+	"146144": {
+		"Address": "42 Beech St",
+		"SystemID": "18",
+		"InspectionType": "Periodic"
+	},
+	"231340": {
+		"PermitNo": "19-000004",
+		"Category": "Scan - Document"
+	},
+	"243675": {
+		"ChemicalName": "Hydroxychloroquine",
+		"SystemID": "51",
+		"SystemIDFrom":"51",
+		"SystemIDTo":"51"
+	},
+	"243679": {
+		"InspectionType": "Sprinkler",
+		"SystemIDNo": "51"
+	},
+	"243692": {
+		"InspectionType": "State Inspection",
+		"SystemID": "54",
+		"InspectorPF": "FRMS",
+		"SystemIDNo": "54"
+	},
+	"245777": {
+		"PermitType": "Permit T",
+		"Type": "Permit T",
+		"Address": "1560 S Koeller St",
+		"LastName": "Gerald",
+		"FirstName": "Mike",
+		"SubItemCode": "CSD"
+	},
+	"245779": {
+		"Zone": "Zone 2",
+		"SystemIDNo": "54",
+		"Zonevalue": "ZN2",
+		"SystemID": "54"
+	},
+	"246376": {
+		"InspectionZoneCode": "ZN2",
+		"SystemIDNo": "57",
+		"Zonevalue": "ZN2",
+		"BaseMonth": "December",
+		"LastName": "Gavin",
+		"FirstName": "Jordan",
+		"Name": "Gavin, Jordan",
+		"StateRegID": "WI09NJ",
+		"PhoneType1": "Home",
+		"PhoneType2": "Work",
+		"NameRelation": "Building Owner",
+		"PhoneNumber": "9985956656",
+		"PhoneNumber1": "9874546466"
+	},
+	"248199": {
+		"SystemIDNo": "57",
+		"SystemID": "57",
+		"OccupancyName": "Otis"
+	},
+	"248200": {
+		"SystemIDNo": "59",
+		"SystemID": "59",
+		"InvoiceType": "Permit",
+		"BaseMonth": "June",
+		"ItemCode": "Generati - Permit Generating",
+		"Rate": "$0.00",
+		"Amount": "$0.00"
+	},
+	"248202": {
+		"Type": "Permit",
+		"PermitNo": "20-000001",
+		"Reason": "Chemical under pressure, flammable, toxic, n.o.s."
+	},
+	"251324": {
+		"PermitNo": "20-000001"
+	},
+	"252349": {
+		"ViolationCode": "Chapter 3 VRT"
+	},
+	"253384": {
+		"SystemIDNo": "4934",
+		"TrackingNo": "3",
+		"TrackingNo1": "4",
+		"TrackingDescription": "Government",
+		"TrackingDescription1": "Industrial"
+	},
+	"253385": {
+		"InvoiceType": "Registration",
+		"ItemCode": "M1 - Manufacturing 1"
+	},
+	"253388": {
+		"SystemIDFrom": "4934",
+		"SystemIDNo": "4934",
+		"LandUseCode": "INDU - Industrial"
+	},
+	"254866": {
+		"ChecklistName": "AutoFire"
+	},
+	"255725": {
+		"SystemID": "1",
+		"InspectionType": "Systems-Alarms ",
+		"CodeBook": "VRT",
+		"Category": "Exit Signs",
+		"NatureAction": "Confusing"
+	},
+	"255726": {
+		"SystemID": "55",
+		"LocalID": "563",
+		"StateReg": "356",
+		"CertificateType": "Certificate of Inspection"
+	},
+	"255732": {
+		"CertificateType": "Certificate of Smoke Alarm, Carbon Monoxide Alarm and Portable Fire Extinguisher Compliance",
+		"To": "vijaykumar@proPhoenix.com",
+		"Subject": "Test",
+		"Message": "Certificate of Smoke Alarm, Carbon Monoxide Alarm and Portable Fire Extinguisher Compliance"
+	},
+	"255733": {
+		"DefaultBookName": "FireAuto",
+		"DisplayOrder": "1",
+		"Custom1": "FireAuto",
+		"Custom2": "FireAuto",
+		"CustomBookName": "Fire"
+	},
+	"255737": {
+		"CustomName": "FireCustom",
+		"CustomName1": "FireCustom1",
+		"Juris": "GCF - Gloucester County Fire Dept"
+	},
+	"257063": {
+		"SystemID": "1",
+		"Type": "Periodic",
+		"Type1": "Re-inspection Periodic",
+		"Type2": "Systems-Fire Pumps",
+		"Type3": "Sprinkler Acceptance"
+	},
+	"257064": {
+		"SystemID": "55",
+		"Type": "Periodic"
+	},
+	"257067": {
+		"Address": "20 Haywire In;PX",
+		"InspectionName": "Victoria",
+		"LastName": "Victoria",
+		"Name": "Victoria, Leah",
+		"AssignedTo": "001",
+		"InspectionPerformedBy": "001",
+		"SubItemCode": "CS1-30 D",
+		"ItemCode": "CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance"
+	},
+	"257068": {
+		"CSDCMACNo": "20-000002",
+		"CSDCMAC#": "20-000002",
+		"LastName": "Otis",
+		"Applicant": "Otis",
+		"Address": "Otis",
+		"Location": "200 Otis St, Northborough, MA 01532",
+		"SystemID": "57",
+		"StateRegNo": "WI09NJ",
+		"RegNo": "57",
+		"LocalID": "POI45PO",
+		"Status": "Inspection"
+	},
+	"257070": {
+		"SystemID": "55",
+		"SystemIDNo": "55",
+		"InspectorPF": "201",
+		"InspectorPF1": "F25",
+		"PF": "F25",
+		"Unit": "45F"
+	},
+	"257071": {
+		"SystemIDNo": "55",
+		"LastName": "Mya",
+		"FirstName": "Jace",
+		"Name": "Mya, Jace",
+		"Address": "13 Hickory Ln",
+		"NameRelation":"Building Owner"
+	},
+	"257072": {
+		"InspectorPF": "F25",
+		"PF": "F25",
+		"Name": "Murugappa, Antony B"
+	},
+	"257073": {
+		"Address": "13 Willow Grove Rd",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Monthly",
+		"BaseMonth": "October"
+	},
+	"257075": {
+		"SystemIDNo": "39",
+		"SystemID":"39"
+	},
+	"257077": {
+		"Address": "67 Minnesota Ave",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Monthly",
+		"BaseMonth": "October"
+	},
+	"257078": {
+		"Address": "25 Gold Star Hwy",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Monthly",
+		"BaseMonth": "October",
+		"StateRegNo": "235",
+		"StateRegNo1": "563467695461454"
+	},
+	"257971": {
+		"Address": "20 Sinter Rd,1-1A;PX",
+		"LastName": "Lydia",
+		"ItemCode": "CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+		"SubItemCode": "CS1-30 D",
+		"Qty": "1",
+		"Rate": "35.00",
+		"Amount": "35.00",
+		"Conditions":"Smoke Detector and Alarm Initialized."
+		
+		
+	},
+	"258221": {
+		"Premise": "13",
+		"Street": "Cypress Ave",
+		"Address": "13 Cypress Ave, 12;PX",
+		"Address1": "",
+		"PropertyUse": "400",
+		"AptNo": "12"
+	},
+	"258222": {
+		"Premise": "22",
+		"Street": "Wallace Ter",
+		"Address": "22 Wallace Ter",
+		"PropertyUse": "500",
+		"Location": "22 Wallace Ter;PX"
+	},
+	"258223": {
+		"SystemIDNo": "64",
+		"Cycle": "Monthly",
+		"BaseMonth": "November"
+	},
+	"258224": {
+		"SystemIDNo": "22",
+		"Comments": "Automation Testing"
+	},
+	"258225": {
+		"SystemIDNo": "65"
+	},
+	"258226": {
+		"ParameterID": "3137",
+		"ParameterName": "True",
+		"SystemIDNo": "65"
+	},
+	"258227": {
+		"Address": "630 Cherbourg Rd",
+		"Address1": "630 Cherbourg Rd,C"
+	},
+	"258228": {
+		"SystemIDNo": "63",
+		"InspectionType": "Hood"
+	},
+	"258229": {
+		"SystemID": "65",
+		"SystemIDNo": "65"
+	},
+	"258274": {
+		"SystemIDNo": "65",
+		"SystemID": "65",
+		"NoticeMailTo": "Herbert"
+	},
+	"258276": {
+		"ChecklistName": "FireChecklist",
+		"SystemIDNo": "65",
+		"AvailableCategories":"Alarm System",
+		"Reference#":"65",
+		"InspectionType":"Periodic",
+		"Location":"Office",
+		"Action":"No service records/testing",
+		"Action1":"Needs serviced"
+		
+	},
+	"258278": {
+		"SystemIDNo": "30",
+		"Amount": "15"
+	},
+	"258835": {
+		"Address": "150 Gold Star Hwy;PX",
+		"ActivityType": "Hydrant Inspection"
+	},
+	"258836": {
+		"SystemIDNo": "64",
+		"ChemicalName": "Ammonium permanganate",
+		"IDNo": "Ammonium permanganate/Ammonium permanganate",
+		"ChemicalNameID": "Ammonium permanganate/9190",
+		"GeneralLocation1":"Storage",
+		"GeneralLocation2":"Shipping / Receiving",
+		"ContainerType":"40",
+		"CapacityUnits":"24",
+		"ContainerCapacity":"1000",
+		"NumberOfContainers":"5",
+		"Comments":"To verify the Registration entry screen - Hazmat tab",
+		"Remark":"To verify the Registration entry screen - Hazmat tab",
+		"Type":"Mobile container, other"
+	},
+	"259476": {
+		"SystemIDNo": "60",
+		"InspectorPF": "001",
+		"RegNo": "60"
+	},
+	"259477": {
+		"Address": "1185 S Humphrey Ave;PX",
+		"AssignedTo": "001"
+	},
+	"259478": {
+		"Address": "1185 S Humphrey Ave;PX "
+	},
+	"259479": {
+		"Address": "101 Virginia St",
+		"AssignedTo": "001"
+	},
+	"259480": {
+		"SystemID": "41",
+		"SystemIDNo": "41",
+		"InspectorPF": "001"
+	},
+	"259531": {
+		"InvoiceType": "Smoke",
+		"Permit": "CMSmoke",
+		"SubItemCode": "10",
+		"Rate": "10",
+		"InspectionType": "Gas Inspection"
+	},
+	"259533": {
+		"SystemIDNo": "66",
+		"SystemID": "66",
+		"ItemCode": "27 - Add",
+		"BasePenalty": "50.00",
+		"TotalPenalty": "50.00"
+	},
+	"259538": {
+		"SystemIDNo": "25"
+	},
+	"67663": {
+		"Address": "26 chaitanya Ave,5",
+		"OccupancyName": "Chaithanya",
+		"CommonName": "Chaithanya",
+		"ContactGroup":"TEST"
+	},
+	"259541": {
+		"Address": "26 chaitanya Ave",
+		"OccupancyName": "Chaithanya",
+		"CommonName": "Chaithanya"
+	},
+	"259542": {
+		"SystemID": "1"
+	},
+	"259547": {
+		"SystemID": "32",
+		"SystemIDTo": "33",
+		"TrackingNo": "4",
+		"LastName": "Sam",
+		"FirstName": "Anderson",
+		"SystemIDNo": "32",
+		"SystemIDFrom1": "33"
+	},
+	"259548": {
+		"Address": "halttt",
+		"BuildingStatus": "Under construction",
+		"CSZ": "Arab",
+		"OccupancyName": "Randy",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January",
+		"Type": "Periodic",
+		"DueDate": "",
+		"DueDate1": ""
+	},
+	"259549": {
+		"SystemIDNo": "67",
+		"LastName": "Victoria",
+		"FirstName": "Leah",
+		"PhoneType1": "Mobile",
+		"PhoneNumber1": "5632896521"
+	},
+	"259550": {
+		"PermitType": "Chemical",
+		"Text": "Automation Testing",
+		"Permit": "Chemical",
+		"FontStyle":"Verdana",
+		"FontSize":"4"
+	},
+	"259551": {
+		"SystemIDNo": "67",
+		"InspectionType": "Periodic",
+		"SystemID": "67"
+	},
+	"260451": {
+		"Source": "Public",
+		"Address": "1 Phoenix St;PX",
+		"BuildingStatus": "In Normal use",
+		"OccupancyName": "Robin Hood",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual"
+	},
+	"260452": {
+		"SystemIDNo": "116",
+		"Floor": "Main",
+		"Length": "500",
+		"Width": "500",
+		"SqFeet": "250000",
+		"TotalSqFeet": "250,000",
+		"Floor1": "Basement",
+		"Length1": "1000",
+		"Width1": "1000",
+		"SqFeet1": "1000000",
+		"TotalSqFeet1": "1000000",
+		"Width2": "501",
+		"SqFeet2": "250500",
+		"Width3": "1001",
+		"SqFeet3": "1001000",
+		"TotalSqFeet2": "1,251,500"
+	},
+	"260453": {
+		"SystemIDNo": "69",
+		"BasePenaltyAmount": "100",
+		"BasePenaltyAmount1": "150",
+		"Rate": "$150.00",
+		"Amount": "$150.00",
+		"InspectionType": "Periodic",
+		"ItemCode": "27 - Add",
+		"ViolationCode": "SPS 314.01 (11) (b) 3",
+		"PenaltySeq": "Initial",
+		"PenaltySeq1": "Additional",
+		"Location": "Display Area",
+		"Category": "Extinguishers",
+		"NatureAction": "Need Serviced",
+		"Floor": "General",
+		"Type": "Periodic"
+	},
+	"260454": {
+		"SystemIDNo": "121",
+		"BasePenaltyAmount": "100",
+		"BasePenaltyAmount1": "150",
+		"Type": "Periodic",
+		"ItemCode": "27 - Add",
+		"PenaltySeq": "Initial",
+		"Floor": "General",
+		"Penalty": "100.00",
+		"Penalty1": "150.00"
+	},
+	"260455": {
+		"SystemIDNo": "67",
+		"Location0": "Basement",
+		"Location1": "Roof",
+		"BaseMonth": "January",
+		"OtherMonth": "January",
+		"Cycle": "Others",
+		"HeadPressure": "130",
+		"PowerSource": "GENR - Generator",
+		"Comments": "AutoCheck",
+		"RatedCapacity":"200",
+		"Cycle": "Annual",
+		"TabName0":"Systems",
+		"TabName1":"Fire Pumps (1)",
+		"SubTabName":"Fire Pumps",
+		"Type":"Systems-Fire Pump"
+		
+	},
+	"260456": {
+		"UserName": "AUTO",
+		"Password": "Pnx@2016",
+		"PermitNo": "20-000004",
+		"InspectionName": "ScheduledInspection",
+		"AssignedTo": "001"
+	},
+	"260457": {
+		"SystemIDNo": "70",
+		"PropertyValue": "$10.00",
+		"ContentValue": "$20.00",
+		"ReportedLocation": "22 Smyser Rd;PX",
+		"InitialCFS": "911",
+		"Status": "Report Due"
+	},
+	"260458": {
+		"SystemIDNo": "72",
+		"Reference#": "72",
+		"InspectionType": "Periodic",
+		"Floor": "General",
+		"Severity": "Severe"
+	},
+	"260459": {
+		"SystemIDNo": "70",
+		"InspectionType": "Periodic",
+		"Floor": "General",
+		"SystemID": "70"
+	},
+	"260461": {
+		"SystemIDNo": "71",
+		"InspectionType": "Periodic",
+		"Reference#": "71"
+	},
+	"260515": {
+		"SystemIDNo": "72",
+		"StandpipeType0": "1 - Wet",
+		"MaintenanceCompany": "101",
+		"StandpipeType1": "2 - Dry",
+		"Location": "TestLoc",
+		"HoseConnection":"Hose123",
+		"Class1": "Class 1",
+		"PressureReducerValveLoc": "AutoReduce",
+		"MinOPPressure": "130",
+		"Class0": "1 - Class 1",
+		"TabName0":"Systems",
+		"TabName1":"StandPipes (1)",
+		"SubTabName":"StandPipes",
+		"Type0":"Systems-Stand Pipes",
+		"StandpipeType2": "Dry"
+	},
+	
+	"260516": {
+		"SystemIDNo": "73",
+		"InvoiceType": "Inspection",
+		"Cycle": "By Inspection- Automatic "
+	},
+	"260517": {
+		"SystemIDNo": "74",
+		"InvoiceType": "Permit",
+		"ItemCode": "1ii - Type 1 Torch",
+		"Amount": "$42.00"
+	},
+	"261082": {
+		"SystemIDNo": "78",
+		"PropertyUse": "500",
+		"Address": "2591 James Madison Cir"
+	},
+	"261100": {
+		"SystemIDNo": "75",
+		"ViolationCode": "Chapter 3"
+	},
+	"261101": {
+		"SystemIDNo": "75",
+		"LastName": "Haywire",
+		"Name": "Haywire",
+		"PhoneType1": "Home"
+	},
+	"261105": {
+		"Address": "1900 Declaration Dr;PX",
+		"OccupancyName": "Declaration",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Quarterly"
+	},
+	"261106": {
+		"SystemIDNo": "75",
+		"InvoiceType": "Hazmat"
+	},
+	"261108": {
+		"SystemIDNo": "76",
+		"Address": "2524 Bobidosh Point Ln"
+	},
+	"263020": {
+		"SystemIDNo": "81",
+		"Floor": "General"
+	},
+	"263024": {
+		"SystemIDNo": "82",
+		"Floor": "General"
+	},
+	"263025": {
+		"PermitNo": "21-000001",
+		"Type": "2ii",
+		"Address": "3400 Mirage Cir;PX",
+		"LastName": "Mira"
+	},
+	"263026": {
+		"SystemIDNo": "81",
+		"ContactGroup": "ProFire",
+		"Name": "Avery, James"
+	},
+	"263027": {
+		"Type": "3i",
+		"UnverifiedAddress": "wert"
+	},
+	"263028": {
+		"SystemIDNo": "82",
+		"TrackingNo": "5",
+		"FloorConstruction": "Wood"
+	},
+	"268119": {
+		"InspectionType": "Re-inspection",
+		"SystemIDNo": "24",
+		"Floor": "General"
+	},
+	"271830": {
+		"GroupName": "PhoenixFire",
+		"Name": "Ethan, Liam",
+		"Juris":"PX - ProPhoenix Fire Department",
+		"ContactGroup":"PhoenixFire",
+		"ContactName":"Ethan, Liam",
+		"LastName":"Ethan",
+		"FirstName":"Liam"
+	},
+	"273893": {
+		"SystemIDNo": "83",
+		"Address": "140 minn St",
+		"Reason": "Test Automation"
+	},
+	"273900": {
+		"GroupName": "Parent",
+		"Name": "Child, Manner"
+	},
+	"273901": {
+		"SystemIDNo": "84",
+		"Address": "1587 Old Freehold Rd",
+		"Type": "Periodic",
+		"InspectionType": "Periodic",
+		"InspectionType1": "Re-inspection Periodic"
+	},
+	"273902": {
+		"SystemIDNo": "85",
+		"Cycle": "Annual",
+		"Type": "Periodic",
+		"InvoiceType": "Smoke",
+		"InvoiceType1": "Registration"
+	},
+	"273910": {
+		"DefaultBookName": "Error-Correction Coding and Decoding",
+		"DisplayOrder": "5"
+	},
+	"273911": {
+		"SystemIDNo": "70",
+		"FileName": "Crash.pdf"
+	},
+	"273912": {
+		"SystemIDNo": "85",
+		"ChemicalName": "Fluorine(cryogenic liquid)",
+		"ContainerType": "10"
+	},
+	"273913": {
+		"SystemIDNo": "86",
+		"InvoiceType": "Inspection",
+		"ItemCode": "INS - Inspection Fee",
+		"Description": "Inspection Fee"
+	},
+	"273914": {
+		"PermitNo": "21-000002",
+		"SubItemCode": "CS2-7D  "
+	},
+	"273919": {
+		"SystemIDNo": "87",
+		"Name": "Vijay, Kumar",
+		"Email": "vijaykumar@prophoenix.com",
+		"NoticeMailTo": "Vijay, Kumar  ( Emergency Contact, Manager, Agent)",
+		"Type": "Periodic"
+	},
+	"273921": {
+		"PermitNo": "21-000003",
+		"To": "vijaykumar@prophoenix.com"
+	},
+	"276791": {
+		"PermitNo": "21-000003",
+		"To": "vijaykumar@prophoenix.com"
+	},
+	"276793": {
+		"InspectionName": "Smoke Inspection",
+		"PermitNo": "21-000005"
+	},
+	"276799": {
+		"BookName": "National Fire Production Association"
+	},
+	"277262": {
+		"SystemIDNo": "88",
+		"FileName": "TextDoc1.txt",
+		"Status": "1003 - Update successful"
+	},
+	"277265": {
+		"PermitNo": "21-000006",
+		"InspectionName": "Smoke Inspection",
+		"InspectionName1": "Sanity Inspection"
+	},
+	"277267": {
+		"SystemIDNo": "88",
+		"SystemID": "88",
+		"TextName": "RecurringViolations",
+		"RecurringViolations": "[BegInsDate]"
+	},
+	"277268": {
+		"SystemIDNo": "88",
+		"SystemID": "88",
+		"TextName": "InspPage2",
+		"InspectionAppealsTo": "[InspectionsAppealsTo]",
+		"RecurringViolations": "[Inspections Appeals To]"
+	},
+	"277271": {
+		"SystemIDNo": "89",
+		"NoticeMailTo": "Gladstone, Lincoln",
+		"Type": "Periodic"
+	},
+	"277272": {
+		"Type": "Permit",
+		"Address": "673 E Otjen St,3",
+		"Type1": "Permit T",
+		"SubItemCode": "CSD",
+		"Address1": "673 E Otjen St,5"
+	},
+	"277273": {
+		"SystemIDNo": "88",
+		"CertificateType": "Certificate of Inspection",
+		"SystemID": "88",
+		"To": "Rajkiran@prophoenix.com"
+	},
+	"280248": {
+		"SystemIDNo": "88",
+		"SystemID": "88"
+	},
+	"281048": {
+		"Block": "25",
+		"Lot": "63"
+	},
+	"284669": {
+		"PFNo": "001",
+		"Email1": "vijaykumar@prophoenix.com",
+		"Email": "vijaykumar@prophoenix.com",
+		"NoticesMailTo": "Henry, Brady ( Building Owner)",
+		"NoticeMailTo": "Henry, Brady ( Building Owner)",
+		"LastName": "Henry",
+		"FirstName": "Brady",
+		"Type": "Periodic",
+		"PFCode": "Test, Automation",
+		"SystemIDNo": "90",
+		"NameRelation": "Building Owner",
+		"InspectionType": "Re-inspection Periodic"
+	},
+	"284670": {
+		"OccupancyLastName": "Bernard",
+		"OrderBy": "Occupancy Name",
+		"ColumnValues": "Occupancy Name"
+	},
+	"284672": {
+		"Action": "Need Serviced",
+		"EnteredFromDate": "05/01/2021",
+		"EnteredToDate": "10/20/2021"
+	},
+	"284674": {
+		"PermitNo": "21-000006",
+		"InspectionName": "123Random Inspection",
+		"AssignedTo": "001",
+		"PFCode": "PAA001",
+		"AdditionalInspectors": "PAA001"
+	},
+	"285827": {
+		"PermitNo": "21-000002"
+	},
+	"285828": {
+		"InspectionType": "Periodic",
+		"SystemIDNo": "80"
+	},
+	"285829": {
+		"SystemIDNo": "91",
+		"InspectionType": "Re-inspection Periodic",
+		"Remarks": "RegressionTest",
+		"Remarks1": "UnitTest"
+	},
+	"286443": {
+		"SystemIDNo": "92",
+		"Type": "1x",
+		"Address": "18 Pero Rd",
+		"SystemID": "92",
+		"SubItemCode": "1x"
+	},
+	"286608": {
+		"SystemID": "66"
+	},
+	"286609": {
+		"InspectionType": "Periodic",
+		"SystemIDNo": "68"
+	},
+	"286610": {
+		"InspectionType": "Periodic",
+		"SystemIDNo": "12"
+	},
+	"286620": {
+		"PermitNo": "21-000002"
+	},
+	"ContactGroups": {
+		"ContactGroup": "Test Automation",
+		"NameRelation": "Building Owner",
+		"LastName": "Child",
+		"FirstName": "Manner"
+	},
+	"CSDCMACEntry": {
+		"Address": "1154 Roscoe St;PX",
+		"SubItemCode": "CS1-30 D",
+		"LastName": "Randy"
+	},
+	"ICEntry1": {
+		"ChecklistName": "Dmm"
+	},
+	"ICEntry2": {
+		"Category": "Extinguishers"
+	},
+	"InspectionEntry": {
+		"SystemID": "1"
+	},
+	"PermitEntry": {
+		"Type": "1vi",
+		"Address": "9 Weatherhill Ridge Ct;PX"
+	},
+	"PermitCSDCMACType": {
+		"InvoiceType": "Smoke",
+		"Permit": "Permit for Specific Customer",
+		"Description": "Test License"
+	},
+	"RegEntry": {
+		"BuildingStatus": "In Normal use",
+		"Address": "1154 Roscoe St;PX",
+		"OccupancyName": "Building# 11",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Annual",
+		"BaseMonth": "January"
+	},
+	"RCEntry": {
+		"Address": "9 Weatherhill Ridge Ct",
+		"Source": "Public",
+		"LastName": "Khan",
+		"FirstName": "Sharu",
+		"DisplayOrder":"2"
+	},
+	
+	"CBEntry":{
+	"DefaultBookName":"Test Automation",
+	"DisplayOrder":"2"
+	},
+	"118915":{
+	"SystemIDFrom":"5000",
+	"SystemIDTo":"5000",
+	"SystemIDFrom1":"5000",
+	"SystemIDTo1":"5000"
+	},
+	"118947":{
+	"StateRegID":"21POL",
+	"LocalID":"12CAR"
+	},
+	"120611":{
+	"SystemID":"4921"
+	},
+	"110329":{
+	"ContactGroup":"TESTAUTOCHECK",
+	"NameRelation":"Agent",
+	"LastName":"Abby",
+	"FirstName":"Abdul",
+	"Address":"301 Westover Rd",
+	"Address0":"301 Westover Rd",
+	"Name0":"Abby, Abdul"
+	},
+	"159641":{
+	"ContactGroup":"TEST",
+	"GroupName":"TEST",
+	"ContactName":"Abby, Abdul",
+	"NameAddress":"301 Westover Rd",
+	"NameRelation":"Building Owner",
+	"LastName":"Avery",
+	"FirstName":"James",
+	"Address":"301 Westover Rd",
+	"Name":"Avery, James",
+	"Name1":"Avery, James"
+	},
+	"110330":{
+	"Address":"1636 W Forest Home Ave;PX",
+	"OccupancyName":"JOSH",
+	"ContactGroup":"1636 W Forest Home Ave",
+	"InspectionZone":"Zone 1",
+	"BaseMonth":"January",
+	"Name":"Bumrah, James",
+	"NameRelation":"Building Owner",
+	"Cycle":"Annual",
+	"BuildingStatus":"In Normal use",
+	"LastName":"Bumrah",
+	"FirstName":"James",
+	"PhoneType1":"Home",
+	"PhoneNumber1":"9003131757",
+	"ContactGroup1":"FireGroup",
+	"NameID":"A-0000000027"
+	},
+	"110341":{
+	"ContactGroup":"Contact Group 1",
+	"ContactGroup1":"Contact Group 2",
+	"GroupName":"Contact Group 1"
+},
+"114736":{
+"Source":"Public",
+"SystemID":"5000",
+"Address":"120 minn St",
+"OccupancyName":"Building#22",
+"LastName":"Barbeque nation",
+"InspectionZone":"Zone 1",
+"AssignedTo":"001"
+},
+"114742":{
+"SystemID":"1",
+"Zone":"Zone 1",
+"RequestedName":"ALLEN, SCOTT",
+"Address":"200 E Main St",
+"RequestedSource":"Public",
+"LastName":"Abby",
+"FirstName":"Abdul",
+"RequestedLastName":"ALLEN",
+"RequestedFirstName":"SCOTT",
+"RequestedName1":"ALLEN, SCOTT"
+},
+"137299":{
+"ViolationCode":"SPS 314.001 (1) (b)"
+},
+"137301":{
+"BookName":"National Fire Production Association",
+"":""
+},
+"202544":{
+"SubItemCode":"CS1-30 D",
+"Address":"18 Pero Rd",
+"LastName":"Benjamin",
+"ItemCode":"CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+"SubItemCode1":"CS2-7D",
+"Amount":"35",
+"InvoiceNo":"23-000001"
+},
+"202597":{
+"SystemID":"82"
+},
+"202593":{
+"PermitNo":"25-000004",
+"SystemIDNo":"25-000004",
+"AssignedTo":"001",
+"InspectionPerformedBy":"jack123",
+"Type":"CSDCMAC"
+
+},
+"202759":{
+"TextName":"AUTO",
+"Text":"JOSH",
+"SystemIDNo":"25"
+},
+"203600":{
+"SystemIDNo":"95", 
+"Address":"12 Crystal Rd;PX",
+"Name":"Timothy, Caden",
+"OccupancyName":"GOLDDIGGER",
+"Name1":"Timothy, Caden",
+"NoticeMailTo":"XOX"
+},
+
+"205007":{
+ "SystemIDNo":"77",
+"ChemicalName":"Alcide",
+"GeneralLocation1":"Storage",
+"CapacityUnits":"2",
+"ContainerType":"00",
+"IDNo":"Alcide/Alcide",
+"Location":"Storage",
+"Type":"Container type, other",
+"DOTIDChemicalNo":"9191 /Alcide"
+},
+"206859":{
+"PermitNo":"21-000004",
+"Status":"Withdrawn"
+},
+"206896":{
+"SystemID":"83",
+"InspectionType":"Hood"
+},
+"206860":{
+"SystemIDNo":"83",
+"FileName":"TestJPG"
+},
+"213742":{
+"ViolationCode":"SPS 314.001 (2)",
+"ViolationCode1":"SPS 314.11"
+},
+"213745":{
+"ViolationCode":"SPS 314.001(2)",
+"ViolationCode1":"SPS 314.01(1)(a)2"
+},
+"213744":{
+"SystemID":"38",
+"ViolationCode":"SPS 314.001 (2)",
+"ViolationCode1":"SPS 314.11"
+},
+"226216":{
+
+},
+"226222":{
+"SystemID":"69",
+"InvoiceType":"Hazmat",
+"BillToAccount":"Markle",
+"ItemCode":"OT - Oil Tank",
+"Amount":"50",
+"PaymentMethod":"Cash",
+"Reason":""
+},
+"226225":{
+"SystemID":"69"
+},
+"226227":{
+"PermitNo":"21-000006",
+"InspectionName":"JOSH",
+"AssignedTo":"InspectionName",
+"InspectionPerformedBy":"InjRep"
+},
+"231346":{
+"Address":"98 Janthia Dr;PX", 
+"OccupancyName":"Caroline",
+"InspectionZone":"Zone 1",
+"Cycle":"Annual",
+"BaseMonth":"January",
+"CommonName":"Caroline",
+"FileName":"Registration Worksheet.PDF",
+"PropertyUse":"100"
+},
+"284156":{
+"SystemID":"43"
+},
+"284157":{
+"PermitNo":"23-000002",
+"InspectionName":"Roman-ReInspection",
+"AssignedTo":"F004",
+"InspectionPerformedBy":"001",
+"Type":"CSDCMAC"
+},
+"16341":{
+"SystemID":"91",
+"BuildingStatus":"In Normal use",
+"Address":"8 E Oak Ln,A1;PX",
+"OccupancyName":"Auto",
+"InspectionZone":"Zone 1",
+"Cycle":"Annual",
+"BaseMonth":"August"
+},
+"17524":{
+"Address":"12 benny St;PX",
+"InspectionZone":"Zone 1",
+"BaseMonth":"January",
+"LocalNo":"aaaaabbbbbcccccdddddeeeeefffff",
+"BuildingStatus":"In Normal use"
+},
+"17560":{
+"System ID#":"9015",
+"HoodLocation":"2201 Steeplechase Dr",
+"Location":"2201 Steeplechase Dr"
+},
+"17529":{
+"Module":"Registration",
+"OccupancyName":"Johny, Maeve",
+"SystemID#":"7891"
+},
+	"17939": {
+		"BuildingStatus": "In Normal use",
+		"Address": "5098 Broadhorn Rd;PX",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Monthly",
+		"BaseMonth": "January",
+		"PenaltyType": "Daily",
+		"BasePenaltyAmount":"20"
+	},
+
+	"17936":{
+	"SubItemCode":"CS1-30 D",
+	"CSDCMAC":"21-000003",
+	"Status":"On Hold"
+	
+	},
+	"18341":{
+	"OccupancyLastName":"Gladstone",
+	"OccupancyFirstName":"Lincoln",
+	"LastName":"Gladstone, Lincoln",
+	"FirstName":"Gladstone, Lincoln",
+	"LastAndFirstName":"Gladstone, Lincoln",
+	"OccupancyName":"Country Club."
+  },
+
+	"19294":{
+	"OtherLocation":"12 Crystal Rd;PX",
+	"Custom1":"Test",
+	"Custom2":"Automation",
+	"OccupancyName":"AutomationTeam Work"
+	},
+	"18475":{
+	"InspectionZoneCode":"ZN2",
+	"Zone":"Zone 2"
+	},
+	"18638":{
+	"FromDate":"08/01/2023",
+	"SystemIDNo":"2",
+	"InspectionType":"Systems-Hood Systems",
+	"PermitNo":"21-000006",
+	"SystemID":"2"
+  },
+
+	"18606": {
+		"RegistrationFrom": "11/27/2021",
+		"RegistrationTo": "11/26/2023"
+	},
+	
+	"18481": {
+		"Type": "Hydrant"
+	},
+	
+	"18480": {
+		"Type": "Permit"
+	},
+	
+	"18478":{
+	"BaseMonth":"November"
+	},
+	"18600":{
+	"Type":"CSDCMAC",
+	"TypeDescription":"Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+	"":""
+	},
+
+	"19240":{
+	"BuildingStatus":"In Normal use",
+	"Address":"4220 King Arthur Pl;PX ",
+	"OccupancyName":"Arthur",
+	"InspectionZone":"Zone 1",
+	"Cycle":"Annual",
+	"BaseMonth":"January",
+	"Type":"1vi",
+	"Address1":"4220 King Arthur Pl",
+	"TabName0":"Inspections",
+	"TabName1":"Fees",
+	"TabName2":"History",
+	"PermitType":"Type 1 Welding Permit"
+  },
+
+	"19217":{
+	"LastName":"Vijay",
+	"FirstName":"Kumar",
+	"Name":"Vijay, Kumar"
+  },
+	"18489":{
+	"TrackingNo":"1",
+	"TrackingDescription":"Agricultural"
+},
+
+	"20399": {
+		"ChemicalName": "Trimethoxysilane"
+	},
+
+	"17685":{
+	"ReportName":"Notice of Violations and Order to Correct",
+	"ReportTitle":"Fire Notice of Violations",
+	"Report":"NOTICE OF VIOLATIONS ",
+	"Report1":"ORDER TO CORRECT"
+	},
+	"17973":{
+	"Title":"Certificate of Smoke Alarm, Carbon Monoxide Alarm and Portable Fire Extinguisher Compliance",
+	"Title1":"Certificate of Smoke Detector and Carbon Monoxide Alarm Compliance"
+	},
+	"18594": {
+		"SystemIDFrom": "60",
+		"SystemIDTo": "90"
+	},
+
+
+	"18594":{
+	"SystemIDFrom":"60",
+	"SystemIDTo":"90"
+	},
+
+	"23046":{
+	"Address":"10124 Shaffer Valley Way;PX",
+	"City":"Charlotte",
+	"State":"NC",
+	"Zipcode":"28273"
+},
+"23214":{
+"SystemID0":"9002",
+"SystemID1":"9001",
+"SystemID2":"5000",
+"BaseMonth":"January",
+"Cycle":"Annual",
+"InspectionGroup":"Group A",
+"Date":"02/22/2024",
+"TrackingNo":"4",
+"InspectionZone":"Zone 1"
+},
+	
+"21580":{
+	"PermitNo":"24-000001",
+	"DisplayCondition": "All Condition",
+	"ActiveAsOf": "Permit",
+	"Type": "1i",
+	"Address": "9 Autumn Rd;PX",
+	"ItemCode": "1i - Type 1 Bonfires",
+	"SubItemCode": "1i"
+	},
+	
+	"21604":{
+	"SystemID":"25",
+	"ActivityType": "Hydrant Inspection",
+	"PFCode": "001"
+	},
+
+	"21585":{
+	"SystemID":"98",
+	"SystemIDTo":"99",
+	"ContactGroup":"TEST",
+	"Name":"Avery, James"
+	},
+	"19250":{
+	"FromClosedDate":"01/01/2024",
+	"ToClosedDate":"02/02/2024"
+  },
+	"19239":{
+	"EffectiveFromDate":"01/10/2023",
+	"EffectiveToDate":"01/05/2024",
+	"DateFrom":"01/10/2023",
+	"DateTo":"01/05/2024",
+	"Status":"New",
+	"RadType":"C1 - Chlorine",
+	"Type":"C1",
+	"TypeDescription":"Chlorine",
+	"SystemFromID":"19",
+	"SystemToID":"90",
+	"PermitNo":"25-000013",
+	"LastName":"Wallace",
+	"Name":"Wallace",
+	"Address":"495 Flatbush Ave",
+	"Municipality":"New Jersey",
+	"Block":"13",
+	"Juris":"PX - ProPhoenix",
+	"InspectionZone":"Zone 2",
+	"District":"District 1"
+	},
+	"18607":{
+	"LastInspectedFromDate":"12/08/2021",
+	"LastInspectedToDate":"01/10/2024",
+	"DateFrom":"12/08/2021",
+	"DateTo":"01/10/2024"
+
+	},
+	"23334":{
+"FormName":"Punitive Closing Order",
+"Name":"Punitive Closing Order",
+"Code":"7460",
+"Description":"Punitive Closing Order",
+"ScreenID":"7460",
+"SystemIDNo":"2",
+"Report":"Punitive Closing Order",
+"Days":"20",
+"ReportName":"Punitive Closing Order",
+"ChecklistName":"Default Check List",
+"DateofNotice":"3/12/2024 12:00:00 AM",
+"Text":"Test Automation"
+},
+
+	"26813": {
+		"UserName": "Automation",
+		"Password": "Pnx@2024",
+		"Database": "AutomationFireMJ",
+		"InspectorPF": "F46"
+	},
+
+	"29335":{
+	"Category":"Extinguishers",
+	"Action":"Hidden"
+},
+
+	"29336":{
+	"SystemID":"105",
+	"InspectorPF":"001",
+	"PFCode":"45F",
+	"SystemIDNo":"105"
+	},
+	
+"32653":{
+	"Permit":"AutoPermit",
+	"Description":"AutoPermit",
+	"SubItemCode":"AP1",
+	"FeesDescription":"Task1",
+	"Rate":"500"
+},
+"35357":{
+"InvoiceClass":"Inspection",
+"InvoiceType":"Permit",
+"PermitType":"2iv",
+"CustomName":"Automation"
+},
+"35925":{
+"CSDCMAC":"CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance"
+},
+"35425":{
+"Address":"5465 Overbrook Rd,2;PX",
+"OccupancyName":"Test",
+"InspectionZone":"Zone 1",
+"InvoiceType":"Hazmat",
+"Cycle":"By Inspection- Automatic",
+"MinimumDays":"0",
+"Type":"Periodic",
+"Status":"No Violation Found"
+},
+"35436":{
+"Name":"Randy, Orten I",
+"LastName":"Sakshi",
+"FirstName":"Sinha",
+"ContactOrder0":"test",
+"ContactOrder1":"2"
+},
+"40942":{
+"BuildingStatus":"In Normal use",
+"FixedProperty":"100",
+"SystemID":"110",
+"PropertyUse":"100",
+"LHUCode":"AA02 - Day care centers with a maximum occupancy of six or ore but fewer than 50 persons",
+"LifeHazardUseCode":"AA02 - Day care centers with a maximum occupancy of six or ore but fewer than 50 persons",
+"Block":"4",
+"Lot":"2"
+},
+"42002":{
+"Description1":"Fire Resistive Non-combustible (high rise)",
+"Description2":"Asphalt Shingles",
+"Description3":"Wood",
+"Description4":"Electric",
+"SystemID":"109",
+"Construction":"I-A - Fire Resistive Non-combustible (high rise)",
+"ConstructionYearFrom":"2024",
+"ConstructionYearTo":"2024",
+"RoofCovering":"ASSH - Asphalt Shingles",
+"TrussFloor":"WOOD - Wood",
+"UtilityType":"Electric",
+"ConstructionYear":"2024"
+},
+"42006":{
+"SystemID":"108",
+"color1":"rgba(0, 0, 255, 1)",
+"color2":"rgba(0, 0, 255, 1)",
+"color3":"rgba(0, 0, 255, 1)",
+"color4":"rgba(0, 0, 255, 1)",
+"color5":"rgba(0, 0, 255, 1)",
+"color6":"rgba(0, 0, 255, 1)",
+"SystemType":"Wet System",
+"AlarmType":"Smoke Detector - Hard Wired",
+"LockBoxLocation":"55 Clark St, Brooklyn, NY 11201, USA",
+"ElevatorLocation":"Mr John Smith. 132 My Street",
+"Manufacturer1":"Generac",
+"Manufacturer": "Generac",
+"StandpipeType":"Wet"
+},
+"38587":{
+"SystemID":"111",
+"Name":"Sammy, Root",
+"color":"rgba(255, 0, 0, 1)"
+},
+"40519":{
+"":"",
+"":"",
+"":"",
+"":"",
+"":""
+},
+
+"41085":{
+	"SystemIDNo":"1",
+	"SystemID":"1",
+	"RegistrationFrom":"10/20/2023",
+	"RegistrationTo":"10/20/2026",
+	"LastInspectedFromDate":"10/20/2023",
+	"LastInspectedToDate":"10/20/2026",
+	"NextInspectionDueFromDate":"10/20/2023",
+	"NextInspectionDueToDate":"10/20/2026",
+	"FromClosedDate":"10/20/2023",
+	"ToClosedDate":"10/20/2026",
+	"StateRegID":"100"
+},
+"41168": {
+	"BuildingStatus": "Under construction",
+	"Address": "166 N Emmber Ln",
+	"InspectionZone": "Zone 2",
+	"Cycle": "Annual",
+	"BaseMonth": "February",
+	"NameRelation": "Building Owner",
+	"LastName": "Carrasco",
+	"FirstName": "Ofelia",
+	"PhoneNumber1": "8192869487",
+	"Name": "Carrasco, Ofelia",
+	"PhoneType1": "Work"
+},
+"41186": {
+	"BuildingStatus": "In Normal use",
+	"Address": "5916 Hewitt Dr",
+	"InspectionZone": "Zone 2",
+	"Cycle": "Annual",
+	"BaseMonth": "February",
+	"NameRelation": "Building Owner",
+	"PropertyUse": "241",
+	"MixedUseProperty": "20 - Educational use",
+	"PropertyValue": "100",
+	"ContentValue": "50",
+	"ElectricalWiring": "Good"
+},
+"41287": {
+	"BuildingStatus": "In Normal use",
+	"Address": "1 Benson St,22",
+	"InspectionZone": "Zone 2",
+	"Cycle": "Annual",
+	"BaseMonth": "February",
+	"OccupancySpaceName":"Cafeteria",
+	"OccupancyTabNameCount":"Occupancy (1)",
+	"OccupancySpaceUsage1":"General",
+	"OccupancySpaceUsage2":"Chairs",
+	"SeqNo":"1"
+},
+"41375": {
+	"BuildingStatus": "In Normal use",
+	"Address": "469 W Luzerne St",
+	"InspectionZone": "Zone 1",
+	"Cycle": "Once in 10 years",
+	"BaseMonth": "February",
+	"KeyLocation": "Under the table",
+	"RoomLocation1": "Hall",
+	"RoomLocation2": "Storage Room",
+	"ElevatorRoomTabNameCount": "Elevator Room (1)"
+},
+"42264": {
+	"BuildingStatus": "In Normal use",
+	"Address": "233 W Layman Dr",
+	"InspectionZone": "Zone 1",
+	"Cycle": "Once in 10 years",
+	"BaseMonth": "February",
+	"MaintenanceCompany": "101",
+	"TypeInGrid1": "Platform - Combustible",
+	"TypeInGrid2": "Platform - Non-combustible",
+	"Type1": "JPCB - Platform - Combustible",
+	"Type2": "JPNC - Platform - Non-combustible",
+	"FireEscapeTabNameCount": "Fire Escape (1)"
+},
+"42267": {
+	"BuildingStatus": "In Normal use",
+	"Address": "5470 Posuere Ave,938",
+	"InspectionZone": "Zone 1",
+	"Cycle": "Once in 10 years",
+	"BaseMonth": "February",
+	"LockBoxLocation": "At the Shelf",
+	"Manufacturer1": "Automation",
+	"Manufacturer2": "Jhon Deer",
+	"ManufacturerInGrid1": "AT",
+	"ManufacturerInGrid2": "JD",
+	"Serial": "S5423",
+	"LockBoxTabNameCount": "Lock Box (1)",
+	"SeqNo":"1"
+},
+"42053": {
+	"SystemIDNo": "107",
+	"SystemID": "107",
+	"CustomName": "Reg Custom",
+	"CustomLabelName": "Reg Custom",
+	"CustomText":"Registered 107"
+	},
+	"42126": {
+		"CSDCMACNo": "24-000003",
+		"CSDCMAC": "24-000003",
+		"ItemCode": "CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+		"SubItemCode": "CS2-7D",
+		"SubItemCode1": "CS1-30 D"
+	},
+	"42270": {
+		"BuildingStatus": "In Normal use",
+		"Address": "125 Nulla St",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Once in 10 years",
+		"BaseMonth": "February",
+		"Floor1": "Main",
+		"Floor2": "Parking Lot",
+		"Length": "20",
+		"Width": "20",
+		"Height": "10",
+		"SqFeet": "400",
+		"TotalSqFeet": "400",
+		"FloorsAndfireflowTabNameCount": "Floors & Fireflow (1)"
+	},
+	"42211":{
+		"InvoiceType":"Hazmat",
+		"ItemCode":"Oil Tank",
+		"ItemCode1":"OT",
+		"ForYear":"2024",
+		"ForMonth":"April",
+		"InvoiceNo":"I-24-000010"
+	},
+	"42177":{
+		"ForYear":"2024",
+		"SystemID":"107",
+		"TotalInvoiceGenerated":"1"
+	},
+	"42180":{
+		"Juris":"PX - ProPhoenix Fire Department",
+		"Category":"Extinguishers",
+		"ChecklistName":"Default Check List",
+		"ChecklistNameInGrid":"Default Check List :: Default Check List"
+	},
+	"41056": {
+		"InspectorPF": "001",
+		"Inspector": "Test, Automation",
+		"Unit": "191",
+		"UnitDescription": "Investigator",
+		"BaseMonth": "April",
+		"Shift": "Admin Shift",
+		"Cycle": "Monthly"
+	},
+	"41291":{
+		"Zone":"Zone 1",
+		"InspectionGroup":"Group A",
+		"Municipality":"New Jersey",
+		"Premise":"9",
+		"Street":"Sumach St",
+		"NearestAddress":"9 Sumach St;PX",
+		"CommonName":"Mach",
+		"OccupancyLastName":"Juhi",
+		"OccupancyName":"Juhi, Kyun",
+		"TrackingNo":"1",
+		"OrderBy":"Inspection DueDate",
+		"LifeHazardUseCode":"AA01 - Day nurseries with a maximum permitted occupancy of six or ore but fewer than 50 person",
+		"PropertyUseFrom":"200",
+		"PropertyUseTo":"256",
+		"District":"District 1",
+		"SystemIDNo":"19"
+	},
+	"42468": {
+		"BuildingStatus": "In Normal use",
+		"Address": "309 Jan Phyl Pl;PX",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Once in 10 years",
+		"BaseMonth": "February",
+		"Manufacturer1": "Generac",
+		"Manufacturer2": "Detroit Diesel",
+		"Engine": "BS 6",
+		"FuelType": "Diesel",
+		"Enclosure": "Steel",
+		"Model": "Z900",
+		"Power": "200W",
+		"Cycle1": "Quarterly",
+		"BaseMonth1": "February",
+		"SeqNo": "1",
+		"color1": "rgba(0, 0, 255, 1)",
+		"TabName":"Systems",
+		"SubTabName":"Generators"
+	},
+	"40865":{
+		"BuildingStatus": "In Normal use",
+		"Address": "2200 Interstate N N",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Once in 10 years",
+		"BaseMonth": "February",
+		"Remarks":"To verify the Registration entry screen - Flags tab.",
+		"DisplayCondition":"All Condition"
+	},
+	"42457":{
+		"BuildingStatus": "In Normal use",
+		"Address": "101 E Chalfont Way",
+		"InspectionZone": "Zone 1",
+		"Cycle": "Once in 10 years",
+		"BaseMonth": "February",
+		"Type":"EXT - Extinguishers",
+		"OtherLocation":"Test Location",
+		"TestCompany":"101",
+		"Comments":"To Verify the Registration Entry Screen - System tab - Others subtab",
+		"InspectionType":"Fire Alarm Acceptance",
+		"TestCompanyInGrid":"Fire DP",
+		"SeqNo":"1",
+		"color1": "rgba(0, 0, 255, 1)",
+		"TabName":"Systems",
+		"SubTabName":"Others"
+		},
+		"42063":{
+			"Severity":"Severe",
+			"Category":"Extinguishers",
+			"ViolationCode":"Chapter 3 VRT",
+			"SystemID":"112",
+			"SystemIDNo":"112"
+		},
+		
+		"40982":{
+		"Juris":"BC - Brown County FireDepartment",
+		"ContactGroup0":"Automation",
+		"ContactGroup1":"Automation Group Entry"
+			},
+		
+		
+		"40983":{
+		"Name":"Catherine",
+		"Address":"1 Bank St",
+		"Address0":"1 Bank St",
+		"Name0":"SeaFishers, Business"
+		},
+		
+	"40987":{
+		"Name":"Cath",
+		"NameRelation":"Building Owner",
+		"LastName":"Abby",
+		"FirstName":"Abdul",
+		"Address":"301 Westover Rd",
+		"Address0":"301 Westover Rd",
+		"Name0":"Abby, Abdul"
+		},
+		
+		"42178":{
+		"Category":"Ch 23 Cleanrooms",
+		"OrderWithInCategory":"Violation",
+		"Description":"ProAgency",
+		"ChecklistNameInGrid":"Default Check List :: Default Check List",
+		"CodeSet": "WI FIRE PREVENTION Subchapters I-II"
+		
+		},
+		
+		"42175":{
+		"ChecklistName":"Codes",
+		"AvailableCategories2":"Stairs & Doors",
+		"AvailableCategories1":"Exits & Aisles",
+		"AvailableCategories0":"Electric",
+		"AvailableCategories3":"Flammables",
+		"AvailableCategories4":"Miscellaneous",
+		"CategoriesForTheCheckList0":"Stairs & Doors",
+		"CategoriesForTheCheckList1":"Exits & Aisles",
+		"lstCategoryForthisChecklist2":"Exits & Aisles",
+		"lstCategoryForthisChecklist3":"Flammables"
+		},
+			
+		"41460":{
+		"CSDCMAC":"25-000002",
+		"FontStyle":"Tahoma",
+		"FontSize":"4",
+		"FontStyleWithAttribute":"font-family: Tahoma;",
+		"FontSizeWithAttribute":"4"
+			},
+		
+		"41407":{
+		"CSDCMAC":"25-000003",
+		"DisplayCondition":"Dispatcher",
+		"Remarks":"Automation"
+				},
+		
+		"41345":{
+		"Address":"7699 Henrich Ave;PX",
+		"LastName":"Fire DP",
+		"SubItemCode1":"CS3-IN 7",
+		"Conditions":"Smoke Detector and Alarm Initialized.",
+		"TabName0":"Applicant",
+		"TabName1":"Fees",
+		"TabName2":"Inspections",
+		"TabName3":"Notes/Conditions",
+		"TabName4":"History",
+		"ItemCode":"CSDCMAC - Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+		"SubItemCode":"CS2-7D"
+					},
+  
+		"48585":{
+		"SystemID":"115",
+		"SystemType": "DRY - Dry System",
+		"Cycle": "Once in 50 years",
+		"InspectionType":"Systems-Sprinklers"
+		},
+		
+		"41090":{
+				"CSDCMACValue":"Certificate of Smoke Detector, Carbon Monoxide, Alarm Compliance",
+				"EffectiveFrom":"04/30/2025",
+				"EffectiveTo":"04/30/2026",
+				"CSDCMACNo":"25-000004",
+				"CSDCMAC":"25-000004"
+				},
+		
+		"50815":{
+			"SystemIDFrom":"119",
+			"SystemIDTo": "119",
+			"ChecklistName":"Default Check List",
+			"ChecklistNameGrid":"Default Check List :: Default Check List"	
+		},
+		
+		"51125":{
+			"ChecklistActionNameGrid":"Autotest"
+		},
+		
+		"48853":{
+			"InspectionNo":"25"
+		},
+		
+		"48623":{
+			"SystemID":"120",
+			"ActivityType":"Inspection",
+			"EnteredBy":"Test, Automation"																																
+		 },
+		 
+		 "48514":{
+			"DefaultBookName":"National Fire Production Association",
+			"CodeValue":"456",
+			"Description":"testchapter"
+		 },
+		 
+		 "48805":{
+			"FirstName0":"Juliet",
+			"LastName0":"Romeio",
+			"Name":"NameTypeContact",
+			"FirstName1":"Rachel",
+			"LastName1":"Patrick"			
+		 },
+		 
+		 "48818":{
+			"SystemIDFrom":"119",
+			"SystemIDTo":"119",
+			"Electric0":"  --Add 5903 --  ",
+			"CodeValue":"133",
+			"Description":"Test",
+			"Electric1":"Test"
+		 },
+		 
+		 "43983":{
+			"ParameterID":"3112",
+			"SystemIDFrom":"118",
+			"SystemIDTo":"118",
+			"Type":"Re-inspection Periodic",
+			"SystemID":"118"			
+		 },
+		 
+		 "42420":{
+			"SystemIDFrom":"119",
+			"SystemIDTo":"119",
+			"UtilityType0":"ELEC - Electric",
+			"UtilityType1":"NATG - Natural Gas",
+			"TabName0":"Systems",
+			"TabName1":"Utility (1)",
+			"ServiceCompany":"101",
+			"Notes": "autotest",
+			"SubTabName":"Utility",
+			"UtilityTypeDesc":"Natural Gas"
+		 },
+		 
+		 "53082":{
+		 	"SystemID":"124"			
+		 },
+		 
+		 "42430":{
+			"SystemIDNo":"122",
+			"Type0":"1 - Type 1",
+			"Type1":"2 - Type 2",
+			"Type2":"Type 2",
+			"HoodLocation":"Test Location",
+			"TabName0":"Systems",
+			"TabName1":"Hood Systems (1)",
+			"SubTabName":"Hood Systems",
+			"Comments":"Testcheck"
+		 },
+		 
+		 "50640":{
+			"Phonetype": "Home",
+			"PhoneNo": "9865214598",
+			"SystemIDNo": "123"	
+		 },
+		 
+		 "42435": {
+			"SystemIDNo":"122",
+			"SystemType1": "DRY - Dry System",
+			"SystemType1": "WET - Wet System",
+			"StateRegID": "100",
+			"Cycle": "Monthly",
+			"ValveLoc": "valveloc234",
+			"Comments": "testCheck",
+			"AlarmSupervisionType":"Auto Dialer",
+			"FDCLocation": "FDCLocation Test auto",
+			"SystemType0":"WET - Wet System",
+			"TabName0": "Systems",
+			"TabName1": "Sprinklers (1)",
+			"SubTabName":"Sprinklers",
+			"SystemType2": "Wet System",
+			"Location" :"Alarm Test Location",
+			"Cycle": "Monthly",
+			"Type0": "Systems-Sprinklers"
+		 },
+		 
+		 "42423": {
+			"SystemIDNo":"122",
+			"AlarmType0": "3 - Heat Detectors",
+			"AlarmType1": "4 - Manual Pull",
+			"AlarmType2": "Manual Pull",
+			"Cycle": "Monthly",
+			"Comments": "testCheck",
+			"TabName0": "Systems",
+			"TabName1": "Alarms (1)",
+			"SubTabName":"Alarms",
+			"AlarmCompany": "101",
+			"MainPanelLoc" : "4862359",
+			"Type0": "Systems-Alarms",
+			"Location" :"Alarm Test Location"				
+		 },
+		  "58352":{
+			"TemplateName": "Form",
+			"Bcc": "Test@prophoenix.com",
+			"DataFields": "[Inspection DTTM]",
+			"ZipCode": "1iii",
+			"ReportName1":"Application For Permit",
+			"To":"Test@prophoenix.com",
+			"Address": "5580 Sycamore St"	
+		 },
+		 "50481": {
+			"District":"District 1",
+			"InspectionZoneCode":"ZN2",
+			"BaseMonth":"January",
+			"InspectionGroup":"Group A",
+			"Cycle":"Monthly",
+			"Municipality":"New Jersey",
+			"Zone":"Zone 2"
+			
+		 },
+		 
+		 "50758": {
+			"Name":"contorderalp",
+			"ContactName": "Jacklin, Rio"
+		 },
+		 
+		 "52367": {
+			"SystemIDNo":"121",
+			"SystemID":"121"
+		 },
+		 
+		 "53091":{
+			"SystemID": "131",
+			"Category":"Photo - Evidence",
+			"MobileNo":"9875632145"
+		 },
+		 
+		 "53039":{
+			"SystemIDNo":"135",
+			"MobileNo":"6589745632"
+		 },
+		 
+		 "50636" :{
+			"Juris":"BC - Brown County FireDepartment",
+			"SystemIDNo":"1",
+			"Phonetype":"Home",
+			"PhoneNo":"8236478965",
+			"SystemID":"1"
+		 },
+		 
+		 "50804":{
+			"SystemIDFrom":"127",
+			"SystemIDTo":"128",
+			"SystemID":"127",
+			"InspectorPF":"PFINS",
+			"UserName":"PFINS",
+			"Password":"Pnx@2020",
+			"RegNo":"127",
+			"OccupancyName":"Grinnell",
+			"Address":"601 E Grinnell Dr",
+			"Type":"Periodic",
+			"Cycle":"Monthly",
+			"StateReg":"136",
+			"LocalID":"136"
+		 },
+		 
+		 "52270":{
+			"BuildingStatus":"In Normal use",
+			"Address":"401 Caroline Cir",
+			"OccupancyName":"Caroline",
+			"InspectionZone":"Zone 1",
+			"Cycle":"Monthly",
+			"BaseMonth":"April",
+			"PF":"001",
+			"ScreenName":"Registration"
+		 },
+		 
+		 "52321":{
+			"SystemIDNo":"129",
+			"InvoiceType":"Hazmat",
+			"ForYear":"2025"			
+		 },
+		 
+		 "52475":{
+			"SystemIDNo":"135",
+			"Type":"Periodic",
+			"Status":"No Violation Found",
+			"Inspector":"Test, Automation"			
+		 },
+		 
+		 "55953":{
+			"SystemID":"134",
+			"InspectionType":"Periodic"
+		 },
+		 
+		 "53040":{
+			"SystemIDNo":"130",
+			"NameRelation":"Building Owner",
+			"NameID":"A-0000000039",
+			"PhoneType1":"Home",
+			"PhoneNumber1":"9865231458",
+			"LastName":"William's",
+			"FirstName":"George",
+			"OccupancyName":"William's",
+			"Name":"William's, George",
+			"Name1":"William's, George"
+		 },
+		 
+		 "53094":{
+			"ChecklistActionNameGrid":"Test Violation Code",
+			"SystemIDNo":"133",
+			"InspectionType":"Periodic",
+			"ViolationCode":"001"
+		 },
+		 
+		 "52993":{
+			"SystemID":"132",
+			"FileName":"img2"
+			
+		 },
+		 
+		 "54988":{
+			"SystemID": "135",
+			"ViolationCode": "CHAPTER 3",
+			"CommonName":"Potts"
+		 },
+		 
+		 "55038":{
+			"NameID":"O-0000000080",
+			"SystemIDNo":"131"
+		 },
+		 
+		 "58056":{
+			"Permit":"AutoPermit",
+			"Description":"Test",
+			"TabName":"Parameters"
+		 },
+		 
+		 "58319":{
+			"BuildingStatus":"In Normal use",
+			"Address":"3847 Metus Rd",
+			"InspectionZone":"Zone 1",
+			"Cycle":"Monthly",
+			"BaseMonth":"May",
+			"OccupancyName":"Met",
+			"SystemID":"141"
+		 },
+		 
+		 "55182":{
+			"ParameterID":"3112",
+			"SystemID":"137",
+			"Action":"Need Serviced",
+			"Category":"Smoking Conditions",
+			"NatureAction":"Approved smoking receptacle required"
+		 },
+		 
+		 "51658":{
+			"SystemIDNo":"137",
+			"Type0":"Re-inspection Periodic",
+			"InspectionType0":"Re-inspection Periodic",
+			"Category":"Combustible",
+			"NatureAction":"Improper storage",
+			"ReportName":"Order to Pay Penalty and Abate Violation",
+			"Initial":"Initial Inspected on: ",
+			"Last":"Last Inspected on: "
+		 },
+		 
+		 "53026":{
+			"SystemIDNo":"138",
+			"Type":"Periodic",
+			"Checklist":"lea",
+			"Category":"Extinguishers",
+			"ChecklistNameGrid":"lea",
+			"ChecklistName":"##lea"
+		 },
+		 
+		 "55645":{
+			"Juris":"PX - ProPhoenix Fire Department",
+			"Type":"1i",
+			"RegisteredAddress":"6498 N Shore Dr",
+			"DisplayCondition":"All Condition",
+			"NameRelation":"Building Owner",
+			"LastName":"Sakshi",
+			"FirstName":"Sinha",
+			"PhoneType1":"Home",
+			"CodeValue":"1i",
+			"Notes":"Test",
+			"Notes1":"Type 1 Permit-Bonfires",
+			"Notes2":"TestType 1 Permit-Bonfires",
+			"Comments":"Commented",
+			"Name":"Sakshi, Sinha",
+			"TabName0":"Applicant",
+			"TabName1":"Flags",
+			"TabName2":"Notes/Conditions",
+			"TabName3":"History",
+			"TabName4":"Contacts"			
+		 },
+		 
+		 "41130":{
+			"LastName":"Inspection",
+			"Applicant":"Inspection, Rodation",
+			"AddressType":"Common Name",
+			"Address":"Chatham",
+			"CSDCMAC":"21-000003",
+			"CommonName":"Chatham",
+			"Municipality":"New York",
+			"InspectionZone":"Zone 1",
+			"Block":"22",
+			"Lot":"22",
+			"SystemID":"88",
+			"RegNo":"88",
+			"StateRegNo":"123",
+			"LocalID":"123"
+		 },
+		 
+		 "55158":{
+			"SystemID":"140",
+			"MainContent":"Exit Signs",
+			"SubContent":"Need to be serviced",
+			"Action":"Need to be serviced",
+			"PenaltyType":"Flat",
+			"Description":"Need to be serviced"
+		 },
+		 
+		 "50904":{
+			"SystemIDNo":"136",
+			"Category":"Electric",
+			"NatureAction":"Daisy chain/surge protectors",
+			"ViolationCode":"Chapter 3",
+			"EmailID":"MichaelJohn@gmail.com",
+			"ReportName":"Certificate of Inspection"		
+		 },
+		 
+		 "60400":{
+			"BuildingStatus": "In Normal use",
+			"Address": "199 S Jefferson Ave",
+			"InspectionZone": "Zone 2",
+			"BaseMonth": "May",
+			"Cycle": "Monthly",
+			"OccupancyName": "Jefferson's",
+			"OccupancyLastName":"Jefferson",
+			"OccupancyName1":"Jefferson"			
+		 },
+		 
+		 "60319":{
+			"SystemID":"143",
+			"Category":"Exit Signs",
+			"NatureAction":"Needed"
+		 },
+		 
+		 "60333":{
+			"Type":"Administrative Right Report",
+			"To":"Pro@Gmail.com",
+			"TemplateName":"Administrative Right Report"
+		 },
+		 
+		 "60327":{
+			"PermitNo":"25-000006",
+			"QAForm":"CSDCMAC"
+		 },
+		 "62909":{
+			"PermitNo":"25-000010",
+			"PhoneType":"Home",
+			"PhoneNo":"9865124587",
+			"PhoneNo1":"(986) 512-4587",
+			"PFCode":"F25"			
+		 },
+		 "63534":{
+			"RepositoryID":"7410018",
+			"DefaultName":"Occupancy Name"
+		 },
+		 
+		 "64291":{
+			"SystemID":"144",
+			"Reference#":"144",
+			"InspectionType":"Periodic",
+			"Category":"Construction",
+			"NatureAction":"Missing doors",
+			"DedicatedAmt":"30",
+			"CompensatoryAmt":"20",
+			"PenaltyType":"Flat",
+			"CompAmt":"$20.00",
+			"DedicatedAmount":"$30.00",
+			"Ack":"(17553) Update will happen when the Inspection record is saved"
+		 },
+		 
+		 "64310":{
+			"SystemIDNo":"144",
+			"OtherLocation":"Loc546",
+			"Custom1":"Testcustom1",
+			"Custom2":"Testcustom2",
+			"Type":"1 - Type 1",
+			"TestCompany":"101",
+			"Comments":"IFCTest",
+			"InspectionType":"IFC Permitted Inspection",
+			"Type1":"IFC Permitted Inspection"
+		 },
+		 
+		 "61556":{
+			"ReportName":"LEA Year End Summary",
+			"FromDate":"07/28/2025",
+			"ToDate":"07/30/2025",
+			"PageNo":"3",
+			"Text1":"System ID#",
+			"Text2":"Inspections for the Year"
+		 },
+		 
+		 "66602":{
+			"ReportName":"Notice of Violations and Order to Correct",
+			"Text":"NOTICE OF VIOLATIONS"
+		 },
+		 
+		 "66998":{
+			"Text":"ProPhoenix"
+		 },
+		 
+		 "67618":{
+			"Address":"73 W 24th St",
+			"Street":"W 24th St"
+		 },
+		 "67506":{
+			"SystemIDNo":"145",
+			"Type":"1ii",
+			"Address":"4739 Brandywine Dr"
+		 },
+		 
+		 "67687":{
+			"StateRegID":"Wallace Facility",
+			"SystemIDNo":"144",
+			"InvoiceNo":"25-000021",
+			"IDNo":"144"
+		 },
+		 
+		 "67930":{
+			"UserName":"auto",
+			"Password":"Pnx@2016",
+			"Database":"AutomationFireMJ SmokeTest",
+			"DefaultBookName":"NJ Admin Code: Title 5; Chapter 70 & 71 v 2018"
+		 },
+		 
+		 "67939":{
+			"UserName":"auto",
+			"Password":"Pnx@2016",
+			"Database":"AutomationFireMJ SmokeTest",
+			"DefaultBookName":"2018 International Fire Code-NJ"
+		 },
+		  "68043":{
+			"SystemIDNo":"147",
+			"Type1":"1i",
+			"Type2":"1ii",
+			"Type3":"1iii",
+			"Amount":"42"			
+		  },
+		  
+		  "70160":{
+			"SystemIDNo":"147",
+			"LastName":"Glander",
+			"FirstName":"Coth",
+			"Email":"L'Park@phoenix.com"
+		  },
+		 	
+		  "70381":{
+			"InspectionID":"25-000005"
+		  },
+		  
+		  "70341":{
+			"ActivityType0":"000 - Property Use Other",
+			"ActivityType1":"UUU - Undetermined",
+			"FixedProperty0":"000",
+			"FixedProperty1":"UUU",
+			"PropertyUse0":"000",
+			"PropertyUse1":"UUU"
+		  },
+		  
+		  "70541":{
+			"SystemIDNo":"141"
+		  },
+		  
+		  "70584":{
+			"ForYear":"2025",
+			"SystemID0":"147",
+			"SystemID1":"146",
+			"SystemID2":"145",
+			"TotalInvoiceGenerated":"3"
+		  },
+		  
+		  "70594":{
+		  "SystemIDNo":"150"
+		  },
+		  
+		  "70550":{
+			"LastName":"Henry",
+			"FirstName":"Brady",
+			"ContactGroup":"ProFire"
+		 },
+		 
+		 "71897":{
+			"SystemIDNo":"152",	
+			"InspectionNo":"25-000012"
+		},
+		
+		"72112":{
+			"Address":"221 Graffunder Dr"			
+		},
+		
+		"72230":{
+			"SystemIDNo":"151",
+			"RoofHatchLocation":"New Location Unfound"
+		},
+		"72723":{
+			"BuildingStatus":"In Normal use",
+			"Address":"2401 Harrison Ave",
+			"PhoneType":"Home",
+			"PhoneType1":"Mobile",
+			"PhoneType2":"Work",
+			"PhoneNumber":"321",
+			"PhoneNumber1":"456",
+			"PhoneNumber2":"789"						
+		},
+		
+		"72734":{
+			"SystemIDNo":"151",
+			"NameRelation":"Building Owner",
+			"LastName":"Lydia",
+			"FirstName":"Max",
+			"Address":"7699 Henrich Ave"
+		},
+		
+		"72738":{
+			"SystemIDNo":"150",
+			"SystemID":"150",
+			"InspectorPF0":"201",
+			"InspectorPF1":"001"
+		},
+		
+		"72773":{
+			"Permit":"Permit12",
+			"Description":"Descrip12",
+			"AccountNo":"254781369",
+			"SubItemCode":"6587",
+			"FeesDescription":"Penalty",
+			"Rate":"9856",
+			"Text":"Entering.."
+		},
+		
+		"62531":{
+			"Address":"1611 Old Freehold Rd",
+			"PhoneNumber0":"654",
+			"PhoneNumber1":"6549872581",
+			"PhoneType":"Home"
+		},
+		
+		"72932":{
+			"InspectionID":"25-000010",
+			"InspectionNo":"25-000010",
+			"Action":"Not marked",
+			"Status0":"Abated",
+			"Status1":"Withdrawn",
+			"Status2":"Void",
+			"Status3":"Recommended"
+		},
+		
+		"72820":{
+			"SystemIDNo":"151",
+			"UtilityType":"ELEC - Electric",
+			"UtilityTypeDesc":"ELEC - Electric",
+			"TabName":"Utility",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"
+		},
+		
+		"72820A":{
+			"SystemIDNo":"151",
+			"AlarmType":"4 - Manual Pull",
+			"TypeInGrid":"4 - Manual Pull",
+			"TabName":"Alarms",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},
+		
+		"72820B":{
+			"SystemIDNo":"151",
+			"HoodLocation":"Hood Test1",
+			"Location":"Hood Test1",
+			"TabName":"Hood Systems",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},
+		
+		"72820C":{
+			"SystemIDNo":"151",
+			"SystemType":"ANTI - Anitfreeze Loop",
+			"TabName":"Sprinklers",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},
+		
+
+		"72820D":{
+			"SystemIDNo":"151",
+			"FirePumpLocation":"Fire Pump Test3",
+			"Location":"Fire Pump Test3",
+			"TabName":"Fire Pumps",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},
+		
+		"72820E":{
+			"SystemIDNo":"151",
+			"StandpipeType0":"2 - Dry",
+			"TabName":"StandPipes",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},	
+		
+		"72820F":{
+			"SystemIDNo":"151",
+			"Manufacturer0":"Honda",
+			"TabName":"Generators",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"			
+		},
+		
+		"72820G":{
+			"SystemIDNo":"151",
+			"OtherLocation":"Location Exclusive",
+			"Location":"Location Exclusive",
+			"TabName":"Others",
+			"Latitude":"72.1478522",
+			"Longitude":"14.6214785"		
+		},
+		
+		"42482":{
+			"SystemIDNo":"153",
+			"Severity":"Serious",
+			"Category":"Fire Lanes",
+			"Category0":"Fire Lanes",
+			"Category1":"Misc",
+			"Category2":"Construction",	
+			"Status0":"Abated",
+			"Status1":"UnAbated",
+			"ViolationCode":"Subchapter II"		
+		},
+		
+		"74674":{
+			"NextInspectionDueFromDate":"12/29/2021",
+			"NextInspectionDueToDate":"12/25/2026",
+			"SystemID":"108"
+		},
+		"20297": {
+		"SystemID": "154",
+		"SystemIDFrom": "154",
+		"UtilityType": "ELEC - Electric",
+		"ServiceCompany": "101",
+		"Notes": "Automation"
+		}
+
+}

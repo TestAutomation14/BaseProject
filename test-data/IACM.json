@@ -1,0 +1,124 @@
+{
+  "278812": {
+    "InvestNo": "22-000002",
+    "CaseNo": "22-000002",
+    "Status": "Open",
+    "Investigators": "RMS, IA",
+    "Investigators1": "Phoenix, Automation",
+    "Officer": "IA001",
+    "Investigators2": "IA, Officer"
+  },
+  "278813": {
+    "InvestNo": "22-000002",
+    "CaseNo": "22-000002",
+    "Status": "Open",
+    "CaseStatus": "Open",
+    "Investigator": "IARMS",
+    "Template": "Case Notification"
+  },
+  "278814": {
+    "InvestNo": "22-000002",
+    "CaseNo": "22-000002",
+    "Status": "Open",
+    "Investigator": "IARMS",
+    "Investigator1": "Auto",
+    "InvestigatorName1": "Phoenix, Automation",
+    "Officer": "IA001",
+    "Supervisor": "Auto",
+    "Category": "Investigation",
+    "ActivityCode": "Follow - Up",
+    "Template": "Case Notification"
+  },
+  "278815": {
+    "InvestNo": "22-000003",
+    "CaseNo": "22-000003",
+    "Status": "Open",
+    "CaseStatus": "Open",
+    "AssignedSupervisor": "AUTO",
+    "AsssignedToPF": "AUTO",
+    "AsssignedByPF": "AUTO",
+    "Category": "Court",
+    "ActivityCode": "Federal",
+    "Template": "Case Notification",
+    "TaskCode": "Status Update",
+    "AssignedSupervisorName": "Phoenix, Automation"
+  },
+  "278816": {
+    "InvestNo": "22-000002",
+    "CaseNo": "22-000002",
+    "Status": "Open",
+    "Category": "Stk/vsr",
+    "Detail": "Battery",
+    "TypeCategoryDetail": "Against Person-Stk/vsr-Battery",
+    "Type": "Against Person",
+    "CodeValue1":"AF",
+    "CodeValue2":"001",
+    "CodeID1":"2027",
+    "CodeID2":"3072"
+  },
+  "278817": {
+    "InvestNo": "21-000002",
+    "CaseNo": "21-000001",
+    "Status": "Open",
+    "Template": "Case Notification"
+  },
+  "278819": {
+    "CaseNo": "22-000007",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "PrimeInvestigator": "IARMS",
+    "Template": "Case Notification"
+  },
+  "278820": {
+    "CaseStatus": "Open",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "Status": "Open",
+    "CaseNo": "22-000002",
+    "NameID": "A-0000000006",
+    "Activity": "Victim",
+    "LastName": "Jim",
+    "FirstName": "Gorden",
+    "Name": "Jim, Gorden"
+  },
+  "278821": {
+    "CaseStatus": "Open",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "Status": "Open",
+    "CaseNo": "22-000002",
+    "Status1":"Locked",
+    "Reason":"Found"
+  },
+  "278822": {
+    "CaseStatus": "Open",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "InvestNo": "22-000002",
+    "Type": "IA Incident Report",
+    "Status": "Open",
+    "Action1": "Approve",
+    "CompliantType": "Differential Treatment"
+  },
+  "278823": {
+    "CaseStatus": "Open",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "InvestNo": "22-000001",
+    "Status": "Open",
+    "Plate":"2192-NJ"
+  },
+  "278824": {
+    "CaseStatus": "Open",
+    "Division": "Administration",
+    "Section": "Internal Affairs",
+    "InvestNo": "22-000002",
+    "Investigators": "Officer: Phoenix, Automation",
+    "Status": "Open",
+    "PFCode": "Auto"
+  },
+  "74341":{
+	 "CaseStatus":"Open",
+	 "InvestNo":"26-000001"
+  }
+}

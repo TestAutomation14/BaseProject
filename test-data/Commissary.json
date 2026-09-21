@@ -1,0 +1,303 @@
+
+{
+  "24836":{
+  "SPN":"27",
+  "FacilityStockCode":"Item1",
+  "Quantity":"9",
+  "Item":"Item1"
+  },
+  "24851":{
+  "NameID":"B-0000000057",
+  "Officer":"Auto",
+  "FacilityStockNo":"Item2"
+  },
+  "24848":{
+  "SPN":"29",
+  "OpeningBalance":"100",
+  "AccountType":"Inmate Account",
+  "CertificateType":"Account History",
+  "ValueInPDF":"100",
+  "BalanceAmount":"100.00"
+  },
+
+  "24844": {
+		"Category": "HYG"
+	},
+  
+  "24845":{
+"AccountType":"Calling Card Account"
+
+},
+  "24843":{
+   "Category":" ",
+   "DollarAmount":"450.00",
+   "Category1":"Hygiene"
+	},
+"32688":{
+"AccountType":"Inmate Account",
+"SPN":"22",
+"OpeningBalance":"63562"
+},
+"32686":{
+"AccountType":"Inmate Account",
+"SrcSPN":"22",
+"ToSPN":"23",
+"AmountToBeTransferred":"10",
+"AccountName":"Inmate Account"	
+},
+
+"34945":{
+"AccountType":"Calling Card Account",
+"SPN":"41",
+"OpeningBalance":"32326532.00"
+},
+
+"34908":{
+"NameID":"B-0000000004",
+"VendorItemStockCode":"12"
+},
+"34939":{
+"NameID":"B-0000000007",
+"Officer":"AUTPOL",
+"FacilityStockNo":"Item1"
+},
+"34531":{
+"SPN":"29"
+},
+"BankStatement":{
+	"BeginningBalance":"1",
+	"EndingBalance":"1"
+},
+"BatchBilling":{
+	"FeeType":"Calling Card Account",
+	"Amount":"1000",
+	"LastName":"Andrew",
+	"FirstName":"Paul"
+},
+
+
+ 
+"ItemEntry":{
+	"FacilityStock":"1000",
+	"ItemName":"Automation",
+	"VendorItemStockCode":"100",
+	"Category":"Hygiene",
+	"ContainerType":"Container",
+	"ContainerQuantity":"10",
+	"ContainerCost":"2",
+	"CurrentItemCount":"5"
+},
+
+"PurchaseEntry":{
+	"NameID":"B-0000000025",
+	"Officer":"A208",
+	"FacilityStockNo":"Item1"
+},
+
+"VendorEntry":{
+	"NameID":"B-0000000028",
+	"VendorItemStockCode":"12"
+},
+
+"48860":{
+ "SPN":"51",
+"Action":"Deposit Fund",
+"Drawer":"Booking",
+"Officer":"CM002",
+"Payment Method":"Cash",
+"Media":"Cash",
+"Amount":"125"
+},
+
+"48823":{
+ "Category":"Hygiene",
+"ItemName":"Item2"
+},
+
+"48859":{
+ 	"SPN":"55",
+	"FeesType":"Inmate Account",
+	"FeesDescription":"Automation",
+	"Amount":"1250",
+	"Officer":"AUTPOL"
+},
+"51159":{
+	"NameID":"B-0000000051",
+	"VendorItemStockCode":"12",
+	"Officer":"AUTO",
+	"Officer1":"Prophoenix, Automation",
+	"FacilityStockNo":"Item1",
+	"Notes":"Vendor Entry Tab Color Check",
+	"TabName1":"Product",
+	"TabName2":"Purchase History",
+	"TabName3":"Notes"
+},
+"50641":{
+	"SPN":"31",
+	"Action1":"--Add 4206 --",
+	"Action2":"Money Credit",
+	"Action":"Money Credit",
+	"OfficerID":"Auto",
+	"CodeValue":"MCRD",
+	"Description":"Money Credit",
+	"Drawer":"Booking",
+	"PaymentMethod":"Cash",
+	"Media":"Cash",
+	"Amount":"120"
+},
+"52879":{
+ "OrderNo":"25-000001",
+ "FacilityNo":"Item2",
+ "Officer":"P4400",
+ "ContainersReceived1":"1",
+ "ContainersReceived2":"0",
+ "ContainersReceived3":"25",
+ "ContainersReceived4":"15",
+ "UnitsReceived":"15",
+ "ActionType":"RC",
+"Action1":"Receive"
+},
+"52898":{
+"Drawer":"Booking",
+"Drawer1":"--Add--",
+"ToAge":"35"
+},
+"52908":{
+"Suffix":"Jr",
+"Action1":"Release to Inmate",
+"SPN":"55",
+"BalanceAmount":"1250.00",
+"OfficerID":"CM002"
+},
+"52907":{
+"FirstName":"A",
+"Officer":"PA002",
+"FacilityStockNo":"Item2"
+},
+"55935":{
+"BookingNo":"25-000016",
+"FeeType":"Calling Card Account",
+"AccountType":"Calling Card Account"
+},
+"58358":{
+"SPN":"21",
+"Description1":"Batch Billing - Calling Card Account",
+"Description2":"Deposit Entry-Deposit By Cash",
+"AccountType":"Commissary Voucher Account",
+"Description":"Batch Billing - Commissary Voucher Account"
+},
+
+"58391":{
+"Name":"Jeffery, Joshuva"
+},
+"55881":{
+"Reconciliation":"25-000001",
+"BankDeptNbr":"25-000001"
+},
+"":{
+"FeeType":"Calling Card Account",
+"Amount":"500",
+"SPN":"26"
+},
+"60278":{
+"Drawer":"Booking",
+"PF":"PA002"
+},
+"60346":{
+"AccountType":"Inmate Worker Shoes",
+"OpeningBalance":"1000",
+"Comments":"Auto"
+},
+"60482":{
+"Drawer":"Booking",
+"BookingNumber":"24-000006",
+"SPN":"35"
+},
+"58390":{
+"Drawer":"Booking"
+},
+"65593":{
+	"NameID":"B-0000000053",
+	"VendorItemStockCode":"12",
+	"Officer":"AUTO",
+	"Notes":"Automation",
+	"Officer1":"Prophoenix, Automation",
+	"FacilityStockNo":"Item1"
+},
+"65636":{
+ "SPN":"71",
+"Action":"Deposit Fund",
+"Drawer":"Booking",
+"Officer":"CM002",
+"Payment Method":"Cash",
+"Media":"Cash",
+"Amount":"125"
+},
+"65904":{
+"SPN":"78",
+"FacilityStockCode":"Item1",
+"Quantity":"10"
+},
+
+"62754":{
+"ItemName":"Item3"	
+},
+
+"63640":{
+"Drawer":"Automation",
+"Roles":"Inventory Mgr"	
+},
+
+"63635":{
+"VendorName":"Test check"
+},
+
+"63606":{
+"AccountType":"Commissary Voucher Account"	
+},
+"60282":{
+	"FeeType":"Calling Card Account",
+	"SPN":"22",
+	"Amount":"1000"
+},
+"72576":{
+	"Action":"--Add 4206 --",
+	"Action2":"Release to Other",
+	"Action1":"Transfer Amount",
+	"CodeValue":"STAT",
+	"Description":"Transfer Amount",
+	"SPN":"144"
+},
+	"72957":{
+	"FacilityStock":"AJKS452",
+	"FacilityStock1":"AJKS452",
+	"FacilityStock2":"LSK8542",
+	"ItemName":"Automation",
+	"VendorItemStockCode":"100",
+	"Category":"Hygiene",
+	"ContainerType":"Container",
+	"ContainerQuantity":"10",
+	"ContainerCost":"2",
+	"CurrentItemCount":"5"
+  },
+"72730":{
+"SPN1":"129",
+"BookingStatus":"Active-In",
+"SPN":"129",
+"ReleaseType":"EC - Electronic Monitoring",
+"Review":"Lock",
+"secondReviewPf":"pnx440",
+"FinalReviewPf":"Lock",
+"Name":"Automation",
+"Label":"Electronic Monitoring",
+"SignatureText":"Automation"
+},
+  "74299":{
+  "SPN":"208",
+  "Restriction1":"Maximum",
+  "Comments1":"Automation",
+  "Restriction2":"Lockdown",
+  "Comments2":"Testing"
+  }
+  }
+

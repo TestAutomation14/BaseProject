@@ -1,0 +1,595 @@
+{
+	"RegistrationDetailsEntry": {
+		"LastName": "Lawren",
+		"FirstName": "Sam",
+		"Address": "1 Belvidere Ave"
+	},
+	"CitizenFlagEntry": {
+		"LastName": "Nivin",
+		"FirstName": "Roy",
+		"Address": "50 Clarke Ave",
+		"Email": "automationtest@prophoenix.com"
+	},
+	"Complaints": {
+		"ComplaintType": "Traffic Complaint",
+		"LastName": "Binny",
+		"FirstName": "Joy",
+		"Address": "11 Grandview Rd"
+	},
+	"CSPawnDealerEntry": {
+		"DealerID": "9952",
+		"NameID": "B-0000000022"
+	},
+	"CitizenIPCameraEntry": {
+		"LastName": "Andrew",
+		"FirstName": "Symonds",
+		"Address": "150 Gold Star Hwy",
+		"CameraName": "Canon 420d"
+	},
+"LocationCheckEntry":{
+"Location":"495 Flatbush Ave",
+"Reason":"Vacation"
+},
+
+"ServiceRequestsEntry":{
+"Address":"200 Chatham Park Dr",
+"ServiceType":"Special Garbage Pickup",
+"LastName":"Laddin",
+"FirstName":"Roy",
+"EnterLocation":"2506 Lindsay Ave"
+},
+"CitiznAcntSrch":{
+"FirstName1":"Abdul",
+"LastName1":"Abby",
+"Address":""
+},
+
+  "26376":{
+"DealerCode":"9952",
+"Name":"Server Maintance"
+},
+  
+ "26822":{
+"Address":"171 Virginia Randolph Ave",
+"LastName":"Aaron",
+"FirstName":"Finch",
+"Type":"Test",
+"Status":"Approved",
+"Name":"Aaron, Finch"
+},
+  
+"32671":{
+"ServiceNo":"25-000007",
+"CommonName":"Fox"
+},
+
+"32674A":{
+"CitizenNo":"24-000003",
+"Address":"101 W Acorn Dr",
+"Category":"Scan - Document"
+},
+"48614":{
+	"IncidentTypeCode":"Identity Theft",
+	"IncidentTypeDefinition":"Testing Purpose",
+	"CFSCode":"100"
+},
+"48569": {
+	"LastName": "Holley",
+	"FirstName": "Jason",
+	"Address": "2131 Plover Rd",
+	"Email": "automation2025@prophoenix.com",
+	"Text": "To verify Rich Text field is display or not!"
+},
+"47785":{
+	"ComplaintType":"Taxi Complaint",
+	"Address":"2131 Plover Rd"	
+},
+"47794":{
+	"DealerID":"1002",
+	"NameID":"B-0000000014"
+},
+"48566":{
+	"Status":"--"
+},
+"48580":{
+	"DealerID":"1003",
+	"DealerID1":"1004",
+	"NameID":"B-0000000023",
+	"LastName":"Dominguez",
+	"FirstName":"Ken",
+	"Address":"2506 Lindsay Ave",
+	"PhoneType":"W - Work",
+	"PhoneNo":"9655884064",
+	"Email1":"autotest1@prophoenix.com",
+	"Email2":"autotest2@prophoenix.com",
+	"Email3":"autotest3@prophoenix.com",
+	"Name":"Ken Dominguez",
+	"DealerCode":"1001"
+},
+"46336":{
+	"Location":"3005 Cranberry Hwy Rt 6 Hwy,28",
+	"Reason":"Vacation"
+},
+"46332":{
+	"CitizenNo":"25-000001",
+	"Address":"2001 Fort Park Blvd",
+	"Notes":"Test Automation Process",
+	"BusinessName":"Automation Group",
+	"RegistrationNo":"4521",
+	"AlarmNo":"3658",
+	"PawnDealerCode":"0021",
+	"AddressAuthorizationStatus":"Authorized",
+	"CitizenFlagsText":"For Testing Purpose"
+},
+"46351":{
+	"DealerID":"1100",
+	"DealerID1":"1100",
+	"DealerID2":"11001100",
+	"NameID":"B-0000000050",
+	"LastName":"Dominguez",
+	"FirstName":"Ken",
+	"Address":"2506 Lindsay Ave",
+	"PhoneType":"W - Work",
+	"PhoneNo":"96558",
+	"PhoneNo1":"9655883046",
+	"Email1":"kendom@prophoenix.com"
+},
+"48611":{
+	"DealerID":"1001",
+	"DealerID1":"1006",
+	"NameID":"B-0000000050"
+},
+"48801": {
+	"CitizenNo":"25-000001",
+	"Address": "2410 Odio Ave"
+},
+"48630":{
+	"FromDate":"01/01/2024"
+},
+"48416": {
+	"Email": "laroccap@prophoenix.com",
+	"LastName": "LaRocca",
+	"FirstName": "Peter",
+	"Address": "1646 Reidner Ln"
+},
+"48723":{
+	"203ParamValue":"smtp.office365.com",
+	"DealerCode":"1006",
+	"Name":"Shawn Ramsey",
+	"Address":"309 Jan Phyl Pl",
+	"Email1":"ramseyt@prophoenix.com",
+	"PhoneType":"W - Work",
+	"PhoneNo":"2314569870",
+	"LastName":"Ramsey",
+	"FirstName":"Shawn"
+},
+
+"53037":{
+"Type":"Consignment",
+"PropertyType":"Clothing",
+"Description":"Automation",
+"DelaerID":"Pawn-Asian Market",
+"EnteredBy":"AUTPOL",
+"color0":"rgba(0, 0, 0, 1)",
+"color1":"rgba(0, 0, 255, 1)",
+"color2":"rgba(0, 0, 255, 1)"
+
+},
+
+"53041":{
+"CitizenNo":"25-000002",
+"RegistrationStatus":"New Registration"
+},
+"58275": {
+	"DealerCode": "Dealer02",
+	"PhoneType": "W - Work",
+	"PhoneNo": "6958745632",
+	"Email1": "dealer02@prophoenix.com",
+	"LastName": "Wesly",
+	"FirstName": "Keily",
+	"Address": "1 Hilling St"
+},
+"58096":{
+	"Email":"a"
+},
+"58057":{
+	"ColumnHeader1":"ID#",
+	"ColumnHeader2":"Name",
+	"ColumnHeader3":"Address",
+	"ColumnHeader4":"Business Name",
+	"ColumnHeader5":"CSZ",
+	"ColumnHeader6":"Status",
+	"ColumnHeader7":"Last Update",
+	"ColumnHeader8":"NumDays"
+},
+"58088": {
+	"ComplaintType": "Parking Complaint",
+	"LastName": "Benjamin",
+	"FirstName": "Francis",
+	"Address": "1 Hilling St",
+	"PrimaryPhoneType": "H - Home",
+	"PrimaryPhoneNo": "6630256489"
+},
+"58101": {
+	"Status": "Pending"
+},
+"58198": {
+	"CORSNo": "25-230030",
+	"ActivityType": "Complainant",
+	"IncidentTypeCode": "621",
+	"ReasonForRejection": "Not a valid complaint",
+	"Status": "Rejected",
+	"IncidentType":"Lost Property"
+},
+
+"63436":{
+	"ServiceNo":"25-000002",
+	"complaintDisposition":"Checked",
+	"Notes":"ChangingDisposition"
+},
+
+"63561":{
+	"Address":"67 Minnesota Ave",
+	"LastName":"Daniel",
+	"FirstName":"Safin",
+	"Type":"Auto"
+},
+
+"63592":{
+	"PhoneNo0":"564",
+	"PhoneNo1":"5644865236",
+	"PhoneNo2":"(564) 486-5236",
+	"PhoneType":"H - Home"
+},
+
+"63620":{
+	"NameID":"A-0000000246",
+	"Address":"495 Flatbush Ave",
+	"PhoneType":"H - Home",
+	"PhoneNo0":"956",
+	"PhoneNo1":"9563214588"	
+},
+
+"63427":{
+	"Status":"Pending"
+},
+
+"63611":{
+	"Address":"9 Ringle Ave,1",
+	"LastName":"Oscar",
+	"FirstName":"Bailey",
+	"Name":"Oscar, Bailey"
+},
+
+"63577":{
+	"Address":"101 Raymond St",
+	"Email":"Test@gmail.com",
+	"LastName":"Harry",
+	"FirstName":"Johnson",
+	"PhoneNo":"9865473210",
+	"PhoneType":"H - Home"
+},
+
+"63571":{
+	"CitizenNo":"25-000005",
+	"Address":"106 E Pinchelone St"
+},
+
+"63533":{
+	"ServiceNo":"25-000008"
+},
+
+"63595":{
+	"LastName":"Raymond Suites",
+	"DealerID":"ID007"
+},
+
+"63477":{
+	"Address":"1498 Mc Kinley St",
+	"Email0":"Test@Gmail.com",
+	"Email1":"Testcheck",
+	"LastName":"Harry",
+	"FirstName":"John",
+	"PrimaryPhoneType":"H - Home",
+	"PrimaryPhoneNo":"9876541236"	
+},
+
+"63398":{
+	"LastName1":"Mitchel",
+	"FirstName1":"Sat",
+	"Email":"Mitchel@Gmail.com",
+	"TabName0":"Main",
+	"TabName1":"Emergency Contacts",
+	"TabName2":"Emergency Info",
+	"TabName3":"History",
+	"Address":"1900 Declaration Dr",
+	"LastName":"Gasser",
+	"Name1":"Gasser, Taylor",
+	"fullName":"Taylor Gasser",
+	"Text":"Comments1",
+	"Comments":"Comments2",
+	"Type":"Home"
+},
+
+"63616":{
+	"LastName":"A",
+	"FirstName":"A",
+	"Name":"A",
+	"Email":"T"
+},
+
+"63600":{
+	"LastName":"A",
+	"FirstName":"A",
+	"Name":"A",
+	"Email":"t"	
+},
+
+"63701":{
+	"ServiceNo":"25-000008",
+	"Status":"Review",
+	"Comments":"Updated"
+},
+
+"63524":{
+	"CORSNo":"25-230031",
+	"Template":"Load check",
+	"Text":"Load check"
+},
+
+"63579":{
+	"ComplaintType":"Parking Complaint",
+	"Address":"297 Grant Ave",
+	"LastName":"John",
+	"FirstName":"Fernando"
+},
+
+"63579A":{
+	"DealerID":"64598",
+	"NameID":"B-0000000053",
+	"DealerCode":"64598",
+	"Address":"17 Green Island Ave",
+	"PhoneType":"H - Home",
+	"PhoneNo":"8654123789",
+	"Email0":"david@gmail.com",
+	"LastName":"Fernandes",
+	"FirstName":"David"
+},
+
+"62910":{
+	"ColumnHeader0":"CORS#",
+	"ColumnHeader1":"Date Time",
+	"ColumnHeader2":"Reporting Person",
+	"ColumnHeader3":"Address"
+},
+
+"63018":{
+	"RoleName":"System Administrator",
+	"ScreenID0":"5641",
+	"ScreenID1":"5633"	
+},
+
+"63582":{
+	"NameID":"A-0000000075",
+	"Address":"106 E Pinchelone St",
+	"PhoneType":"H - Home",
+	"PhoneType2":"C - Cell",
+	"PhoneType3":"W - Work",
+	"PhoneType4":"F - Fax",
+	"PhoneNo1":"1234567890",
+	"PhoneNo2":"4567890123",
+	"PhoneNo3":"7890123456",
+	"PhoneNo4":"3456789012",
+	"PhoneIDNo1":"1",
+	"PhoneIDNo2":"2",
+	"PhoneIDNo3":"3",
+	"PhoneIDNo4":"4",
+	"SortID1":"4",
+	"RowToInactive":"1",
+	"RowToInactive1":"4",
+	"PhoneNo":"(456) 789-0123",
+	"LastName":"Chan",
+	"FirstName":"Jackie"
+},
+
+"68273":{
+	"FirstName":"Jim",
+	"LastName":"Garry",
+	"CitizenNo":"25-000006",
+	"CameraName":"Cam145",
+	"Url":"http://10.103.1.175/law/login.aspx",
+	"Text":"Add IP Camera Link",
+	"Name":"Cam145"
+},
+
+"68293":{
+	"Email":"b"
+},
+
+"68304":{
+	"Location":"326 N Madison Ave",
+	"Reason":"Vacation",
+	"HouseDisposition":"Checked",
+	"Status":"Checked"
+},
+
+"68328":{
+	"LastName1":"Gonzales",
+	"FirstName1":"Wilson"
+},
+
+"68328A":{
+	"LastName":"Gonzales",
+	"FirstName":"Wilson",
+	"Address":"106 E Pinchelone St"
+},
+
+"68379":{
+	"Address0":"198 Randall St",
+	"Address1":"7698 N Fox"
+},
+
+"69498":{
+	"LastName":"Henry",
+	"FirstName":"Mark",
+	"Address":"Benson",
+	"Email":"henry@phoenix.com"
+},
+
+"69567":{
+	"ServiceType":"Record Request",
+	"LastName":"Justin",
+	"FirstName":"Mark",
+	"Address":"6 Jefferson Ave",
+	"EnterLocation":"6 Jefferson Ave",
+	"Email0":"justin",
+	"Email1":"justin@phoenix.com",
+	"PrimaryPhoneNo0":"8564",
+	"PrimaryPhoneNo1":"8564852147",
+	"PhoneType":"H - Home"
+},
+
+"69650":{
+	"ServiceType":"Brush Pickup",
+	"LastName":"Jackson",
+	"FirstName":"Mark",
+	"Address":"164 Melrose Dr",
+	"EnterLocation":"164 Melrose Dr"
+},
+
+"69757":{
+	"LastName":"Antony",
+	"FirstName":"Mark",
+	"Address":"35 Sierra Ave",
+	"CameraName":"Cam5",
+	"Url":"https://ch175.prophoenix.com/law/login.aspx",
+	"Name":"Cam5"
+},
+
+"69815":{
+	"IncidentType":"Lost Property"
+},
+
+"69856":{
+	"ServiceNo":"25-000011"
+},
+
+"69926":{
+	"CitizenID":"25-000005"
+},
+
+"69943":{
+	"ServiceNo":"25-000010",
+	"EveryHour":"2",
+	"EveryDays":"3",
+	"Everyweek":"1",
+	"EveryDayOfMonth":"7",
+	"Month":"5"
+},
+
+"69982":{
+	"CitizenNo":"25-000007"	
+},
+
+"70023":{
+	"ColumnHeader0":"CitizenNo",
+	"ColumnHeader1":"Name",
+	"ColumnHeader2":"Address",
+	"ColumnHeader3":"Status",
+	"ColumnHeader4":"Phone",
+	"ColumnHeader5":"Email"		
+},
+
+"70024":{
+	"ColumnHeader0":"Service#",
+	"ColumnHeader1":"Service Type",
+	"ColumnHeader2":"Incident Connection",
+	"ColumnHeader3":"Details",
+	"ColumnHeader4":"Status"
+},
+
+"70036":{
+	"ColumnHeader0":"CitizenNo",
+	"ColumnHeader1":"Name",
+	"ColumnHeader2":"Address",
+	"ColumnHeader3":"Phone",
+	"ColumnHeader4":"Email"
+},
+
+"70057":{
+	"ColumnHeader0":"Incident Type Code",
+	"ColumnHeader1":"Incident Type",
+	"ColumnHeader2":"CFS Code",
+	"ColumnHeader3":"CFS Description"
+},
+
+"70060":{
+	"ColumnHeader0":"Dealer Code",
+	"ColumnHeader1":"Name",
+	"ColumnHeader2":"Address",
+	"ColumnHeader3":"Phone#"
+},
+
+"70139":{
+	"ColumnHeader0":"Service#",
+	"ColumnHeader1":"Area",
+	"ColumnHeader2":"Premise Location",
+	"ColumnHeader3":"Reason",
+	"ColumnHeader4":"Name",
+	"ColumnHeader5":"Last Status",
+	"ColumnHeader6":"Status Date",
+	"ColumnHeader7":"Description",
+	"ColumnHeader8":"Period FromTo"
+},
+
+"70144":{
+	"ColumnHeader0":"Permit Req#",
+	"ColumnHeader1":"Permit Type",
+	"ColumnHeader2":"Name",
+	"ColumnHeader3":"Location",
+	"ColumnHeader4":"Approval",
+	"ColumnHeader5":"By PF#",
+	"ColumnHeader6":"Permit#orReason"
+},
+
+"70149":{
+	"Juris":"PX - ProPhoenix",
+	"LastName":"Carter",
+	"FirstName":"John",
+	"MiddleName":"M",
+	"Address":"jan",
+	"City":"Parkway Center",
+	"CommonName":"Janthia",
+	"State":"PA - Pennsylvania",
+	"Zip":"15220",
+	"PhoneType":"H - Home",
+	"PhoneNo":"9865412378",
+	"Email":"Test@gmail.com"
+},
+"69767":{
+	"CitizenNo":"25-000008"
+},
+"69580":{
+	"ServiceNo":"25-000009",
+	"Status":"Send to LEAD",
+	"Comments":"Sending To Lead"
+},
+
+"72233":{
+	"Juris":"PX - ProPhoenix",
+	"LastName":"Federick",
+	"FirstName":"Michael",
+	"MiddleName":"M",
+	"Address":"Cle",
+	"CommonName":"Clendenny",
+	"Email":"fed@phoenix.com",
+	"PrimaryPhoneType":"H - Home",
+	"PrimaryPhoneNo":"8457123698"
+},
+
+"72441":{
+	"PhoneNo1":"321",
+	"CitizenID":"25-000003"
+}
+
+}

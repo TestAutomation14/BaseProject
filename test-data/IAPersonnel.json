@@ -1,0 +1,302 @@
+{
+	"19291": {
+		"PFCode": "3235",
+		"EnteredBy": "3235",
+		"CertificationOrLicense": "Automation"
+	},
+	"42268": {
+		"PFCode": "ABIA",
+		"LastName": "Richard",
+		"FirstName": "Ben"
+	},
+	
+	"53022C":{
+"PFCode":"IA001",
+"OrderNo":"1",
+"ContactName":"Automation",
+"Phone":"1111111111",
+"Carrier":"Sprint PCS",
+"ColumnName":"Contact Name",
+"SpecialCharacters":",.?;'{}[];',!@#$%^&*()_+",
+"MedicalAlert":",.?;'{}[];',!@#$%^&*()_+",
+"Numerical":"1234556488888"
+},
+
+"52900B":{
+"ColumnName1":"Hire Date",
+"ColumnName2":"Job Grade"
+
+},
+
+"58137A":{
+"PFCode":"8735",
+"LastName":"falin",
+"FirstName":"harvard",
+"UserName":"falin",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"UserName0":"falin",
+"Password0":"Pnx@2016",
+"Database":"AutomationIA"
+
+},
+
+"55601A":{
+"Division":"Administration",
+"PFCode":"Auto"
+
+},
+
+"60103A":{
+"PFCode":"3235",
+"Allowance":"01 - Uniform",
+"Year":"2025"
+
+
+},
+
+"58270B":{
+"PFCode":"IA001"
+
+
+
+},
+
+"IA58385A":{
+"PFCode":"97980",
+"LastName":"Valert2",
+"FirstName":"Helne",
+"UserName":"Valert2",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"RoleName":"System Administrator",
+"Email1ComboBox":"Personal",
+"Email1":"rajkiran@Prophoenix.com",
+"Email2ComboBox":"Work",
+"Email2":"rajkiran@Prophoenix.com",
+"Email3Type":"Other",
+"Email3Text":"rajkiran@Prophoenix.com",
+"PhoneType":"H - Home",
+"PhoneNumber":"2222222222",
+"Carrier":"AT&T",
+"Extn":"21",
+"PhoneNo":"2222222222",
+"Race":"White",
+"Ethincity":"Hispanic/Latino",
+"MaritalStatus":"Divorced",
+"BirthDate":"20/05/1998",
+"BirthPlace":"London",
+"hiredDate":"07/01/2022",
+"Probation":"07/25/2025",
+"TerminatedDate":"08/25/2025",
+"SSNo0":"111111111",
+"State":"AK - Alaska",
+"DL":"Alaska",
+"Custom1":"Automation",
+"Custom2":"Automation",
+"Custom3":"Automation",
+"Custom4":"Automation",
+"Height":"168",
+"Weight":"52",
+"Eyes":"Black",
+"Hair":"Black",
+"Seniority":"12"
+
+},
+
+
+"IA58385B":{
+"PFNo":"97980",
+"PFCode":"97980",
+"LastName":"Valert2",
+"FirstName":"Isaiah",
+"Division":"Administration",
+"Section":"Internal Affairs",
+"Team":"Off-group 1",
+"TitleRank":"Police Officer",
+"JobGrade":"Job Grade 3",
+"Type":"Civilian Employee",
+"Squad":"N - QA",
+"PromotionSeniority":"25"
+
+
+},
+
+
+
+"IA58385C":{
+"PFNo":"97980",
+"PFCode":"97980",
+"OrderNo":"1",
+"ContactName":"Walter",
+"ContactName0":"Walter",
+"Phone":"2222222222",
+"Phone0":"(222) 222-2222",
+"Carrier":"AT&T",
+"RelationShip":"Brother",
+"Notes":"Automation",
+"MedicalAlert":"HeartPatient",
+"Allergies":"None",
+"Medications":"Tablets",
+"HospitalPreferences":"yes",
+"FamilyPhysician":"Martin",
+"PhysicianPhone":"2222222233",
+"BloodType":"A +Ve",
+"LastTetanusShot":"08/13/2025",
+"LastPhysical":"08/13/2025",
+"LastToHepatitisShot":"",
+"LastHepatitisShot":"08/13/2025",
+"InsurancePlan":"1 Year",
+"Religion":"none",
+"ReligiousLeader":"none",
+"Miscellanoues":"none",
+"OrganDonor":"none"
+},
+
+
+"IA58385D":{
+"PFNo":"97980",
+"PFCode":"97980",
+"TrainingCategory":"Selenium",
+"TrainingType":"Full",
+"CourseTitle":"ToCreateaDataFromAllTabsInPersonnelEntryScreenTrainingTabIA58385D",
+"CourseHours":"24",
+"TrainingTabName":"Training",
+"InnerTrainingTabName":"Training"
+},
+
+
+"IA58385E":{
+"PFNo":"97980",
+"PFCode":"97980",
+"Certification":"A - Automation",
+"EarnedCEU":"12",
+"EarnedHours":"24",
+"CertificationOrLicense":"85555",
+"CertificationOrLicenseNo":"85555",
+"CertificationInGrid":"Automation",
+"UserName":"AUTO",
+"EarnedCEUs":"12.00",
+"EarnedHoursInGrid":"24:00",
+"EarnedVia":"Manual Entry",
+"MainTabName":"Main",
+"CertificationTabName":"Certification",
+"TrainingTabName":"Training",
+"EnteredBy":"IARMS"
+
+},
+
+"IA58385F":{
+"PFNo":"97980",
+"PFCode":"97980",
+"TrainingTabName":"Training",
+"Skills":"Selenium",
+"Skills1":"TestNG",
+"Skill":"TestNG",
+"Skill0":"TestNG",
+"SpecialSkillsTabName":"Special Skills",
+"InactiveGreyColor":"rgba(128, 128, 128, 1)"
+},
+
+"IA58385G":{
+"PFNo":"97980",
+"PFCode":"97980",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"Subject":"orkRecordTabWorHistoryTab",
+"Ref":"8854",
+"Status0":"On Hold",
+"Status1":"Submitted",
+"Code":"Complaint - Governmental Agency",
+"WorkHistoryTabName":"Work History",
+"WorkRecordTabName":"Work Record"
+
+},
+
+"IA58385H":{
+"PFNo":"97980",
+"PFCode":"97980",
+"TypeOfInjury":"Blunt",
+"Supervisor":"9150",
+"Ref":"8854",
+"Unit":"0023",
+"HowOccured":"Accident",
+"NatureAndExtentOfInjury":"Puncture",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"WorkRecordTabName":"Work Record",
+"InjuryReportTabName":"Injury Report",
+"InjuryType":"Blunt",
+"ActivityAtTimeOFInjury":"EMS",
+"TypeOfDutyWhenInjuryOccured":"Training",
+"Nature":"Puncture"
+
+},
+
+
+"63287B":{
+"Squad":"N - QA",
+"Division":"Administration",
+"Section":"Internal Affairs",
+"Team":"Off-group 1",
+"PFCode":"09012025",
+"Medicalcode":"Annual Physical"
+
+},
+
+"63418C":{
+"EnteredBy":"Auto",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"Subject":"Automation Process",
+"Comments0":"Processed by Automation",
+"EnteredByPF":"Auto",
+"PFCode":"Auto",
+"EnteredByPFDescription":"Phoenix, Automation",
+"Status":"Submitted",
+"ForPeriodFromDate":"08/01/2025",
+"ForPeriodToDate":"08/01/2025",
+"Description":"Team, Automation"
+
+
+
+},
+
+"62759C":{
+"SpecialCharacters":",.?;'{}[];',!@#$%^&*()_+",
+"MedicalAlert":",.?;'{}[];',!@#$%^&*()_+",
+"Numerical":"1234556488888"
+},
+
+
+"63298B":{
+"EnteredByPF":"09012025",
+"CommentDate":"09/23/2025",
+"CommentTime":"20:24",
+"ToCommentTime":"21:25",
+"ToCommentDate":"09/23/2025",
+"FromDate":"09/23/2025",
+"ToDate":"09/23/2025",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"PFCode":"09012025",
+"ForPeriodFromDate":"09/23/2025",
+"ForPeriodFromTime":"20:24",
+"ForPeriodToDate":"09/23/2025",
+"ForPeriodToTime":"21:25",
+"Subject":"Automation Process",
+"Reference":"2205",
+"Supervisior":"09022025",
+"Disposition":"Approved",
+"PFName":"Raymond, Hector",
+"SupervisorPFCode":"09022025",
+"Fromcolumnvalue":"Period From",
+"Tocolumnvalue":"Period To",
+"PFName":"Phoenix, Automation"
+
+
+}
+
+
+}

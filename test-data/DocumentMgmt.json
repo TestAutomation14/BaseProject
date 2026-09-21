@@ -1,0 +1,160 @@
+{
+"35417":{
+	"Juris":"GCP - Gloucester County Police Dept"
+},
+"42055":{
+"ReportName":"Document Assign List",
+"Title":"Willson Kill investigation Report"
+}	,
+
+"42005":{
+"Documentcategory":"Police",
+"DocumentTitle":"Geo Module",
+"DocumentTitle1":"Geo Module",
+"DocumentType":"Geo Module",
+"CurrentVersion":"1",
+"ReviewerPF":"25",
+"DocumentToReadBy":"25",
+"UserName":"Doc",
+"Password":"Pnx@2016"
+
+
+
+},
+
+"48855":{
+"Documentcategory":"Police",
+"DocumentTitle":"Test Automation",
+"SelectForm":"Signature Form",
+"Name":"Automation",
+"ReviewerPF":"25",
+"DocumentToReadBy":"25",
+"UserName":"Doc",
+"Password":"Pnx@2016"
+},
+"48828":{
+"ReportName":"Document Detail"
+},
+"55271":{
+"Documentcategory":"Police",
+"DocumentTitle":"Arrest1 doc",
+"DocumentType":"Geo Module",
+"CurrentVersion":"1.175",
+"UpdateBy":"AUTO",
+"Comment":"Test"
+},
+"58302":{
+"DocumentTitle":"Test Automation",
+"Comments":"Test"
+},
+"60279":{
+"Title":"Police Document"
+},
+"60404":{
+"Documentcategory":"Police",
+"DocumentTitle":"Josh Test",
+"DocumentType":"Geo Module",
+"CurrentVersion":"1.175",
+"Squad":"DT - Detective",
+"Section":"Accident Investigator",
+"Division":"Operations"
+},
+"62701":{
+"ColumnName":"Document Name",
+"":""
+},
+"63550":{
+"Documentcategory":"Police",
+"DocumentTitle":"Tenter",
+"DocumentType":"Geo Module",
+"CurrentVersion":"1.175",
+"DocumentToReadBy":"P008",
+"DistributionPFNo":"P008",
+"PFCode":"P008"
+},
+"63651":{
+"ColumnName":"Document Name",
+"":""
+
+},
+"74411":{
+	"DocumentCategory":"Bulletins - Departmental",
+	"Type":"Public Outreach Event",
+	"Type1":"Public Outreach Event",
+	"DocumentTitle":"Document For TC 74411",
+	"DocumentTitle1":"Document For TC 74411",
+	"Keywords1":"74411"
+},
+"74417": {
+	"Documentcategory": "Fire",
+	"DocumentType": "NFIRS Module",
+	"CurrentVersion": "1",
+	"DocumentTitle": "To verify the TC - 74417",
+	"ScoreToMarkAsRead1": "123456789000",
+	"ScoreToMarkAsRead2": "1234567890",
+	"ChangeStatusTo":"New"
+},
+"74501":{
+	"DocumentTitle":"Doc for TC 74501",
+	"Title":"Doc for TC 74501",
+	"Comments":"To verify the TC - 74501"
+},
+"74506": {
+	"DistributionPFNo": "AUTO",
+	"Officer": "Prophoenix, Automation",
+	"AssignedPFNo1": "Shaw",
+	"DocumentAuthor1": "Shaw",
+	"DocumentAuthorDescription1": "Shaw, Billing",
+	"Type": "Geo Module",
+	"DocumentTitle": "Police Document",
+	"FromDate": "11/13/2024",
+	"FromTime": "10:00:00",
+	"ToDate": "09/23/2025",
+	"ToTime": "23:00:00"
+},
+"74717":{
+	"DocumentTitle":"Inactive Doc For TC 74717",
+	"DocumentCategory1":"Police",
+	"Keywords1":"74506",
+	"DocumentTitle1":"Doc for Tc 74506"
+},
+"74777":{
+	"Keywords1":"Police Document",
+	"DocumentTitle1":"Police Document"
+},
+"74788": {
+	"DocumentCategory": "Police",
+	"DocumentCategory1": "Police",
+	"DocumentCategory2": "--",
+	"Type": "Geo Module",
+	"DocumentType1": "Geo Module",
+	"DocumentType2": "--Select--",
+	"DocumentTitle": "Police Document",
+	"DocumentTitle1": "Police Document",
+	"DocumentTitle2": "Test Automation",
+	"DocumentTitle3": "Automation",
+	"DocumentNo": "2026",
+	"AssignedByPFNo": "AUTO",
+	"Keywords1": "AUTO",
+	"Date": "01/01/2026",
+	"Division1": "Administration",
+	"Division2": "--",
+	"Section1": "Accident Investigator",
+	"Section2": "--",
+	"Squad1": "DT"
+},
+"74855":{
+	"Documentcategory":"CMS",
+	"DocumentTitle":"To verify the TC - 74855",
+	"DocumentType":"Names Module",
+	"CurrentVersion":"1",
+	"DocumentToReadBy1":"P001",
+	"DocumentToReadBy2":"Shaw",
+	"PF1":"Patrol, Officer",
+	"PF2":"Shaw, Billing"
+	
+	
+	
+	
+}
+}

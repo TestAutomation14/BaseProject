@@ -1,0 +1,789 @@
+{
+	"105456": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "23-000004",
+		"PFCode": "P001",
+		"Division":"Administration"
+	},
+	"105458": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Case": "17-000001"
+	},
+	
+	"135716": {
+		"CaseNo": "22-000013",
+		"Division": "Administration",
+		"Section": "Administration",
+		"PFCode": "AUTO",
+		"PrimeInvestigator": "PRMS"
+	},
+	
+	"152759": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Division": "Administration",
+		"DivisionValue": "AD"
+	},
+	"163650": {
+		"CaseNo": "18-000070",
+		"Location": "1801 Maple Ridge Rd",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS",
+		"SupervisorPF": "Prophoenix, Automation"
+	},
+	"163651": {
+		"InvestNo": "18-000001",
+		"CaseNo": "18-000069",
+		"Status": "Open",
+		"Investigators": "Raja, Sadaraj",
+		"Investigators1": "Prophoenix, Automation",
+		"Officer": "WYAT",
+		"Investigators2": "Wyatt, Logan"
+	},
+	"163652": {
+		"InvestNo": "18-000005",
+		"CaseNo": "18-000073",
+		"Status": "Open",
+		"AssignedSupervisor": "AUTO",
+		"AssignToPFNo": "PRMS",
+		"TaskCode": "Complete Initial Report",
+		"AssignedSupervisorName": "Prophoenix, Automation"
+	},
+	"163653": {
+		"InvestNo": "18-000006",
+		"CaseNo": "18-000074",
+		"Status": "Open",
+		"Type": "Against Person",
+		"Category": "Stk/vsr",
+		"Detail": "Society",
+		"TypeCategoryDetail": "Against Person-Stk/vsr-Society"
+	},
+	"163654": {
+		"Investigator": "PASS",
+		"CaseNo": "18-000071",
+		"Status": "Open",
+		"InvestNo": "18-000002",
+		"CaseStatus": "Arrested Adult (CM)"
+	},
+	"135711":{
+	"CaseNo": "22-000017",
+	"InvestNo": "22-000004",
+	"EffortsCategory":"Administrative",
+	"ActivityCode":"Adminstrative",
+	"Type":"Against Society",
+	"Detail":"Victim1"
+	},
+	
+	"163655": {
+		"Investigator": "AUTO",
+		"Supervisor": "PRMS",
+		"CaseNo": "18-000072",
+		"Status": "Open",
+		"InvestNo": "18-000004",
+		"Investigator1": "P002",
+		"Category": "Administrative",
+		"ActivityCode": "Issue Warrants",
+		"InvestigatorName": "Supervisor, Officer"
+	},
+	"164121": {
+		"InvestNo": "18-000001",
+		"CaseNo": "18-000069",
+		"Status": "Open"
+	},
+	"180959": {
+		"Status": "Open",
+		"Investigator": "AUTO"
+	},
+	"186984": {
+		"CaseNo": "26-000049",
+		"Location": "100 Mill St",
+		"City": "Moorestown",
+		"ZipCode": "08057",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS"
+	},
+	"186985": {
+		"CaseNo": "23-000087",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS",
+		"AssignedSupervisor": "PRMS",
+		"AssignToPFNo": "AUTO",
+		"AssignedSupervisorName": "Raja, Sadaraj",
+		"AssignToPFName": "Prophoenix, Automation"
+	},
+	"187813": {
+		"CaseNo": "18-000018",
+		"Supervisor": "PRMS",
+		"PrimeInvestigator": "AUTO",
+		"Investigator": "PRMS",
+		"Category": "Statements",
+		"ActivityCode": "Statement from Witness"
+	},
+	"193261": {
+		"CaseNo": "18-000077",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "OHIO",
+		"Division1": "Operations",
+		"Section1": "Investigations",
+		"Supervisor1": "PRMS",
+		"PrimeInvestigator1": "PRMS",
+		"Type": "Incident Report",
+		"CFS": "100.17",
+		"Charge": "100.17",
+		"Action": "Sent for Approval"
+	},
+	"193263": {
+		"CaseNo": "18-000072",
+		"CaseNo1": "18-000113"
+	},
+	"199134": {
+		"CaseNo": "18-000047",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "PRMS",
+		"PrimeInvestigator": "Auto"
+	},
+	"254612": {
+		"CaseNo": "20-000133",
+		"PFCode": "AUTO",
+		"CaseStatus":"Open/Pending (CM)",
+		"Supervisor": "AUTO"
+	},
+	"265261": {
+		"UserName": "CM002",
+		"Password": "Pnx@2016",
+		"CaseNo": "21-000039",
+		"PrimeInvestigator": "CM002",
+		"Division": "CM Supervisor",
+		"Section": "CM Investigator",
+		"Supervisor": "CM002",
+		"PrimePF": "CM, Supervisor"
+	},
+	"265262": {
+		"UserName": "CM002",
+		"Password": "Pnx@2016",
+		"CaseNo": "21-000039"
+	},
+	"265263": {
+		"UserName": "CM002",
+		"Password": "Pnx@2016",
+	    "PrimeInvestigator": "CM001",
+		"Supervisor": "CM002",
+		"Division": "Administration",
+		"Section": "Administration",
+		"TaskCode": "Notify Major Crimes",
+		"AssignToPFNo": "CM001",
+		"AssignedSupervisor": "CM002",
+		"CaseNo": "21-000038"
+	},
+	"265259": {
+		"UserName": "CM002",
+		"Password": "Pnx@2016"
+	},
+	"254468": {
+    "UserName": "CM002",
+    "Password": "Pnx@2016",
+    "Invest": "Invest#"
+    },
+	"257953": {
+		"CADCFS": "100",
+		"Location": "2519 Potts Bay Ln",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Location1": "1 Beacon St",
+		"Division": "Operations",
+		"Section": "Investigations",
+		"Supervisor": "AUTO"
+	},
+	"265264": {
+		"UserName": "CM002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"CaseNo": "21-000041",
+		"Supervisor": "CM002",
+		"PrimeInvestigator": "CM001",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Header": "CM, Investigator"
+	},
+	"265265": {
+		"CaseNo": "21-000043",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "AUTO"
+	},
+	"265266": {
+		"CaseNo": "21-000043",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "AUTO",
+		"PrimeInvestigatorName": "Prophoenix, Automation"
+	},
+	"265267": {
+		"CaseNo": "21-000043",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "AUTO"
+	},
+	"265268": {
+		"CaseNo": "21-000044",
+		"SupervisorPF": "AUTO",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS",
+		"Division": "Administration",
+		"Section": "Administration",
+		"PrimeInvestigatorPF": "PRMS",
+		"Officer": "Cad",
+		"OfficerDescription": "Cad, Auto"
+	},
+	"270894": {
+		"InvestNo": "21-000003",
+		"CaseStatus": "Open/Pending (CM)",
+		"CaseStatus1": "Exceptional Clearance - Adult (CM)"
+	},
+	"278650": {
+		"CaseNo": "21-000208",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS",
+		"CaseStatus": "Closed - No Further Leads (CM)"
+	},
+	"284227": {
+		"UserName": "CM001",
+		"Password": "Pnx@2016",
+		"TaskCode": "Canvass the Neighborhood",
+		"AssignToPFNo": "CM001",
+		"AssignedSupervisor": "CM002",
+		"CaseNo": "21-000038"
+	},
+	"287554": {
+		"CaseNo": "21-000249",
+		"CaseStatus": "CM Suspended",
+		"CaseStatus1": "Arrested Adult (CM)",
+		"StatusLabel": "Suspended",
+		"Status": "Suspended",
+		"ReviewColor": "rgba(0, 0, 255, 1)",
+		"StatusLabel1": "Closed",
+		"Status1": "Closed"
+	},
+	"278654A": {
+		"CaseNo": "21-000211",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "PRMS",
+		"Type": "Incident Report"
+	},
+	"278654B": {
+		"UserName": "CA001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"RefNo": "21-000211"
+	},
+	"135725": {
+		"CaseNo": "18-000070",
+		"Status": "Open",
+		"CaseNumber": "18-000070"
+	},
+"294478": {
+		"CaseNo": "23-000069",
+		"CaseStatus": "CM Suspended",
+		"Template": "Narrative"
+	},
+	
+"135769":{
+	"InvestNo":"20-000004",
+	"CaseNo": "20-000173",
+    "Section":"Administration",
+    "Division":"Administration",
+    "PFCode":"AUTO",
+    "AssignToPFNo":"PRMS",
+    "TaskCode":"Canvass the Neighborhood",
+    "PFNo":"PRMS",
+    "PFName":"Prophoenix, Automation"
+ },
+ 
+ "149460":{
+    "InvestNo":"21-000010",
+    "CaseNo": "21-000207",
+    "AssignToPFNo":"PRMS",
+    "Supervisor":"AUTO",
+    "Investigator":"AUTO",
+    "PFCode":"AUTO",
+    "TaskCode":"Notify Major Crimes"
+},
+
+ "149024":{
+    "CaseNo":"22-000018",
+    "Type":"Against Society",
+    "Category":"Voo/vsv",
+    "Detail":"Victim1"
+},
+
+"149181":{
+    "CaseNo":"22-000019",
+    "Location":"2398 Elmwood Ave",
+    "Section":"Administration",
+    "Division":"Administration",
+    "Supervisor":"AUTO",
+    "PFCode":"AUTO"
+},
+
+"149321":{
+    "CaseNo":"22-000020",
+    "InvestNo":"22-000005",
+    "GroupName":"automationgroupname",
+    "MaximumLength":"20",
+    "DataType":"Coded Lookup",
+    "CodeID":"1001",
+    "CustomDropDown":"Employee",
+    "TableName": "Auto",
+	"TabName": "Teamwork"
+},
+"155968":{
+     "InvestNo":"22-000005",
+     "CaseNo":"22-000020",
+     "Investigators":"Prophoenix, Automation",
+     "Investigators1":"Mahi, Ks",
+     "Investigators2":"Patrol, Officer"
+     },
+"CaseFolderScreenSmoke": {
+		"ParameterID":"909",
+		"PrimeInvestigationDivision":"Administration",
+		"PrimeInvestigator": "Auto",
+		"Supervisor": "Auto",
+		"Division": "Administration",
+		"Section": "Administration",
+		"TaskCode": "Notify Major Crimes",
+		"AssignToPFNo": "Auto",
+		"AssignedSupervisor": "Auto",
+		"CaseNo": "21-000160"
+	},
+ "CaseFolderWindowSmoke": {
+		"ParameterID":"909",
+		"PrimeInvestigator": "Auto",
+		"Supervisor": "Auto",
+		"Division": "Administration",
+		"Section": "Administration",
+		"TaskCode": "Notify Major Crimes",
+		"AssignToPFNo": "Auto",
+		"AssignedSupervisor": "Auto",
+		"CaseNo": "21-000161"
+	},
+	"10137":{
+		"PrimeInvestigator": "Auto",
+		"Supervisor": "Auto",
+		"Division": "Administration",
+		"Section": "Administration",
+		"TaskCode": "Notify Major Crimes",
+		"AssignToPFNo": "Auto",
+		"AssignedSupervisor": "Auto",
+		"CaseNo": "23-000003"
+	},
+	"274785": {
+		"CADCFS": "100",
+		"Location": "1575 Old Freehold Rd",
+		"NameID": "A-0000000429",
+		"CADDisposition": "I",
+		"Category": "Photograph"
+	},
+	"135771":{
+		"CaseNo":"23-000058",
+		"AssignedTask":"Process Evidence",
+		"CaseTask":"18-000017",
+		"InvestTask":"20-000002",
+		"Division":"Administration",
+		"Section":"Administration",
+		"Supervisor":"AUTPOL",
+		"PrimeInvestigator":"CadTest",
+		"TaskCode":"Process Evidence",
+		"AssignToPFNo":"AUTPOL",
+		"AssignedSupervisor":"AUTPOL"
+	},
+	"15554":{
+	"CodeID":"3067",
+	"EffortsCategory":"Administrative",
+	"Category":"AD"
+	},
+	"21279": {
+		"LeadStatus": "New",
+		"Address1": "13201 Adventures Camp Ln",
+		"Address2": "3600 University Ave",
+		"CSZ1": "Lac Du, WI 54538",
+		"CSZ2": "Madison, WI 53705"
+	},
+	"21333": {
+		"CaseNo": "24-000009",
+		"Type": "Incident Report",
+		"NameID": "A-0000000058",
+		"Name1":"Sam, Vinton",
+		"AntitodeAdministration1": "Yes",
+		"AntitodeAdministration2": "No"
+	},
+	"21374":{
+	"PFCode":"AUTO",
+	"LeadStatus":"New",
+	"TaskCode":"Task1",
+	"AssignedTo":"AUTPOL",
+	"AssignedBy":"AUTO",
+	"PF":"Automation, Police"
+	},
+
+  "24874": {
+	"CaseNo": "24-000012",
+	"Category":"Administrative",
+	"ActivityCode":"Adminstrative",
+	"Comments":"Automation Testing"	
+	},
+
+	"24779":{
+	"CaseNo":"24-000018",
+	"InvestNo":"24-000001",
+	"Category":"Document - File",
+	"FileName":"Crash.pdf"
+	},
+	
+	"44093":{
+	"ParameterID":"905",
+	"CaseNo":"24-000093",
+	"Division":"Administration",
+	"Section":"Administration",
+	"Supervisor":"PRMS",
+	"CaseStatus":"Closed",
+	"CaseStatus0":"Exceptional Clearance - Juvenile (CM)"
+	},
+	
+	"44275":{
+	"ParameterID":"906",
+	"CaseNo":"24-000015",
+	"Division":"Administration",
+	"Section":"Administration",
+	"Supervisor":"CM002",
+	"PrimeInvestigator1":"P003",
+	"CaseStatus":"Investigation Closed"
+	},
+	
+	"35525":{
+		"CaseNo":"24-000100",
+		"Location":"5916 Hewitt Dr",
+		"Division0":"--Select--",
+		"Section0":"--Select--",
+		"Division":"Administration",
+		"Section":"Administration",
+		"Supervisor":"PRMS",
+		"PrimeInvestigator":"AUTO",
+		"Type":"Incident Report",
+		"ParameterID":"912"
+	},	
+	"39886":{
+	"ParameterID":"905",
+	"CADCFS":"Tow",
+	"Location":"606 Azusa",
+	"CADDisposition":"I",
+	"CaseStatus":"Closed",
+	"Division":"Administration",
+	"Section":"Administration"
+},
+"46193":{
+"LeadStatus":"New",
+"LeadOutCome":"Qualified Lead"
+},
+"46193A":{
+"LeadStatus":"New",
+"LeadOutCome":"UnFounded Lead"
+},
+"44312":{
+"CaseNo":"25-000009",
+"TaskCode":"Canvass the Neighborhood",
+"AssignToPFNo":"AUTPOL",
+"AssignedSupervisor":"AUTO",
+"DueByDate":"12/19/2024",
+"FinishedDate":"12/19/2024"
+},
+"46245":{
+"Address1":"37 Forsythe Rd",
+"Address2":"1498 Mc Kinley St",
+"CSZ1":"Parkway Center, PA 15220",
+"CSZ":"Janesville, WI 53547",
+"LeadStatus":"Low",
+"CSZ2":"Janesville, WI 53547",
+"Address":"37 Forsythe Rd"
+},
+  "43992":{
+"LeadNo":"25-000001"
+},
+
+"48531":{
+"LeadStatus":"New",
+"Action":"Allow",
+"PFCode":"Auto",
+"Name":"Prophoenix, Automation-AUTO",
+"Division":"Administration"
+},
+"49850":{	
+"CaseNo1":"25-000027",
+"CaseNo2":"25-000028",
+"CaseNo" :"25-000027",
+"Division":"Operations",
+"PFCode":"AUTO"
+},
+"50898":{
+"ParameterID":"912",
+"ParameterID1":"909",
+"UserName1":"P0010",
+"Password1":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"CaseNo1":"24-000083",
+"Supervisor":"P0011",
+"UserName2":"P0011",
+"Password2":"Pnx@2016",
+"Supervisor1":"P009",
+"PrimeInvestigator":"P017",
+"Supervisor2":"pnx440",
+"ParameterID1":"912",
+"Address":"5580 Sycamore St",
+"CaseNo2":"18-000016"
+},
+"64018":{
+"UserName": "P001",
+"Password": "Pnx@2016",
+"CaseNo":"25-000088",
+"Supervisor":"P001",
+"UserName1": "P002",
+"Password1": "Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"RoleName":"Patrol Supervisor",
+"ScreenID":"3093",
+"CaseNumberInGrid":"25-000089",
+"Division":"Administration",
+"Section":"Patrol",
+"SupervisorPF1":"Patrol, Officer",
+"SupervisorPF2":"Prophoenix, Automation",
+"SupervisorPF3":"Supervisor, Officer"
+},
+"69961":{
+"CaseNo":"25-000144",
+"Supervisor":"AUTO",
+"CaseStatus":"Open",
+"PrimeInvestigator":"6565",
+"Division":"Administration",
+"Section":"Administration"
+},
+"72571":{
+"CaseNo":"25-000193",
+"CaseStatus":"Investigation Closed"
+},
+"72755":{
+"CaseNo":"25-000192",
+"TaskCode":"Canvass the Neighborhood",
+"AssignToPFNo":"P001",
+"AssignedTime":"9:10:15",
+"DueByDateTime":"11:10:15",
+"PFCode":"P001"
+},
+"72972":{
+"Reason": "Seized/Confiscated",
+"Property": "Aircraft",
+"Disposition": "Sent to Property Room",
+"Value": "1000",
+"NIBRS": "100 - Kidnapping/Abduction",
+"Quantity": "2",
+"InvestNo":"25-000003",
+"StorageLocation":"L0000000119"
+},
+
+"60553":{
+"CaseNo":"26-000025",
+"Officer":"PASS",
+"Action0":"Assigned",
+"Action1":"Removed",
+"OfficerPF":"Officer: Automation, Testing",
+"Investigator":"PASS",
+"InvestigatorPF":"Automation, Testing"
+},
+
+"74387":{
+"LeadStatus":"New",
+"TaskCode":"Task1",
+"AssignedTo":"AUTPOL",
+"AssignedBy":"PASS",
+"PF":"Task1",
+"TaskCode1":"Autotest",
+"DueWithinNumberOf":"2",
+"TaskDetails":"DefaultTest",
+"Description":"Autotest"	
+},
+
+"74422":{
+"LeadNo":"26-000002",
+"AssignedTo":"AUTPOL",
+"AssignedBy":"PASS",	
+"TaskCode":"Task1",
+"Description":"Task1"
+},
+
+"74455":{
+"LeadStatus":"New",
+"LeadPriority":"High",
+"LeadSource":"Media",
+"CaseNo":"26-000028"	
+},
+
+"74498":{
+"Division":"Operations",
+"Section":"Detective",
+"PrimeInvestigator":"PASS",
+"CaseNo":"26-000029"	
+},
+
+"74503":{
+"LeadNo":"26-000001",
+"LeadOutCome":"Qualified Lead",
+"NameID":"A-0000000075",
+"LeadProvidedBy":"White Borden",
+"LeadOutcome":"Qualified Lead",
+},
+
+"74503A":{
+"LeadNo":"26-000001",
+"TaskCode":"Task1",
+"AssignedTo":"AUTPOL",
+"AssignedBy":"PASS",
+"PF":"Automation, Police",
+"AssignedToPF":"Automation, Police",
+"AssignedByPF":"Automation, Testing"	
+},
+
+"74503B":{
+"LeadNo":"26-000001",
+"Investigator":"AUTPOL",
+"EffortsCategory":"Administrative",
+"EffortsActivity":"Issue Warrants",
+"PF":"Automation, Police",
+"ActivityCode":"Issue Warrants"
+},
+
+"74503C":{
+"LeadNo":"26-000001",
+"NameID":"A-0000000248",
+"Name":"Mason, Taylor",
+},
+
+"74503D":{
+"LeadNo":"26-000001",
+"PlateNo":"00008",
+"VehicleState":"AK",
+"Plate":"00008-AK",
+"Vehicle":"00008-AK",
+"Activity":"Owner"
+},
+
+"74503E":{
+"LeadNo":"26-000001",
+"Address0":"2401 Harrison Ave",
+"Address":"2401 Harrison Ave",
+"CSZ0":"Saint Albans, WV 25177"
+},
+
+"74485":{
+"CaseNo":"26-000027",
+"LeadStatus":"New",
+"LeadPriority":"High",
+"LeadSource":"Media",
+"NameID":"A-0000000083",
+"LeadOutCome":"Qualified Lead",
+"Text":"Texting"	
+},
+
+"74485A":{
+"CaseNo":"26-000027",
+"CaseNumber":"26-000027",
+"Division":"Operations",
+"Section":"Patrol",
+"PrimeInvestigator":"PASS",
+"LeadStatus":"Low",
+"LeadPriority":"High",
+"LeadSource":"Citizen",
+"NameID":"A-0000000117",
+"LeadOutCome":"Qualified Lead",
+"Text":"Entering"	
+},
+
+"74490":{
+"CaseNo":"26-000032",
+"CaseStatus0":"Open/Pending (CM)",
+"CaseStatus1":"Closed - No Further Leads (CM)",
+"Status0":"Open",
+"Status1":"Closed",
+"CMCaseStatus0":"Open",
+"CMCaseStatus1":"Closed"	
+},
+
+"74806":{
+"LeadStatus":"New"	
+},
+
+"74806A":{
+"VehicleNo":"92",
+"Vehicle":"V-92",
+"LeadStatus":"New"
+},
+
+"74806B":{
+"NameID":"A-0000000843",
+"AtypeNameID":"A-0000000843",
+"LeadStatus":"New"	
+},
+
+"74806C":{
+"Address":"1498 Mc Kinley St",
+"LeadStatus":"New"	
+},
+
+"74693":{
+"UserName0":"P001",
+"Password0":"Pnx@2016",	
+"UserName1":"P002",
+"Database": "AutomationPoliceMJ",
+"RoleName":"Patrol Officer",
+"ScreenID":"30100",
+"CaseNo":"26-000030",
+"Type":"Incident Report",
+"Division":"Operations",
+"Section":"Patrol"
+},
+"74693A":{
+"UserName0":"P001",
+"Password0":"Pnx@2016",	
+"UserName1":"P002",
+"Database": "AutomationPoliceMJ",
+"RoleName":"Patrol Officer",
+"ScreenID":"30100",
+"CaseNo":"26-000031",
+"Type":"Incident Report"	
+},
+"74410":{
+"LeadStatus":"New",
+"Investigator":"PASS",
+"EffortsCategory":"Court",
+"EffortsActivity":"Testify in Court",
+"PF":"Automation, Testing"	
+},
+"77524":{
+"LeadStatus":"New",
+"Template":"TemplateTest",
+"LeadNo":"26-000003"
+}
+}

@@ -1,0 +1,95 @@
+{
+	"26370": {
+		"DoctorName": "Nola",
+		"NPINo": "1",
+		"DEANo": "1",
+		"Address": "Dearborn",
+		"PhoneType": "H - Home",
+		"PhoneNo": "0447549655"
+	},
+	"32678": {
+		"SPNNo": "14",
+		"LastName": "Levi",
+		"FirstName": "L",
+		"By": "Auto",
+		"Reason": "Medical Record Transfer"
+	},
+	"DoctorEntry": {
+		"DoctorName": "Automation",
+		"PhoneType": "H - Home",
+		"PhoneNo": "1242142414"
+	},
+	"MedicalHistoryEntry": {
+		"SPNNo": "40"
+	},
+	"42218": {
+		"SPN": "43",
+		"DentalProblem": "ToothProblem",
+		"Status": "Cracked",
+		"ReceivedBy": "Auto"
+	},
+	"55338": {
+		"FromDate": "03/01/2025",
+		"SPNNo": "61",
+		"SPNNo1": "2",
+		"LastName": "Figo",
+		"FirstName": "Russell",
+		"LastName1": "Schnieder",
+		"FirstName1": "Johnson"
+	},
+	"74451": {
+		"FromDate": "10/22/2023"
+	},
+	"74739": {
+		"FromDate": "10/22/2023"
+	},
+	
+	"74448": {
+		"FromDate": "10/22/2023",
+		"SPNNo": "1",
+		"By": "Auto",
+		"Reason": "Medical Record Transfer",
+		"ChartingMessage":"Nature surrounds us with quiet beauty and powerful energy. From the gentle movement of leaves in the wind to the steady rhythm of ocean waves, it reminds us to slow down and breathe. Forests clean the air, rivers give life, and mountains stand as symbols of strength. When we connect with nature, we feel calmer, more focused, and deeply aware of our place in the world."
+  },
+"26370":{
+	"DoctorName":"Nola",
+	"NPINo":"1",
+	"DEANo":"1",
+	"Address":"Dearborn",
+	"PhoneType":"H - Home",
+	"PhoneNo":"0447549655"
+},
+"32678":{
+	"SPNNo":"14",
+	"LastName":"Levi",
+	"FirstName":"L",
+	"By":"Auto",
+	"Reason":"Medical Record Transfer"
+},
+"DoctorEntry":{
+	"DoctorName":"Automation",
+	"PhoneType":"H - Home",
+	"PhoneNo":"1242142414"
+},
+"MedicalHistoryEntry":{
+	"SPNNo":"40"
+},
+"42218":{
+"SPN":"43",
+"DentalProblem":"ToothProblem",
+"Status":"Cracked",
+"ReceivedBy":"Auto"
+},
+"74749": {
+	"SPN1": "142",
+	"Item1": "Medicine",
+	"Drug1": "AMOX",
+	"Drug2": "Amoxicilin 250",
+	"Drug3": "CIPLOXs",
+	"Drug4": "Ciproflaxovin 500",
+	"PrescribedAmt1": "1",
+	"CurrentBalance1": "12",
+	"Refills1": "1"
+}
+}
+

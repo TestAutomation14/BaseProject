@@ -1,0 +1,2773 @@
+{
+	"100881": {
+		"LastName": "Veera",
+		"CaseNo": "18-000021",
+		"Description": "Storage container 104 (In Use)",
+		"Reason":"Evidence",
+		"Quantity":"1"
+	},
+	"100946": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000022",
+		"Description": "Evidence Locker (In Use)",
+		"StorageLocation": "L0000000024"
+	},
+	"101122": {
+		"CaseNo": "18-000023"
+	},
+	"101133": {
+		"CaseNo": "18-000024",
+		"Description": "Evidence Locker (In Use)",
+		"StorageLocation": "L0000000054",
+		"Code": "L0000000054",
+		"PropertyNo": "18-000038"
+	},
+	"101134": {
+		"CaseNo": "18-000025",
+		"Description": "Storage container 28 (In Use)",
+		"Code": "L0000000067",
+		"StorageLocation": "L0000000067"
+	},
+	"101135": {
+		"ReceivedBy": "P005",
+		"StorageLocation": "L0000000112",
+		"CaseNo": "18-000026"
+	},
+	"101171": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Supervisor": "P002",
+		"Code": "L0000000011",
+		"CodeValue": "L0000000011",
+		"CaseNo": "18-000027",
+		"StorageLocation": "L0000000144",
+		"SupervisorName":"Supervisor, Officer"
+	},
+	"101172": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000027"
+	},
+	"101173": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000027"
+	},
+	"101174": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000027"
+	},
+	"105460": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000008",
+		"Code": "L0000000138",
+		"StorageLocation": "Property Shelf 11"
+	},
+	"105461": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000008"
+	},
+	"105462": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000008"
+	},
+	"111794": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000028",
+		"Reason": "Stolen",
+		"Description": "Evidence Locker (In Use)",
+		"NIBRS": "120 - Robbery",
+		"StorageLocation": "L0000000024",
+		"Property":"Firearms",
+		"Reason1":"Recovered"
+	},
+	"111795": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000029",
+		"Reason": "Lost"
+	},
+	"111845": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000030",
+		"Reason": "Found",
+		"Property": "Clothing",
+		"Hold": "Hold For Police",
+		"Disposition": "Sent To Lab",
+		"SerialNo": "S1234",
+		"Dispo": "Held By Agency"
+	},
+	"111846": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "23-000045",
+		"Reason": "Stolen"
+	},
+	"111847": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000032",
+		"Reason": "Evidence",
+		"Property": "Clothing",
+		"StorageLocation": "L0000000154",
+		"SerialNo": "S12345",
+		"PropertyNo":"24-000010-1"
+	},
+	"111848": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000033",
+		"Reason": "Evidence",
+		"Property": "Firearms",
+		"Disposition": "Sent to the Property Room",
+		"Description": "Evidence Locker (In Use)",
+		"StorageLocation": "L0000000102"
+	},
+	"111849": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "18-000034",
+		"Reason": "Stolen",
+		"Property": "Firearms",
+		"SerialNo": "S#1234"
+	},
+	"111850": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"AuditType": "Full",
+		"Location": "L0000000104",
+		"AuditLocation": "L0000000104",
+		"Status": "Audited",
+		"AcceptedBy": "P001",
+		"AuditName": "Evidance Property"
+	},
+	"111851": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"AuditType": "Selected",
+		"Property": "Article",
+		"Location": "L0000000104",
+		"AuditLocation": "L0000000104",
+		"Status": "Audited",
+		"AcceptedBy": "P001",
+		"AuditName": "Evidance Property1"
+	},
+	"111852": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Type": "Pawn",
+		"Disposition": "P",
+		"PropertyType": "Pristol",
+		"PawnTagNo": "TG#123",
+		"SerialNo": "S#123",
+		"PFCode": "P001"
+	},
+	"111853": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Make": "India Cycles",
+		"Color": "Black",
+		"FrameSerialNo": "FS123",
+		"OwnerNameID":"A-0000000523"
+	},
+	"180958": {
+		"CaseNo": "18-000072",
+		"Reason": "Seized/Confiscated",
+		"Property": "Drugs/Narcotics",
+		"DrugQuantity": "250.5",
+		"Value": "195000",
+		"Quantity": "150.700",
+		"Disposition": "Sent to the Property Room",
+		"Type": "Drugs",
+		"Code": "L0000000111",
+		"CodeValue": "L0000000111"
+	},
+	"203114": {
+		"CaseNo": "19-000002",
+		"Reason": "Stolen",
+		"Property": "Crops",
+		"Quantity": "52000",
+		"Value": "1",
+		"LastName": "Antone",
+		"FirstName": "Clarance"
+	},
+	"203124": {
+		"PropertyNo": "19-000001-1",
+		"RelinquishedBy": "AUTO",
+		"PFCode": "AUTO",
+		"StorageLocation": "L0000000085"
+	},
+	"203126": {
+		"PropertyNo": "19-000002-1",
+		"Action": "STL-Sent to Lab (From within the Property Room)",
+		"RelinquishedBy": "AUTO",
+		"Receivedby": "59850",
+		"PFCode": "AUTO",
+		"StorageLocation": "L0000000086"
+	},
+	"210634": {
+		"CaseNo": "19-000046",
+		"Charge": "2404",
+		"CFS": "2404",
+		"NIBRS": "23G - Theft of Motor Vehicle Parts or Accessories",
+		"Reason": "Stolen",
+		"PlateNo": "5421",
+		"FirstName": "Benjamin",
+		"LastName": "Mason",
+		"Disposition": "Other",
+		"Storage": "Other",
+		"Property": "Automobiles",
+		"Status": "Recovered for an Other Agency"
+	},
+	"210636": {
+		"CaseNo": "19-000047",
+		"NIBRS": "23G - Theft of Motor Vehicle Parts or Accessories",
+		"Reason": "Stolen",
+		"PlateNo": "5421",
+		"FirstName": "Benjamin",
+		"LastName": "Mason",
+		"Status": "Recovered by an Other Agency (Closed)",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"210643": {
+		"CaseNo": "19-000048",
+		"ChargeOrOffense": "Conservation",
+		"Reason": "Stolen",
+		"FirstName": "Benjamin",
+		"LastName": "Mason",
+		"Name": "Mason, Benjamin",
+		"Disposition": "Sent to the Property Room"
+	},
+	"212271": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Reason": "J - Jurisdiction Evidence",
+		"PropertyNo": "19-000011",
+		"PropertyNo1": "19-000012",
+		"CaseNo": "19-000051"
+	},
+	"213953": {
+		"RequestedBy": "P001",
+		"PropertyNo": "19-000011-1",
+		"Action": "TOF-Transfer Out to an Officer (From within the Property Room)",
+		"RelinquishedBy": "AUTO",
+		"ReceivedBy": "P001",
+		"PropertyNo1": "19-000012",
+		"Status": "Transfer Out To An Officer",
+		"RequestNo": "19-000001",
+		"StorageLocation": "L0000000113"
+	},
+	"213954": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"PropertyNo": "20-000020-1",
+		"PropertyNo1": "20-000020-2",
+		"Status": "Transfer Out To An Officer",
+		"Action": "RBO-Received by an Officer",
+		"PFNo": "P001"
+	},
+	"213955": {
+		"CaseNo": "19-000052",
+		"Reason": "Stolen",
+		"Property": "Building Materials",
+		"LastName": "Thomas",
+		"FirstName": "Lincoln",
+		"Section": "Administration",
+		"Division": "Administration",
+		"Disposition": "Destroyed (Closed)",
+		"NIBRS": "23D - Theft From Building",
+		"Storage": "Destroyed (Closed)"
+	},
+	"213956": {
+		"CaseNo": "19-000053",
+		"PropertyNo": "19-000013-1",
+		"PFNo": "AUTO",
+		"Action": "RBO-Received by an Officer",
+		"Status": "Received by an Officer",
+		"PFNoDescription": "Prophoenix, Automation",
+		"Remarks": "Test Automation",
+		"RemarksToolTip": " Test Automation"
+	},
+	"213958": {
+		"CaseNo": "19-000050",
+		"PropertyNo": "19-000010-1",
+		"Type": "Property Report",
+		"Status": "Locked"
+	},
+	"216168": {
+		"PropertyNo": "19-000015-1",
+		"Disposition": "Sent to the Property Room",
+		"ReceivedBy": "AUTO",
+		"Status": "Signed Out for Court (From within the Property Room)",
+		"StorageLocation": "L0000000087"
+	},
+	"216169": {
+		"CaseNo": "19-000062",
+		"Reason": "Stolen",
+		"Property": "Bicycles",
+		"LastName": "Joshua",
+		"FirstName": "Samuel",
+		"Reason1": "Evidence",
+		"PlateNo": "324324325",
+		"NIBRS": "23D - Theft From Building",
+		"StorageLocation": "L0000000011"
+	},
+	"238691": {
+		"CaseID": "20-00002",
+		"CaseNo": "20-00002",
+		"Reason": "Stolen",
+		"Property": "Drugs/Narcotics",
+		"Description": "Drugs seized at the location",
+		"Quantity": "10",
+		"Value": "1000",
+		"RecoveredValue": "$1,000.00",
+		"LastName": "A",
+		"FirstName": "Mithun",
+		"Disposition": "Sent to the Property Room",
+		"Container": "Plastic Bag",
+		"StorageLocation": "L0000000111",
+		"Package": "Sealed Plastic Bag",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"240625": {
+		"CaseNo": "20-000004",
+		"Reason": "Stolen",
+		"Property": "Automobiles",
+		"Description": "AutomationTest",
+		"PlateNo": "VHIS",
+		"Value": "100",
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"Result": "Vehicle Parts/Accessories"
+	},
+	"240630": {
+		"Password": "Pnx@2016",
+		"PropertyNo": "20-000004-1",
+		"PFNo": "AUTO",
+		"ReceivedBy": "AUTO"
+	},
+	"240631": {
+		"CaseNo": "20-000001",
+		"Status": "Sent to the Property Room",
+		"Action": "ATH-Authorized Transfer",
+		"Password": "Pnx@2016",
+		"ReceivedPF": "Auto",
+		"ReceivedBy": "AUTO"
+	},
+	"243227": {
+		"Charge": "220 - Burglary/Breaking and Entering",
+		"Reason": "Stolen",
+		"Property": "Bicycles",
+		"Value": "1000",
+		"Name": "Aaron",
+		"Disposition": "Returned To Owner (Closed)"
+	},
+	"243288": {
+		"CaseNo": "20-000015",
+		"Reason": "Stolen",
+		"Property": "Automobiles",
+		"PlateNo": "5456",
+		"LastName": "Mary",
+		"FirstName": "Kury"
+	},
+	"244241": {
+		"StorageLocation": "L0000000010",
+		"PropertyNo": "20-000006-1"
+	},
+	"244242": {
+		"CaseNo": "21-000019",
+		"StorageLocation": "L0000000070",
+		"Status": "Sent to the Property Room",
+		"Property": "Alcohol",
+		"Quantity": "10",
+		"Value": "100",
+		"Action": "DAL-Destroyed (Closed)"
+	},
+	"244246": {
+		"CaseNo": "20-000020",
+		"PropertyNo": "20-000007-1",
+		"Action": "EXR-Exceptional Removal (Closed)"
+	},
+	"246246": {
+		"CaseNo": "20-000025",
+		"CFS": "2404",
+		"Charge": "943.23(3m)",
+		"NIBRS": "240 -Motor Vehicle Theft",
+		"PropertyLoss": "Stolen/Etc",
+		"LocationType": "Farm Facility",
+		"SuspectedOfUsing": "Alcohol",
+		"PlateNo": "1122334455",
+		"Quantity": "10",
+		"Value": "100",
+		"LastName": "Cassie",
+		"FirstName": "Brittany",
+		"Reason": "Stolen",
+		"Property": "Automobiles",
+		"Status": "Returned To Owner (Closed)",
+		"CrimeAgainst": "Property",
+		"CriminalActivity": "Distributing/Selling"
+	},
+	"246284": {
+		"CaseNo": "20-000026",
+		"Reason": "Evidence",
+		"Property": "Clothes/Furs",
+		"Status": "Recovered by an Other Agency (Closed)",
+		"Quantity": "10",
+		"Value": "100"
+	},
+	"246286": {
+		"RegistrationNo": "20-000001",
+		"Registration": "20-000001"
+	},
+	"246308": {
+		"PropertyNo": "20-000009-1",
+		"Action": "PRO- Moved to Property Room",
+		"SerialNo": "1289T",
+		"ModelNo": "19MT",
+		"PFNo": "AUTO",
+		"PFCode": "AUTO",
+		"StorageLocation": "L0000000107",
+		"Code": "L0000000107",
+		"Property": "Vehicle Parts/Accessories"
+	},
+	"246309": {
+		"CaseNo": "20-000027",
+		"Reason": "Evidence",
+		"Property": "Clothes/Furs",
+		"Value": "1000",
+		"Disposition": "Recovered for an Other Agency",
+		"Storage": "Recovered for an Other Agency"
+	},
+	"248771": {
+		"CaseNo": "20-000092",
+		"Reason": "J - Jurisdiction Evidence",
+		"RequestedBy": "P001",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"248797": {
+		"CaseNo": "20-000030",
+		"PropertyNo": "20-000011-1",
+		"StorageLocation": "L0000000015",
+		"Action": "Sent to Lab (From within the Property Room)",
+		"ReceivedBy": "pnx440",
+		"StorageLocationDescription": "Storage container II",
+		"Status": "Sent to Lab (From within the Property Room)",
+		"InitialStorageLocation": "L0000000015"
+	},
+	"248835": {
+		"PropertyNo": "20-000012-1",
+		"CaseNo": "20-000035"
+	},
+	"248836": {
+		"CaseNo": "20-000036",
+		"Disposition": "Status",
+		"Section": "Administration",
+		"Division": "Administration",
+		"NIBRS":"90Z - All Other Offenses"
+	},
+	"248841": {
+		"CaseNo": "20-000041",
+		"AuditType": "Full",
+		"Location": "L0000000016",
+		"PropertyNo": "20-000014-1",
+		"Status": "Not Audited",
+		"AcceptedBy": "AUTO"
+	},
+	"249125": {
+		"Code": "L0000000108",
+		"StorageLocation": "L0000000108",
+		"PropertyNo": "20-000016-1"
+	},
+	"249126": {
+		"Description": "Storage container 10",
+		"CaseNo": "20-000043",
+		"StorageLocation": "L0000000110",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"249127": {
+		"CaseNo": "20-000044",
+		"Remarks": "track for all disposition",
+		"Disposition": "Sent to Lab (Outside of the Property Room)",
+		"RelinquishedBy": "AUTO",
+		"LastName": "Angel",
+		"StorageLocation": "L0000000112",
+		"NIBRS": "23D - Theft From Building",
+		"FirstName": "Mia"
+	},
+	"249230": {
+		"PropertyNo": "20-000018-1",
+		"CaseNo": "20-000045",
+		"Status": "STP-Sent to the Property Room",
+		"Code": "L0000000146",
+		"StorageLocation": "L0000000146"
+	},
+	"249231": {
+		"StorageLocation1": "L0000000024",
+		"Description": "Storage container 7",
+		"CaseNo": "20-000046",
+		"CaseNo1": "20-000047",
+		"Value": "28500",
+		"RecoveredValue": "$28,500.00",
+		"StorageLocation": "L0000000110"
+	},
+	"249232": {
+		"Description": "Evidence Locker XX",
+		"Description1": "Evidence Locker XX",
+		"LocationDescription": "Evidence Locker XX"
+	},
+	"249233": {
+		"CaseNo": "20-00048",
+		"CaseNo1": "20-00048",
+		"Reason": "Evidence",
+		"Property": "Drugs/Narcotics",
+		"Description": "Storage Station 7",
+		"Quantity": "10",
+		"Value": "1234567.09",
+		"LastName": "A",
+		"FirstName": "Mithun",
+		"Disposition": "Sent to the Property Room",
+		"Container": "Plastic Bag",
+		"NIBRS": "23B - Purse Snatching",
+		"NIBRS1": "120 - Robbery",
+		"StorageLocation": "L0000000025",
+		"Package": "Sealed Plastic Bag"
+	},
+	"249387": {
+		"CaseNo": "20-000050",
+		"Type": "Incident Report",
+		"Charge": "35A - Drug/Narcotic Violations",
+		"NIBRS": "35A - Drug/Narcotic Violations",
+		"Reason": "Seized/Confiscated",
+		"Property": "Drugs/Narcotics",
+		"DrugType": "Marijuana",
+		"DrugQuantity": "1000",
+		"FirstName": "A",
+		"LastName": "A",
+		"Value":"100",
+		"Measurement":"Gram"
+	},
+	"249388": {
+		"CaseNo": "20-000050",
+		"Type": "Incident Report",
+		"Charge": "90Z - All Other Offenses",
+		"Reason": "Stolen",
+		"Property": "Aircraft",
+		"Value": "1000",
+		"LastName": "Harper",
+		"Disposition": "Transferred To Another Officer",
+		"PFCode": "PS008",
+		"NIBRS": "90Z - All Other Offenses"
+	},
+	"250093": {
+		"CaseNo": "20-000054",
+		"Reason": "Stolen",
+		"LastName": "Troy",
+		"FirstName": "Struck",
+		"Name": "Troy, Struck",
+		"LastName1": "Anawana",
+		"FirstName1": "Newton",
+		"Name1": "Anawana, Newton",
+		"Type": "Incident Report"
+	},
+	"250421": {
+		"CaseNo": "20-000060",
+		"NIBRS":"120 - Robbery",
+		"Value": "1234567.09",
+		"StorageLocation": "L0000000110",
+		"Storage": "Dead body section"
+	},
+	"250430": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CaseNo": "20-000061",
+		"PlateNo": "NAT01",
+		"Disposition": "Sent To Lab (Outside of the Property Room)",
+		"LastName": "Gasser",
+		"FirstName": "Washington",
+		"Status1": "Received from Lab",
+		"Status": "PRO-Moved Into the Property Room"
+	},
+	"250431": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"CaseNo": "20-000062",
+		"Reason": "Evidence",
+		"Property": "Automobiles",
+		"PlateNo": "NAT01",
+		"Name": "Gasser, Washington",
+		"Disposition": "Sent to Court (Outside of Property Room)",
+		"Status": "Sent to Court (Outside of Property Room)",
+		"Action": "RFC-Received from Court",
+		"Quantity": "10",
+		"Value": "1500",
+		"SentToLastName": "Gasser",
+		"SentToFirstName": "Washington"
+	},
+	"252297": {
+		"PropertyNo": "20-000020-3",
+		"PropertyNo1": "20-000020-2",
+		"PropertyNo2": "20-000020-1",
+		"PropertyDescription": "300 BOYLSTON Ave E300 BOYLSTON Ave E",
+		"Reason": "J - Jurisdiction Evidence"
+	},
+	"254470": {
+		"CaseNo": "20-000126",
+		"PropertNo": "20-000024-1",
+		"PFNo": "AUTO",
+		"RelinquishedBy": "PRMS",
+		"Action": "RBO-Received by an Officer",
+		"Notes": "Automation Testing Completed",
+		"StorageLocation": "L0000000004"
+	},
+	"254480": {
+		"CADCFS": "1",
+		"Location": "901 Paddle Boat Ct",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Reason": "Stolen",
+		"Property": "Clothes/Furs",
+		"LastName": "Cindy",
+		"FirstName": "BooBoo"
+	},
+	"254481": {
+		"Type": "Pawn",
+		"PFCode": "AUTO",
+		"PropertyType": "Narcotic Violation",
+		"Description": "TestAutomation",
+		"DealerID": "Pawn-Asian Market",
+		"Date": "09/18/2020"
+	},
+	"254487": {
+		"CaseNo": "20-000034",
+		"Reason": "Found",
+		"Property": "Firearms",
+		"SerialNo": "#11251151",
+		"Caliber": "9mm",
+		"Quantity": "200",
+		"Location": "1203 Dousman St",
+		"RecoveredLocation": "1203 Dousman St",
+		"Status": "Sent to the Property Room",
+		"Description": "Storage container 6",
+		"Status1": "Locked",
+		"Disposition": "Sent to the Property Room",
+		"StorageLocation": "L0000000109",
+		"Type": "Property Report",
+		"Value": "5000"
+	},
+	"254570": {
+		"LastName": "Lakeshore",
+		"PawnType": "Pawn"
+	},
+	"254572": {
+		"NameID": "A-0000000110",
+		"AtypeNameID": "A-0000000110",
+		"LastName": "Gabriel",
+		"FirstName": "Charlotte",
+		"NameID1": "A-0000000285",
+		"PropertyType": "Article"
+	},
+	"254578": {
+		"NameID": "A-0000000283",
+		"CaseNo": "20-000117",
+		"LastName": "Aurora",
+		"Name": "Aurora, Francesco",
+		"FirstName": "Francesco",
+		"MiddleName": "F"
+	},
+	"254619": {
+		"CaseNo": "20-000138",
+		"PlateNo": "12345",
+		"Disposition": "Recovered by an Other Agency (Closed)",
+		"Disposition1": "Retained By Investigative Agency",
+		"Disposition2": "Retained By Officer",
+		"Disposition3": "Sent To Lab (Outside of the Property Room)",
+		"Disposition4": "Transferred To Another Officer"
+	},
+	"254620": {
+		"CaseNo": "20-000140",
+		"Reason": "Stolen",
+		"Property": "Clothes/Furs",
+		"NIBRS":"23D - Theft From Building"
+	},
+	"254621": {
+		"CaseNo": "20-000141",
+		"Reason": "Stolen",
+		"Property": "Clothes/Furs",
+		"Quantity": "10",
+		"Value": "1,044,581"
+	},
+	"254622": {
+		"Disposition": "REL-Released (Closed)",
+		"PropertyNo": "20-000025",
+		"Reason": "Evidence",
+		"ChangedStatus": "Reason [Found] --> [Evidence]",
+		"Status": "Returned To Owner (Closed)"
+	},
+	"254623": {
+		"CaseNo": "20-000143",
+		"LastName": "Mary",
+		"FirstName": "Kury",
+		"LastName1": "Daniel",
+		"FirstName1": "Safin",
+		"Reason": "Evidence",
+		"Property": "Drugs/Narcotics",
+		"Description": "Drugs seized at the location",
+		"Quantity": "10",
+		"Value": "1000",
+		"Disposition": "Returned To Owner (Closed)"
+	},
+	"254624": {
+		"CaseNo": "20-000144",
+		"Property": "Fuel",
+		"Reason": "Evidence",
+		"Property1": "Livestock",
+		"Reason1": "Stolen",
+		"NIBRS":"120 - Robbery",
+		"NIBRS1":"100 - Kidnapping/Abduction"
+	},
+	"254629": {
+		"Address": "35 Sierra Ave",
+		"ReceivedSource": "9",
+		"Location": "1300 Hurlbut St",
+		"CADCFS": "100",
+		"CADDisposition": "I",
+		"Type": "Incident Report",
+		"Unit": "961",
+		"Charge": "100.06(1g)(a)",
+		"Juris": "BC - Brown County Police Department",
+		"NIBRS": "90Z -All Other Offenses",
+		"CrimeAgainst": "Person",
+		"AttemptedOrCompleted": "Completed",
+		"Reason": "Stolen",
+		"Property": "Drugs/Narcotics",
+		"Description": "Drugs seized at the location",
+		"Quantity": "10",
+		"Value": "1000",
+		"LastName": "Williams",
+		"FirstName": "Harry",
+		"Disposition": "Retained By Officer",
+		"Container": "Plastic Bag"
+	},
+	"255335": {
+		"FromDate": "12/01/2020",
+		"ToDate": "12/30/2020"
+	},
+	"255531": {
+		"CaseNo": "20-000153",
+		"Reason": "Stolen",
+		"Property": "Credit debit cards",
+		"Value": "0"
+	},
+	"255532": {
+		"Status": "RFL-Received from Lab",
+		"Password": "Pnx@2016",
+		"Action": "RFL-Received from Lab",
+		"Status1": "Received from Lab",
+		"ReceivedBy": "AUTO",
+		"Action1":"Received from Lab"
+	},
+	"255533": {
+		"PropertyNo": "20-000026-1",
+		"Action1": "STL-Sent to Lab (From within the Property Room)",
+		"Action": "PRO-Moved Into the Property Room",
+		"Code":"L0000000043",
+		"StorageLocation":"L0000000043",
+		"LastName": "A",
+		"FirstName": "Mithun",
+		"Action2": "RFL-Received from Lab",
+		"RecievedBy": "A, Mithun",
+		"PFCode":"AUTO",
+		"RelinquishedBy": "AUTO"
+	},
+	"255534": {
+		"PropertyNo": "20-000027-1",
+		"RelinquishedBy": "AUTO",
+		"ReceivedBy": "AUTO",
+		"PFCode": "AUTO",
+		"StorageLocation": "L0000000048"
+	},
+	"255535": {
+		"CaseNo": "20-000155",
+		"Reason": "Recovered",
+		"Property": "Aircraft",
+		"Disposition": "Sent to the Property Room",
+		"StorageLocation": "L0000000155",
+		"NIBRS": "90Z - All Other Offenses"
+	},
+	"255536": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "20-000156",
+		"Reason": "Seized/Confiscated",
+		"Property": "Drugs/Narcotics",
+		"DrugType": "Marijuana",
+		"Disposition": "Transferred To Another Officer",
+		"PFCode": "PA001",
+		"Container": "Box",
+		"PackSeqNo": "1",
+		"StorageLocation": "L0000000039",
+		"RelinquishedBy": "PA002",
+		"PFNo": "P002",
+		"NIBRS":"100 - Kidnapping/Abduction"
+	},
+	"255537": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"PropertyNo": "20-000028-1",
+		"StorageLocation": "L0000000041",
+		"Action": "STP-Sent to the Property Room"
+	},
+	"255538": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "20-000157",
+		"Disposition": "Sent to the Property Room",
+		"StorageLocation": "L0000000148",
+		"LastName": "Adams",
+		"FirstName": "Torres",
+		"RelinquishedBy":"P002",
+		"ReceivedBy":"AUTPOL",
+		"NIBRS":"120 - Robbery"
+	},
+	"255539": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFNo": "P002",
+		"StorageLocation":"L0000000023",
+		"PropertyNo": "20-000029-1",
+		"Action": "Sent To Lab",
+		"RelinquishedBy": "AUTO",
+		"ReceivedBy": "AUTO"
+	},
+	"255540": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"PropertyNo": "20-000030-1",
+		"PFNo": "AUTO",
+		"Status": "Sent to the Property Room",
+		"Status1": "Sent to Lab (From within the Property Room)",
+		"Status2": "Received from Lab",
+		"LastName": "Adams",
+		"FirstName": "Torres",
+		"StorageLocation":"L0000000143"
+	},
+	"255541": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"Status1": "Received from Lab",
+		"Status": "Sent to Lab (Outside of the Property Room)",
+		"PropertyNo": "24-000013-1"
+	},
+	"255542": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "20-000159",
+		"Reason": "Evidence",
+		"Property": "Aircraft",
+		"Quantity": "2",
+		"Value": "300",
+		"PFNo": "P002",
+		"Action": "STP-Sent to the Property Room",
+		"StorageLocation": "Property Update Container",
+		"Status": "Received from Lab",
+		"Status1": "Sent to the Property Room",
+		"Disposition": "Sent To Lab (Outside of the Property Room)",
+		"Code":"L0000000149",
+		"RelinquishedBy":"Auto",
+		"NIBRS":"100 - Kidnapping/Abduction"
+	},
+	"255543": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Status": "Sent to Lab (Outside of the Property Room)",
+		"Status1": "Moved Into the Property Room"
+	},
+	"255544": {
+		"CaseNo": "20-000160",
+		"Action": "STL-Sent to Lab (From within the Property Room)",
+		"Password": "Pnx@2016",
+		"ReceivedBy": "P002",
+		"PropertyNo": "20-000032-1",
+		"PFNo": "AUTO",
+		"RelinquishedBy": "AUTO",
+		"PropertyNo1": "20-000033-1"
+	},
+	"255714": {
+		"CaseNo": "20-000162",
+		"Reason": "Seized/Confiscated",
+		"DrugType": "Barbiturates",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "Auto",
+		"Property": "Drugs/Narcotics",
+		"Squad":"DT - Detective",
+		"NIBRS":"35A - Drug/Narcotic Violations"
+	},
+	"255715": {
+		"CaseNo": "20-000162",
+		"Reason": "Stolen",
+		"Status": "Released (Closed)",
+		"Property": "Structures \ufffd Other Dwellings",
+		"FirstName": "Indiana",
+		"LastName": "Virginia",
+		"StorageLocation": "L0000000147",
+		"Action": "REL-Released (Closed)",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"255716": {
+		"PropertyNo": "20-000035-1",
+		"PFNo": "P002",
+		"Remarks": "Automation Test",
+		"RelinquishedBy": "AUTO",
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"RemarksToolTip": " Automation Test"
+	},
+	"255717": {
+		"FromDate": "10/06/2020",
+		"DateSearchedBy": "Destroyed Date"
+	},
+	"255718": {
+		"CaseNo": "20-000164",
+		"Reason": "Evidence",
+		"Status": "Retained by Investigation agency / retained by officer",
+		"Disposition": "Retained by Investigation agency"
+	},
+	"255719": {
+		"CaseNo": "20-000165",
+		"PropertyNo": "20-000039-1",
+		"PropertyNo1": "20-000039-2",
+		"PropertyNo2": "20-000039-3",
+		"PropertyNo3": "20-000040-1",
+		"PropertyNo4": "20-000040-2"
+	},
+	"255720": {
+		"CaseNo": "20-000166",
+		"StorageLocation": "L0000000012",
+		"Property": "Alcohol",
+		"Status": "Moved",
+		"Status1": "Sent",
+		"NewStatus": "Moved Into the Property Room",
+		"OldStatus": "Sent to the Property Room"
+	},
+	"256148": {
+		"CaseNo": "20-000162",
+		"Reason": "Stolen",
+		"Status": "Destroyed (Closed)",
+		"Property": "Identity - Intangible",
+		"FirstName": "Indiana",
+		"LastName": "Virginia",
+		"StorageLocation": "L0000000052",
+		"Action": "DAL-Destroyed (Closed)",
+		"NIBRS":"100 - Kidnapping/Abduction",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"261093": {
+		"CaseNo": "20-000205",
+		"Reason": "Evidence",
+		"Property": "Chemicals",
+		"LastName": "Creek",
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"StorageLocation": "L0000000066",
+		"Action": "STP-Sent to the Property Room",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"263312": {
+		"AuditType": "Full",
+		"PFCode": "Auto",
+		"Property": "Firearms",
+		"Location": "1300 Hurlbut St",
+		"AuditLocation": "L0000000002",
+		"AcceptedBy": "AUTO",
+		"Status": "Audited",
+		"AuditName":"Monthly Audit"
+	},
+	"263313": {
+		"RegistrationNo": "21-000001"
+	},
+	"263314": {
+		"Code": "L0000000007",
+		"Code1": "L0000000010",
+		"Code2": "L0000000009"
+	},
+	"263417": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"RequestNo": "26-000001",
+		"PropertyNo1": "21-000002-1",
+		"PropertyNo2": "21-000002-2",
+		"PropertyNo3": "21-000002-3",
+		"Reason": "J - Jurisdiction Evidence",
+		"CaseNo": "21-000018",
+		"Action1": "RBO-Received by an Officer",
+		"ReceivedOfficerPF1":"P001",
+		"ReceivedOfficerPFDescription1":"Patrol, Officer"
+	},
+	"263418": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"PropertyNo": "21-000002",
+		"Reason": "H - HighCourt Evidence"
+	},
+	"263419": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"PropertyNo": "21-000004-1",
+		"Action": "PRO-Moved Into the Property Room",
+		"Action1": "STC-Signed Out For Court",
+		"StorageLocation":"L0000000131"
+	},
+	"263420": {
+		"Storage": "Storage Station 18",
+		"StorageLocation": "L0000000049",
+		"StorageLocation1": "L0000000132",
+		"PropertyNo": "21-000005-1",
+		"Action": "PRO-Moved Into the Property Room"
+	},
+	"263421": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PropertyNo": "21-000006-1",
+		"Action": "ATH-Authorized Transfer",
+		"PFNo": "AUTO",
+		"PFCode": "P002",
+		"Status": "Authorized Transfer"
+	},
+	"263424": {
+		"CaseNo": "21-000020",
+		"PropertyNo": "21-000006-1"
+	},
+	"263426": {
+		"CaseNo": "21-000021",
+		"Reason": "Seized/Confiscated",
+		"Property": "Firearms",
+		"StorageLocation": "L0000000150",
+		"Status": "Sent to the Property Room"
+	},
+	"263427": {
+		"PropertyNo": "21-000007-1",
+		"StorageLocation": "L0000000133",
+		"Action": "PRO-Moved Into the Property Room",
+		"Code":"L0000000133"
+	},
+	"263428": {
+		"CaseNo": "21-000022",
+		"StorageLocation": "L0000000134",
+		"Status": "Sent to the Property Room"
+	},
+	"263429": {
+		"CaseNo": "21-000023",
+		"OfficerID": "Auto",
+		"FromDate": "01/11/2021",
+		"ToDate": "01/12/2021"
+	},
+	"263430": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"CaseNo": "21-000024",
+		"LastName": "Richard",
+		"FirstName": "John",
+		"Status": "Returned To Owner (Closed)",
+		"Reason":"Stolen"
+	},
+	"263431": {
+		"Storage": "Storage Station 33",
+		"StorageLocation": "L0000000072",
+		"PropertyNo": "21-000010-1",
+		"Action": "EXR-Exceptional Removal (Closed)",
+		"Notes": "Automation Test Completed",
+		"RecentHistory": "[Exceptional Removal (Closed)]"
+	},
+	"263432": {
+		"PropertyNo": "21-000010-1",
+		"History": "Destroyed (Closed)",
+		"Disposition": "Destroyed (Closed)",
+		"RecentHistory": "[Destroyed (Closed)]",
+		"Action": "EXR-Exceptional Removal (Closed)"
+	},
+	"263433": {
+		"PropertyNo": "24-000007-1",
+		"StorageLocation": "L0000000073",
+		"SerialNo": "1289T",
+		"ModelNo": "M19",
+		"Storage": "Storage Station 34",
+		"Code":"L0000000073",
+		"PFNo":"AUTO"
+	},
+	"263928": {
+		"CaseNo": "21-000027",
+		"Value": "1,234,567.09",
+		"Description": "Storage Station 36",
+		"PFCode": "AUTO",
+		"Email1": "rajas@prophoenix.com",
+		"RecoveredValue": "$1,234,567.09",
+		"StorageLocation": "L0000000075"
+	},
+	"263929": {
+		"CaseNo": "21-000028",
+		"History": "Destroyed (Closed)",
+		"Value": "1,234,567.09",
+		"Description": "Storage Station 37",
+		"Disposition": "Destroyed (Closed)",
+		"InitialStorageLocationDescription": "Storage Station 37"
+	},
+	"263930": {
+		"CaseNo": "21-000029",
+		"Type": "Incident Report",
+		"Reason": "Evidence",
+		"Property": "Clothes/Furs",
+		"Disposition": "Sent To Lab (Outside of the Property Room)"
+	},
+	"263931": {
+		"CaseNo": "21-000030",
+		"Type": "Incident Report",
+		"Reason": "Evidence",
+		"SerialNo": "2378INQ",
+		"Property": "Clothes/Furs",
+		"Disposition":"Recovered by an Other Agency (Closed)"
+	},
+	"263933": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"StorageLocation": "L0000000053",
+		"InitialStorageLocationDescription": "Storage container 21",
+		"PropertyNo":"26-000006-1"
+	},
+	"263935": {
+		"CaseNo": "21-000033",
+		"Reason": "Stolen",
+		"Property": "Drugs/Narcotics",
+		"Quantity": "10",
+		"Value": "1000",
+		"LastName": "Jai",
+		"FirstName": "Kumar",
+		"StorageLocation": "L0000000137",
+		"Status": "Sent to the Property Room",
+		"NIBRS":"200 - Arson"
+	},
+	"263938": {
+		"Description": "DVR snapshot",
+		"StorageLocation": "L0000000074",
+		"CaseNo": "21-000035",
+		"CodeID": "3556",
+		"Status":"DVR snapshot"
+	},
+	"263940": {
+		"CaseNo": "21-000036",
+		"Reason": "Stolen",
+		"Reason1": "Found",
+		"Property": "Drugs/Narcotics",
+		"Quantity": "10",
+		"PCCODE": "BARBIT",
+		"Status": "Sent to the Property Room",
+		"StorageLocation": "L0000000128",
+		"Value": "1000",
+		"StorageLocation1":"L0000000129",
+		"Division":"Administration",
+		"Section":"Administration"
+	},
+	"263941": {
+		"CaseNo": "21-000037",
+		"Reason": "Evidence",
+		"Property": "Drugs/Narcotics",
+		"Quantity": "10",
+		"PCCODE": "BARBIT",
+		"Status": "Sent to the Property Room",
+		"StorageLocation": "L0000000079"
+	},
+	"265271": {
+		"CaseNo": "20-000043",
+		"Charge": "108.24(3)",
+		"Charge1": "106.52(3)(am)1",
+		"Charge2": "941.11(2)",
+		"PropertyLoss": "Burned (Arson Only)",
+		"Charge3": "943.20(1)(a)",
+		"NIBRS": "23A -Pocket Picking",
+		"CrimeAgainst": "Property",
+		"AttemptedOrCompleted": "Completed"
+	},
+	"270890": {
+		"CaseNo": "21-000127",
+		"Reason": "Stolen",
+		"Property": "Aircraft",
+		"StorageLocation": "L0000000116",
+		"Status": "Sent to the Property Room",
+		"LastName": "Connor",
+		"FirstName": "Nelson",
+		"Address": "1627 Old Freehold Rd",
+		"RFIDValue": "200",
+		"LoggedOfficer": "AUTO"
+	},
+	"270891": {
+		"CaseNo": "21-000128",
+		"Reason": "Stolen",
+		"Property": "Aircraft",
+		"StorageLocation": "L0000000023",
+		"Status": "Sent to the Property Room",
+		"LastName": "Canono",
+		"FirstName": "Nelson",
+		"Address": "1627 Old Freehold Rd",
+		"RFIDValue": "201",
+		"LoggedOfficer": "AUTO"
+	},
+	"270901": {
+		"CaseNo": "21-000132",
+		"Reason": "Seized/Confiscated (to impound property that was not previously stolen)",
+		"Property": "Aircraft",
+		"Value": "1000",
+		"StorageLocation": "L0000000095",
+		"Description": "Evidence Shared (In Use)",
+		"Status": "Sent to the Property Room"
+	},
+	"270902": {
+		"CaseNo": "21-000131",
+		"Reason": "Seized/Confiscated (to impound property that was not previously stolen)",
+		"Property": "Aircraft",
+		"Value": "1000",
+		"StorageLocation": "L0000000135",
+		"Description": "Property Shelf 8",
+		"Status": "Sent to the Property Room",
+		"NIBRS":"120 - Robbery"
+	},
+	"270903": {
+		"CaseNo": "21-000132",
+		"Reason": "Seized/Confiscated (to impound property that was not previously stolen)",
+		"Property": "Aircraft",
+		"Value": "1000",
+		"StorageLocation": "L0000000136",
+		"Description": "Property Shelf 9",
+		"CaseNo1": "21-000131",
+		"Status": "Sent to the Property Room"
+	},
+	"272356": {
+		"CaseNo": "21-000136",
+		"Reason": "Stolen",
+		"Property": "Identity Documents"
+	},
+	"272357": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"CaseNo": "21-000137",
+		"Supervisor": "P002",
+		"Reason": "Stolen",
+		"Property": "Identity Documents"
+	},
+	"272358": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"CaseNo": "21-000137",
+		"Reason": "Stolen",
+		"property": "Identity Documents"
+	},
+	"272359": {
+		"CaseNo": "21-000138",
+		"Reason": "Found",
+		"Property": "Logging Equipment",
+		"Value": "1000",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Supervisor": "P002"
+	},
+	"272360": {
+		"CaseNo": "21-000138",
+		"Reason": "Found",
+		"Property": "Logging Equipment",
+		"Value": "1000",
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Supervisor": "P002",
+		"Type": "Property Report",
+		"MyReportStatus":"Submitted",
+		"ReportType":"# Property Report"
+	},
+	"272380": {
+		"CaseNo": "21-000142",
+		"Reason": "Seized/Confiscated",
+		"Property": "Drugs/Narcotics",
+		"Description": "Test Automation",
+		"DrugType": "Cocaine (All Forms Except Crack)",
+		"Measurement": "Kilogram",
+		"Status": "Sent to the Property Room",
+		"StorageLocation": "L0000000130",
+		"DrugType2": "Marijuana",
+		"Quantity": "0",
+		"NIBRS":"35A - Drug/Narcotic Violations"
+	},
+	"272381": {
+		"ScanBarCode": "L0000000071",
+		"ScanBarCode1": "L0000000",
+		"Description": "Storage Station 32",
+		"Description1": ""
+	},
+	"272997": {
+		"CaseNo": "21-000147",
+		"Code": "L0000000099",
+		"Code1": "L0000000097",
+		"PropertyNo": "21-000015-1",
+		"PropertyNo1": "21-000014-1",
+		"PFNo": "AUTO",
+		"Description": "Evidence Locker2 (In Use)",
+		"Description1": "Evidence Shared1 (In Use)"
+	},
+	"276785": {
+		"Description": "Storage Container 199",
+		"CaseNo": "21-000204",
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"Status": "Sent to the Property Room"
+	},
+	"276786": {
+		"PropertyNo": "21-000016-1",
+		"Password": "Pnx@2016",
+		"ReceivedBy": "P001",
+		"Action": "Sent to Lab (From within the Property Room)",
+		"PFCode":"P001"
+	},
+	"276787": {
+		"UserName": "P002",
+		"PropertyNo": "21-000017-1",
+		"RelinquishedBy": "P002",
+		"Password": "Pnx@2016",
+		"ReceivedBy": "CadTest"
+	},
+	"276789": {
+		"CaseNo": "21-000181",
+		"Property": "Negotiable Instruments",
+		"Reason": "Stolen",
+		"LastName": "Jason"
+	},
+	"278641": {
+		"Action1": "STL-Sent to Lab (From within the Property Room)",
+		"CaseNo": "21-000207",
+		"PropertyNo": "21-000019-1"
+	},
+	"278643": {
+		"CaseNo": "21-000208",
+		"PropertyNo": "21-000020-1",
+		"StorageLocation": "Storage container 106",
+		"Description": "Storage container 106",
+		"PF": "AUTO",
+		"Action":"Moved Into the Property Room"
+	},
+	"278648": {
+		"UserName": "P001",
+		"PropertyNo": "21-000209",
+		"Password": "Pnx@2016",
+		"LastName": "Canono",
+		"FirstName": "Nelson"
+	},
+	"278649": {
+		"CaseNo": "21-000209",
+		"Disposition": "Vehicle parts are missing",
+		"Property": "Chemicals",
+		"Value": "200.00",
+		"Status": "Sent to the Property Room",
+		"Description": "Storage container 7",
+		"Sequence": "Sequence: 2/2",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"278763": {
+		"NIBRS": "120 - Robbery",
+		"CaseNo": "21-000214",
+		"Reason": "Stolen",
+		"Property": "Alcohol",
+		"LastName": "Harper"
+	},
+	"278764": {
+		"NIBRS": "120 - Robbery",
+		"CaseNo": "21-000215",
+		"Reason": "Found",
+		"Property": "Alcohol",
+		"LastName": "Harper"
+	},
+	"281033": {
+		"CaseNo": "21-000225",
+		"Reason": "Found",
+		"Disposition": "Sent to the Property Room",
+		"StorageLocation": "L0000000106"
+	},
+	"281034": {
+		"CaseNo": "21-000225",
+		"Reason": "Found",
+		"Disposition": "Sent to the Property Room",
+		"StorageLocation": "L0000000108"
+	},
+	"281035": {
+		"PropertyNo": "21-000021-1"
+	},
+	"287547": {
+		"CaseNo": "21-000207",
+		"ReportName": "Property Room Lists"
+	},
+	"289861": {
+		"CaseNo": "21-0000254",
+		"NIBRS": "120 - Robbery",
+		"Value": "100.00",
+		"LastName": "Aaron",
+		"StorageLocation": "Property Module Other Screen Shelf",
+		"RFIDValue": "258974",
+		"Sequence": "Sequence: 2/2",
+		"NullRFID": "Scan or Enter",
+		"Reason": "Stolen",
+		"Status": "Sent to the Property Room",
+		"CodeValue":"L0000000141",
+		"Code":"L0000000141"
+	},
+	"291886": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "OnHold",
+		"Reason": "C - Court Evidence",
+		"NewAction": "Submitted",
+		"RequestedBy1": "P001",
+		"Status1": "Submitted",
+		"PropertyNo": "22-000003-1"
+	},
+	"291896": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "Submitted",
+		"Reason": "C - Court Evidence",
+		"NewAction": "Rejected",
+		"RequestedBy1": "P002",
+		"Status1": "Rejected",
+		"Description":"Patrol, Officer"
+	},
+	"291899": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "Rejected",
+		"Reason": "C - Court Evidence",
+		"NewAction": "Submitted",
+		"RequestedBy1": "P001",
+		"Status1": "Submitted",
+		"Description":"Patrol, Officer"
+	},
+	"291892": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "Submitted",
+		"Reason": "C - Court Evidence",
+		"Action": "EXR-Exceptional Removal (Closed)",
+		"Status1": "Exceptional Removal (Closed)",
+		"PropertyNo": "22-000003",
+		"Description":"Patrol, Officer"
+	},
+	"291891": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "Submitted",
+		"Reason": "C - Court Evidence",
+		"NewAction": "Accepted",
+		"RequestedBy1": "P001",
+		"Status1": "Accepted",
+		"Description":"Patrol, Officer"
+	},
+	"291917": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"RequestedBy": "P001",
+		"Status": "Accepted",
+		"Reason": "C - Court Evidence",
+		"NewAction": "Ready (Considered closed)",
+		"RequestedBy1": "P001",
+		"Status1": "Ready (Considered closed)",
+		"Description":"Patrol, Officer"
+	},
+	"147623": {
+		"AuditName": "TestMandatoryFields",
+		"AuditType": "Full"
+	},
+	"147644": {
+		"CaseNo": "22-000024",
+		"CADCFS": "100",
+		"Location": "1601 Deming Way,100",
+		"CADDisposition": "I",
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"Reason": "Lost",
+		"Property": "Aircraft",
+		"LastName": "Father",
+		"Status": "Sent to the Property Room",
+		"StorageLocation": "L0000000020",
+		"SentToLastName": "Vicky",
+		"SentToFirstName": "Berger",
+		"Disposition": "Transferred To Another Officer",
+		"PFCode": "auto",
+		"Disposition1": "Retained by the Investigating Officer"
+	},
+	"147644A": {
+		"CaseNo": "22-000024",
+		"StorageLocation": "L0000000112",
+		"StorageLocation1": "L0000000048",
+		"RelinquishedBy": "AUTO",
+		"Action": "RFL-Received from Lab",
+		"Action1": "STP-Sent to the Property Room",
+		"Action2": "AUC-Auctioned/Sold (Closed)",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "AUTO",
+		"CaseStatus": "Closed - No Further Leads (CM)",
+		"CaseStatus1": "Closed - No Further Leads (CM)"
+	},
+	"145845": {
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"Reason": "Lost",
+		"Property": "Aircraft",
+		"LastName": "Fa",
+		"Status": "Sent to the Property Room",
+		"StorageLocation": "L0000000081",
+		"CaseNo": "22-000022"
+	},
+	"145845A": {
+		"NIBRS": "120 - Robbery",
+		"Reason1": "Stolen",
+		"Reason": "Lost",
+		"Property": "Alcohol",
+		"LastName": "Fa",
+		"Status": "Retained by the Investigating Officer",
+		"StorageLocation": "L0000000081",
+		"CaseNo": "22-000022"
+	},
+	"145845B": {
+		"NIBRS": "23C - Shoplifting",
+		"Reason": "Seized/Confiscated",
+		"Property": "Chemicals",
+		"LastName": "d",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "AUTPOL",
+		"CaseNo": "22-000023"
+	},
+	"145845C": {
+		"NIBRS": "23D - Theft From Building",
+		"Reason": "Seized/Confiscated (to impound property that was not previously stolen)",
+		"Reason1": "Found",
+		"Property": "Chemicals",
+		"Type": "OnHold",
+		"LastName": "A",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "auto",
+		"CaseNo": "22-000023"
+	},
+	"10226": {
+		"StorageBuilding": "03 - Building A3",
+		"StorageRoom": "02 - Burned item section",
+		"StorageRow": "01 - Row 1",
+		"StorageBuild": "Building A3",
+		"StorageRoom1": "Burned item section",
+		"StorageRow1": "Row 1",
+		"LocationDescription": "Burned Item section Chemical division",
+		"StorageLocation": "Burned Item section Chemical division"
+	},
+	"10147": {
+		"CaseNo": "23-000019"
+	},
+	"10163": {
+		"NIBRS": "240 - Motor Vehicle Theft",
+		"Reason": "Stolen",
+		"Property": "Automobiles",
+		"PlateNo": "641",
+		"PlateState": "WI",
+		"LastName": "Lee",
+		"FirstName": "Bruce",
+		"CaseNo": "23-000020"
+	},
+	"10319": {
+		"CaseNo": "23-000008",
+		"Status": "OnHold",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Status1": "Submitted"
+	},
+	"10191": {
+		"CaseNo": "23-000005"
+	},
+	"10278": {
+		"CaseNo": "23-000004",
+		"Reason": "Stolen",
+		"Property": "Aircraft",
+		"LastName": "Mary",
+		"FirstName": "Kury",
+		"Type": "Property Report",
+		"RedactReason": "Automation Report Test"
+	},
+	"10172": {
+		"CaseNo": "23-000011",
+		"NIBRS": "120 - Robbery",
+		"Reason": "Stolen",
+		"Property": "Aircraft",
+		"Description": "Test Automation",
+		"Quantity": "10",
+		"Value": "5000000",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "AUTPOL",
+		"Action": "PRO-Moved Into the Property Room",
+		"StorageLocation": "L0000000142",
+		"Status1": "Moved Into the Property Room",
+		"Description1": "Test"
+	},
+	"10136": {
+		"CaseNo": "23-000010",
+		"Status": "Locked"
+	},
+	"10230": {
+		"AuditType": "Full",
+		"AuditName": "Temp",
+		"AuditBy": "AUTO",
+		"AuditType1": "Selected",
+		"AuditName1": "Temporary",
+		"AuditBy1": "CA001",
+		"AuditType2": "Random, Selected",
+		"AuditName2": "Random Temporary",
+		"AuditBy2": "CadTest",
+		"Property": "Aircraft",
+		"Property1": "Aircraft",
+		"RandomCount": "3"
+	},
+	"10164": {
+		"StorageBuilding": "01 - Building A1",
+		"StorageRoom": "01 - Science Lab 01",
+		"StorageRow": "01 - Row 1",
+		"Description": "AuditSearch58",
+		"AuditType": "Selected",
+		"AuditName": "Auditsearch"
+	},
+	"10280": {
+		"CaseNo": "23-000001",
+		"NIBRS": "120 - Robbery",
+		"Reason": "Stolen",
+		"Property": "Alcohol",
+		"Quantity": "1",
+		"LastName": "Fa",
+		"Value": "1000",
+		"Status": "Transferred To Another Officer",
+		"PFCode": "auto"
+	},
+	"10299": {
+		"CaseNo": "23-000001",
+		"NIBRS": "120 - Robbery",
+		"Reason": "Stolen",
+		"Property": "Alcohol",
+		"Quantity": "1",
+		"Value": "2000",
+		"LastName": "Fa"
+	},
+	"12244A": {
+		"CaseNo": "23-000025",
+		"PropertyNo": "23-000009-1",
+		"Type": "Property Report"
+	},
+	"12244B": {
+		"CaseNo": "23-000025",
+		"PropertyNo": "23-000009-1",
+		"Type": "Property Report"
+	},
+	"12096": {
+		"PropertyNo": "24-000001-1",
+		"CaseNo": "23-000044",
+		"Reason":"**Deleted**"
+	},
+	"12133": {
+		"CaseNo": "23-000021",
+		"NIBRS": "120 - Robbery",
+		"LastName": "David",
+		"FirstName": "Camaron",
+		"Name": "David, Camaron",
+		"Status": "Sent to Lab (Outside of the Property Room)"
+	},
+	"10165": {
+		"RequestedFrom": "01/01/2020"
+	},
+	"12177": {
+		"RoleName": "Patrol Officer",
+		"ScreenID": "2700",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "24-000087",
+		"PropertyNo": "24-000014-1",
+		"Status": "Locked"
+	},
+	"12140": {
+		"PropertyNo": "23-000008-1"
+	},
+	"12244C": {
+		"CaseNo": "23-000026",
+		"PropertyNo": "23-000010-1",
+		"ReportType": "Incident Report"
+	},
+	"13212A": {
+		"PropertyNo": "23-000012-1",
+		"PFNo": "PRMS",
+		"StorageLocation": "L0000000112",
+		"Remarks": "Test Automation"
+	},
+	"13212B": {
+		"PropertyNo": "23-000013-1",
+		"PFNo": "PRMS",
+		"StorageLocation": "L0000000112",
+		"Action": "RBA-Recovered by an Other Agency (Closed)",
+		"Status": "Recovered by an Other Agency (Closed)"
+	},
+	"13212C": {
+		"PropertyNo": "23-000014-1",
+		"PFNo": "PRMS",
+		"StorageLocation": "L0000000112",
+		"Action": "DAL-Destroyed (Closed)",
+		"Status": "Destroyed (Closed)"
+	},
+	"13212D": {
+		"PropertyNo": "23-000015-1",
+		"PFNo": "PRMS",
+		"StorageLocation": "L0000000112",
+		"Action": "REL-Released (Closed)",
+		"Status": "Released (Closed)",
+		"LastName": "Father",
+		"FirstName": "F"
+	},
+	"13212E": {
+		"PropertyNo": "23-000016-1",
+		"PFNo": "PRMS",
+		"StorageLocation": "L0000000112",
+		"Action": "AUC-Auctioned/Sold (Closed)",
+		"Status": "Auctioned/Sold (Closed)"
+	},
+	"135732": {
+		"PropertyNo": "23-000001",
+		"CaseNo": "23-008794",
+		"RegistrationNo": "23-000001",
+		"Disposition": "AUC-Auctioned/Sold (Closed)",
+		"OfficerID": "AUTPOL",
+		"CallNo": "23-008794",
+		"InventoryNo": "23-000050"
+	},
+
+	"13192": {
+		"CaseNo": "23-000041",
+		"PropertyNo": "23-000020-1",
+		"ReceivedBy": "59850",
+		"StorageLocation1": "L0000000145"
+	},
+	"13200": {
+		"CaseNo": "23-000042",
+		"NIBRS": "120 - Robbery",
+		"LastName": "Harper",
+		"StorageLocation": "L0000000070",
+		"ReceivedBy": "AUTO"
+  },
+	
+	"15707":{
+	"StorageBuilding":"01 - Building A1",
+	"StorageRoom":"01 - Science Lab 01",
+	"StorageRow":"01 - Row 1",
+	"StorageShelf":"03 - Division 03",
+	"Description":"Storage Property Shlef",
+	"CaseNo":"23-000046",
+	"Reason":"Stolen",
+	"Property":"Aircraft",
+	"LastName":"Samuel L.",
+	"FirstName":"Jackson"
+	},
+	
+	"10275":{
+	"CaseNo":"23-000055",
+	"PropertyNo":"23-000027-1",
+	"LastName":"Tayilor",
+	"FirstName":"Baily",
+	"Status":"Returned To Owner (Closed)",
+	"NameID":"A-0000000477",
+	"Activity":"Caller",
+	"Name":"Demi,Barnes",
+	"Name1":"Demi, Barnes",
+	"NameInGrid":"Demi, Barnes"
+	},
+
+	"16363":{
+	"CaseNo":"23-000052",
+	"Action":"STL-Move to New Storage Location",
+	"StorageLocation1":"L0000000118",
+	"StorageLocation2":"L0000000119",
+	"Status":"Move to New Storage Location",
+	"PropertyNo":"23-000026-1"
+	},
+	
+	"10148":{
+	"CaseNo":"23-000070",
+	"Reason":"**Deleted**",
+	"InitialStorageLocationDescription":"Dont Use",
+	"Code":"L0000000121"
+	},
+	
+	"21608": {
+		"AuditNo": "24-000001",
+		"Remarks": "Automation Testing"
+  },
+  
+	"20958":{
+	"Make":"Indian Cycle",
+	"FrameSerialNo":"BI1234",
+	"RegistrationNo":"9659"
+  },
+	"20971":{
+	"AuditName":"Company8985",
+	"Status":"Audited",
+	"ApprovedBy":"Auto",
+	"Audit":"18-000003",
+	"Description":"Prophoenix, Automation"
+	},
+
+	 "248771A":{
+	 "RequestedBy":"P001",
+	 "Reason":"C - Court Evidence",
+	 "UserName": "P001",
+	 "Password": "Pnx@2016",
+	 "PropertyNo":"24-000005-1",
+	 "PropertyDescription":"Test"
+	},
+	
+	"294477":{
+	"PropertyNo":"24-000006-1",
+	"CaseNo":"24-000026",
+	"StorageLocation":"L0000000122",
+	"Description":"Access denied 1",
+	"Code":"L0000000122",
+	"StorageLocation1":"L0000000123",
+	"Code1":"L0000000123",
+	"Description1":"Access Denied 2"
+	},
+	
+	"275262":{
+	"CaseNo":"24-000028",
+	"Reason":"Found",
+	"Property":"Bicycles",
+	"StorageLocation":"L0000000124",
+	"Status":"Moved Into the Property Room",
+	"Code":"L0000000124"
+	},
+	
+	"24805":{
+	"CaseNo":"24-000013",
+	"PropertyNo":"24-000002-1",
+	"Juris":"BC - Brown County Police Department"
+	},
+"24802":{
+		"AuditNo":"24-000001"
+},
+"24800":{
+		"AuditNo":"24-000001",
+		"Remarks":"21-000001"
+},
+
+"PUSmoke":{
+	"StorageLocation":"L0000000146",
+	"Action":"PRO-Moved Into the Property Room"
+},
+"263939": {
+	"CaseNo": "21-000035",
+	"CFS": "7399",
+	"Charge": "103.91(9)(e)",
+	"CrimeAgainst": "Property",
+	"NIBRS": "90Z -All Other Offenses",
+	"PropertyLoss": "Seized/Confiscated",
+	"LoggedOfficer": "AUTO",
+	"OwnerNameID":"A-0000000696"
+},
+"38534": {
+	"PropertyNo": "24-000012-1",
+	"RFIDValue":"726"
+},
+"40509":{
+	"PropertyNo":"24-000012-1"
+},
+"38729":{
+	"Type":"Pawn",
+	"PFCode":"AUTO",
+	"PropertyType":"Clothing",
+	"Description":"Pawn Entry Attachment Tab JS Error verification",
+	"DealerID":"Pawn-Asian Market",
+	"Link":"http://www.external.com"
+},
+"39681":{
+	"CaseNo":"25-000010",
+	"NIBRS":"35A - Drug/Narcotic Violations",
+	"Reason":"Seized/Confiscated",
+	"Property":"Drugs/Narcotics",
+	"Description":"Property Entry For Drugs Will Not Allow Entry For Trace Amount",
+	"DrugType":"Heroin",
+	"Measurement":"Gram",
+	"DrugQuantity":"0.004",
+	"Quantity":"0.004",
+	"StorageLocation":"L0000000123"
+},
+"44323": {
+	"PawnDateFrom": "09/04/2023",
+	"PawnDateTo": "09/04/2024",
+	"PawnID": "24-000001"
+},
+"44343":{
+"NameID":"A-0000000523"
+},
+"45540": {
+	"Reason": "H - HighCourt Evidence",
+	"PropertyNo": "24-000017-1",
+	"CaseNo":"24-000109",
+	"NewAction":"Submitted",
+	"NewAction1":"Rejected",
+	"Status":"Rejected",
+	"NewAction2":"Accepted",
+	"Status1":"Accepted",
+	"NewAction3":"Ready (Considered closed)"
+},
+"46299":{
+	"Reason":"Recovered",
+	"CodeValue":"RES",
+	"PropertyNo":"24-000019-1"
+},
+"46208":{
+	"GridHeader1":"Juris",
+	"GridHeader2":"Property Code",
+	"GridHeader3":"Property Category",
+	"GridHeader4":"Description",
+	"GridHeader5":"UCR Line No",
+	"GridHeader6":"Inactive"
+},
+"46132":{
+	"CaseNo":"25-000005",
+	"NIBRS":"120 - Robbery",
+	"Reason":"Evidence",
+	"Property":"Purses/Handbags/Wallets",
+	"Description":"CRM#170686 RMS - Property - Closed property is changing from greyed out back to black.",
+	"LastName":"Raga",
+	"Status":"Returned To Owner (Closed)",
+	"NameID":"A-0000000067",
+	"Disposition":"Sent to the Property Room",
+	"StorageLocation":"L0000000153"
+},
+"48527": {
+	"CaseNo": "25-000011",
+	"NIBRS": "120 - Robbery",
+	"Reason": "Stolen",
+	"Property": "Computer Hardware/Software",
+	"Description": "BarcodeUpdateOwnerCheckboxNotWorkingCRM163450_48527",
+	"Value": "1000",
+	"OwnerNameID": "A-0000000234",
+	"Status": "Sent to the Property Room",
+	"StorageLocation": "L0000000026",
+	"Disposition": "REL",
+	"Name": "Duchess, Sussex",
+	"RecentHistory": "[Released (Closed)]",
+	"Status1": "Released (Closed)"
+},
+"53124":{
+	"CaseNo":"25-000047",
+	"PropertyNo":"25-000001-1",
+	"fieldName1":"25-000047",
+	"fieldName2":"25-000001",
+	"fieldName3":"EVI",
+	"fieldName4":"Evidence",
+	"fieldName5":"1"
+},
+"45736":{
+	"CaseNo":"25-000057",
+	"PropertyNo":"25-000007-1",
+	"PropertyNo1":"25-000007-2"
+},
+"55041":{
+	"CaseNo":"25-000049",
+	"Reason":"Found",
+	"Property":"Aircraft Parts/Accessories",
+	"Property1":"Alcohol",
+	"Description":"To Test CRM#158503",
+	"Status":"Transferred To Another Officer",
+	"PFCode":"Px404",
+	"Sequence":"Sequence: 2/2",
+	"OfficerPF":"AUTO",
+	"OfficerPFDescription":"Prophoenix, Automation"
+},
+"55005":{
+	"AuditNo":"25-000001"
+},
+"55738": {
+	"CaseNo": "25-000050",
+	"CaseNo1": "25-000051",
+	"CaseNo2": "25-000050",
+	"NIBRS": "23A - Pocket Picking",
+	"Property": "Clothes/Furs",
+	"Description": "Current Status Showing Wrong Status CRM#166793",
+	"OwnerNameID": "A-0000000552",
+	"NameID": "A-0000000552",
+	"Reason": "Stolen",
+	"Status": "Returned To Owner (Closed)",
+	"Storage": "Returned To Owner (Closed)",
+	"Type": "Incident Report"
+},
+"55140": {
+	"CaseNo": "25-000052",
+	"OwnerNameID": "A-0000000552",
+	"SerialNo": "04222025",
+	"NIBRS": "23A - Pocket Picking",
+	"NIBRS1": "23A - Pocket Picking",
+	"Reason": "Stolen",
+	"Reason1": "Stolen",
+	"Property": "Clothes/Furs",
+	"Description": "Property Update Screen Show Stolen Properties That Are Not Recovered CRM#178605"
+},
+"55148":{
+	"CaseNo":"25-000053"
+},
+"54999":{
+	"CodeValue":"SAE",
+	"Description":"Sent as Automation Evidence",
+	"SystemCode":"3552 - Sent to the Property Room"
+},
+"55042": {
+	"CaseNo": "25-000055",
+	"ItemTagNo": "2002",
+	"StorageLocation": "L0000000158",
+	"Action": "PRO",
+	"PropertyNo1": "25-000005-1",
+	"ItemStatus": "Moved Into the Property Room"
+},
+"55861": {
+	"CaseNo": "25-000056",
+	"PropertyNo1": "25-000006-1",
+	"PropertyNo2": "25-000006-2",
+	"Status1": "Sent to the Property Room",
+	"Status2": "Moved Into the Property Room",
+	"fieldName1": "Clothes/Furs",
+	"fieldName2": "Test for CRM#155987"
+},
+"55758":{
+	"CaseNo":"25-000036",
+	"Reason":"Lost",
+	"Property":"Automobiles",
+	"Description":"Testing Process for CRM#156903",
+	"PlateNumber":"123123 - NJ",
+	"PlateNo":"123123",
+	"Vin":"1G6D25ED0B0141161",
+	"Color1":"Beige",
+	"Color2":"Light Blue",
+	"Make":"Cadillac",
+	"Model":"Brougham",
+	"PlateState":"NJ"
+},
+"55883": {
+	"StorageBuilding1": "01 - Building A1",
+	"StorageBuilding2": "02 - Building A2",
+	"StorageRoom1": "03 - Chemicals lab",
+	"StorageRoom2": "02 - Burned item section",
+	"PropertyNo1": "25-000003-1",
+	"PropertyNo2": "25-000004-1",
+	"Status1": "Sent to the Property Room",
+	"Status2": "Sent to the Property Room",
+	"StorageLocation1": "L0000000156",
+	"StorageLocation2": "L0000000157"
+},
+"60183":{
+"LastName":"Pubg",
+"FirstName":"Easan",
+"Address":"2400 Frostwoods St",
+"NameID":"A-0000000618"
+},
+"60183": {
+	"LastName": "Pubg",
+	"FirstName": "Easan",
+	"Address": "2400 Frostwoods St",
+	"NameID": "A-0000000614"
+},
+"58079": {
+	"UserName": "Automation",
+	"Password": "Pnx@2020",
+	"Database": "AutomationPoliceMJ SmokeTest",
+	"AuditNo": "25-000002",
+	"AuditLocation": "L0000000001",
+	"AuditLocationDescription": "Property Locker"
+},
+"63615":{
+	"PawnType":"Pawn"
+},
+"66221":{
+	"CaseNo":"25-000110",
+	"OfficerPF":"AUTO",
+	"OfficerPFDescription":"Prophoenix, Automation",
+	"NIBRS":"240 - Motor Vehicle Theft",
+	"Property":"Buses",
+	"RelatedPropertyNo":"25-000010-1",
+	"PCCode":"ACCESS",
+	"PCDescription":"Accessories/Scarfs",
+	"CategoryCode":"Clothing",
+	"Description":"ToVerifyUserIsAbleToAddNewPropertyWithPropertyTypeVehicleAndReasonRecovered_66221",
+	"PlateNo":"FS15421",
+	"Vin":"D85456211",
+	"Year":"2022",
+	"Make":"2 Moto, Inc (CYL)",
+	"Model":"Motorcycle",
+	"Color1":"Dark Blue",
+	"Color2":"Dark Green",
+	"Quantity":"1",
+	"Value":"5,000.00",
+	"OwnerNameID":"A-0000000698",
+	"FirstName":"George Casey",
+	"LastName":"Chevalier",
+	"Address":"2253 Farland Ave, San Antonio, TX 78218",
+	"InPossOfAddress":"2253 Farland Ave",
+	"City":"San Antonio",
+	"State":"TX - Texas",
+	"ZipCode":"78218",
+	"NCIC":"123456789",
+	"OAN":"1234",
+	"Narrative":"Test Legacy",
+	"Hold":"Hold For Police",
+	"RecoveredLocation":"9461 Sunset Blvd",
+	"RecoveredCity":"Beverly Hills",
+	"RecoveredState":"CA - California",
+	"RecoveredZipCode":"90210",
+	"InPossFirstName":"Belosa",
+	"InPossLastName":"Makaya",
+	"InPossOfCity":"San Antonio", 
+	"InPossOfState":"TX - Texas",
+	"InPossOfZipCode":"78218",
+	"Status":"Transferred To Another Officer",
+	"PFCode":"Shaw",
+	"TotalValue":"5000.00",
+	"RecoveredValue":"5000.00"
+},
+"66249":{
+	"StorageLocation":"L0000000096",
+	"PropertyNo1":"25-000011-1",
+	"PropertyNo":"25-000011-1",
+	"CaseNo":"25-000111",
+	"Reason1":"Evidence",
+	"Reported1":"09/23/2025",
+	"Description1":"For TC - 66249",
+	"Package1":"Bottle",
+	"Storage1":"Evidence Locker1",
+	"Storage":"Evidence Locker1",
+	"Status1":"Sent to the Property Room",
+	"Status2":"Moved Into the Property Room",
+	"PFNo":"AUTO",
+	"Remarks":"Property Update Legacy Test"
+},
+"66313":{
+	"CaseNo":"25-000112",
+	"PropertyNo":"25-000012-1",
+	"StorageLocation":"L0000000150",
+	"Storage1":"Returned To Owner (Closed)",
+	"Storage2":"Property Shelf 16"
+},
+"67381":{
+	"ColumnHeader1":"Code#",
+	"ColumnHeader2":"Description"
+},
+"67388":{
+	"PropertyNo":"25-000013-4",
+	"PropertyNo1":"25-000013-4",
+	"Action":"REL-Released (Closed)"
+},
+"67400":{
+	"Action1":"Retained by the Investigating Officer",
+	"NIBRS":"90Z - All Other Offenses",
+	"Reason":"Evidence",
+	"Property":"Alcohol",
+	"Description":"UnableToSearchOurOwnProperty",
+	"Value":"150",
+	"OwnerNameID":"A-0000000698",
+	"Status":"Retained by the Investigating Officer",
+	"CaseNo":"25-000114"
+},
+"67451": {
+	"CaseNo": "25-000116",
+	"NIBRS": "120 - Robbery",
+	"NIBRS1": "120 - Robbery",
+	"NIBRS2": "--Select--",
+	"Reason1": "Recovered",
+	"Reason2": "--Select--",
+	"Property": "Jewelry/Precious Metals/Gems",
+	"Property1": "Jewelry/Precious Metals/Gems",
+	"Property2": "--",
+	"Value": "100",
+	"OwnerNameID": "A-0000000698",
+	"LastName": "Chevalier",
+	"FirstName": "George Casey",
+	"Description": "WhenYouAreRecoveringAStolenItem",
+	"OfficerPF": "AUTO",
+	"OfficerPFDescription": "Prophoenix, Automation"
+},
+"67606":{
+	"CaseNo":"25-000109",
+	"OfficerPF":"AUTO",
+	"OfficerPFDescription":"Prophoenix, Automation",
+	"NIBRS":"240 - Motor Vehicle Theft",
+	"NIBRS1":"240 - Motor Vehicle Theft",
+	"Reason1":"Evidence",
+	"Property":"Buses",
+	"Property1":"Buses",
+	"Description":"To verify TC - 67606",
+	"PlateNo":"NJAB02365",
+	"PlateState":"NJ",
+	"Vin":"NJAB02365",
+	"Year":"2025",
+	"Make":"2 Moto, Inc (CYL)",
+	"Model":"Motorcycle",
+	"Color1":"Dark Blue",
+	"Color2":"Dark Green",
+	"Quantity":"1",
+	"Value":"100",
+	"OwnerNameID":"A-0000000696",
+	"FirstName":"Jeffrey",
+	"LastName":"Schell",
+	"Address":"2253 Farland Ave, San Antonio, TX 78218",
+	"City":"San Antonio",
+	"State":"TX - Texas",
+	"ZipCode":"78218",
+	"NCIC":"123456789",
+	"OAN":"1234",
+	"Narrative":"Test Legacy 2",
+	"Hold":"Hold For Police",
+	"RecoveredLocation":"9461 Sunset Blvd",
+	"RecoveredCity":"Beverly Hills",
+	"RecoveredState":"CA - California",
+	"RecoveredZipCode":"90210",
+	"InPossLastName":"Schell",
+	"InPossFirstName":"Jeffrey",
+	"InPossOfAddress":"2253 Farland Ave",
+	"InPossOfCity":"San Antonio", 
+	"InPossOfState":"TX - Texas",
+	"InPossOfZipCode":"78218",
+	"Status":"Transferred To Another Officer",
+	"Disposition":"Transferred To Another Officer",
+	"PFCode":"Shaw",
+	"TotalValue":"100.00",
+	"RecoveredValue":"100.00",
+	"Name":"Schell, Jeffrey"
+},
+"67679": {
+	"CaseNo": "25-000115",
+	"Reason": "Safekeeping",
+	"Property": "Clothes/Furs",
+	"Description": "To verify test case - 67679 and CRM#195253",
+	"Status": "Sent to the Property Room",
+	"StorageLocation": "L0000000159",
+	"PropertyNo": "25-000014"
+},
+"67683": {
+	"UserName": "P002",
+	"Password": "Pnx@2016",
+	"CaseNo": "25-000117",
+	"PFCode": "P002",
+	"Status": "[Released (Closed)]",
+	"Status2": "[Sent to Lab (From within the Property Room)]",
+	"History": "Closed: [Yes] --> [No]",
+	"History2": "Received By: Shaw, Billing-Shaw",
+	"Action": "STL-Sent to Lab (From within the Property Room)",
+	"ReceivedBy": "Shaw"
+},
+"67712": {
+	"CaseNo": "25-000118",
+	"PropertyNo": "25-000016-1",
+	"PropertyNo1": "25-000016-1",
+	"PropertyNo2": "25-000016-2",
+	"PropertyNo3": "25-000016-3",
+	"PropertyNo4": "25-000016-4",
+	"StorageLocation": "L0000000150",
+	"Status1": "Moved Into the Property Room",
+	"Status2": "Sent to the Property Room"
+},
+"67718": {
+	"CaseNo": "25-000119",
+	"PropertyNo": "25-000017-1",
+	"PropertyNo1": "25-000017-2",
+	"PropertyNo2": "25-000017-1",
+	"Status": "Sent to the Property Room",
+	"ScanBarcodeRFID1": "1001",
+	"ScanBarcodeRFID2": "1002"
+},
+"67917": {
+	"PropertyNo": "25-000018-1",
+	"PropertyType1": "Article",
+	"CodeValue": "STO",
+	"Reason": "Stolen",
+	"Reason1": "Stolen",
+	"Status": "PRO-Moved Into the Property Room",
+	"Status1": "Moved Into the Property Room",
+	"Disposition": "DAL-Destroyed (Closed)",
+	"Status2": "Destroyed (Closed)",
+	"Description": "Stolen Property without filling recovered Tab",
+	"Property1": "Alcohol",
+	"Hold": "Hold For Police"
+},
+"67917B": {
+	"BarcodeRFID": "1001",
+	"RFIDValue": "1001",
+	"Description": "Stolen Property"
+	},
+	"68140":{
+		"CaseNo":"25-000118",
+		"PropertyNo1":"25-000016-1",
+		"Notes1":"Property Notes verify",
+		"Notes2":"Property Moved to PR",
+		"Notes3":"Property Released for this case"
+	},
+	"68345":{
+		"AuditNo":"25-000002",
+		"CaseNo1":"25-000134",
+		"AuditResult1":"--",
+		"PropertyNo1":"25-000023-1"
+	},
+	"68372": {
+		"CaseNo": "25-000142",
+		"OfficerPF": "AUTO",
+		"OfficerPFDescription": "Prophoenix, Automation",
+		"NIBRS": "240 - Motor Vehicle Theft",
+		"NIBRS1": "240 - Motor Vehicle Theft",
+		"Reason": "Counterfeited/Forged",
+		"Reason1": "Counterfeited/Forged",
+		"Property": "Watercraft",
+		"Property1": "Watercraft",
+		"Description": "To verify TC - 68372",
+		"RegistrationNo1": "BH0012025A",
+		"RegistrationState1": "WI",
+		"BoatHullNo1": "BH0001",
+		"Year": "2025",
+		"Make": "Alumacraft",
+		"Propulsion1": "250RPM",
+		"Material1": "Aluminum",
+		"Boat1": "10",
+		"Color1": "Black",
+		"Color2": "Blue",
+		"Quantity": "1",
+		"Value": "100",
+		"OwnerNameID": "A-0000000696",
+		"FirstName": "Jeffrey",
+		"LastName": "Schell",
+		"Address": "2253 Farland Ave, San Antonio, TX 78218",
+		"City": "San Antonio",
+		"State": "TX - Texas",
+		"ZipCode": "78218",
+		"NCIC": "123456789",
+		"OAN": "1234",
+		"Narrative": "Test Legacy 3",
+		"Hold": "Hold For Police",
+		"RecoveredLocation": "9461 Sunset Blvd",
+		"RecoveredCity": "Beverly Hills",
+		"RecoveredState": "CA - California",
+		"RecoveredZipCode": "90210",
+		"InPossLastName": "Schell",
+		"InPossFirstName": "Jeffrey",
+		"InPossOfAddress": "2253 Farland Ave",
+		"InPossOfCity": "San Antonio",
+		"InPossOfState": "TX - Texas",
+		"InPossOfZipCode": "78218",
+		"Status": "Transferred To Another Officer",
+		"Disposition": "Transferred To Another Officer",
+		"PFCode": "Shaw",
+		"TotalValue": "100.00",
+		"RecoveredValue": "100.00",
+		"Name": "Schell, Jeffrey",
+		"CurrentStatus":"Transferred To Another Officer (Hold: Hold For Police)"
+	},
+	"68396": {
+		"CaseNo": "25-000109",
+		"OfficerPF": "AUTO",
+		"OfficerPFDescription": "Prophoenix, Automation",
+		"NIBRS": "240 - Motor Vehicle Theft",
+		"NIBRS1": "240 - Motor Vehicle Theft",
+		"Reason": "Evidence",
+		"Reason1": "Evidence",
+		"Property": "Aircraft",
+		"Property1": "Aircraft",
+		"Description": "To verify TC - 68396",
+		"Color1": "Black",
+		"Color2": "Blue",
+		"Model": "Ethihad",
+		"ModelNo": "Ethihad",
+		"Quantity": "1",
+		"Value": "100",
+		"OwnerNameID": "A-0000000696",
+		"FirstName": "Jeffrey",
+		"LastName": "Schell",
+		"Address": "2253 Farland Ave, San Antonio, TX 78218",
+		"City": "San Antonio",
+		"State": "TX - Texas",
+		"ZipCode": "78218",
+		"NCIC": "987654321",
+		"OAN": "4321",
+		"Narrative": "Test Legacy 4",
+		"Hold": "Hold For Police",
+		"RecoveredLocation": "9461 Sunset Blvd",
+		"RecoveredCity": "Beverly Hills",
+		"RecoveredState": "CA - California",
+		"RecoveredZipCode": "90210",
+		"InPossLastName": "Schell",
+		"InPossFirstName": "Jeffrey",
+		"InPossOfAddress": "2253 Farland Ave",
+		"InPossOfCity": "San Antonio",
+		"InPossOfState": "TX - Texas",
+		"InPossOfZipCode": "78218",
+		"Status": "Sent to Lab (Outside of the Property Room)",
+		"Disposition": "Sent to Lab (Outside of the Property Room)",
+		"TotalValue": "100.00",
+		"RecoveredValue": "100.00",
+		"Name": "Schell, Jeffrey",
+		"CurrentStatus":"Sent to Lab (Outside of the Property Room) (Hold: Hold For Police)",
+		"SentToFirstName": "Jeffrey",
+		"SentToLastName": "Schell",
+		"SentToAddress1": "2253 Farland Ave, San Antonio, TX 78218",
+		"SentToAddress2": "2253 Farland Ave",
+		"SentToCity": "San Antonio",
+		"SentToState": "TX - Texas",
+		"SentToZipcode": "78218",
+		"Name1":"Schell, Jeffrey",
+		"Remarks":"Evidence Property",
+		"CategoryCode":"Clothing",
+		"SerialNo":"S10012025",
+		"Brand":"Allen Solley"
+	},
+	"68736": {
+		"CaseNo": "25-000146",
+		"NIBRS": "120 - Robbery",
+		"Property": "Fuel",
+		"Description": "For TC ID - 68736",
+		"Value": "1500",
+		"OwnerNameID": "A-0000000696",
+		"StorageLocation": "L0000000162",
+		"Disposition": "Mailed To State Lab of Hygiene - Closed",
+		"ReleasedToLastName": "Schell",
+		"ReleasedToFirstName": "Jeffrey",
+		"Status": "Mailed To State Lab of Hygiene - Closed",
+		"RecentHistory": "[Mailed To State Lab of Hygiene - Closed]",
+		"History": "Closed: [No] --> [Yes]"
+	},
+	"69492":{
+		"CADCFS":"100",
+		"Location":"2253 Farland Ave",
+		"CADDisposition":"I"
+	},
+	"67967": {
+		"CADCFS": "100",
+		"Location": "2253 Farland Ave",
+		"CADDisposition": "I",
+		"Type": "Incident Report",
+		"NIBRS": "120 - Robbery",
+		"Property": "Clothes/Furs",
+		"Description": "For TC - 67967",
+		"OwnerNameID": "A-0000000552",
+		"StorageLocation": "L0000000162"
+	},
+	"69753":{
+		"StorageBuilding":"01 - Building A1",
+		"StorageBuild1":"Building A1",
+		"StorageShelf1":"01 - Division 01",
+		"StorageShelf2":"Division 01",
+		"StorageRoom":"02 - Burned item section",
+		"StorageRoom1":"Burned item section",
+		"Description":"Row 1 shelf 1 rack1 bin 2 lap 3 shel d",
+		"Description1":"Row 1 shelf 1 rack1 bin 2 lap 3 shel d",
+		"Code":"L0000000001"
+	},
+	"69782": {
+		"StorageBuilding": "02 - Building A2",
+		"StorageRoom": "02 - Burned item section",
+		"StorageRow": "04 - Row 4",
+		"StorageShelf": "03 - Division 03",
+		"Description": "Legacy Evidence Locker",
+		"Description1": "Legacy Evidence Locker",
+		"Notes": "To verify able to create the evidence locker"
+	},
+	"69786":{
+		"AuditName":"Test Random is mandate",
+		"AuditBy":"AUTO",
+		"AuditType":"Random, Selected"
+	},
+	"69803": {
+		"PropertyNo": "25-000025-1",
+		"Action": "STL-Sent to Lab (From within the Property Room)",
+		"Action2": "Sent to Lab (From within the Property Room)",
+		"Action1": "RFL-Received from Lab",
+		"Action3": "Received from Lab",
+		"RelinquishedBy": "AUTO",
+		"RelinquishedBy1": "Shaw",
+		"ReceivedBy": "Shaw",
+		"ReceivedBy1": "AUTO",
+		"Status": "Received from Lab",
+		"PFCode": "AUTO",
+		"LastAction1": "Moved Into the Property Room",
+		"LastAction2": "Sent to Lab (From within the Property Room)",
+		"LastAction3": "Received from Lab",
+		"RecentHistory": "[Received from Lab]"
+	},
+	"69822":{
+		"PropertyNo":"25-000025-1"
+	},
+	"69848":{
+		"PropertyNo":"25-000024-1",
+		"CaseNo":"25-000151",
+		"Description":"For TC - 69848"
+	},
+	"69904": {
+		"CADCFS": "100",
+		"CADDisposition": "I",
+		"Location":"2253 Farland Ave",
+		"NotificationEmail": "absar.a@prophoenix.com",
+		"NIBRS": "120 - Robbery",
+		"Description": "For TC - 69904",
+		"OwnerNameID": "A-0000000552",
+		"StorageLocation": "L0000000162",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Supervisor": "AUTO",
+		"PrimeInvestigator": "Shaw",
+		"CaseStatus":"Closed - No Further Leads (CM)"
+	},
+	"69969":{
+		"CaseNo":"25-000160",
+		"Type":"Incident Report",
+		"PropertyNo1":"25-000026-1",
+		"PropertyNo2":"25-000026-2",
+		"Supervisor":"AUTO"
+	},
+	"70504": {
+		"CaseNo": "25-000145",
+		"NIBRS": "120 - Robbery",
+		"Property": "Clothes/Furs",
+		"Description": "For TC - 70504",
+		"OwnerNameID": "A-0000000552",
+		"Status": "Retained by the Investigating Officer"
+	},
+	"70514": {
+		"CaseNo": "25-000129",
+		"NIBRS": "120 - Robbery",
+		"NIBRS1": "120 - Robbery",
+		"Reason":"Lost",
+		"Reason1":"Found",
+		"Property": "Clothes/Furs",
+		"Property1": "Clothes/Furs",
+		"Description": "For TC - 70514",
+		"OwnerNameID": "A-0000000552",
+		"Status": "Transferred To Another Officer",
+		"LastName":"Benjamin",
+		"FirstName":"Levi",
+		"PFCode":"Shaw"
+	},
+	"72105": {
+		"AuditName": "For TC - 72105",
+		"AuditLocation": "L0000000164",
+		"CaseNo1": "25-000184",
+		"PropertyNo1": "25-000035-1",
+		"PropertyDescription1": "To verify TC - 72105",
+		"AuditResult1": "Audited",
+		"Action": "[Audit]"
+	},
+	"72309":{
+		"PropertyType":"Other",
+		"Description":"For verify the TC - 72309",
+		"DealerID":"1005-Walnut Corporation"
+	},
+	"72312": {
+		"PropertyNo1": "25-000027-1",
+		"PropertyNo2": "25-000028-1",
+		"PropertyNo3": "25-000029-1",
+		"ScanBarcodeRFID1": "25271",
+		"ScanBarcodeRFID2": "25281",
+		"ScanBarcodeRFID3": "25291",
+		"Status1": "Sent to the Property Room",
+		"Status2": "Moved Into the Property Room",
+		"StorageLocation": "L0000000162"
+	},
+	"72331":{
+		"CaseNo":"25-000168",
+		"Description":"To verify TC - 72231",
+		"StorageLocation":"L0000000162",
+		"PropertyNo":"25-000030-1",
+		"PropertyNo1":"25-000030-1"
+	},
+	"72367": {
+		"CaseNo": "25-000181",
+		"Description": "To verify TC - 72367",
+		"StorageLocation": "L0000000162",
+		"Subject": "Verification for TC - 72367"
+	},
+	"72392": {
+		"StorageLocation": "L0000000162",
+		"Action": "REL-Released (Closed)",
+		"Status": "Released (Closed)",
+		"Description": "To verify TC - 72392",
+		"OwnerNameID": "A-0000000696",
+		"CADCFS": "100",
+		"Location": "2253 Farland Ave",
+		"CADDisposition": "I"
+	},
+	"72422": {
+		"StorageLocation": "L0000000002"
+	},
+	"72427": {
+		"CaseNo": "25-000171",
+		"Description": "To verify TC - 72427",
+		"StorageLocation": "L0000000162",
+		"OwnerNameID": "A-0000000696",
+		"Narrative": "Property Narrative",
+		"RichText1": "Property Narrative",
+		"RichText2": "Bulletin",
+		"RichText3": "Narrative",
+		"RichText4": "Numbered",
+		"RichText5": "List",
+		"RichText6": "Test",
+		"Narrative1":"Property Narrative    Bulletin    Narrative    Numbered    List    Test"
+	},
+	"72438":{
+		"CaseNo":"24-000088",
+		"PropertyNo":"24-000015-1"
+	},
+	"72442":{
+		"CaseNo":"25-000172",
+		"PropertyNo1":"25-000031-1",
+		"PropertyNo2":"25-000032-1",
+		"AuditLocation":"L0000000163",
+		"AuditName":"Audit for TC - 72442",
+		"AuditType":"Full"
+	},
+	"72472": {
+		"CaseNo": "25-000174",
+		"PropertyNo1": "25-000033-1",
+		"PropertyNo2": "25-000033-2",
+		"Action": "REL-Released (Closed)",
+		"Status1": "Released (Closed)",
+		"LastName": "Schell",
+		"FirstName": "Jeffrey",
+		"ReleasedToAddress1": "2253 Farland Ave, San Antonio, TX 78218",
+		"ReleasedToCity1": "San Antonio",
+		"ReleasedToState1": "TX - Texas",
+		"ReleasedToZip1": "78218",
+		"AtypeNameID": "A-0000000696"
+	},
+	"72495": {
+		"CaseNo": "25-000175",
+		"Description": "To verify TC - 72495",
+		"InitialStorageLoc1": "STL100",
+		"StoragePF1": "STL100"
+	},
+	"72527": {
+		"UserName1": "P001",
+		"UserName2": "P002",
+		"Password1": "Pnx@2016",
+		"Database":"AutomationPoliceMJ",
+		"CaseNo": "25-000176",
+		"Type1": "Incident Report",
+		"Supervisor": "P002",
+		"ReportType": "Incident Report",
+		"PropertyNo": "25-000034-1",
+		"SerialNo": "7896"
+	},
+	"74300":{
+		"StorageLocationText1":"L0000000001",
+		"InitialStorageLoc1":"L0000000001"
+	},
+	"74304":{
+		"Status1":"Moved Into the Property Room"
+	},
+	"74307":{
+		"CaseNo":"26-000022",
+		"PropertyNo":"26-000001-1"
+	},
+	"74317": {
+		"CaseNo": "26-000023",
+		"PropertyNo": "26-000002-1",
+		"PropertyNo1": "26-000002-1",
+		"PropertyNo2": "26-000002-1",
+		"Package1": "",
+		"Package2": "Bottle"
+	},
+	"74360":{
+		"CADCFS":"100",
+		"Location":"2253 Farland Ave",
+		"CADDisposition":"I",
+		"NIBRS":"120 - Robbery",
+		"Property":"Chemicals",
+		"Reason":"Evidence",
+		"Description":"To verify the TC - 74360",
+		"OwnerNameID":"A-0000000696",
+		"StorageLocation":"L0000000162",
+		"Action":"REL-Released (Closed)",
+		"Status":"Released (Closed)"
+	},
+	"74483":{
+		"CADCFS":"100",
+		"Location":"2253 Farland Ave",
+		"CADDisposition":"I",
+		"NIBRS":"120 - Robbery",
+		"Property":"Chemicals",
+		"Reason":"Evidence",
+		"Description":"To verify the TC - 74483",
+		"OwnerNameID":"A-0000000696",
+		"StorageLocation":"L0000000162",
+		"Supervisor":"AUTO",
+		"PrimeInvestigator":"P002",
+		"Division":"Administration",
+		"Section":"Accident Investigator"
+	},
+	"77531": {
+		"CaseNo": "26-000065",
+		"NIBRS": "100 - Kidnapping/Abduction",
+		"NIBRS1": "100 - Kidnapping/Abduction",
+		"Reason1": "--Select--",
+		"Property1": "--",
+		"Status1": "--",
+		"SerialNo": "262026",
+		"Brand": "Auto72",
+		"Color1": "Beige",
+		"Color2": "Black",
+		"Model": "Mod722026",
+		"OwnerNameID": "A-0000000888",
+		"NCIC": "369852",
+		"OAN": "65447",
+		"Hold": "Hold For Police ",
+		"Hold1": "--",
+		"RecoveredLocation": "2253 Farland Ave",
+		"InPossLastName": "Aaron",
+		"InPossFirstName": "Olivia",
+		"Name": "Aaron, Olivia",
+		"StorageLocation": "L0000000162",
+		"RFIDValue": "1622026",
+		"PackageMark": "1",
+		"ContainerMark": "1",
+		"Value": "0.00",
+		"Value1": "$0.00"
+	},
+	"77531A": {
+		"StorageLocation": "Location 02/",
+		"Description": "Location 02/!@",
+		"StorageLocation1": "L0000000159",
+		"StorageLocationDescription1": "Location 02/!@"
+	},
+	"77531B": {
+		"CaseNo": "20-000142",
+		"PropertyNo":"20-000025-1"
+	}
+}

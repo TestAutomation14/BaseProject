@@ -1,0 +1,60 @@
+{
+
+"32687":{
+"Question":"Define TestNG",
+"Answer":"Its a framework"
+
+},
+
+
+"32690":{
+"Question":"Define Java",
+"Answer":"Its a OOPS base Lanaguage its Effective for Any Tool"
+},
+"35346":{
+"Juris":["--","PX - ProPhoenix","BC - Brown County Police Department","GCP - Gloucester County Police Dept","TP - Tiffin Police Department","SC - Seneca County Police Dept","BP - Bloomville Police Dept"]
+},
+"44292":{
+"Module":"AI",
+"BucketName":"callaudio",
+"ResultBucket":"callaudioresults",
+"AccessKeyID":"AKIA4HP53NDE7WP7GIPJ",
+"SecretAccessKey":"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",
+"APIUrl":"https://ch175.prophoenix.com:8081/PNXAIAPI"
+},
+
+"36137":{
+"Question":"Define Selenium",
+"Answer":"Its a Automation Tool"
+},
+"55647": {
+	"FeatureName1": "Property Module Enhancements",
+	"VideoTitle1": "Property Module Enhancements",
+	"VideoTitle2": "Phoenix AI MugMatch - Sam"
+},
+"57961":{
+"UserName":"Admin",
+"Password":"Pleasant14",
+"Module":"AI",
+"ParameterID":"198"
+},
+
+"74289":{
+"Juris":"Px-ProPhoenix",
+"EnteredByPF":"AUTO",
+"Question":"What is the PF ID",
+"Answer":"Auto"
+},
+"76107":{
+"UserName":"AI02",
+"Password":"Pnx@2016",
+"LoginUserName":"AI02",
+"RoleAssignment":"Super Admin",
+"Question":"What is AI",
+"Answer":"Artigcial Intelligence",
+"EnteredByPF":"AI02",
+"Juris":"--",
+"SearchText":"What is AI",
+"RoleName":"Super Admin"	
+}
+}

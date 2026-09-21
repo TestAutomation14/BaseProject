@@ -1,0 +1,438 @@
+{
+ "187817": {
+    "EventCode": "AUTO",
+    "EventName": "Phoenix Team",
+    "CustomName": "Team Efforts",
+    "Customcolor": "Red",
+    "CustomTheme": "Red"
+  },
+  "187818": {
+    "PFCode": "AUTO",
+    "ResourceName": "Automation Team",
+    "DisplayName": "Automation"
+  },
+  "188779": {
+    "TourCode": "AUTO",
+    "Description": "Automation Team",
+    "Code": "AUTO",
+    "TourCode1": "PRO",
+    "Code1": "PRO"
+  },
+  "188780": {
+    "RotationCode": "ATR",
+    "Description": "Auto Rotation Team1",
+    "Tour": "Pnx - Phoenix",
+    "DayNo": "6",
+    "Code": "ATR",
+    "Code1": "PR",
+    "Tour1": "LINE - Line Tour"
+  },
+  "188781": {
+    "GroupCode": "WAT",
+    "Description": "Workgroup Auto",
+    "Shift": "Day Shift (1st)",
+    "RotationCode": "Swat Rotation",
+    "CalenderDisplayLabel": "Works",
+    "Group": "WAT",
+    "Rotation": "Swat Rotation",
+    "DisplayName": "Works",
+    "Group1": "WGAT"
+  },
+  "189977": {
+    "TimeCategoryCode": "SUP",
+    "Description": "Automation Support Works",
+    "ScheduleColor": "Pink",
+    "TimeCategory1": "HotFix Works",
+    "TimeCategory": "Automation Support Works"
+  },
+  "189978": {
+    "TimeTypeCode": "AUR",
+    "Description": "Auto Scripts Running",
+    "TimeCategory": "Vacation",
+    "MultiplicationFactor": "-2.00",
+    "TimeType": "AUR",
+    "TimeType1": "SCO"
+  },
+  "254467": {
+    "EventType": "Personnel Master",
+    "Subject": "BMW",
+    "Resource": "Raja, Sadaraj",
+    "EndTime": ""
+  },
+  "273897": {
+    "Juris": "BC - Brown County FireDepartment"
+  },
+  "285053": {
+    "JobGradeCode": "JG11",
+    "Description": "JobGrade11",
+    "LoginUserName": "auto",
+    "PFCode": "001",
+    "JobGrade": "JobGrade11",
+    "InactiveJobCode": "# JobGrade11"
+  },
+  "JobGradeEntryFire":
+	{
+	"JobGradeCode":"AUFI",
+	 "Description":"Auto Fire Test"
+	},
+	"13147":{
+	"TourCode":"Test",
+	"Description":"Automation"
+	},
+	"135730":{
+	"PFCode":"auto",
+	"TimeCategory":"Sick Leave",
+	"TimeType":"Sick Leave - FMLA"
+	},
+	"16348":{
+	"HolidayDate":"09/23/2023"
+	},
+	"21785":{
+	"TimeType":"VAC",
+	"TimeTypeCode":"VAC",
+	"TimeCategory":"Vacation",
+	"TimeType1":"VAC",
+	"PFCode":"Auto"
+	},
+	
+	"143759":{
+	"PFCode":"AUTO",
+	"TimeCategory":"Vacation",
+	"TimeType":"Vacation Leave"
+	},
+	
+	"143760":{
+	"PFCode":"AUTO",
+	"TimeCategory":"Vacation",
+	"PF1":""
+	},
+	
+	"23192":{
+	"Juris":"BC - Brown County Police Department",
+	"TimeCategoryCode":"AUT",
+	"Description":"Automation Task",
+	"ScheduleColor":"Orange"
+	},
+	
+"18596":{
+"JobGradeCode":"Mouint1",
+"Description":"trigger",
+"TimeTypeCode1":"--",
+"BaseMonth":"February",
+"Day":"--",
+"TimeTypeCode2":"Vacation Accrual",
+"JobGrade":"Job Grade 2"
+},
+"41447":{
+"TimeCategory":"Holidays"
+},
+"44320":{
+"JobGrade":"JG2",
+"JobGradeCode1":"SR27",
+"Description":"Scheduling Job",
+"AccrueBy1":"Bi Monthly",
+"AccrueBy2":"Bi-Weekly",
+"AccrueBy3":"Monthly",
+"AccrueBy4":"Quarterly",
+"AccrueBy5":"Semi-Annually",
+"AccrueBy6":"Yearly",
+"AccrueHours1":"1.00",
+"AccrueHours2":"0.23",
+"AccrueHours3":"0.50",
+"AccrueHours4":"1.50",
+"AccrueHours5":"3.00",
+"AccrueHours6":"6.00",
+"Level":"1"
+},
+"48789":{
+"Juris":"PX - ProPhoenix Fire Department"
+},
+"48505":{
+"EventCode":"1999",
+"EventName":"Automation1"
+},
+"48414":{
+"JobGrade":"JG2",
+"MaximumHoursCarryOver":"22%",
+"TimeTypeCode1":"Vacation Carry Over"
+},
+"55695":{
+"Workgroup":"Check All",
+"JobGrade":"Check All",
+"TimeCategory":"Vacation",
+"TimeType":"Vacation Leave"
+},
+
+"55990":{
+	"TimeType":"AR",
+	"JobGrade":"JG3",
+	"txtMinTime":"123456",
+	"txtMaxTime":"987654"
+},
+
+"55882":{
+	"TimeTypeCode":"354",
+	"Description":"Test",
+	"TimeCategory":"Vacation",
+	"MultiplicationFactor":"31",
+	"PFCode":"AUTPOL"
+},
+"55652":{
+	"RotationCode":"497",
+	"Description":"TestA7",
+	"Tour":"Pnx - Phoenix",
+	"Tour1":"Pnx -Phoenix",
+	"DayNo":"2"
+},
+
+"50916B":{
+	"GroupCode":"Test",
+	"Description":"Autotest",
+	"CalenderDisplayLabel":"7687645"
+},
+
+
+"50916C":{
+	"JobGradeCode":"RunA",
+	"Description":"testRunA",
+	"TimeTypeCode1":"Vacation Accrual",
+	"MaximumHoursCarryOver1":"test",
+	"AnnualMaxHoursCap1":"test",
+	"LifetimeMaxHoursCap1":"test",
+	"MaximumHoursCarryOver2":"1234896",
+	"AnnualMaxHoursCap2":"6325412",
+	"LifetimeMaxHoursCap2":"535435",
+	"MaximumHoursCarryOver":"1234"
+	},
+	"70147": {
+		"ScreenTitle1": "Calendar",
+		"ScreenTitle2": "Event Code",
+		"ScreenTitle3": "Event Resource",
+		"ScreenTitle4": "Holidays",
+		"ScreenTitle5": "Job Grade",
+		"ScreenTitle6": "Roster",
+		"ScreenTitle7": "Schedule Settings",
+		"ScreenTitle8": "Time Category",
+		"ScreenTitle9": "Time Entry",
+		"ScreenTitle10": "Time Report",
+		"ScreenTitle11": "Time Search",
+		"ScreenTitle12": "Trade Swap Search",
+		"ScreenTitle13": "Work Sheet",
+		"TimeTypeCode1": "V",
+		"Description1": "Vacation",
+		"Notes": "Vacation leave",
+		"MultiplicationFactor": "+1.5",
+		"TimeCategory": "Vacation",
+		"String": "Code",
+		"SpecialChar": "@@@@",
+		"Custom1": "Test Time type Entry",
+		"Custom2": "Test Time type Entry",
+		"Reportable1": "Regular",
+		"Reportable2": "Adjustment",
+		"Reportable3": "Accrual",
+		"Reportable4": "--Inq 1305 --",
+		"CodeUsedToIdentify1": "Work",
+		"CodeUsedToIdentify2": "Exception",
+		"CodeUsedToIdentify3": "--Inq 2949 --",
+		"CodePermission1": "General",
+		"CodePermission2": "Restricted",
+		"CodePermission3": "System",
+		"CodePermission4": "--Inq 1239 --",
+		"DisplaySortOrder": "1",
+		"Account": "1"
+	},
+	"70337": {
+		"TimeType": "MSD"
+	},
+	"70423": {
+		"TimeCategory1": "HotFix Works",
+		"TimeCategory2": "Vacation",
+		"TimeCategory3": "Holidays",
+		"TimeCategory4": "Sick Leave",
+		"TimeCategory5": "Compensatory Time",
+		"TimeCategory6": "Casual Leave",
+		"TimeCategory7": "Personal Leave",
+		"TimeCategory8": "Overtime",
+		"TimeCategory9": "Injured",
+		"TimeCategory10": "Disciplinary"
+	},
+	"70159": {
+		"TabName1": "Tour (Shift Hours)"
+	},
+	
+	"74469":{
+	"MandatoryLabelText0":"Group",
+	"MandatoryLabelText1":"Description",
+	"MandatoryLabelText2":"Schedule Name",
+	"MandatoryLabelText3":"Rotation Code",
+	"MandatoryLabelText4":"Start Date",
+	"MandatoryLabelText5":"Display Label for Calendar View",
+	"MandatoryLabelText6":"Display Label for Schedule View",
+	"NonMandatoryLabelText0":"Display Sort Seq",
+	"NonMandatoryLabelText1":"Background Color",
+	"NonMandatoryLabelText2":"Schedule Min.",
+	"NonMandatoryLabelText3":"Default Total Hours Worked",
+	"NonMandatoryLabelText4":"Notes",
+	"NonMandatoryLabelText5":"Inactive?",
+	"GroupCode1":"74469",
+	"GroupLengthValue":"6",
+	"GroupLength":"",
+	"specialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc123456",
+	"DescriptionLength":"60",
+	"GroupCode":"7446974469",
+	"Description1":"Automation",
+	"Shift":"--Add 1010 --",
+	"Shift1":"Day Shift (1st)",
+	"RotationCode":"Swat Rotation",
+	"CalenderViewspecialChars":",.?;'{}[];',!@#$%^&*()_+",
+	"CalenderDisplayLabel1":"ABC36325",
+	"CalenderDisplayLabel2":"",
+	"ScheduleViewspecialChars":",.?;'{}[];',!@#$%^&*()_+",
+	"ScheduleView0":"EFG12345",
+	"ScheduleViewFieldLength":"6",
+	"DisplaySortSeqspecialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc",
+	"DisplaySorSeq0":"233",
+	"DisplaySortLength":"2",
+	"BackGroundColor":"Blue",
+	"ScheduleMinspecialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc",
+	"ScheduleMin0":"1234567",
+	"ScheduleMinFieldLength":"5",
+	"DefualtTotalHoursWorkedspecialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc",
+	"DefualtTotalHoursWorked0":"1234",
+	"DefualtTotalHoursWorkedFieldLength":"8",
+	"NotesFieldLength":"225",
+	"SaveMessage":"(3) Do You Want To Save All Of The Entered Details?",
+	"color0":"rgba(0, 0, 0, 1)",
+	"color1":"rgba(0, 0, 0, 1)",
+	"color2":"rgba(0, 0, 0, 1)",
+	"color3":"rgba(0, 0, 0, 1)",
+	"color4":"rgba(0, 0, 0, 1)",
+	"color5":"rgba(0, 0, 0, 1)"
+
+	},
+	
+	
+	"74598":{
+	"ColumnName1":"Group",
+	"ColumnName2":"Description",
+	"ColumnName3":"Shift",
+	"ColumnName4":"Rotation",
+	"ColumnName5":"Calendar Label",
+	"ColumnName6":"Schedule Label",
+	"ColumnName7":"Sort",
+	"ColumnName8":"Start Date"
+
+	},
+	
+	"74391":{
+	"PastHoliday":"AutomationLeave",
+	"HolidayDescription":"TeamLeave"
+	
+	},
+	
+	"74616":{
+	
+	"TourCode1":"123456",
+	"Description":"TourEntryFucntioanlity",
+	"Notes":"VerifyThatTourEntryFucntioanlityInScheduleSettingsScreen",
+	"DisplaySortSeq":"100",
+	"TourCodeLength":"4",
+	"DescriptionLength":"60",
+	"NotesLength":"225",
+	"DisplaySeqLength":"2",
+	"specialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc123",
+	"SortSeqspecialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc",
+	"TourDefinesLabel":"A Tour defines the start and end times for a shift, such as 0800-1600 hours. A single Tour cannot exceed 24 hours.",
+	"TabName0":"Tour (Shift Hours)",
+	"ColumnName0":"Code",
+	"ColumnName1":"Description",
+	"ColumnName2":"Time From",
+	"ColumnName3":"Time To",
+	"ColumnName4":"Sort"
+	
+	},
+	"74680":{
+	"ColumnName0":"Day",
+	"ColumnName1":"Tour",
+	"ColumnName2":"Time From",
+	"ColumnName3":"Time To",
+	"ColumnName4":"Reason Code",
+	"RotationCode":"2251",
+	"Description":"VerifyThatRotationEntry",
+	"NotesLength":"225",
+	"DayNo":"22",
+	"ScheduleMin":"2",
+	"Tour1":"SCH - Scheduling Testing",
+	"Tour":"Pnx - Phoenix",
+	"Tour0":"Pnx - Phoenix",
+	"ReasonCode0":"On Duty",
+	"TimeFrom0":"8:42",
+	"TimeTo0":"22:42",
+	"Tour2":"--",
+	"RotationCode0":"5545",
+	"Description0":"FunctionalityInSchedulingSettings",
+	"DayNo0":"3",
+	"ScheduleMin0":"3",
+	"ReasonCode1":"Off Duty",
+	"TimeFrom1":"5:45",
+	"TimeTo1":"23:45",
+	"DescriptionLength":"60",
+	"RotationCodeLength":"4",
+	"specialChars":",.?;'{}[];',!@#$%^&*()_+ABCabc123",
+	"specialCharsAndAlpha":",.?;'{}[];',!@#$%^&*()_+ABCabc",
+	"DaysNoLength":"3",
+	"RowCount":"0",
+	"ScheduleMin1":"4",
+	"ScheduleMin3":"0",
+	"DayNo3":"0",
+	"Code":"2251",
+	"Code0":"5545",
+	"RotationDefinationLabelText":"A Rotation defines the pattern of a schedule related to work days and off days before the sequence is repeated, e.g. 5-2, 5-2, 5-3 or 5-2."
+	
+	
+	},
+	
+	"74705":{
+	"JobGrade":"JG3"
+	},
+	
+	"74710":{
+	"Day0":"1",
+	"Day1":"2",
+	"Day2":"3",
+	"Day3":"4",
+	"Day4":"5",
+	"Day5":"6",
+	"Day6":"7"
+	
+	
+	},
+	
+	"74774":{
+	
+	"GroupCode":"8080",
+	"Description":"ShiftProcessRotation",
+	"Shift":"Day Shift (1st)",
+	"RotationCode":"Process Rotation",
+	"CalenderDisplayLabel":"3",
+	"ScheduleView0":"3",
+	"DisplaySorSeq0":"3",
+	"BackGroundColor":"Blue",
+	"ScheduleMin0":"23",
+	"DefualtTotalHoursWorked0":"2",
+	"Group":"8080"
+
+	},
+	
+	"74776":{
+	"Height":"868",
+	"Width":"1280",
+	"Expectedvpwidth":"1280",
+	"Expectedvpheight":"839"
+	},
+	"76340": {
+		"Shift1": "Day Shift (1st)",
+		"Group1": "Workgroup A",
+		"PFName1": "Morgan, Alex"
+	}
+}

@@ -1,0 +1,76 @@
+{	
+	"23150": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FleetID": "VJ5455S",
+		"Description": "Patrol Vehicle",
+		"Make": "AAWL",
+		"Year": "2024",
+		"Model": "TL",
+		"VinNo": "IKV56532",
+		"StorageLocation": "Location 1",
+		"ServiceType": "State Inspection",
+		"Mileage": "10.0",
+		"Color": "Black"
+	},
+	"23150A": {
+		"ServicedBy": "Auto"
+	},
+	"53083B": {
+		"Category": "Vehicle Equipment",
+		"Make": "Other",
+		"Type": "Traffic Cones"
+	},
+	"55002B":{
+		"FleetID":"1003"
+	},
+	"55856B": {
+		"InventoryNo": "25-000004",
+		"InventoryNo1": "25-000004",
+		"ActivityType1": "Inventory Service",
+		"ActivityType2": "Out of Service",
+		"Category1": "ASSET - Asset/Inventory",
+		"Category2": "FLEET - Fleet Activity",
+		"Subject1": "25-000004 Automatic Save",
+		"Subject2": "FL001 Automatic Save",
+		"FleetID": "FL001"
+	},
+	"55164B": {
+		"InventoryNo": "25-000001",
+		"InventoryNo1": "25-000001",
+		"Comment": "Color Verification",
+		"Comments": "Color Verification",
+		"UnitCost": "100",
+		"PFCode": "3235",
+		"UpdatedBy": "Auto",
+		"FileName1": "65.pdf",
+		"By": "Auto",
+		"Description":"Team, Automation"
+	},
+	"55760B": {
+		"InventoryName1": "Inventory",
+		"InventoryName2": "Animal",
+		"InvName1": "Inventory",
+		"InvName2": "Animal"
+	},
+	"62534B": {
+		"InventoryName": "Inventory",
+		"InvName": "Inventory",
+		"Category": "Ammunition",
+		"Type": "Duty Ammunition",
+		"Make": "Other",
+		"Action1": "Out-of-Service",
+		"Action2": "In-Service",
+		"QtyReceived": "5",
+		"UnitCost": "100",
+		"Location1": "Inventory 1",
+		"Status1": "Out-of-Service",
+		"Status2": "Out-of-Service",
+		"Duration1": "2 d ",
+		"Duration2": "1d "
+	},
+"68197B":{
+"Date1":"02/15/2018",
+"LastTest":"02/15/2018"
+}
+}

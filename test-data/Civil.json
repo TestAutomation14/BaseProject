@@ -1,0 +1,568 @@
+{
+  "148812": {
+    "CivilProcessNo": "18-000001",
+    "CivilNo": "18-000001",
+    "LastName": "Raja",
+    "FirstName": "Sadaraj"
+  },
+  "148814": {
+    "District": "WI01",
+    "City": "District 9",
+    "Miles": "105",
+    "PostLocation": "188 Maple Tree Rd",
+    "Mileage": "105"
+  },
+  "148915": {
+    "CivilID": "1489",
+    "CourtCaseNo": "8915",
+    "PaperType1": "Pro",
+    "Location": "6 Jefferson Ave;PX",
+    "Type": "Defendant",
+    "LastName": "Vinton",
+    "FirstName": "Raja",
+    "Type1": "Defendant"
+  },
+  "155203": {
+    "District": "NJ555",
+    "City": "New Jersy",
+    "PostLocation": "10 Yuma Trl",
+    "Mileage": "85",
+    "Address": "10 Yuma Trl"
+  },
+  "155212": {
+    "District": "DNU",
+    "City": "Do Not Use"
+  },
+  "155961": {
+    "InvoiceNo": "17-000045",
+    "Name": "Michael,Owen",
+    "Address": "1 Forster Ave",
+    "CivilID": "10001",
+    "Amount": "25"
+  },
+  "169133": {
+    "Code": "LOA2",
+    "Description": "Letter of Authority",
+    "FeeType": "Paper Fee",
+    "PaperFee": "100",
+    "Fee": "$100.00",
+    "FeeType1": "Service Fee",
+    "PaperFee1": "200",
+    "Fee1": "$200.00",
+    "PaperCode": "LOA2",
+    "PaperType": "Letter of Authority",
+    "ServiceFee": "200"
+  },
+  "169134": {
+    "PaperCode": "PP01",
+    "PaperType": "Pro Documents"
+  },
+  "169135": {
+    "CivilID": "PPC01",
+    "CourtCaseNo": "456",
+    "PaperType": "PNX01",
+    "ExecutionAmount": "100",
+    "Code": "PNX01",
+    "CourtNo": "456",
+    "Execution": "$100.00",
+    "PaperFee": "$150.00",
+    "ServiceFee": "$200.00",
+    "Debit": "$100.00"
+  },
+  "169137": {
+    "District": "NJ001",
+    "City": "New Jersey",
+    "Miles": "200",
+    "PostLocation": "7 Coopers Kill Rd",
+    "Mileage": "200.0"
+  },
+  "169138": {
+    "District": "MN",
+    "City": "Moorestown",
+    "PostLocation": "225 Dogwood St"
+  },
+  "173625": {
+    "PaperType": "Automation Property",
+    "Code": "PRO",
+    "CivilID": "PC001",
+    "CourtCase": "74AS",
+    "Custom": "Automation Custom",
+    "Paper": "PRO"
+  },
+  "173626": {
+    "CivilProcessNo": "18-000002",
+    "CivilNo": "18-000002",
+    "CivilID": "PC001",
+    "NameID1": "A-0000000063",
+    "LastName": "Williams",
+    "FirstName": "Mark"
+  },
+  "173627": {
+    "CivilProcessNo": "18-000003",
+    "CivilNo": "18-000003",
+    "CivilID": "PC002",
+    "Name": "Mikevjr, Morganhly",
+    "LastName": "Mikeqtd",
+    "FirstName": "Morganhbu",
+    "NameID": "A-0000000028",
+    "Address": "915 Oswego St",
+    "Associates": "Mikeqtd, Morganhbu"
+  },
+  "173628": {
+    "CivilRefID": "PC002",
+    "CourtCaseNo": "AS234",
+    "CivilNo": "18-000003",
+    "CivilID": "PC002",
+    "Name": "Mikepty, Morganlkm-Not Served",
+    "Location": "915 Oswego St",
+    "Name1": "Mikexbm, Morgandtu-Not Served",
+    "ServiceFee": "55"
+  },
+  "173629": {
+    "CivilRefID": "PC003",
+    "CourtCaseNo": "AS245",
+    "CivilNo": "18-000004",
+    "CivilID": "PC003",
+    "Name": "Mikevjr, Morganhly",
+    "Property": "Gun",
+    "Description": "To Found some Guns in Street",
+    "Names": "Mikeqtd, Morganhbu"
+  },
+  "173630": {
+    "CivilProcessNo": "18-000004",
+    "CivilNo": "18-000004",
+    "CivilID": "PC003",
+    "PropertyLocation": "915 Oswego St",
+    "PropertyLocation1": "85 Cardinal Ave",
+    "BuyerID": "A-0000000030",
+    "BuyerName": "Mikeqwo, Morganpfu",
+    "District": "WI",
+    "Location": "85 Cardinal Ave"
+  },
+  "173631": {
+    "PaperType": "Property Sezied",
+    "ServiceAction": "Served",
+    "CivilNo": "18-000004",
+    "CivilID": "PC003",
+    "Amount": "500",
+    "Name": "Mikeqtd, Morganhbu",
+    "Credit": "$500.00",
+    "Debit": "$500.00"
+  },
+  "173632": {
+    "PaperType": "Property Sezied",
+    "ServiceAction": "Served",
+    "CivilNo": "18-000004",
+    "CivilID": "PC003",
+    "AuthBy": "AUTO",
+    "Password": "Pnx@2016"
+  },
+  "173633": {
+    "CivilProcessNo": "18-000002",
+    "CivilNo": "18-000002",
+    "CivilID": "PC001",
+    "Heading": "Civil Process",
+    "Heading1": "Paper Type"
+  },
+  "173635": {
+    "CivilID": "PPC02",
+    "PaperType": "PRO",
+    "Location": "85 Cardinal Ave",
+    "District": "WI",
+    "Code": "PRO",
+    "Description": "Automation Property",
+    "PaperFee": "$25.00",
+    "ServiceFee": "$25.00"
+  },
+  "173636": {
+    "CivilID": "PPC03",
+    "PaperType": "SEZ",
+    "Code": "SEZ",
+    "Description": "Automation Seized Property",
+    "PaperFee": "$50.00",
+    "ServiceFee": "$50.00"
+  },
+  "173637": {
+    "CivilID": "PPC04",
+    "PaperType": "TRO",
+    "NameID": "A-0000000005",
+    "Code": "TRO",
+    "Description": "Automation TRO",
+    "PaperFee": "$75.00",
+    "ServiceFee": "$50.00"
+  },
+  "173638": {
+    "CivilID": "PPC05",
+    "PaperType": "OTH",
+    "OtherPaper": "Automation Other Paper",
+    "Code": "OTH",
+    "Description": "Automation Other",
+    "PaperFee": "$100.00",
+    "ServiceFee": "$25.00"
+  },
+  "173639": {
+    "CivilID": "PPC06",
+    "PaperType": "BNK"
+  },
+  "173640": {
+    "CivilID": "PPC07",
+    "PaperType": "PRO",
+    "Location": "34 Yellow Cote Rd",
+    "District": "NJ",
+    "Code": "PRO",
+    "PaperType1": "SEZ",
+    "Code1": "SEZ",
+    "PaperType2": "TRO",
+    "Code2": "TRO",
+    "PaperType3": "OTH",
+    "OtherPaper": "Automation Other",
+    "Code3": "OTH",
+    "PaperFee": "$100.00",
+    "ServiceFee": "$50.00",
+    "FeeBalance": "$250.00"
+  },
+  "173642": {
+    "District": "WI001",
+    "City": "Wisconsin",
+    "PostLocation": "198 Randall St",
+    "PostLocation1": "1801 Maple Ridge Rd",
+    "PostLocation2": "9801 Siberian Dr"
+  },
+  "199138": {
+    "CivilProcessNo": "18-000007",
+    "CivilID": "CP2018",
+    "Status": "Open",
+    "Type": "Defendant",
+    "NameID1": "A-0000000056",
+    "Address": "85 Cardinal Ave"
+  },
+  "203134": {
+    "PaperType": "Phoenix Documents",
+    "CivilRefID": "ATC9001",
+    "CivilNo": "19-000001",
+    "CivilID":"ATC9001"
+  },
+  "243233": {
+    "CivilProcessNo": "20.000001",
+    "CivilID": "20-000001",
+    "Action": "Served",
+    "Name": "Simon, Mark-Not Served",
+    "Reason": "Recalled",
+    "Address": "915 Oswego St"
+  },
+  "244231": {
+    "ServiceOfficer": "AUTO",
+    "ServiceAction": "Served"
+  },
+
+  "281037":
+  {
+    "Code":"SEZ",
+    "Code1":"13",
+    "Code2":"PCS",
+    "Description":"Phoenix Civil Service",
+    "FeeType":"Service Fee",
+    "PaperFee":"65",
+    "CivilNo":"21-000001",
+    "NameID":"A-0000000447",
+    "NameID1":"A-0000000448",
+    "NameID2":"A-0000000447",
+    "Phone":"H:(785) 696-3659",
+    "LastName":"Michael",
+    "FirstName":"Maverick",
+    "Name":"Michael, Maverick Dr",
+    "ContactName":"French, Hunter"
+  },
+  
+  
+  "296338":
+  {
+  	"PF":"AUTO",
+  	"Juris0":"TP - Tiffin Police Department",
+  	"Juris1":"BP - Bloomville Police Dept",
+  	"InvoiceYear":"22"
+		  
+   },
+   "205994": {
+		"PaperType": "Automation Execution",
+		"Paper": "Automation Execution",
+		"Paper1":"Property Sezied",
+		"ServiceLocation": "915 Oswego St",
+		"District": "NY",
+		"ServiceArea": "Service Area 1"
+	},
+	"155965":{
+	"CivilProcessNo":"20-000002",
+	"CivilNo":"20-000002",
+	"Code":"PRSZ",
+	"InactiveDistrict":"NJ"
+	},
+	"158142":{
+	"CivilRefID":"258",
+	"CivilID":"258",
+	"CivilNo":"23-000001",
+	"Name":"Mason, Taylor",
+	"Type1":"Witness",
+	"LastName":"Vicky",
+	"FirstName":"Berger",
+	"Name1":"Vicky, Berger",
+	"Type":"Witness"
+	},
+	"135707":{
+	"CivilProcessNo":"23-000002",
+	"CivilNo":"23-000002",
+	"Status":"Open",
+	"AuthBy":"auto",
+	"Password":"Pnx@2016",
+	"FeeBalance":"$0.00"
+	},
+
+	"18324":{
+	"Code":"99",
+	"Description":"Automation@Test$",
+	"SortOrder":"10"
+	},
+  
+	 "18328":{
+ 
+    "UserName": "Automation",
+	"Password": "Pnx@2023",
+	"Database": "AutomationNJ",
+	"CodeValue":"06",
+	"Description":"ServiceArea6",
+	"CodeValueDescription":"ServiceArea6",
+	"District":"EC",
+	"City":"east coast road",
+	"PostLocation":"33 Bessemer Ave",
+	"ServiceArea1":"ServiceArea1",
+	"District1":"Alb",
+	"District2":"Als",
+	"District3":"Ari",
+	"District4":"CL",
+	"Description0":"Team OS",
+	"ServiceArea2":"ServiceArea2",
+	"District5":"FL",
+	"District6":"GI",
+	
+	"ServiceArea3":"ServiceArea3",
+	
+	"District7":"HW",
+	"District8":"KQ",
+    "ServiceArea4":"ServiceArea4",
+    "District9":"LA",
+	"District10":"ME"
+	
+	},
+	
+	"18328A":{
+	
+	"UserName": "Automation",
+	"Password": "Pnx@2016",
+	"Database": "AutomationPoliceNJ",
+	"ServiceArea1":"ServiceArea1",
+	"ServiceAreaCode1":"01",
+	"ServiceArea2":"Service Area 1",
+	"ServiceAreaCode2":"01",
+	"ServiceArea3":"Service Area 1",
+	"ServiceAreaCode3":"01",
+	"ServiceArea4":"Service Area 1",
+	"ServiceAreaCode4":"01",
+	"ServiceArea5":"Service Area 1",
+	"ServiceAreaCode5":"01"
+	},
+
+  	"18333":{
+	"CCAPCase":"Civil",
+	"CCAPClass1":"30710",
+	"CCAPClass2":"30704",
+	"CCAPClass3":"30711",
+	"Description":"Child Abuse Restraining Order",
+	"Juris":"PX - ProPhoenix"
+},
+
+  "18468":{
+"PaperType":"PRO",
+"CivilNo":"20-000001"
+},
+
+ "21772": {
+ "District": "CA154",
+ "City": "New York",
+ "PostLocation": "2301 Scoville Ave",
+ "PostLocation1": "606 Azusa"
+  },
+  
+  "23097":{
+  "PaperType":"PNX01",
+  "Type1":"--Add 1812 --",
+  "Type2":"Automation",
+  "CodeValue":"A",
+  "Description":"Automation",
+  "CodeValueDescription":"Automation",
+  "NameID1":"A-0000000025",
+  "Type3":"Attorney",
+  "NameID2":"A-0000000034",
+  "fieldName1":"ProPhoenix",
+  "fieldName2":"Phoenix Documents",
+  "fieldName3":"Prophoenix",
+  "fieldName4":"Automation",
+  "fieldName5":"AUTO",
+  "fieldName6":"Automation Prophoenix"
+  },
+
+  "24780":{
+	"ServiceArea1":"ServiceArea1",
+	"ServiceArea2":"ServiceArea2",
+	"City0": "New York",
+	"City1": "Moorestown",
+	"District0":"NY",
+	"District1":"MN"
+},
+
+  "29358":{
+	"Code": "CD1",
+ 	"PaperType": "CD1",
+    "Code1": "SEZ",
+    "PaperType1": "SEZ",
+    "Code2": "CD2",
+    "PaperType2": "CD2"
+},
+
+ "29334":{
+ 	"Code": "DB1",
+ 	"PaperCode": "DB1",
+ 	"PaperType": "Database",
+    "Description": "Database",
+	"FeeType": "Paper Fee",
+    "PaperFee": "125",
+    "FeeType1": "Service Fee",
+    "PaperFee1": "175",
+    "Fee1":"175"
+},
+"42246":{
+"ServiceArea0":"Service Area 3",
+"District":"MJ",
+"District0":"MJ",
+"District1":"WI",
+"ServiceArea1":"Service Area 2",
+"City1":"Neillsville"
+},
+
+"44072":{
+	"PaperType":"CD1",
+	"Type":"Station",
+	"NameID1":"A-0000000515",
+	"Action":"Served",
+	"Reason":"Recalled",
+	"Name":"Alitzel, Emryn"
+},
+
+"37663":{
+	"Code":"Test10",
+	"Description":"Desc1",
+	"FeeType":"Paper Fee",
+	"FeeType0":"Paper Fee",
+	"FeeType1":"Service Fee",
+	"FeeType2":"Subpoena Fee",
+	"District0":"WIC01",
+	"District1":"WI",
+	"District2":"NY"
+},
+"48563":{
+"District":"WA",
+"CivilRefID":"25-000001",
+"CivilID":"25-000001",
+"Name":"Xavier, Monoranjan"
+},
+"48515":{
+"CivilRefID":"23-000002",
+"CivilID":"23-000002"
+},
+
+"51190":{
+  "PaperType": "Exc",
+  "ExecutionAmount": "100",
+  "NameID1": "A-0000000063",
+  "Name": "A-0000000063",
+  "Type": "Defendant",
+  "Officer": "P4400",
+  "Reason": "Recalled",
+  "ServiceAction": "Served"
+},
+"58171":{
+	"Action":"Served to Person"
+},
+"60149":{
+"Code":"Test Automation",
+"Description":"Test Automation",
+"PaperFee":"10",
+"PaperFee1":"5",
+"FeeType":"Paper Fee",
+"FeeType1":"Service Fee",
+"Fee":"$10.00",
+"Fee1":"$5.00",
+"PaperCode":"Test Automation"
+},
+"60399":{
+"PaperType":"PRO",
+"TabName1":"Names",
+"TabName2":"Service",
+"TabName3":"Property",
+"TabName4":"Fees/Payments",
+"TabName5":"Comments",
+"TabName6":"Attachment",
+"NameID1":"A-0000000063",
+"Location":"1 N Atwood Rd",
+"Code":"AU",
+"Heading":"Test"
+},
+"60030":{
+"District":"Memphis",
+"City":"Tennessee",
+"PostLocation":"606 Azusa"
+},
+"60178":{
+"ServiceArea0":"Civil Zone 1",
+"District0":"WIC01",
+"City0":"Centuria"
+},
+"60179":{
+"Code":"99",
+"Description":"Automation Testing"
+},
+"60354":{
+"Code":"78",
+"Description":"Closed"
+},
+"63656":{
+"PaperType":"TRO",
+"Type":"Defendant",
+"NameID0":"A-0000000620",
+"LastName":"Marti",
+"FirstName":"Lautoro",
+"DistrictCodeValue":"WIC01",
+"CivilID":"25-000005"
+},
+"62517":{
+"Description":"Served"
+},
+"74316":{
+"Text":"Automation",
+"CivilProcess":"26-000001",
+"Richtext":"Automation"
+},
+"74342":{
+"Code":"10",
+"Description":"Code Served"
+},
+"74374":{
+"SelectForm1":"signaturepdf",
+"QAForm":"signaturepdf"
+},
+"74392":{
+"LevyCaseStatus1":"Pending",
+"Plaintiff":"Automation",
+"Defendant":"Testing",
+"QAForm":"signaturepdf"
+}
+}

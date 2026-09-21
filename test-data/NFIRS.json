@@ -1,0 +1,1500 @@
+{
+	"170592": {
+		"IncidentNo": "18-000011",
+		"IncidentDate": "12/31/2018",
+		"Location": "9 Sumach St",
+		"CFSCode": "F4",
+		"ReportBy": "F001",
+		"InvestigationType": "111",
+		"Investigator": "45F",
+		"Position": "Lead",
+		"Description":"James, Madisen",
+		"AssignedBy":"AU2023"
+	},
+	"170601": {
+		"IncidentNo": "18-000012",
+		"Investigator": "F001",
+		"SceneSecured": "Yes",
+		"Visibility": "Clear",
+		"WindDirection": "E",
+		"Lightning": "Yes",
+		"AgencyType": "Fire Department",
+		"LastName": "Automation",
+		"FirstName": "Team",
+		"PhoneNumber": "9842114302",
+		"AgencyContact": "Automation, Team"
+	},
+	"170605": {
+		"IncidentNo": "18-000013",
+		"ActivityCategory": "Field Notes",
+		"Investigator": "Test, Automation"
+	},
+	"172465": {
+		"CrossStreet": "Gogo st",
+		"IncidentNo": "18-000010",
+		"CensusTrack": "100000",
+		"LocationType1": "2 - Intersection",
+		"LocationType2": "1 - Street address"
+	},
+	"172477": {
+		"IncidentNo": "18-000011",
+		"LocationType": "1 - Street address",
+		"IncidentType": "111",
+		"AidType": "N - None",
+		"ActionsTaken1": "11",
+		"PropertyUse": "100",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15"
+	},
+	"172481": {
+		"IncidentNo": "19-000013",
+		"PropertyUse": "210",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"ActionsTaken4": "12",
+		"ActionsTaken5": "10",
+		"ActionsTaken6": "20",
+		"IncidentType": ""
+	},
+	"172546": {
+		"IncidentNo": "18-000008",
+		"IncidentDate": "12/31/2018",
+		"ExactLocation": "1272 President St",
+		"CFSCode": "F1",
+		"City": "Brooklyn",
+		"State": "NY",
+		"ZipCode": "11213",
+		"Address": "1272 President St",
+		"CensusTrack": "1000",
+		"IncidentType1": "111",
+		"LocationType": "1 - Street address",
+		"ActionsTaken1": "20",
+		"PropertyUse": "300",
+		"IncidentType": "100"
+	},
+	"172551": {
+		"IncidentNo": "18-000040-001",
+		"CFS": "F1",
+		"CFSCode": "F1",
+		"Form": "Apparatus",
+		"ErrorMessage": "Apparatus Form is required",
+		"ErrorType": "Critical",
+		"NFIRSStatus": "Errors",
+		"Remarks1": "Add file for NFIRS Entry",
+		"Remarks": "Automation Testing @Part 1"
+	},
+	"172579": {
+		"Remarks": "Add file for NFIRS Entry",
+		"IncidentNo": "18-000009"
+	},
+	"172589": {
+		"IncidentNo": "24-000016",
+		"LocationType": "1 - Street address",
+		"IncidentType": "300",
+		"ActionsTaken1": "20",
+		"PropertyUse": "300",
+		"IncidentDescription": "Rescue, emergency medical call (EMS) call, other"
+	},
+	"174089": {
+		"FinalCFS": "Fire 1",
+		"IncidentNo": "18-000018",
+		"IncidentType": "100",
+		"IncidentType1": "200",
+		"Remarks": "Automation Testing @Part 1",
+		"IncidentType2": "400"
+	},
+	"174092": {
+		"FinalCFS": "Fire 1",
+		"IncidentNo": "18-000018",
+		"E1CauseOfIgnition": "1 - Intentional",
+		"E2FactorsContributing1": "10",
+		"D1AreaFireOrigin": "25",
+		"D2HeatSource": "10",
+		"UnitNo": "191",
+		"Detector": "U - Unknown",
+		"ApparatusUse": "1 - Suppression",
+		"PFNo": "687",
+		"D3ItemsFirstIgnited": "30",
+		"D4MaterialFirstIgnited": "50",
+		"IncidentType1": "100",
+		"IncidentType2": "111",
+		"E2FactorsContributing":"Misuse of material or product, other"
+	},
+	"174094": {
+		"FinalCFS": "Fire 1",
+		"IncidentNo": "18-000018",
+		"IncidentType": "561",
+		"AcresBurnedNo": "10.00",
+		"EHeatSource": "97",
+		"FactorsContributing1": "71",
+		"IncidentType1": "631"
+	},
+	"174142": {
+		"IncidentNo": "18-000019",
+		"IncidentType": "100"
+	},
+	"174143": {
+		"IncidentType": ":100",
+		"FinalCFS": "Fire 2",
+		"IncidentNo": "18-000019"
+	},
+	"174145": {
+		"CFS": "F3",
+		"IncidentNo": "18-000020",
+		"Location": "3 Morish Rd, Arab, AL 35016",
+		"IncidentType": "Fire, other"
+	},
+	"174153": {
+		"IncidentType": ":100",
+		"IncidentNo": "18-000020",
+		"OnSiteMaterial": "114",
+		"Storage": "1 - Bulk storage or warehousing",
+		"Code": "114",
+		"Materials": "Produce, fruit, or vegetables",
+		"Storage1": "2 - Processing or manufacturing",
+		"OnSiteMaterial1": "120",
+		"Code1": "120",
+		"Materials1": "Beverages, other"
+	},
+	"174341": {
+		"IncidentNo": "18-000021",
+		"D1AreaFireOrigin": "10",
+		"D2HeatSource": "11",
+		"D3ItemsFirstIgnited": "10",
+		"D4MaterialFirstIgnited": "10",
+		"D3ItemsFirstIgnited1": "70",
+		"E2FactorsContributing1": "10"
+	},
+	"174342": {
+		"IncidentNo": "18-000022",
+		"D1AreaFireOrigin": "40",
+		"D2HeatSource": "50",
+		"D3ItemsFirstIgnited": "00",
+		"D3ItemsFirstIgnited1": "22",
+		"D3ItemsFirstIgnited2": "68",
+		"D3ItemsFirstIgnited3": "70",
+		"D3ItemsFirstIgnited4": "72",
+		"D3ItemsFirstIgnited5": "UU",
+		"ActivityType":"40"
+	},
+	"174345": {
+		"IncidentNo": "18-000023",
+		"J2FireSpread": "2 - Confined to room of origin",
+		"ItemContributing": "20",
+		"MaterialContributing": "41",
+		"IncidentType":"111",
+		"E1CauseOfIgnition":"1 - Intentional",
+		"E2FactorsContributing1":"17",
+		"D1AreaFireOrigin":"10",
+		"D2HeatSource":"63",
+		"D3ItemsFirstIgnited":"42",
+		"D1AreaFireOrigin":"11"
+	},
+	"174347": {
+		"IncidentNo": "18-000024",
+		"J2FireSpread": "2 - Confined to room of origin",
+		"ItemContributing": "20",
+		"MaterialContributing": "41",
+		"IncidentType":"111"
+	},
+	"175658": {
+		"IncidentNo": "18-000025",
+		"Premise": "514",
+		"Street": "Magnolia",
+		"E1CauseOfIgnition": "1 - Intentional",
+		"E1CauseOfIgnition1": "2 - Unintentional",
+		"E2FactorsContributing1": "71",
+		"E1CauseOfIgnition2": "3 - Failure of equipment or heat source"
+	},
+	"175659": {
+		"IncidentNo": "18-000026",
+		"IncidentType": "100",
+		"ActionsTaken1": "20",
+		"PropertyUse": "130"
+	},
+	"175853": {
+		"IncidentType": ":100",
+		"IncidentNo": "18-000027",
+		"F1EquipmentInvolved": "100",
+		"F2EquipmentPower": "10"
+	},
+	"175877": {
+		"IncidentNo": "18-000027",
+		"SuppressionFactors1": "112",
+		"SuppressionFactors2": "112"
+	},
+	"175882": {
+		"IncidentNo": "18-000027",
+		"Age": "27"
+	},
+	"176163": {
+		"IncidentNo": "18-000028",
+		"H1MobileProperty": "2 - Involved in ignition, but did not itself burn",
+		"H2MobilePropertyType": "41",
+		"H2MobilePropertyMake": "AR",
+		"F1EquipmentInvolved": "100",
+		"F2EquipmentPower": "11"
+	},
+	"176169": {
+		"IncidentNo": "18-000029",
+		"I1StructureType": "1 - Enclosed building",
+		"J2FireSpread": "2 - Confined to room of origin",
+		"L1Presence": "1 - Present",
+		"L6FailureReason": "U - Undetermined",
+		"M1Presence": "1 - Present",
+		"IncidentType":"111"
+	},
+	"176173": {
+		"IncidentNo": "18-000030",
+		"J2FireSpread": "2 - Confined to room of origin",
+		"L1Presence": "N - None present",
+		"M1Presence": "N - None Present",
+		"I4FloorArea": "500",
+		"I4FloorLength": "200",
+		"I4FloorWidth": "200",
+		"IncidentType":"111"
+	},
+	"177922": {
+		"IncidentNo": "18-000031",
+		"ItemContributing": "00",
+		"ItemContributing1": "70",
+		"MaterialContributing": "14",
+		"IncidentType":"111"
+	},
+	"177929": {
+		"IncidentNo": "18-000031",
+		"L6FailureReason": "1 - Power failure, hardwired det. shut off, disconnect",
+		"IncidentType":"111"
+	},
+	"177942": {
+		"IncidentNo": "18-000031",
+		"M3Opearation": "1 - System operated and was effective",
+		"IncidentType":"111"
+	},
+	"178062": {
+		"IncidentNo": "18-000032",
+		"InjuredPersonLastName": "Maria",
+		"Gender": "Male",
+		"DOB": "05/05/1989",
+		"DateAndTimeOfInj": "05/21/2018",
+		"CasualtyNo": "4",
+		"InjuredPerson": "Maria, Cole"
+	},
+	"178066": {
+		"IncidentNo": "18-000032",
+		"InjuredPerson": "Jacklin, Rio",
+		"ContributingFactor1": "10",
+		"ContributingFactor2": "11",
+		"ContributingFactor3": "12"
+	},
+	"178070": {
+		"IncidentNo": "18-000032",
+		"InjuredPerson": "Jacklin, Rio",
+		"M1LocationAtTimeOfIncident": "4 - In area of ignition and involved in starting the fire",
+		"M2GeneralLocationAtInjury": "1 - In area of fire origin,that is inside or outside of building",
+		"M2GeneralLocationAtInjury1": "2 - In building of origin, but not in area of origin",
+		"M1LocationAtTimeOfIncident1": "2 - Not in area and not involved in starting the fire",
+		"M3StoryAtStartOfIncident": "3",
+		"M4StoryWhereInjuryOccurred": "3"
+	},
+	"178120": {
+		"IncidentNo": "18-000032",
+		"InjuredPerson": "Victoria, Leah",
+		"M1LocationAtTimeOfIncident": "2 - Not in area and not involved in starting the fire",
+		"M2GeneralLocationAtInjury": "2 - In building of origin, but not in area of origin",
+		"M3StoryAtStartOfIncident": "4"
+	},
+	"178122": {
+		"IncidentNo": "18-000032",
+		"InjuredPerson": "Abby, Abdul",
+		"M1LocationAtTimeOfIncident": "2 - Not in area and not involved in starting the fire",
+		"M2GeneralLocationAtInjury": "2 - In building of origin, but not in area of origin",
+		"M3StoryAtStartOfIncident": "1",
+		"M4StoryWhereInjuryOccurred": "4"
+	},
+	"178200": {
+		"IncidentNo": "18-000032",
+		"BInjuredPerson": "001",
+		"Gender": "Male",
+		"Severity": "2 - First aid only",
+		"Age": "25",
+		"DateTimeOfInjury": "05/23/2018",
+		"InjuredPerson": "Test, Automation"
+	},
+	"178201": {
+		"IncidentNo": "18-000032",
+		"InjuredPerson": "Raja, Sadaraj",
+		"J2InjuryRelationshipToStructure": "1 - Inside or on structure",
+		"StoryWhereInjuryOccured": "10",
+		"I1CauseOfFireFighterInjury": "5 - Struck or assaulted by person/animal/object",
+		"I3ObjectInvolvedInInjury": "17",
+		"J3SpecificLocation": "61 - In motor vehicle",
+		"ProtectiveEquipmentItem": "10",
+		"ProtectiveEquipmentProblem": "11"
+	},
+	"180288": {
+		"IncidentNo": "18-000030",
+		"IncidentDate": "05/07/2018",
+		"ExactLocation": "132 Winstead Ave;PX",
+		"FinalCFS": "F2",
+		"DOTNo": "9260",
+		"ChemicalName": "Aluminum, molten",
+		"CASRegistrationNo": "7429-90-5",
+		"UNNo": "9260",
+		"C1ContainerType": "13",
+		"C3CapacityUnits": "14",
+		"CauseOfRelease": "1 - Intentional",
+		"ContType": "Can or bottle",
+		"EstCapacity": "200",
+		"CapUnits": "Liters",
+		"EstAmtReleased": "200"
+	},
+	"180292": {
+		"IncidentNo": "18-000031",
+		"DOTNo": "9260",
+		"ActionTaken2": "11",
+		"ActionTaken1": "11",
+		"ActionTaken3": "13"
+	},
+	"180300": {
+		"IncidentNo": "18-000031",
+		"DOTNo": "9260",
+		"CauseOfRelease": "2 - Unintentional release",
+		"ContributingFactor2": "40",
+		"ContributingFactor1": "30",
+		"ContributingFactor3": "50"
+	},
+	"180305": {
+		"IncidentNo": "18-000031",
+		"DOTNo": "9260",
+		"MitigationFactor2": "40",
+		"MitigationFactor1": "30",
+		"MitigationFactor3": "20"
+	},
+	"180306": {
+		"IncidentNo": "18-000031",
+		"DOTNo": "9260",
+		"EquipmentReleased": "400",
+		"Type": "50"
+	},
+	"180307": {
+		"IncidentNo": "18-000016",
+		"LocationType": "1 - Street address",
+		"IncidentType": "143",
+		"IncidentDescription": "Grass fire",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130",
+		"AcresBurnedNo": "10",
+		"UnitNo": "15",
+		"ApparatusUse": "1 - Suppression",
+		"PFNo": "687",
+		"FactorsContributing1": "71",
+		"EHeatSource": "97",
+		"Remarks": "Automation Testing @Part 1"
+	},
+	"180309": {
+		"IncidentNo": "18-000033",
+		"EHeatSource": "50",
+		"FactorsContributing1": "60"
+	},
+	"180311": {
+		"IncidentNo": "18-000033",
+		"ExactLocation": "20 Jamie Dr;PX",
+		"UnitNo": "15",
+		"VehicleNo": "15",
+		"ApparatusType": "41",
+		"ApparatusUse": "1 - Suppression",
+		"PersonnelID": "Krishnan, Siva Rama",
+		"PFNo": "687",
+		"Activity1": "Worked",
+		"Activity": "W - Worked",
+		"EquipmentType": "EMS"
+	},
+	"180313": {
+		"IncidentNo": "18-000033",
+		"IncidentLocation": "20 Jamie Dr",
+		"DProviderImp": "16",
+		"H1BodySiteOfInj": "1",
+		"H2InjuryType": "13 - Crush",
+		"BodySiteCode": "1",
+		"BodySiteDescription": "Head",
+		"InjTypeCode": "13",
+		"InjuryTypeDescription": "13 - Crush",
+		"Cardiac1": "1 - Pre-Arrival Arrest",
+		"CardiacDetails": "1 - Witnessed",
+		"Cardiac2": "2 - Post-Arrival Arrest",
+		"IProcedureUsed": "05",
+		"PatientNo1": "2",
+		"PatientNo": "1"
+	},
+	"182280": {
+		"IncidentNo": "17-000010",
+		"PropertyUse": "800",
+		"ActionsTaken1": "10",
+		"IncidentType":"140",
+		"IncidentNo1": "21-000017"
+	},
+	"182281": {
+		"IncidentNo": "17-000052",
+		"ReferToFPB": "Verify Refer to FPB shown in My Reminders tab",
+		"ActivityStatus": "Request/To-Do",
+		"SelectOverlay": "Road closures",
+		"Subject": "20 Jamie Dr"
+	},
+	"182282": {
+		"IncidentNo": "18-000026",
+		"BInjuredPerson": "F002",
+		"Age": "30",
+		"InjuredPerson": "Michael, Delgiorno",
+		"PFCode": "F002",
+		"PFName": "Michael, Delgiorno",
+		"Nature": "18-000026"
+	},
+	"182283": {
+		"IncidentNo": "17-000051",
+		"Remarks": "Test Autoamtion",
+		"IncidentNo1": "17-000052"
+	},
+	"182284": {
+		"IncidentNo": "18-000034",
+		"LastName": "Victoria",
+		"Address": "301 Westover Rd",
+		"Address1": "23 peri Ave;PX",
+		"Name": "Victoria, Leah",
+		"FirstName": "Leah",
+		"Address2": "23 peri Ave,Keystone,AL,35007"
+	},
+	"183847": {
+		"IncidentNo": "18-000035",
+		"IncidentType": "140",
+		"ErrorMessage": "For Incident Type 321, B.Location is Required",
+		"Form": "Basic",
+		"LocationType": "1 - Street address",
+		"Address": "9 Ringle Ave,1",
+		"ErrorType": "Critical",
+		"DOTNo": "9263",
+		"IFireHazmatSeq": "1 - Ignition",
+		"UnitNo":"45F",
+		"ErrorMessage1": "If I Block = 1 or 2 (a fire or explosion was involved), then Incident type must be 100 or 200 series."
+	},
+	"183848": {
+		"IncidentNo": "18-000036",
+		"RejectionCode": "Evidence Missing",
+		"ApparatusUse": "1 - Suppression",
+		"UnitNo": "01",
+		"PFNo": "687",
+		"NFIRSStatus": "Ready For Submit"
+	},
+	"208240": {
+		"IncidentNo": "19-000002",
+		"LastName": "Jessica",
+		"Address": "9 Ringle Ave,1",
+		"PhoneNo1": "(489) 632-1525",
+		"PhoneNo2": "(789) 456-2552",
+		"BirthDate": "05/05/1989",
+		"Age": "29",
+		"Sex": "Female",
+		"Race": "White",
+		"Ethnic": "Hispanic or Latino",
+		"Activity": "Caller",
+		"Name": "Jessica, John",
+		"PhoneNo": "H:(489) 632-1525",
+		"DOB": "5/5/1989"
+	},
+	"208252": {
+		"IncidentNo": "19-000002",
+		"InvestigationType": "112",
+		"PropertyUse": "400",
+		"Bank": "Right",
+		"AmpRating": "9",
+		"Amps": "9",
+		"Label": "12",
+		"Status": "On"
+	},
+	"208260": {
+		"IncidentNo": "19-000002",
+		"MobilePropertyInvolved": "3 - Involved in ignition and burned",
+		"Component": "Tire - LF",
+		"Condition": "Missing",
+		"PriorDamage": "Yes",
+		"AgencyLastName": "RMS"
+	},
+	"208265": {
+		"IncidentNo": "19-000002",
+		"InsuredLastName": "Jessica",
+		"InsuranceCo": "345",
+		"Location": "1272 President St",
+		"InsuredName": "Jessica,John"
+	},
+	"208284": {
+		"IncidentNo": "19-000003",
+		"NewAction": "Send for Approval",
+		"Status": "Submitted"
+	},
+	"208292": {
+		"IncidentNo": "19-000003",
+		"NewAction": "Reject",
+		"RejectionCode": "Action Taken",
+		"Rejection": "Action Taken",
+		"Status": "Rejected"
+	},
+	"208293": {
+		"IncidentNo": "19-000003",
+		"NewAction": "Send for Approval",
+		"NewAction1": "Approve",
+		"Status": "Approved"
+	},
+	"211991": {
+		"ItemType": "NFIRS",
+		"Status": "OnHold",
+		"PFNo": "687",
+		"Location": "132 Winstead Ave",
+		"ApparatusUse": "1 - Suppression",
+		"UnitNo": "01",
+		"E1CauseOfIgnition": "1 - Intentional",
+		"E2FactorsContributing1": "10",
+		"D1AreaFireOrigin": "25",
+		"D2HeatSource": "10",
+		"Detector": "U - Unknown",
+		"D3ItemsFirstIgnited": "30",
+		"D4MaterialFirstIgnited": "50",
+		"J2FireSpread": "2 - Confined to room of origin",
+		"L1Presence": "N - None present",
+		"M1Presence": "N - None Present",
+		"NewAction": "Send for Approval",
+		"IncidentType":"111"
+	},
+	"212001": {
+		"ItemType": "NFIRS",
+		"Status": "Rejected",
+		"PFNo": "687",
+		"UnitNo": "01",
+		"Location": "132 Winstead Ave",
+		"NewAction": "Send for Approval",
+		"NewAction1": "Approve"
+	},
+	"225844": {
+		"ItemType": "NFIRS",
+		"Status": "Submitted",
+		"Location": "132 Winstead Ave",
+		"NewAction": "Reject",
+		"PFNo": "687",
+		"UnitNo": "01",
+		"RejectionCode": "Evidence Missing"
+	},
+	"245783": {
+		"IncidentNo": "20-000008",
+		"BInjuredPerson": "001",
+		"Gender": "Male",
+		"Severity": "2 - First aid only",
+		"Age": "35"
+	},
+	"245784": {
+		"IncidentNo": "20-000009",
+		"BInjuredPerson": "001",
+		"Gender": "Female",
+		"Severity": "4 - Moderate severity, lost-time injury",
+		"Age": "26"
+	},
+	"245786": {
+		"IncidentNo": "20-000009"
+	},
+	"248205": {
+		"IncidentNo": "20-000021"
+	},
+	"249607": {
+		"SubmissionPF": "001",
+		"PF": "001"
+	},
+	"249608": {
+		"IncidentNo": "20-000023",
+		"PF": "001",
+		"ReportBy": "001",
+		"LocationType": "1 - Street address",
+		"PropertyUse": "800",
+		"IncidentType": "111",
+		"ActionsTaken1": "10",
+		"ReportByDescription": "Test, Automation"
+	},
+	"249610": {
+		"IncidentNo": "20-000024",
+		"PF": "001",
+		"ReportBy": "001",
+		"LocationType": "1 - Street address",
+		"PropertyUse": "800",
+		"IncidentType": "111",
+		"ActionsTaken1": "10",
+		"ReportByName": "Test, Automation",
+		"BInjuredPerson": "FRMS",
+		"Gender": "Unknown (Unable to Determine)",
+		"Comments": "Click Service Casualty Tab, Enter @ActionsTaken1, Enter @PropertyUse",
+		"Age": "27",
+		"Severity": "2 - First aid only"
+	},
+	"250420": {
+		"ReportBy": "001",
+		"LocationType": "1 - Street address",
+		"PropertyUse": "800",
+		"InitialCFS": "IENE",
+		"ReportedLocation": "W Oklahoma Ave/N Colorado St",
+		"Address": "W Oklahoma Ave/N Colorado St",
+		"IncidentType": "111",
+		"LocationType1": "2 - Intersection",
+		"CrossStreetDirections": "W Oklahoma Ave/N Colorado St",
+		"ActionsTaken1": "10"
+	},
+	"251320": {
+		"StudyNo": "6100 - Smoke Detectors",
+		"IncidentNo": "20-000009",
+		"StudyNo1": "6100",
+		"StudyValue": "1 - No smoke detector present - Smoke detector issued to occupant"
+	},
+	"252261": {
+		"IncidentNo": "20-000042"
+	},
+	"252268": {
+		"IncidentNo": "20-000020",
+		"Detector": "U - Unknown",
+		"FieldName": "100020000033992",
+		"NewValue": "U"
+	},
+	"252269": {
+		"IncidentNo": "20-000020",
+		"ExactLocation": "172 Rock Ridge Ave;PX",
+		"Address": "172 Rock Ridge Ave;PX"
+	},
+	"252493": {
+		"IncidentNo": "20-000008",
+		"MobileProperty": "3 - Involved in ignition and burned",
+		"MobilePropertyType": "51",
+		"MobilePropertyMake": "BL",
+		"MobilePropertyInvolved": "3 - Involved in ignition and burned"
+	},
+	"253375": {
+		"IncidentNo": "20-000023",
+		"ReportBy": "001",
+		"ReportByName": "Test, Automation",
+		"ReportBy1": "F001",
+		"ReportByName1": "James, Madisen"
+	},
+	"253379": {
+		"NFIRSStatus": "Ready For Approval"
+	},
+	"253390": {
+		"IncidentNo": "20-000020",
+		"LastName": "Berlin",
+		"Activity": "Owner",
+		"Name": "Berlin, Jerry"
+	},
+	"253392": {
+		"IncidentNo": "20-000020",
+		"Name": "Broadman, Xavier"
+	},
+	"254870": {
+		"IncidentNo": "20-000008",
+		"AgencyType": "Fire Department",
+		"AgencyNameCode": "01011",
+		"Agency": "Absecon Fire Department",
+		"SceneSecured": "Yes"
+	},
+	"254872": {
+		"InvoiceType": "Hazmat",
+		"ItemCode": "Oil Tank",
+		"SystemIDNo": "49"
+	},
+	"255600": {
+		"IncidentNo": "20-000026",
+		"ReportBy": "001",
+		"ReportByDescription": "Test, Automation",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130",
+		"MemberMakingReportCode": "001",
+		"MemberMakingReportDescription": "Test, Automation"
+	},
+	"260519": {
+		"IncidentDateFrom": "01/01/2020",
+		"IncidentDateTo": "12/01/2020",
+		"IncidentTimeFrom": "15:25:07",
+		"IncidentTimeTo": "15:25:07"
+	},
+	"260520": {
+		"IncidentNo": "21-000002",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130"
+	},
+	"260521": {
+		"IncidentNo": "20-000020",
+		"NewAction": "Send for Approval",
+		"RejectionCode":"Action Taken",
+		"NFIRSStatus": "Ready for Submit"
+	},
+	"260522": {
+		"IncidentNo": "20-000040"
+	},
+	"260523": {
+		"IncidentNo": "20-000041",
+		"Range": "54",
+		"Section": "85",
+		"Meridian": "25",
+		"EHeatSource": "41",
+		"AcresBurnedNo":"1",
+		"FactorsContributing1": "51"
+	},
+	"261109": {
+		"IncidentNo": "20-000043",
+		"ReportBy": "001",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130"
+	},
+	"261267": {
+		"IncidentNo": "20-000044",
+		"Address": "13 S Webster St,12",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130",
+		"Form": "Basic"
+	},
+	"262260": {
+		"IncidentNo": "24-000013",
+		"ActionsTaken1": "93",
+		"PropertyUse": "130",
+		"IncidentType": "611"
+	},
+	"263049": {
+		"IncidentNo": "21-000001",
+		"ExactLocation": "3400 Mirage Cir",
+		"IncidentType": "111",
+		"ActionsTaken1": "10",
+		"PropertyUse": "130",
+		"IncidentNo1": "21-000001-000"
+	},
+	"263052": {
+		"IncidentNo": "21-000001",
+		"Location": "3400 Mirage Cir"
+	},
+	"263474": {
+		"IncidentNo": "21-000001",
+		"OnSiteMaterial": "840",
+		"Storage": "1 - Bulk storage or warehousing",
+		"Materials": "Rail, other"
+	},
+	"271697": {
+		"CustomName": "Division1"
+	},
+	"271822": {
+		"IncidentNo": "21-000007",
+		"IncidentType": "141",
+		"AcresBurnedNo": "563",
+		"DOB": "03/31/1991",
+		"AidType": "N - None",
+		"ActionsTaken1": "40",
+		"PropertyUse": "200",
+		"EHeatSource": "97",
+		"FactorsContributing1": "50",
+		"BInjuredPerson": "F004"
+	},
+	"271828": {
+		"IncidentNo": "21-000010",
+		"ActionsTaken1": "40",
+		"PropertyLoss": "10"
+	},
+	"276794": {
+		"IncidentNo": "21-000014",
+		"CFSCode": "AFIRE",
+		"CADREFNo": "FIS"
+	},
+	"276795": {
+		"IncidentNo": "24-000012"
+	},
+	"276801": {
+		"CustomName": "PXDivision123",
+		"CustomName1": "Division",
+		"Juris": "PX - ProPhoenix Fire Department",
+		"Juris1": "SC - Seneca County FireDept"
+	},
+	"276802": {
+		"IncidentNo": "21-000017"
+	},
+	"276809": {
+		"IncidentType": "141",
+		"IncidentNo": "21-000019",
+		"AcresBurnedNo": "123456789.10",
+		"DOB": "01/01/1991",
+		"EHeatSource": "11",
+		"FactorsContributing1": "71",
+		"ActionsTaken1": "20",
+		"PropertyUse": "200",
+		"PersonType": "1 - Career",
+		"BInjuredPerson": "45f"
+	},
+	"281043": {
+		"IncidentDateFrom": "08/11/2020",
+		"IncidentDateTo": "08/25/2021"
+	},
+	"281046": {
+		"CFS": "AFIRE",
+		"IncidentNo": "24-000018-000",
+		"ActionsTaken1":"82",
+		"DOB": "08/20/1991",
+		"PropertyUse": "819",
+		"BInjuredPerson": "AC001",
+		"Gender": "Male"
+	},
+	"282795": {
+		"IncidentNo": "24-000020",
+		"IncidentType": "141",
+		"ActionsTaken1": "20",
+		"PropertyUse": "819",
+		"PropertyValue": "6"
+	},
+	"286627": {
+		"IncidentNo": "19-000020"
+	},
+	"286628": {
+		"IncidentNo": "21-000015"
+	},
+	"286630": {
+		"IncidentNo": "21-000035"
+	},
+	"288159": {
+		"IncidentNo": "21-000034",
+		"InjuredPersonLastName": "Harper",
+		"InjuredPersonFirstName": "Hunter",
+		"Gender": "Male",
+		"DOB": "04/10/1993",
+		"Name": "Harper, Hunter",
+		"Severity": "3 - Severe"
+	},
+	"172541 a": {
+		"IncidentNo": "18-000017",
+		"LocationType": "1 - Street address",
+		"IncidentType": "100",
+		"ActionsTaken1": "20",
+		"PropertyUse": "300",
+		"IncidentDescription": "Fire, other"
+	},
+	"172541 b": {
+		"IncidentNo": "18-000017",
+		"LocationType": "1 - Street address",
+		"IncidentType": "173",
+		"ActionsTaken1": "20",
+		"PropertyUse": "300",
+		"IncidentDescription": "Cultivated trees or nursery stock fire"
+	},
+	"172590 a": {
+		"IncidentNo": "18-000015",
+		"LocationType": "1 - Street address",
+		"IncidentType": "100",
+		"ActionsTaken1": "11",
+		"PropertyUse": "300",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"IncidentDescription": "Fire, other"
+	},
+	"172590 b": {
+		"IncidentNo": "18-000015",
+		"LocationType": "1 - Street address",
+		"IncidentType": "173",
+		"ActionsTaken1": "11",
+		"PropertyUse": "300",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"IncidentDescription": "Cultivated trees or nursery stock fire"
+	},
+	"172590 c": {
+		"IncidentNo": "18-000015",
+		"LocationType": "1 - Street address",
+		"IncidentType": "100",
+		"ActionsTaken1": "11",
+		"PropertyUse": "300",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"IncidentDescription": "Fire, other"
+	},
+	"172592 a": {
+		"IncidentNo": "24-000013",
+		"LocationType": "1 - Street address",
+		"IncidentType": "812",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "21",
+		"ActionsTaken3": "30",
+		"PropertyUse": "807",
+		"IncidentDescription": "Flood assessment"
+	},
+	"172592 b": {
+		"IncidentNo": "24-000013",
+		"LocationType": "1 - Street address",
+		"IncidentType": "244",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"PropertyUse": "300",
+		"IncidentDescription": "Dust explosion (no fire)"
+	},
+	"172592 c": {
+		"IncidentNo": "24-000013",
+		"LocationType": "1 - Street address",
+		"IncidentType": "342",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"PropertyUse": "300",
+		"IncidentDescription": "Search for person in water"
+	},
+	"172592 d": {
+		"IncidentNo": "24-000013",
+		"LocationType": "1 - Street address",
+		"IncidentType": "622",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"PropertyUse": "300",
+		"IncidentDescription": "No incident found on arrival at dispatch address"
+	},
+	"172592 e": {
+		"IncidentNo": "24-000013",
+		"LocationType": "1 - Street address",
+		"IncidentType": "911",
+		"ActionsTaken1": "11",
+		"ActionsTaken2": "13",
+		"ActionsTaken3": "15",
+		"PropertyUse": "300",
+		"IncidentDescription": "Citizen complaint"
+	},
+	"FireInvEntry": {
+		"IncidentNo": "21-000011",
+		"SceneSecured": "Yes",
+		"InvestigatorType": "10",
+		"MobilePropertyInvolved": "1 - Not involved in ignition, but burned"
+	},
+	"NFIRSEntry": {
+		"IncidentNo": "21-000010",
+		"PropertyUse": "120",
+		"ActionsTaken1": "20"
+	},
+	"10874": {
+		"IncidentNo": "21-000017",
+		"Status": "Approved"
+	},
+	
+	"203608":{
+	"ExactLocation":"5934 Dearborn Ave;PX",
+	"CFSCode":"123",
+	"LocationType":"3 - In front of",
+	"IncidentType":"100",
+	"ActionsTaken1":"52",
+	"PropertyUse":"600"
+	},
+	"205029":{
+	"IncidentNo":"23-000002",
+	"ExactLocation":"199 S Jefferson Ave;PX",
+	"":""
+	},
+	"213722":{
+	"Address":"101 W Acorn Dr;PX",
+	"City":"Grafton",
+	"State":"WI",
+	"ZipCode":"53024",
+	"LocationType":"3 - In front of",
+	"IncidentType":"100",
+	"IncidentDescription":"Fire, other",
+	"ActionsTaken1":"",
+	"PropertyUse":"",
+	"IncidentNo":"19-000003",
+	"Remarks":"FireAuto"
+	},
+	"53004": {
+		"IncidentNo": "19-000005",
+		"IncidentNo2": "25-000009",
+		"IncidentNo3": "25-000010",
+		"InvestigationNo": "19-000006",
+		"InvestigatorType": "200",
+		"InvestigationNoYear":"19"
+		
+	},
+	"218502":{
+	"IncidentNo":"23-000005",
+	"LastName":"Victoria",
+	"Address2":"4471 Sugar Pine Dr,Highland Beach,FL,33487",
+	"Name":"Victoria, Leah",
+	"Address":"4471 Sugar Pine Dr"
+	},
+	"231360":{
+	"IncidentNo":"23-000002",
+	"UnitNo":"16",
+	"Shift":"--",
+	"Shift1":"--"
+	
+	},
+	"170515":{
+	"IncidentNo":"23-000001",
+	"IncidentType":"111",
+	"InitialCFS":"911"
+	},
+	"203601":{
+	"IncidentNo":"23-000001"
+	
+	},
+	
+	"14269":{
+	"IncidentNo":"23-000008-000"
+	
+	
+	
+	},
+	"207535":{
+	"IncidentNo":"23-000002",
+	"PropertyUse":"600"
+	
+	},
+
+	"16407":{
+	"ExactLocation":"Elizabeth;PX  ",
+	"ReportBy":"001",
+	"CFSCode":"502",
+	"IncidentType":"100",
+	"ActionsTaken1":"12",
+	"PropertyUse":"610"
+  },
+	
+	"16349":{
+	"ExactLocation":"1171 Delmar Dr;PX",
+	"CFSCode":"123",
+	"IncidentType":"100",
+	"ActionsTaken1":"50",
+	"IncidentType1":"140"
+
+	},
+	
+
+	"17760": {
+	"CFSCode": "101",
+	"ExactLocation": "13201 Adventures Camp Ln;PX",
+	"E1CauseOfIgnition": "1 - Intentional",
+	"E2FactorsContributing1": "10",
+	"D1AreaFireOrigin": "25",
+	"D2HeatSource": "10",
+	"D3ItemsFirstIgnited": "30",
+	"D4MaterialFirstIgnited": "50",
+	"Age": "15",
+	"DOB": "11/12/2007",
+	"ActionsTaken1": "11",
+	"IncidentType": "111",
+	"PropertyUse": "112"		
+	},
+	
+	"17886":{
+	"UserName":"auto",
+	"Password":"Pnx@2020",
+	"Database":"FireMJ Test"
+  },
+
+
+	"19211":{
+	"ExactLocation":"301 N Albany St;PX",
+	"CFSCode":"101",
+	"IncidentType":"111",
+	"ActionsTaken1":"00",
+	"PropertyUse":"000",
+	"J2FireSpread":"1 - Confined to object of origin",
+	"MinorDamage":"2"
+},
+	"17786":{
+	"IncidentNo":"25-000006",
+	"IncidentType":"100"
+},
+	"17763":{
+	"IncidentNo":"23-000011",
+	"IncidentType":"171",
+	"AidType":"1 - Mutual aid received",
+	"PropertyUse":"419",
+	"ActionsTaken1":"40",
+	"EHeatSource":"50",
+	"AcresBurnedNo":"10"
+
+	},
+
+	"19280":{
+	"OfficerInCharge":"45F",
+	"IncidentNo":"23-000013",
+	"PositionOrRank":"1",
+	"PositionOrRankDescription":"Chief",
+	"membermakingreport":"45F",
+	"memberPositionOrRank":"1",
+	"memberPositionOrRankDescription":"Chief"
+  },
+	
+	"20194":{
+	"ApprovalStatus":"Report Due",
+	"ApprovalStatus1":"On Hold",
+	"CFSOperator":"=",
+	"FinalCFS":"Fire Services",
+	"CFS":"911",
+	"IncidentOperator":"=",
+	"IncidentType":"111",
+	"Incident":"Building fire",
+	"IncidentDateFrom":"01/12/2021",
+	"IncidentDateTo":"01/02/2024",
+	"IncidentDate":"12/19/23",
+	"Code":"45F",
+	"CodeValue":"45F",
+	"ReportByDescription":"45F, Oliver-45F",
+	"Report By":"45F, Oliver-45F",
+	"ReportBy":"45F, Oliver-45F",
+	"Premise":"299",
+	"Street":"W Ashdale St",
+	"Location":"299 W Ashdale St;PX , Philadelphia, PA 19140",
+	"Unit":"16",
+	"UnitNo":"16",
+	"DispositionOperator":"=",
+	"Disposition":"Closed",
+	"DateFrom":"01/12/21",
+	"DateTo":"01/02/24",
+	"OfficerInCharge":"P100"
+	},
+	
+	"29357":{
+	"CheckBoxStatus":"Checked",
+	"CheckBoxStatus1":"Unchecked"
+	
+	},
+	
+	"32656":{
+	"IncidentNo":"24-000003",
+	"SceneSecured":"Yes",
+	"InvestigatorType":"40",
+	"AgencyType":"Fire Department",
+	"AgencyNameCode":"13010",
+	"Agency":"Allenhurst FIre Department",
+	"MobilePropertyInvolved":"1 - Not involved in ignition, but burned"	
+	},
+	"34959":{
+	"IncidentNo":"24-000007",
+	"UnitNo":"ASF007"
+	},
+	"35258": {
+		"IncidentNo": "20-000008",
+		"Name": "Test, Automation",
+		"Investigator": "001"
+	},
+	
+	"35431": {
+	"IncidentNo": "24-000008",
+	"QAForm": "Hydrant Checklist",
+	"FormName": "Hydrant Checklist"
+	},
+	"34501" : {
+	"InitialCFS": "F1",
+	"ReportedLocation": "3600 University Ave;PX",
+	"FinalCFS": "F2",
+	"ExactLocation": "",
+	"DOTNo": "9279",
+	"EstAmtReleased": "143",
+	"PFNo": "001"
+	},
+	"42115":{
+	"IncidentNo":"24-000011"
+	},
+	"48491":{
+	"IncidentNo":"24-000007",
+	"Status":"On Hold"
+	},
+	"50923": {
+		"IncidentNo": "25-000003",
+		"UnitNo": "01",
+		"UnitDescription": "Engine Special",
+		"Unit": "01"
+  },
+	"50414":{
+	"IncidentNo":"25-000005",
+	"Address":"129 S Jefferson Ave",
+	"ActionsTaken1":"60",
+	"PropertyUse":"500",
+	"IncidentType":"900"
+	},
+	"50470":{
+	"IncidentNo":"25-000004",
+	"InvestigatorType":"600",
+	"Name":"Test, Automation",
+	"SceneSecured":"Unknown",
+	"AgencyType":"Fire Department",
+	"Agency":"Fire Department",
+	"MobilePropertyInvolved":"1 - Not involved in ignition, but burned",
+	"Component":"Roof",
+	"Location":"Sunset View.;PX"
+	},
+	"52914": {
+		"Investigator": "001",
+		"Name": "Test, Automation",
+		"AssignedBy": "F25",
+		"Description": "Murugappa, Antony B",
+		"ReportDateFrom": "03/12/2020",
+		"ReportDateTo":"08/01/2025",
+		"AssignedFromDate": "03/12/2020",
+		"AssignedToDate":"08/01/2025"
+	},
+	"52919": {
+		"InvestigationType": "200",
+		"InvestigationTypeDescription":"Overpressure rupture, explosion, overheat other",
+		"PropertyUse":"000",
+		"PropertyUseDescription":"Property Use Other",
+		"InvestigationNo":"19-000003",
+		"IncidentNo":"18-000036",
+		"PoliceCall":"25-000001",
+		"ReportStatus":"On Hold",
+		"Status":"On Hold",
+		"MobilePropertyType":"10",
+		"InvestigationStatus":""
+	},
+	"52994": {
+		"IncidentNo": "25-000008",
+		"PropertyLoss1": "200",
+		"ContentLoss1": "200",
+		"PropertyValue1": "200",
+		"ContentValue1": "200",
+		"PropertyLoss2": "500",
+		"ContentLoss2": "500",
+		"PropertyValue2": "500",
+		"ContentValue2": "500"
+	},
+	"52980": {
+		"IncidentNo": "18-000036",
+		"FromDate": "11/13/2024",
+		"FromTime": "000000",
+		"LocationType1":"Address",
+		"LocationType2":"Intersection",
+		"LocationType3":"Common Name",
+		"Premise":"301",
+		"Street":"Westover Rd",
+		"Location1":"301 Westover Rd;PX , Moorestown, NJ 08057",
+		"Location2":"WestOver/Forge",
+		"Location3":"301 Westover Rd;PX , Moorestown, NJ 08057",
+		"Location4":"08057",
+		"Street1":"Westover",
+		"Street2":"Forge",
+		"CFSCode":"101",
+		"CFSCodeDescription":"Emergency",
+		"CommonName":"West over",
+		"LocationJuris":"PX - ProPhoenix Fire Department",
+		"Juris":"PX",
+		"ZipCode":"08057"
+	},
+	
+	"55576":{
+		"IncidentNo":"25-000011",
+		"Investigator":"001",
+		"InvestigatorType":"200",
+		"Position":"Lead",
+		"UnitNo":"01",
+		"Name":"Test, Automation",
+		"AssignedBy":"Test, Automation",
+		"Description":"Test, Automation",
+		"TabName0":"Investigator(s)"
+		},
+		
+		"55576A":{
+		"IncidentNo":"25-000011",
+		"SceneSecured":"Yes",
+		"MobilePropertyInvolved":"N - None",
+		"TabName1":"Scene",
+		"TabName2":"Vehicle"
+		},
+		
+		"55576B":{
+		"IncidentNo":"25-000011",
+		"ActivityCategory":"Field Notes",
+		"Investigator":"Test, Automation",
+		"TabName3":"Efforts"
+		},
+		
+		"55576C":{
+		"IncidentNo":"25-000011",
+		"LastName":"Warne",
+		"FirstName":"white",
+		"Name":"Warne, White",
+		"TabName4":"Names"
+		},
+		
+		"55576D":{
+		"IncidentNo":"25-000011",
+		"Bank":"Right",
+		"AmpRating":"5",
+		"Label":"Good",
+		"TabName5":"Structure"
+		},
+		
+		"55576E":{
+		"IncidentNo":"25-000011",
+		"AgencyNameID":"B-0000000088",
+		"InsuredNameID":"B-0000000061",
+		"InsuranceCo":"Test Insurance",
+		"PolicyID":"54632",
+		"InsuranceAgentID":"B-0000000088",
+		"InsuredName":"Fire Dept",
+		"Agent":"Jeffry",
+		"TabName6":"Arson",
+		"TabName7":"Insurance"	
+		},
+		
+		"55576F":{
+		"IncidentNo":"25-000011",	
+		"Comment":"Comments Entered",
+		"TabName8":"Narrative"
+		},
+						
+		"55576G":{	
+		"IncidentNo":"25-000011",
+		"Reason":"Seized",
+		"Property":"Consumable Goods",
+		"Descrip":"Test",
+		"Value":"200",
+		"Disposition":"Sent to Property Room",
+		"StorageLoc":"L100020300000072",
+		"Storage":"Explosives",
+		"TabName9":"Evidence"
+		},
+		
+		"55576H":{
+		"IncidentNo":"25-000011",
+		"NewAction0":"Send for Approval",
+		"NewAction1":"Approve",
+		"NewAction2":"More Info Needed",
+		"RejectionCode":"Incorrect Data",
+		"TabName10":"Approval"
+		},
+		
+		"55576I":{
+		"IncidentNo":"25-000011",
+		"Category":"Document - File",
+		"File":"Crash.pdf",
+		"TabName11":"Attachment"
+	},
+	
+		"60619":{
+		"IncidentNo":"25-000017",
+		"InjuredPersonLastName":"Gasser",
+		"InjuredPersonFirstName":"Taylor",
+		"Gender":"Male",
+		"Severity":"3 - Severe",
+		"DOB":"05/07/2002"		
+	},
+	
+		"55627":{
+		"Juris0":"PX - ProPhoenix Fire Department",	
+		"Juris1":"BC - Brown County FireDepartment",
+		"JurisColumn":"BC",
+		"Unit":"191",
+		"ItemType":"NFIRS",
+		"ItemTypeInGrid":"NFIRS",
+		"Status":"Rejected",
+		"RefNo":"25-000015-000",
+		"Station1":"S01",
+		"RefNo1":"25-000015-000",
+		"UnitNo":"191"		
+	},
+	
+		"58341":{
+		"IncidentNo":"25-000018",
+		"LocationType":"1 - Street address",
+		"IncidentType":"700",
+		"ActionsTaken1":"80",
+		"PropertyUse":"400",
+		"Remarks":"Testing",
+		"UnitNo":"217F",
+		"NewAction":"Send for Approval",
+		"Password":"Pnx@2016"
+	},
+		"72598":{
+		"IncidentNo":"25-000032",
+		"IncidentNo1":"25-000032-000"
+	},
+		"72696":{
+		"ParameterID":"3254",
+		"EmailAddress":"Support.Auto@prophoenix.com",
+		"EmailAddressLabel":"E-mail Address for 'Refer to Fire Prevention Bureau' NFIRS Reports (3254)",
+		"ReferToFPB": "Auto",
+		"ActivityStatus": "Request/To-Do",
+		"SelectOverlay": "Road closures",
+		"Subject": "9 Autumn Rd",
+		"IncidentNo":"25-000024",
+		"IncidentNo1":"25-000024-000"
+	},
+		"72816":{
+		"ErrorMessage":"Either Latitude and Longitude or Township, Range, Section, Subsection and meridian should be filled (RE-133)",
+		"IncidentNo":"25-000032",
+		"IncidentNo1":"25-000032-000"
+	},
+		"72916":{
+		"IncidentNo":"25-000025",
+		"PhoneType1":"Work",
+		"PhoneNumber1":"9876543210"
+	},
+		"17777":{
+		"IncidentNo":"25-000037",
+		"ErrorMessage":"Report Date/Time Required",
+		"IncidentNo1":"25-000037-000"
+	},	
+	"72946":{
+	"CheckBoxStatus":"Checked"
+	},
+	"72954": {
+		"IncidentNo2": "25-000009",
+		"InvestigationNo": "19-000006",
+		"InvestigatorType": "200",
+		"InvestigationNoYear":"19"
+	},
+	"72975":{
+		"IncidentNo":"25-000011",
+		"ActivityCategory":"Field Notes",
+		"TotalTime":"24",
+		"Investigator":"Account, Person"
+		},
+	"73047": {
+		"Investigator": "45F",
+		"Name": "45F, Oliver-45F",
+		"IncidentNo": "24-000003",
+		"IncidentNo1": "24-000003",
+		"ReportDate": "11/27/25"	
+	},
+	"73169": {
+		"IncidentNo": "25-000031",
+		"IncidentNo1": "25-000031-000",
+		"DProviderImp": "12",
+		"IProcedureUsed": "05"
+	},
+	"73263":{
+	"IncidentNo":"24-000003",
+	"InvestigatorType":"40",
+	"LastName": "Jenis",
+	"Address1": "91 Fowler Ave",
+	"Name": "Jenis, Linger",
+	"FirstName": "Linger",
+	"Investigator": "45F"	
+	},	
+	"73359": {
+		"IncidentNo": "26-000003"
+		},
+	"73935": {
+		"IncidentNo1": "26-000002"
+		},
+	"17761": {
+		"IncidentNo": "26-000006",
+		"IncidentType1": "5 - Service Call",
+		"IncidentType2": "56 - Unauthorized burning",
+		"ActionsTaken1": "11",
+		"IncidentType": "561",
+		"Section": "561 - Unauthorized burning",
+		"IncidentType3": "561 - Unauthorized burning"
+		
+		},
+	"74045": {
+		"IncidentNo": "26-000001",
+		"PropertyUse": "100",
+		"LocationType": "2 - Intersection",
+		"ActionsTaken1": "11",
+		"AidType": "N - None",
+		"ErrorMessage": "Controlled Date/Time Required",
+		"IncidentType": "173"		
+		}
+}
+

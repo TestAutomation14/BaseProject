@@ -1,0 +1,427 @@
+{
+	"189980": {
+		"ExpectedDuration": "8",
+		"TypeOfDetailWork": "Protection Detail",
+		"LocationOfDetail": "502 Pleasant Valley Ave",
+		"NoOfOfficersRequested": "5",
+		"BusinessNameID": "A-0000000012",
+		"ContactLastName": "Moran",
+		"ContactFirstName": "Michael",
+		"LastName": "Schnieder",
+		"FirstName": "Johnson",
+		"Location": "502 Pleasant Valley Ave",
+		"Duration": "8:00",
+		"TypeOfDetail": "Protection Detail"
+	},
+	"189981": {
+		"DetailNo": "18-000001",
+		"Location": "17 Tanglewood Pl",
+		"TypeOfDetail": "Detour Required",
+		"Comments": "Automation Works Required"
+	},
+	"189982": {
+		"Location": "6920 Newkirk Ave",
+		"DetailNo": "18-000003",
+		"TypeOfDetail": "Employee Layoff",
+		"PFNo": "WSTG",
+		"Officer": "Western, Gatz",
+		"FullName": "Western, II Gatz",
+		"Officer1": "Western, II Gatz",
+		"RateCode": "RATE9 -Everyone-Private",
+		"AmountToPaid": "50",
+		"AmountToBilled": "10"
+	},
+	"189983": {
+		"TypeOfDetailWork": "Employee Layoff",
+		"DetailNo": "18-000002",
+		"Location": "103 david St",
+		"TypeOfDetail": "Employee Layoff",
+		"ItemCode": "Cruiser Fee",
+		"ItemCode1": "Officer Bill Amount",
+		"Description": "Cruiser Fee",
+		"Description1": "Officer Bill Amount"
+	},
+	"189984": {
+		"TypeOfDetailWork": "Traffic road work",
+		"DetailNo": "18-000004",
+		"Location": "6 Jefferson Ave",
+		"TypeOfDetail": "Traffic road work",
+		"InvoiceType": "Detail Bill"
+	},
+	"189985": {
+		"DetailNo": "18-000001",
+		"Location": "17 Tanglewood Pl"
+	},
+	"243680": {
+		"ExpectedDuration": "01:00",
+		"TypeOfDetailWork": "Protection Detail",
+		"LocationOfDetail": "203 N Marion Ave",
+		"NoOfOfficersRequested": "1",
+		"BusinessNameID": "B-0000000025"
+	},
+	"263036": {
+		"DetailNo": "21-000001",
+		"ItemCode": "Officer Bill Amount",
+		"ItemCode1": "D1",
+		"Qty": "1",
+		"Rate": "1.00",
+		"Amount": "1.00"
+	},
+	"273917": {
+		"PFCode": "Auto",
+		"FromDate": "06/01/2021"
+	},
+	"277260": {
+		"DetailNo": "21-000004",
+		"CustomName": "NewDuration",
+		"CustomName1": "NewActualWorkedHours"
+	},
+	"281422": {
+		"DetailNo": "21-000005",
+		"PFCode": "AUTO",
+		"Description": "Attachment",
+		"Category": "Scan - Document"
+	},
+	"281998": {
+		"DetailNo": "21-000006",
+		"BillToAccountLastName": "Kimberly Mart",
+		"PFNo": "DET",
+		"FullName": "Detail, Works",
+		"ItemCode": "D1",
+		"Officer": "Detail, Works"
+	},
+	"284673": {
+		"ExpectedDuration": "2:00",
+		"TypeOfDetailWork": "Traffic road work",
+		"LocationOfDetail": "5098 Broadhorn Rd",
+		"NoOfOfficersRequested": "1",
+		"BusinessNameID": "B-0000000015"
+	},
+	"288319": {
+		"DetailNo": "21-000004"
+	},
+	"DESmoke": {
+		"ExpectedDuration": "8",
+		"TypeOfDetailWork": "Protection Detail",
+		"LocationOfDetail": "502 Pleasant Valley Ave",
+		"NoOfOfficersRequested": "5",
+		"BusinessNameID": "A-0000000012",
+		"ContactLastName": "Moran",
+		"ContactFirstName": "Michael",
+		"LastName": "Schnieder",
+		"FirstName": "Johnson",
+		"Location": "502 Pleasant Valley Ave",
+		"Duration": "8:00",
+		"TypeOfDetail": "Protection Detail"
+	},
+	"PersonnelEntry": {
+		"PFCode": "AU213",
+		"LastName": "Automation",
+		"FirstName": "Selenium"
+	},
+	"BNameSmoke": {
+		"LastName": "Test",
+		"NameType": "B",
+		"Address": "100 Mill St",
+		"Address1":"37 Forsythe Rd;PX  "
+	},
+		"DESmokeFire": {
+		"ExpectedDuration": "8",
+		"TypeOfDetailWork": "Protection Detail",
+		"LocationOfDetail": "502 Pleasant Valley Ave",
+		"NoOfOfficersRequested": "5",
+		"BusinessNameID": "A-000000001",
+		"ContactLastName": "Shore.",
+		"ContactFirstName": "Michael",
+		"LastName": "Victoria",
+		"FirstName": "Leah",
+		"Location": "502 Pleasant Valley Ave",
+		"Duration": "8:00",
+		"TypeOfDetail": "Protection Detail"
+	},
+	"20255":{
+	"DetailNo":"19-000001",
+	"PFNo":"001",
+	"Officer":"Test, Automation"
+	},
+	"19241":{
+	"DetailNo":"21-000001"
+	},
+
+  "29328":{
+	"DetailNo":"23-000001"
+},
+
+	"29341": {
+		"ShowListFor": "Active Police Officer",
+		"PF": "001",
+		"Name": "Test, Automation"
+  },
+  "35462":{
+  "ExpectedDuration":"1",
+  "TypeOfDetailWork":"Detour Required",
+  "LocationOfDetail":"6498 N Shore Dr;PX  ",
+  "BusinessNameID":"B-0000000001",
+  "BillToAccountID":"B-0000000003",
+  "NoOfOfficersRequested":"2"
+  },
+  "41491":{
+  "PersonnelRateType":"Cadets, Per Diem Dispatcher",
+  "RateType":"Local Government",
+  "HoursFrom":"0:00",
+  "HoursTo":"12:00",
+  "BillAmt":"$ 100.00",
+  "PayAmt":"$ 100.00"
+},
+
+"44068":{
+"HoursFrom1":"Auto@#$",
+"HoursTo1":"Test@#$",
+"PersonnelRateType":"Police Officers",
+"RateType":"Private",
+"HoursFrom2":"0",
+"HoursTo2":"7",
+"BillAmt":"798",
+"PayAmt1":"2223334445",
+"PayAmt2":"4546"
+},
+"48639":{
+ "ExpectedDuration":"1",
+ "TypeOfDetailWork":"Traffic road work",
+ "LocationOfDetail":"6498 N Shore Dr;PX",
+ "BusinessNameID":"B-0000000001",
+ "BillToAccountID":"B-0000000003",
+ "NoOfOfficersRequested":"2",
+ "ItemCode": "Officer Bill Amount",
+ "RateCode": "RATE3 -Cadets, Per Diem Dispatcher-Local Government",
+ "AmountToPaid": "60",
+ "AmountToBilled": "20",
+ "PFNo":"001",
+ "Officer":"Test, Automation",
+ "InvoiceType": "Detail Bill"
+ },
+ "50633":{
+ "ExpectedDuration":"1",
+ "TypeOfDetailWork":"Traffic road work",
+ "LocationOfDetail":"6498 N Shore Dr;PX",
+ "BusinessNameID":"B-0000000001",
+ "BillToAccountNameID":"B-0000000001",
+ "NoOfOfficersRequested":"2",
+ "PFNo":"001"
+ },
+ "50475":{
+ "ExpectedDuration":"1",
+ "TypeOfDetailWork":"Traffic road work",
+ "LocationOfDetail":"6498 N Shore Dr;PX",
+ "BusinessNameID":"B-0000000002",
+ "NoOfOfficersRequested":"2",
+ "ItemCode": "Officer Bill Amount",
+ "PFNo":"001",
+ "Officer":"Test, Automation",
+ "InvoiceType": "Detail Bill"
+ },
+  "50654":{
+ "DetailNo":"25-000002",
+ "Custom1":"Test1",
+ "Custom2":"Test2"
+ },
+ "50131":{
+	"ExpectedDuration":"1",
+ 	"TypeOfDetailWork":"Protection Detail",
+ 	"LocationOfDetail":"1171 Delmar Dr;PX",
+ 	"NoOfOfficersRequested":"2",
+ 	"ItemCode": "Officer Bill Amount",
+	"PFNo":"001",
+	"Comments":"New Detail Request created",
+	"Officer":"Test, Automation"
+	},
+	 "50462":{
+	"InvoiceNo": "25-000006",
+	"Amount": "1"
+	},
+ "50778A":{
+ "DetailNo":"25-000001",
+ "Remarks":"Detail Work Automation"
+},
+"50778":{
+ "DetailNo":"25-000001",
+ "Remarks":"Detail Work Automation"
+},
+ "52913":{
+"DetailNo":"25-000002"
+},
+"53067":{
+    "ExpectedDuration":"1",
+	"TypeOfDetailWork":"Traffic road work",
+	"LocationOfDetail":"1171 Delmar Dr;PX",
+	"NoOfOfficersRequested":"2",
+	"BusinessNameID":"B-0000000002",
+    "PFNo":"001",
+    "Officer":"Test, Automation"
+},
+"51551": {
+	"Juris1":"BC - Brown County FireDepartment",
+	"Juris2":"GCF - Gloucester County Fire Dept",
+	"Juris3":"SC - Seneca County FireDept",
+	"PF": "001",
+	"DetailHierarchyOrder": "Active Police Officer"
+},
+"55646":{
+"ExpectedDuration":"1",
+"TypeOfDetailWork":"Traffic road work",
+"LocationOfDetail":"1272 President St;PX  ",
+"NoOfOfficersRequested":"2",
+"PFNo":"001",
+"PFNo1":"002",
+"PFNo2":"003",
+"ScheduledDuration":"2:00",
+"BusinessNameID":"B-0000000049"
+},
+"55330":{
+"Status1":"Not Filled",
+"Status2":"Filled",
+"Status3":"Completed",
+"Status4":"Cancelled",
+"Status5":"Unable To Fill",
+"Status6":"Out Of Town Officer",
+"Priority1":"Y",
+"Priority2":"N",
+"DetailNo1":"25-000005",
+"TypeOfDetail":"Traffic road work",
+"DetailNo2":"25-000006",
+"DetailNo3":"25-000007",
+"DetailNo4":"25-000008",
+"DetailNo5":"25-000009",
+"DetailNo6":"25-000010",
+"Location":"125 Shoprite Way",
+"DetailNo":"25-000005",
+"fromDate":"01/29/2025",
+"TypeOfDetailWork":"Traffic road work"
+},
+"55051":{
+"BusinessNameID":"O-0000000079",
+"BusinessAddress":"6059 Sollicitudin Rd",
+"Address1":"6059 Sollicitudin Rd",
+"ContactNameID":"B-0000000119",
+"PhoneType":"Home",
+"PhoneNumber":"2631231231",
+"Email":"sfsdf@Gmail.com",
+"PhoneType1":"H"
+},
+"55915":{
+"PersonnelRateType":"Cadets, Per Diem Dispatcher",
+"RateType":"Local Government"
+},
+"58191":{
+"ExpectedDuration":"4:00",
+"TypeOfDetailWork":"Traffic road work",
+"LocationOfDetail":"WestOver/Forge",
+"NoOfOfficersRequested":"3",
+"Rate":"4444444444",
+"BusinessNameID":"B-0000000041"
+},
+"58191A":{
+"ExpectedDuration":"3:00",
+"TypeOfDetailWork":"Traffic road work",
+"LocationOfDetail":"801 Drummond Ave,a1",
+"NoOfOfficersRequested":"4",
+"Rate":"3333333333",
+"BusinessNameID":"B-0000000021"
+},
+"55147":{
+"OtherPF":"001",
+"Officer":"Test, Automation",
+"Officer1":"Heat, Team",
+"ReferredTo":"Fire",
+"DetailNo":"25-000008",
+"Shift1":"A Shift",
+"Shift":"A Shift",
+"Type":"Full Time Paid Employee",
+"Division":"Administration",
+"DetailHierarchyOrder":"Ineligible",
+"Group":"Workgroup A",
+"TitleRank":"Chief",
+"Section":"Battalion 1",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Squad": "Heavy Rescue"
+},
+"67358": {
+	"PersonnelRateType": "Police Officers",
+	"RateType": "Private",
+	"HoursFrom1": "0:00",
+	"HoursFrom3": "0:00",
+	"HoursFrom2": "2:01",
+	"HoursFrom6": "2:01",
+	"HoursTo1": "2:00",
+	"HoursTo3": "2:00",
+	"HoursTo2": "4:00",
+	"HoursTo6": "4:00",
+	"BillAmt1": "111",
+	"BillAmt2": "$111.00",
+	"BillAmt3": "$ 111.00",
+	"BillAmt4": "222",
+	"BillAmt5": "$222.00",
+	"BillAmt6": "$ 222.00",
+	"BillAmt7": "225",
+	"BillAmt8": "$225.00",
+	"BillAmt9": "$ 225.00",
+	"PayAmt1": "121",
+	"PayAmt2": "$121.00",
+	"PayAmt3": "$ 121.00",
+	"PayAmt4": "131",
+	"PayAmt5": "$131.00",
+	"PayAmt6": "$ 131.00",
+	"PayAmt7": "141",
+	"PayAmt8": "$141.00",
+	"PayAmt9": "$ 141.00"
+},
+"73625":{
+	"ReferToTableValues":[
+		{"William, Josh":"(321) 524-5234"}, 
+		{"Natasha, Colle":"(541) 654-1651"}, 
+		{"Test, Automation":"(232) 324-3243"}
+	]
+},
+"74283":{
+	"ExpectedDuration":"8",
+	"TypeOfDetailWork":"Strike",
+	"LocationOfDetail":"502 Pleasant Valley Ave",
+	"NoOfOfficersRequested":"5",
+	"BusinessNameID":"A-0000000012",
+	"BillToAccountNameID":"B-0000000001"
+},
+
+"74270":{
+	"ExpectedDuration":"8",
+	"TypeOfDetailWork":"Strike",
+	"LocationOfDetail":"502 Pleasant Valley Ave",
+	"NoOfOfficersRequested":"5",
+	"BusinessNameID":"A-0000000012",
+	"BillToAccountNameID":"B-0000000001"
+},
+
+"74271": {
+		"ExpectedDuration": "10",
+		"TypeOfDetailWork":"Strike",
+		"LocationOfDetail":"6498 N Shore Dr;PX",
+		"NoOfOfficersRequested":"2",
+		"Address1":"1 W Damn St E",
+		"City":"Keystone",
+		"State":"AL - Alabama",
+		"BusinessNameID":"A-0000000012",
+		"ZipCode":"35007"
+	},
+	
+	"74281":{
+		"ExpectedDuration":"2:00",
+		"TypeOfDetailWork":"Strike",
+		"LocationOfDetail":"1171 Delmar Dr;PX",
+		"NoOfOfficersRequested":"1",
+		"BusinessNameID":"B-0000000015",
+		"Comments":"New Detail Request created"
+	},
+	"78351":{
+		"DetailNo":"25-000011",
+		"Comments":"To verify TC - 78351"
+	}
+}

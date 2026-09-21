@@ -1,0 +1,101 @@
+{
+	
+  "259710": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "Police MJ",
+    "PFCode": "Auto",
+    "ReportName": "AutoTesting",
+    "FromDate": "01/01/2010",
+    "ToDate": "01/01/2020",
+    "DateRange":"User Entry"
+  },
+  "DshBrdEnt":{
+  "DasboardType":"Real Time Dashboard",
+  "Dasboardname":"Test"
+
+  },
+  "EvdnceEnt":{
+	"CaseNo":"21-000002",
+	"Status":"Sent to Property Room"
+	},
+	"VehicleEntry":{
+"VinNo":"7586942338",
+"PlateNumber":"2587",
+"NameID":"A-0000000002",
+"State":"WI"
+
+},
+	"BoatEntry":{
+"VinNo":"7586942448",
+"PlateNumber":"2547",
+"NameID":"A-0000000003",
+"State":"WI"
+},
+"18683":{
+"DashBoardName":"TestingPerfect",
+"DasboardType":"PDF File"
+},
+
+"DashBoardConfig":{
+	"DashBoardName":"Dash 1",
+	"DasboardType":"Job Report",
+	"JobName":"JS Call Summary"
+},
+
+"StatisticalReportEnt":{
+	"ReportName":"Automation",
+	"DateRange":"Prior Month",
+	"CategoryTitle":"test",
+	"Name":"Automation",
+	"CriteriaNotes":"Automation Test",
+	"DataSource":"Case Records"
+},
+"44236":{
+"DashBoardType":"Power BI - Server"
+},
+"42480":{
+"District":"D1",
+"ColumnName":"Fire District",
+"DistrictValue":"District 1",
+"Radius":"200"
+},
+"50456":{
+"DashBoardName":"Automa",
+"DasboardType":"Job Report",
+"JobName":"JS Call Summary",
+"DistributeReportTo":"CM001",
+"DisplayScreenID":"1038",
+"ScreenId":"1038",
+"Version":"Demo",
+"DasboardType1":"Real Time Dashboard",
+"Division":"  --Add 2001 --  ",
+"Section":"  --Add 2001 --  ",
+"Squad":"  --Add 2001 --  "
+},
+"74452":{
+	"DashBoardName":"5001",
+	"DashBoardType":"Real Time Dashboard",
+	"DashBoardCategory":"Real Time Dashboard"
+},
+"74962":{
+	"DashboardName1":"PF Detail"
+},
+
+"60600":{
+"DashBoardType":"Real Time Dashboard",
+"DashboardSortSequence":"1",
+"DashboardEntrySeconds":"10"
+},
+"74964":{
+	"DashBoardType":"Real Time Dashboard",
+	"DasboardType":"Real Time Dashboard",
+	"DashBoardName":"Test Dashboard 1"
+},
+
+"74966":{
+	"DashBoardType":"Real Time Dashboard",
+	"DashBoardName":"Dashboard 2",
+	"JobName":"Auto JB 2"
+}
+}

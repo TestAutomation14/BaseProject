@@ -1,0 +1,2583 @@
+{
+	"166734": {
+		"TerminalName": "AutoPolice",
+		"IPAddress": "192.168.10.000"
+	},
+	"166735": {
+		"TerminalName": "Police",
+		"IPAddress": "192.168.10.216",
+		"DispatchRoute": "Zone 2"
+	},
+	"166736": {
+		"TerminalName": "CADDevice",
+		"IPAddress": "192.168.10.217",
+		"Monitor": "Monitor - 1",
+		"Screen": "F3 - Dispatch",
+		"ScreenName": "F3 - Dispatch"
+	},
+	"166737": {
+		"TerminalName": "Police",
+		"InterfaceName": "ESO CAD",
+		"LocationHostSite": "clouldserver"
+	},
+	"166738": {
+		"TerminalName": "Terminal",
+		"TerminalName1": "Fire"
+	},
+	"166739": {
+		"Unit": "108WDA",
+		"DispatchUnitType": "CL",
+		"OnCallOfficer": "AUTO",
+		"PatrolArea": "Patrol Zone",
+		"Officer": "Auto"
+	},
+	"166740": {
+		"Unit": "1066WD",
+		"PatrolArea": "Patrol Area 2"
+	},
+	"166741": {
+		"TextName": "Police RMS1",
+		"Remarks": "Phoenix Police RMS Text Mgmt",
+		"ScreenID": "1031",
+		"ReportName": "SOP Text Entry"
+	},
+	"166742": {
+		"TextName": "Text Mgmt",
+		"ExpiryDate": "02/17/2020"
+	},
+	"180961": {
+		"Disposition": "QAA",
+		"Type": "CAD",
+		"ReportCode": "Incident Report"
+	},
+	"217498": {
+		"FormRefNo": "QAA001",
+		"FormName": "QA Automation Form",
+		"Version": "1",
+		"SectionName": "Index 1",
+		"Sort": "1",
+		"Section": "Index 1",
+		"DisplayAs": "A",
+		"LeadingSpace": "5",
+		"ColumnNo": "2",
+		"Question": "Obvious Need for EMS?",
+		"AnswerType": "True / False",
+		"DisplayAs1": "Under influence-Alcohol?"
+	},
+	"217499": {
+		"FormRefNo": "QAA002",
+		"FormName": "QA Automation Test Form",
+		"Version": "1A",
+		"SectionName": "Section I",
+		"Sort": "1",
+		"DisplayAs": "A",
+		"LeadingSpace": "6",
+		"Question": "Obvious Need for EMS?",
+		"AnswerType": "True / False",
+		"Section": "Section I",
+		"DisplayAs1": "B",
+		"Question1": "Under influence-Alcohol?"
+	},
+	"217502": {
+		"CFSCode": "33AU",
+		"Type": "CAD",
+		"Description": "Immigration - Others",
+		"ShortDescription": "Immigration",
+		"ServiceType": "1 - Police",
+		"CFSClass": "26"
+	},
+	"243229": {
+		"ChargeCode": "947.013(1r)",
+		"NIBRS": "13B"
+	},
+	"243235": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "Police MN",
+		"ChargeCode": "10.09",
+		"ExpirationDate": "04/15/2020"
+	},
+	"243676": {
+		"ChargeCode": "145.174(a)1",
+		"ExpirationDate": "04/15/2020"
+	},
+	"243682": {
+		"Unit#": "P003",
+		"Unit":"p003",
+		"DefaultVehicle":"WDA2",
+		"DispatchUnitType": "CL - Court Liaison Officer",
+		"OnCallOfficer": "P001"
+	},
+	"243683": {
+		"Disposition": "CM",
+		"Description": "Control Management",
+		"Type": "Mgmt",
+		"CaseStatus": "Open"
+	},
+	"244232": {
+		"FormRefNo": "NY 1341",
+		"Version": "1A",
+		"FormName": "Graphic File"
+	},
+	"250097": {
+		"JobName": "JobEntryTest",
+		"JobType": "System",
+		"EndDate": "12/20/2045",
+		"Min": "10"
+	},
+	"250098": {
+		"ParameterID": "779",
+		"PFName": "Auto"
+	},
+	"250103": {
+		"ChargeCode": "450.07(3)b",
+		"ChargeType": "Felony",
+		"RelatedCFSCode": "0102",
+		"NIBRSCode": "35A",
+		"Description": "Automation Test",
+		"NIBRS": "35A"
+	},
+	"250422": {
+		"Unit": "TPAUT1",
+		"Unit#": "TPAUT1",
+		"DispatchUnitType": "CL - Court Liaison Officer"
+	},
+	"251301": {
+		"ParameterID": "705"
+	},
+	"252888": {
+		"CFSNo": "2220",
+		"Type": "CAD",
+		"Description": "Liquor--Illegal Poss",
+		"AlertType": "Fire",
+		"CFSCode": "2220"
+	},
+	"253689": {
+		"ChargeCode": "947.01(1)",
+		"NIBRSCode1": "90Z",
+		"NIBRSCode": "90C"
+	},
+	"254465": {
+		"Disposition": "ARA",
+		"Description": "Arrested Adult",
+		"Type": "CAD",
+		"ReportCode": "Supplemental Report"
+	},
+	"254474": {
+		"Type": "Form",
+		"Type1": "SSRS Report",
+		"Name": "Use of Force",
+		"Name1": "CAD Activity"
+	},
+	"254791": {
+		"PurgeData": "Case Data",
+		"RetainRecords": "7 Years"
+	},
+	"255526": {
+		"CodeID": "3008",
+		"Description": "Protective Custody",
+		"CodeValue": "PRC"
+	},
+	"256104": {
+		"RoleName": "DeleteRole",
+		"RoleName1": "Local Admin",
+		"ScreenID": "1290"
+	},
+	"256105": {
+		"RoleName": "Keypunch",
+		"CopyRoleName": "Role KeyPunch",
+		"CopyRoleDescription": "Copied Role KeyPunch",
+		"RoleName1": "CAD CFS",
+		"RoleName2": "CAD Status"
+	},
+	"256107": {
+		"AddressType": "Letterhead",
+		"Address": "1258 E Hiawatha Dr"
+	},
+	"256108": {
+		"JobName": "JOB Weekly",
+		"Every": "2"
+	},
+	"256803": {
+		"ScreenID": "2544",
+		"Type": "Form",
+		"Name": "Use of Force",
+		"TestCaseID": "256803",
+		"ParameterID": "36",
+		"ParameterValue": "Https"
+	},
+	"256807": {
+		"JobName": "JS Call Summary",
+		"FormName": "# JS Blotter"
+	},
+	"257055": {
+		"JobName": "JS Call Summary",
+		"NotifyEmail": "rajas@prophoenix.com",
+		"From": "stalinr@prophoenix.com",
+		"To": "rajas@prophoenix.com",
+		"Subject": "Test"
+	},
+	"257059": {
+		"UserName": "Auto",
+		"Password": "Pnx@2016",
+		"Database": "AutomationFireMJ"
+	},
+	"258280": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "PoliceMJAutomation",
+		"CodeID": "4874",
+		"Description": "Map Point Layers",
+		"CodeValue": "MEDI",
+		"LayerDescription": "Medical Store",
+		"LayerIcon": "Pharmacy",
+		"LayerName": "Medical Store",
+		"LayerType": "Point",
+		"FeatureName": "MS",
+		"Address": "1900 Declaration Dr"
+	},
+	"258281": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "AutomationFireMJ",
+		"LayerDescription": "Medical Store",
+		"LayerIcon": "Pharmacy",
+		"LayerName": "Medical Store",
+		"LayerType": "Point",
+		"FeatureName": "Pharmacy",
+		"Name": "MS",
+		"Address": "1900 Declaration Dr",
+		"LayerName1": "Hospitals",
+		"Remarks": "Near By Address Hospitals ShortListed"
+	},
+	"258282": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "PoliceMJAutomation",
+		"LayerName": "Medical Store",
+		"LayerName1": "Hospitals",
+		"Remarks": "Near By Address Hospitals ShortListed",
+		"Name": "Pharmacy"
+	},
+	"258916": {
+		"FormRefNo": "PDF001",
+		"FormName": "PDF Form Report",
+		"Version": "1.0"
+	},
+	"258920": {
+		"RoleName": "Senior Officer",
+		"RoleDescription": "Senior Officer Role",
+		"Module": "Activity",
+		"Column": "Search",
+		"Column1": "Change",
+		"Column2": "Add New",
+		"Column3": "Delete",
+		"Column4": "Print"
+	},
+	"259724": {
+		"FormRef": "RID256",
+		"RepositoryID": "2262",
+		"NameID": "A-0000000010",
+		"PermitType": "GUN",
+		"PermitStatus": "OnHold",
+		"PFCode": "AUTO"
+	},
+	"259726": {
+		"Module": "Settings",
+		"": ""
+	},
+	"260157": {
+		"CFSCode": "783",
+		"DistributionList": "Police QA",
+		"Type": "CAD",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent": "Call Received",
+		"PatrolArea": "Patrol Area 1",
+		"PFCode": "AUTO"
+	},
+	"260394": {
+		"CodeID": "1082",
+		"CodeValue": "Q",
+		"CodeValueDescription": "Qwerty",
+		"Description": "Qwerty",
+		"PhoneType": "Q - Qwerty"
+	},
+	"261087": {
+		"RoleName": "Local Admin",
+		"ScreenName": "Allow to Remove Processed Item",
+		"AlarmNo": "24",
+		"Type": "Registration Fee",
+		"Fee": "$78.00",
+		"Adjustments": "($78.00)"
+	},
+	"262005": {
+		"FormRefNo": "RID256",
+		"RepositoryID": "2510",
+		"CaseNo": "20-000217",
+		"Type": "Incident Report"
+	},
+	"263422": {
+		"ChargeCode": "215(c)(3)",
+		"ChargeType": "PUBLIC LAW",
+		"Description": "From the conviction or sentence",
+		"RelatedCFSCode": "7399",
+		"NIBRSCode": "90Z",
+		"StatutoryLimitation": "15"
+	},
+	"263423": {
+		"CFSNo": "215(c)(3)",
+		"Description": "From the conviction or sentence",
+		"Type": "Mgmt",
+		"CFSClass": "23",
+		"StatutoryLimitation": "15"
+	},
+	"263425": {
+		"CodeID": "1012",
+		"CodeValue": "M",
+		"Description": "Mailed to State Lab of Hygiene",
+		"CodeValueDescription": "Mailed to State Lab of Hygiene",
+		"CodeValue1": "R",
+		"CodeValueDescription1": "Retained (Open)",
+		"Description1": "Retained (Open)"
+	},
+	"263434": {
+		"Interface": "Property Disposition",
+		"CodeType": "3551",
+		"CodeValue": "RTO",
+		"MapCodeValue": "MTH",
+		"MapDescription": "Mailed to State Lab of Hygiene",
+		"MapCodeValue1": "RET",
+		"MapDescription1": "Retained (Open)"
+	},
+	"263927": {
+		"Interface": "Property Disposition",
+		"CodeType": "3531",
+		"CodeValue": "DAL",
+		"MapCodeValue": "REL",
+		"MapDescription": "Released (Open)",
+		"MapCodeValue1": "REP",
+		"MapDescription1": "Released (Closed)",
+		"Code": "DAL"
+	},
+	"263937": {
+		"CodeID": "3557",
+		"Description": "Recovered for an Other Agency",
+		"CodeValue": "RFA",
+		"CodeValueDescription": "Recovered for an Other Agency",
+		"CodeValue1": "OTH",
+		"CodeValueDescription1": "Other",
+		"": ""
+	},
+	"265269": {
+		"Type": "Mgmt",
+		"CFSCode": "1499",
+		"CopyTaskFrom": "Counterfeiting",
+		"TaskDescription": "Victim Taped Statement"
+	},
+	"265270": {
+		"Type": "Mgmt",
+		"CFSCode": "2509",
+		"TaskCode": "Complete Initial Report",
+		"DueNoOfDays": "5",
+		"TaskCode1": "Photographs",
+		"TaskDetails": "Entering Tasks to CFS Code"
+	},
+	"272999": {
+		"CodeID": "1057",
+		"CodeID1": "1002",
+		"MJCategory": "Local",
+		"MJCategory1": "Shared"
+	},
+	"273490": {
+		"DistributionList": "Police QA",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent1": "Arrest Booking",
+		"Email": "xyz@gmail.com",
+		"Name": "alex",
+		"NotifyEvent2": "Report Approved",
+		"RequestedBy": "Prophoenix, Automation"
+	},
+	"273491": {
+		"DistributionList": "Police Auto",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent1": "Property Recovered",
+		"Email": "wxyz@gmail.com",
+		"Name": "alex1",
+		"NotifyEvent2": "Attachment Added",
+		"RequestedBy": "Prophoenix, Automation"
+	},
+	"273920": {
+		"RoleName": "Accounting",
+		"PFCode": "ACCD",
+		"LastName": "Account",
+		"FirstName": "Clerk",
+		"UserName": "AC002",
+		"Password": "Pnx@2016",
+		"RoleAssignment": "Accounting",
+		"ScreenName": "Invoice Entry"
+	},
+	"275263": {
+		"CodeID": "5073",
+		"CodeValue": "05",
+		"Description": "Automation Test",
+		"CodeValueDescription": "Automation Test"
+	},
+	"276792": {
+		"CodeID": "3224",
+		"Description": "Spontaneous"
+	},
+	"278640": {
+		"QAForm": "Form 441",
+		"CaseNo": "21-000207",
+		"CodeID": "1005",
+		"CodeValue": "K",
+		"Description": "QA Form",
+		"FormName": "Form 441",
+		"RepositoryID": "2510",
+		"Type": "QA Form",
+		"LastName": "Berlin",
+		"FirstName": "Nairobi",
+		"PDFAttachment": "Always"
+	},
+	"281038": {
+		"TerminalName": "AutoTRMS",
+		"Description": "Automation Test",
+		"IPAddress": "192.168.10.203"
+	},
+	"281047": {
+		"Unit": "FIR356"
+	},
+	"281415": {
+		"QAForm": "Phoenix QA Form",
+		"QAForm1": "Phoenix QA Form1",
+		"FormName": "Phoenix QA Form",
+		"FormName1": "Phoenix QA Form1",
+		"ActivityType": "33 - Roll Call",
+		"PFCode": "45F",
+		"FormRefNo": "PF001",
+		"FormRefNo1": "PF002",
+		"RepositoryID": "1376"
+	},
+	"283634": {
+		"ScreenID": "8703"
+	},
+	"285052": {
+		"DistributionList": "Fire station",
+		"PF": "KeyPunch, Officer",
+		"PFCode": "P003"
+	},
+	"286445": {
+		"StationCode": "FIRE",
+		"StationName": "FIRE STATION 55",
+		"Email": "TestAutomation@prophoenix.com",
+		"Station": "FIRE",
+		"District": "District 1"
+	},
+	"288161": {
+		"ChemicalName": "1,3-Dinitrobenzene"
+	},
+	"292508": {
+		"Module": "Home",
+		"ParameterName": " invoice generation",
+		"ParameterID": "5909",
+		"OldPFCode": "AUTO",
+		"OldValue1": "True",
+		"NewValue1": "False",
+		"NewPFCode": "AUTO",
+		"OldValue2": "True",
+		"NewValue2": "False"
+	},
+	"293131": {
+		"FormRefNo": "2250",
+		"FormName": "Automation",
+		"Version": "2",
+		"RepositoryID": "1376",
+		"Role": "Local Admin",
+		"Subject": "Automation Team Effort"
+	},
+	"ActionEntry": {
+		"ActionNo": "561322",
+		"ActionName": "AutoTeting",
+		"ProcessSPName": "10.103.1.68"
+	},
+	"CameraConfigEntry": {
+		"Name": "CameraAutomated",
+		"Description": "Automation Test",
+		"CameraUse": "05 - Capture Picture",
+		"CameraType": "1 - Axis",
+		"CameraURL": "10.103.1.68"
+	},
+	"CFSCodeSharedCodesEntry": {
+		"CFSNo": "993566",
+		"Type": "CAD",
+		"Description": "Automation Test"
+	},
+	"ChargeSharedCodesEntry": {
+		"ChargeCode": "AUTO153",
+		"ChargeType": "Unclassified",
+		"RelatedCFSCode": "0301",
+		"NIBRSCode": "240"
+	},
+	"CodedMapDetailEntry": {
+		"Interface": "CMS-Keefe",
+		"CodeType": "1011",
+		"PhoenixValue": "A",
+		"MapCodeValue": "REL",
+		"MapDescription": "Released (Closed)"
+	},
+	"CodedDocHelpEntry": {
+		"ScreenID": "1031",
+		"DocumentTitle": "Custom Tittle",
+		"Link": "http://www.prophoenix.com"
+	},
+	"DispatchZoneEntry": {
+		"ZoneName": "AUTOMATION",
+		"Description": "TestDescription",
+		"PatrolArea": "PZ",
+		"Product": "Police"
+	},
+	"DispositionSharedCodesEntry": {
+		"Disposition": "AutomatedCode",
+		"Type": "CAD"
+	},
+	"JobEntry": {
+		"JobName": "Automation Job",
+		"JobType": "Automatic"
+	},
+	"OffenseCodesSharedCodesEntry": {
+		"OffenseCode": "9986",
+		"Description": "Automation Offense Code Test",
+		"FormRef": "TEXTQA"
+	},
+	"QAFormEntry": {
+		"FormName": "QA Automation Form",
+		"Version": "2",
+		"SectionName": "Auto",
+		"Sort": "6",
+		"AnswerType": "Yes / No",
+		"RepositoryID": "1031",
+		"Role": "Police Officer"
+	},
+	"QueryConfigEntry": {
+		"QueryNo": "6085",
+		"QueryName": "Auto Query Test",
+		"SectionName": "Auto Section",
+		"TableName": "AlCompany",
+		"MainTableName": "AlCompany",
+		"LinkTableName": "AlCompany",
+		"MainKey1": "AlCompanyID",
+		"LinkKey1": "AlCompanyID",
+		"Repository": "1000",
+		"Key1": "AlCompanyID"
+	},
+	"ReportRepoSharedCodesEntry": {
+		"ScreenID": "1077",
+		"ReportType": "Form",
+		"FormName": "Automation Report",
+		"FileName": "AutoFile.PDF",
+		"ScreenCategory": "Others"
+	},
+	"RoleEntry": {
+		"RoleName": "Auto Test",
+		"RoleDescription": "Auto Role Description"
+	},
+	"TerminalEntry": {
+		"TerminalName": "Auto Terminal",
+		"IPAddress": "10.103.3.111"
+	},
+	"UnitEntry": {
+		"Unit": "Temp163",
+		"DispatchUnitType": "CL - Court Liaison Officer"
+	},
+	"VehicleMakeModelEntry": {
+		"Make": "TMTO",
+		"ModelCode": "AWP",
+		"ModelDescription": "Test AWS"
+	},
+	"UserQueryEntry":{
+		"MasterQueryName":"51"
+	},
+	"XMLExporterMaster": {
+		"MasterFile": "Automation Master",
+		"RootNodeName": "AutoRoot",
+		"AutoNode": "Auto Node",
+		"ParentNode": "AutoRoot",
+		"TableName": "AutoTable",
+		"NodeName": "AutoRoot",
+		"Table": "AutoTable",
+		"WhereField": "AutoField",
+		"XMLTagName": "AUTO",
+		"DataField": "TestData"
+	},
+	"CFSCodeSharedCodesEntryFire": {
+		"CallForService": "DSN2022",
+		"Alarm": "1",
+		"SubLevel": "1",
+		"DispatchPriority": "Priority 1",
+		"Agency": "Fire"
+	},
+	"CodedSharedCodesEntryFire": {
+		"Description": "Automation Test"
+	},
+	"CodedMapDetailEntryFire": {
+		"Interface": "FireHouseTrainingRecord",
+		"CodeType": "1087",
+		"PhoenixValue": "R",
+		"MapCodeValue": "MCL",
+		"MapDescription": "Released (Open)"
+	},
+	"CodedDocHelpEntryFire": {
+		"ScreenID": "1059",
+		"DocumentTittle": "Auto Doc Title",
+		"Link": "http://www.prophoenix.com"
+	},
+	"DistributionFire": {
+		"DistributionListName": "Automation List",
+		"PFNo": "FRMS"
+	},
+	"EmailTemplateEntry": {
+		"TemplateName": "Automation Test Temp",
+		"Bcc": "temp@prophoenix.com"
+	},
+	"FireStationEntryFire": {
+		"Station": "TAM",
+		"StationName": "Phoenix Fire Track"
+	},
+	"JobEntryFire": {
+		"JobName": "AUTO Job Entry",
+		"JobType": "Automatic"
+	},
+	"QAFormEntryFire": {
+		"FormName": "Auto Fire QAForm",
+		"Version": "2",
+		"SectionName": "FireAT",
+		"Sort": "6",
+		"AnswerType": "Yes / No",
+		"RepositoryID": "1062",
+		"Role": "Chief Inspector",
+		"FormRefNo": "1623"
+	},
+	"ReportRepoSharedCodesEntryFire": {
+		"ScreenID": "1057",
+		"ReportType": "Form",
+		"FormName": "Automation Form Report",
+		"FileName": "AutoFile.PDF",
+		"ScreenCategory": "Reports"
+	},
+	"RoleEntryFire": {
+		"RoleName": "Auto Fire",
+		"RoleDescription": "Auto Fire Role"
+	},
+	"TerminalEntryFire": {
+		"TerminalName": "Fire Terminal",
+		"IPAddress": "10.103.3.113"
+	},
+	"UnitEntryFire": {
+		"Station": "Phoenix Fire Track",
+		"UnitResponse": "04",
+		"UnitNo": "ATFIRE",
+		"UnitCallSign": "TEMP",
+		"ApparatusType": "11",
+		"ApparatusUse": "1 - Suppression",
+		"Agency": "Fire",
+		"DispatchUnitType": "CL - Court Liaison Officer"
+	},
+	"VehicleMakeModelEntryFire": {
+		"Make": "CMPF",
+		"ModelCode": "ATF",
+		"ModelDescription": "AUTO Test Fire"
+	},
+	"135129": {
+		"Module": "Inventory & Fleet",
+		"MJCategory": "Local (Restricted)",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"ParameterID": "1205"
+	},
+	"8988": {
+		"DistributionList": "Police Auto",
+		"ReportName": "Distribution List",
+		"Juris":"PX - ProPhoenix",
+		"":""
+	},
+	"9120": {
+		"SortBy": "Parameter ID",
+		"Module": "Alarms",
+		"ParameterName": "Approval",
+		"Module1": "Records",
+		"ParameterID": "736"
+	},
+	"8985": {
+		"CodeID": "2005",
+		"CodeValue": "TEST",
+		"Description": "Tested Values",
+		"CodeValue1": "TES"
+	},
+	"11053": {
+		"RoleName": "Patrol Officer",
+		"ScreenID": "5058",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"LoginUserName": "P001",
+		"PFCode": "P001",
+		"SelectForm":"Form 441"
+	},
+	"10981": {
+		"RepositoryID": "55",
+		"CustomName": "FOR TEST"
+	},
+
+	"11944": {
+		"RoleName": "Patrol Officer",
+		"ScreenID": "1340",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"8986": {
+		"TextName": "Automation Text",
+		"TextLine": "Automation"
+	},
+	"11488": {
+		"Description": "Special Skill Code",
+		"CodeValueDescription": "Package"
+	},
+	"12925": {
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceNJ ",
+		"Make": "AACC",
+		"ModelCode": "Goo",
+		"ModelDescription": "Raw SUV"
+	},
+	"11564": {
+		"Password": "Pnx@2016",
+		"Juris1": "BC - Brown County Police Department"
+	},
+	"13732": {
+		"JobName": "NJeCrash1",
+		"JobType": "System"
+	},
+	"13854": {
+		"Interface": "Fire house Interface"
+	},
+	"13860": {
+		"Juris": "BC - Brown County Police Department",
+		"Code": "L100010900000006",
+		"Description": "Fleet Location1",
+		"LocationType": "Fleet Location",
+		"LocationUseFor": "Weapon Locker",
+		"Desc": "SafetyLocker",
+		"InactiveDesc": "InactiveLocation",
+		"LocationType1":"Weapon Locker"
+	},
+	"135733": {
+		"UserName": "Clara",
+		"Password": "phoenix@16"
+	},
+	"13856": {
+		"CodeID": "1005",
+		"Series": "2000 Series",
+		"CodeCategory": "User Code",
+		"Description": "Witness Type",
+		"Module": "Names",
+		"MJCategory": "Local",
+		"CodeValue": "1",
+		"CodeValueDescription": "Arrested Adult"
+	},
+	"149106": {
+		"Interface": "Property Disposition"
+	},
+	"149124": {
+		"OnCallOfficer": "AUTPOL",
+		"Unit": "TESS",
+		"Unit#":"TESS",
+		"DispatchUnitType": "PR - Patrol-Radar"	,
+		"PatrolZone0":"Patrol Zone",
+		"PatrolZone1":"Patrol Zone1"
+		},
+	"158776": {
+		"ChargeCode": "100.524",
+		"ChargeType": "Non-Criminal",
+		"Description": "Automation Test",
+		"RelatedCFSCode": "0302",
+		"NIBRSCode": "26D",
+		"CFSCode": "0302"
+	},
+	"163448": {
+		"ActionNo": "2023",
+		"ActionName": "Test Auto",
+		"ProcessSPName": "For Test",
+		"ValueType": "@Now",
+		"InputParameterName": "SPTest",
+		"InputParameterName1": "SPAuto",
+		"ValueType1": "Text"
+	},
+	"293143": {
+		"CodeID": "3059",
+		"CodeValueDescription": "Templates",
+		"SortOrder": "1",
+		"FormLinkValue": "Templates",
+		"Category": "Report",
+		"FormName": "CAD",
+		"Name": "CAD Tone Log List",
+		"ReportLinkValue": "CAD Tone Log List"
+	},
+	"289921": {
+		"RoleName": "GEO",
+		"ScreenID": "1340"
+	},
+	"150443": {
+		"RoleName": "Property"
+	},
+	"149200":{
+	"RoleName":"Alarms"
+	},
+	"149210":{
+	"RepositoryID":"1030",
+	"DefaultName":"Personnel Entry"
+	},
+	"17734":{
+	"JobName":"FireRMSDataExporter",
+	"ServerFolder":"\\10.103.1.65\\Services Testing\\PhoenixFireWebService"
+	},
+	"18604":{
+	"CodeID":"1001",
+	"Description":"Witness Type",
+    "CodeValue":"j"
+  },
+
+	"18601":{
+	"Juris":"BP - Bloomville Police Dept",
+	"SortOrder":"1"
+	},
+	
+	"18630":{
+	"FormRefNo":"Unshared",
+	"FormName":"UnsharedForms",
+	"Version":"1",
+	"FormRefNo1":"Shared",
+	"FormName1":"SharedForms"
+	},
+
+	"9152":{
+	"CodeID":"4559",
+	"Description":"AutomationTeam",
+	"CodeValue":"05",
+	"CodeCategory":"User Code",
+	"CodeID1":"4560",
+	"CodeValue1":"06",
+	"Description1":"BugInspect",
+	"Category":"AutomationTeam",
+	"PFCode":"158"
+		
+	},
+
+	"18773":{
+	"JobName":"CrashInterface"
+	},
+
+	"17785":{
+	"CodeID":"2665",
+	"Description":"Permit Status"
+	},
+
+	"17694":{
+	"Unit":"2205",
+	"UnitNo":"2205",
+	"UnitCallSign":"Alarm",
+	"Station":"Station 1",
+	"ApparatusUse":"1 - Suppression",
+	"UnitResponse":"08",
+	"Agency":"EMS",
+	"ApparatusType":"40",
+	"Description":"WDA2"
+	},
+	"17767":{
+	"FormName":"CSDCMAC",
+	"Version":"2.0"
+	},
+	"13864":{
+	"DistributionListName":"Automation",
+	"PFNo":"AUTPOL",
+	"PFNo1":"AUTO",
+	"DocumentTitle":"Automation",
+	"Link":"http://10.103.1.68/law/login.aspx",
+	"XMLMasterFile":"E",
+	"MasterFile":"Envelope"
+	},
+
+"21579":{
+"Unit#":"ASF006",
+"Station":"Station 1",
+"ApparatusUse":"1 - Suppression",
+"Agency":"EMS",
+"CodeValue":"08",
+"Order":"1",
+"UnitCallSign":"2121",
+"ApparatusType":"20",
+"UnitResponse":"06",
+"Unit":"ASF007"
+},
+"21714":{
+"DefaultName":"Police"
+},
+
+"19207":{
+"ParameterID": "10"
+},
+
+"21713":{
+"CFSCode":"0106"
+},
+"23262":{
+"TemplateName":"Invoice",
+"ScreenID":"1011",
+"DocumentTitle":"Test",
+"Link":"http://10.103.1.68/law/login.aspx"
+},
+"21582":{
+"SOPType1":"All Condition",
+"SOPType2":"Call Taker",
+"SOPType3":"Dispatcher",
+"CFSCode":"101"
+},
+"16320":{
+"Unit":"0023",
+"FormRefNo":"CTSJ"
+},
+
+  "29503":{
+"ScreenID":"1210",
+"DocumentTitle":"TestAuto",
+"Link":"http://www.prophoenix.com"
+},
+
+	"27194": {
+		"Unit": "235FW"
+},
+  
+"29439":{
+"QueryNo":"2404",
+"QueryName":"TestAutomation",
+"TableName":"ActivityLog",
+"ColumnName":"Custom2"
+},
+
+	"29317":{
+	"UnitNo":"710647",
+	"UnitCallSign":"Smoke",
+	"Station":"Fire Station 217",
+	"ApparatusUse":"1 - Suppression",
+	"UnitResponse":"09",
+	"Agency":"Fire",
+	"ApparatusType":"20",
+	"Juris":"--"
+	},
+	"35504":{
+	"2FAForApplication":"Law RMS",
+	"2FAMethod":"Email1",
+	"2FAMethod1":"Email2",
+	"2FAMethod2":"Email1, Email2",
+	"Popup":"(3)Do You Want To Save All Of The Entered Details?"
+},
+
+	"35419":{
+	"Module":"Fire Station",
+	"StationCode":"Raj",
+	"StationName":"AutomationAUT"
+	},
+	
+	"37730":{
+		"TerminalName":"Auto24",
+		"IPAddress":"*",
+		"ORI":"25",
+		"ORI0":"26",
+		"DepartmentName":"Auto01",
+		"ReportName":"Terminal Details",
+		"Header":"RcvUnSol"
+	},
+	"145794":{
+	"TextName":"AutomationPNX"
+},
+"44146":{
+"FormRefNo":"21",
+"FormName":"TestDemo",
+"Version":"1.0"
+},
+"44066":{
+"TemplateName":"Automation12",
+"Bcc":"kvchandrasekar94@gmail.com"
+		},
+		
+		"44240": {
+		"JobName": "BoloNew",
+		"JobType": "Automatic"
+	},
+		"44090":{
+		"FormRefNo":"RA001",
+		"FormName": "Risk Assessment Test",
+		"Section": "Section I",
+		"Section1": "--",
+		"Question": "Automation Test",
+		"AnswerType1": "--",
+		"AnswerType": "True / False"
+	},
+		"44239":{
+		"TextName":"Animal Report",
+		"ReportID":"1058",
+		"ReportName":"Calendar Report",
+		"CodeValue": "1058",
+		"SeqNo":"2"
+	},
+	
+	"43938":{
+		"CustomCatagory1":"Test Automation",
+		"CustomCatagory2":"New Alarm",
+		"Status": "True"
+	},
+	
+	"43942":{
+		"2FAForApplication":"Law RMS",
+		"2FAForApplication1":"--Select--",
+		"Enable2FA":"No",
+		"Enable2FA1":"--Select--",
+		"2FAMethod":"Email2",
+		"2FAMethod1":"--",
+		"2FAEnforcementFrequency": "Just once",
+		"2FAEnforcementFrequency1": "--Select--",
+		"OTPEmail": "Disable",
+		"OTPEmail1": "--Select--",
+		"Juris0": "BC - Brown County Police Department"
+	},
+	
+	"44103":{
+	"UserName": "Admin",
+	"Password": "Pleasant14",
+	"ParameterID": "1205",
+	"GroupSort1": "Phoenix AI BOT",
+	"GroupSort2": "--",
+	"Sort": "1"
+	},
+	"48810":{
+	"UserName": "Admin",
+	"Password": "Pleasant14",
+	"FormName":"Test"
+	},
+	"46118":{
+	"RepositoryID":"7725",
+	"FormName":"TestingAuto",
+	"SortOrder":"12"
+	},
+	"46209":{
+	"FormRefNo":"12",
+	"FormName":"Test",
+	"Version":"1",
+	"SectionName":"Report Entry Mobile",
+	"Sort":"0",
+	"Section":"Report Entry Mobile",
+	"Question":"Test Automation",
+	"AnswerType":"Yes / No"
+	},
+	"46485":{
+	"RoleName":"Alarms",
+	"ScreenID":"3662",
+	"ScreenName":"Alarm Attachment"
+	},
+	"46304":{
+	"CodeCategory0":"User Code",
+	"CodeCategory1":"System Code",
+	"CodeCategory2":"System and User Code"
+	},
+	"46284":{
+	"CodeID":"4013",
+	"InventoryType":"Check All",
+	"CodeValueDescription":"Other"
+	},
+	"46284A":{
+	"CodeID":"4013",
+	"InventoryType":"Check All",
+	"CodeValueDescription":"Other"
+	},
+	"46284B":{
+	"CodeID":"4013",
+	"InventoryType":"Check All",
+	"CodeValueDescription":"Other"
+	},
+	"48629":{
+	"FormRefNo":"18",
+	"FormName":"Test02",
+	"Version":"01",
+	"EvaluationFormName":"Test",
+	"RepositoryID":"1210",
+	"SelectForm":"Test02"
+	},
+	"48549":{
+	"FromDate":"01/01/2017",
+	"ToDate":"12/10/2024",
+	"Repository":"1291"
+	},
+	"46196":{
+	"TextName":"Test42",
+	"AvailableFields":"[ReportedTime]",
+	"Category":"Scan - Document",
+	"ReportID":"1031",
+	"Description":"SOP Text Entry",
+	"ReportName":"SOP Text Entry",
+	"Text":"Test Automation"
+	},
+	"46196A":{
+	"TextName":"Test42",
+	"AvailableFields":"[ReportedTime]",
+	"Category":"Scan - Document",
+	"ReportID":"1031",
+	"Description":"SOP Text Entry",
+	"ReportName":"SOP Text Entry",
+	"Text":"Test Automation"
+	},
+	"46196B":{
+	"TextName":"Test44",
+	"AvailableFields":"[Reported]",
+	"Category":"Scan - Document",
+	"ReportID":"1031",
+	"Description":"SOP Text Entry",
+	"ReportName":"SOP Text Entry",
+	"Text":"Test Automation"
+	},
+	"48861":{
+	"Unit":"98",
+	"UnitCallSign": "Test1",
+	"Station": "Station 1",
+	"UnitResponse": "06",
+	"ApparatusType": "10",
+	"ApparatusUse": "1 - Suppression",
+	"Agency": "Fire",
+	"DefaultVehicle1":"WDA1",
+	"DefaultVehicle2":"WDA2",
+	"UnitNo": "98",
+	"VehicleNo": "WDA1",
+	"VehicleNo1": "WDA2",
+	"FleetID": "WDA1",
+	"Description": "Patrol Fleet"
+	},
+	"48845":{
+		"ScreenID":"1050",
+		"DocumentTitle":"Prophoenix Document",
+		"DocumentTitle1":"Prophoenix Doc",
+		"Link":"https://www.prophoenix.com",
+		"DistributionListName":"Prophoenix Admins",
+		"PFNo":"AUTO",
+		"PFCode":"AUTO",
+		"Key":"AUTO",
+		"PF":"Prophoenix, Automation",
+		"Remarks":"Automation Process"
+	},
+	"50917":{
+		"RoleName":"Alarms",
+		"ScreenID":"3662",
+		"ScreenName":"Alarm Attachment",
+		"Module":"Alarms",
+		"PFCode":"AUTO",
+		"Tooltip":"Alarm Attachment"
+	},
+	"53071":{
+	"ParameterID":"1128"
+	},
+	"52874":{
+	"FormType":"PDF",
+	"Form Ref":"108"
+	},
+	"52874A":{
+	"FormType":"PDF",
+	"Form Ref":"103"
+	},
+	"52874B":{
+	"FormType":"PDF",
+	"Form Ref":"102"
+	},
+	"53036":{
+	"RepositoryID":"1041",
+	"FormName1":"DECELERATION",
+	"FormName":"DECELERATION",
+	"Role":"Supervisor",
+	"ScreenName":"Supervisor",
+	"RoleName":"Global Map"
+},
+"53036A":{
+"RepositoryID":"1044",
+"FormName1":"canditateFire"
+},
+"53036B":{
+"RepositoryID":"1054",
+"FormName1":"MentalHealthForm"
+},
+"53072":{
+"Module":"Records",
+"IPAddress":"10.103.28.79",
+"Description1":"View History",
+"EntraIDForApplication":"Law RMS",
+"2FAForApplication":"Law RMS",
+"IpAddressFrom":"10.103.28.88",
+"Description2":"Entra ID Changes",
+"Description3":"MFA Setting "
+},
+"53019":{
+	"ScreenID":"1034",
+	"DocumentTitle":"Automation",
+	"Link":"http://www.prophoenix.com"
+},
+"53019A":{
+	"ScreenID":"1211",
+	"DocumentTitle":"Automation",
+	"Link":"http://www.prophoenix.com"
+},
+"53019B":{
+	"ScreenID":"1058",
+	"DocumentTitle":"Automation",
+	"Link":"http://www.prophoenix.com",
+	"Link1":"http://www.prophoe"
+},
+
+"55672":{
+	"NioshGuide":"710647",
+	"DOTID":"16452",
+	"CAS":"55872",
+	"ChemicalName":"AutoBomb",
+	"DOTGuide":"1451",
+	"RTECS":"15154",
+	"CameoLink":"Prophoenix"
+},
+"55675":{
+	"CFSCode": "W7851",
+	"Description": "WEEE",
+	"Description1": "Incident NFIRS",
+	"AlarmLevel": "8",
+	"SubLevel": "0",
+	"ALSubAL": "8/0",
+	"NFIRSIncidentType": "100",
+	"NFIRSIncType": "100 -Fire, other",
+	"Priority": "3",
+	"DispatchPriority": "3"
+},
+"55925": {
+		"Subject1": "Activity 1"
+	},
+"55690": {
+		"ColumnName": "Template For"
+	},
+"55692": {
+"FormName1":"WorkFlow",
+"RepositoryID": "2510"
+		},
+"55698": {
+"2FAForApplication":"Law WDA",
+"IpAddressFrom": "10.1.103.72",
+"IPAddressRange": "10.1.103.72"
+},	
+"55698A": {
+"2FAForApplication":"Fire RMS",
+"IpAddressFrom": "10.1.103.72",
+"IPAddressRange": "10.1.103.72"
+},
+"55893": {
+"FormName":"PhoneixPX",
+"Version": "1.118"
+},
+"55887": {
+"FormName":"TestNG",
+"EvaluationFormName":"Test",
+"Version": "1.118"
+},
+"55004": {
+	"UserName": "Admin",
+	"Password": "Pleasant14",
+	"Database": "AutomationPoliceMJ",
+	"FormName":"TestAuto1",
+	"FormName1":"test454",
+	"Version": "1.175",
+	"ScreenID": "1000",
+	"RepositoryID": "1077",
+	"FormType":"PDF",
+	"ReportName": "Report Entry QA form"
+	},
+	"55535": {
+		"FormName": "AutoPolice",
+		"FormName1": "AutoPolice",
+		"FileName": "AutoPolice",
+		"RepositoryID": "1210",
+		"SelectForm": "AutoAI"
+	},
+		"55535A": {
+		"FormName": "AutoFire",
+		"FormName1": "AutoFire",
+		"FileName": "AutoFire",
+		"RepositoryID": "1210",
+		"SelectForm": "AutoFire"
+	},
+	
+		"55535B": {
+		"FormName": "AutoIA",
+		"FormName1": "AutoIA",
+		"FileName": "AutoIA",
+		"RepositoryID": "1210",
+		"PFCode": "IA001",
+		"SelectForm": "AutoIA"
+	},
+	"55570":{
+	"FormName":"FTO Entry QA form",
+	"RepositoryID":"7726",
+	"FTOTrainingType":"Patrol",
+	"FTOTest":"Test"
+},
+"55742": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "AutomationPoliceMJ",
+		"ParameterID": "205",
+		"SMTPServerPassword": "phoenix"
+	},
+"55742A": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "AutomationFireMJ",
+		"ParameterID": "205",
+		"SMTPServerPassword": "spSS0377"
+	},
+"55742B": {
+		"UserName": "Admin",
+		"Password": "Pleasant14",
+		"Database": "AutomationIA",
+		"ParameterID": "205",
+		"SMTPServerPassword": "vjjuewjrhbbnyjir"
+	},
+  "56055": {
+			"EntraIDForApplication":"Law WDA",
+			"ApplicationID": "Test123",
+			"DirectoryID": "Auto",
+			"ResponseUserAttributeKey": "145233",
+			"JobName": "CrashInterface",
+			"PF": "Prophoenix, Automation",
+			"PFCode":"AUTO"
+},
+  "56055A": {
+			"EntraIDForApplication":"Fire RMS",
+			"ApplicationID": "AF15423",
+			"DirectoryID": "RMS45545",
+			"ResponseUserAttributeKey": "FR55145233",
+			"JobName": "AutoSchedule"
+},
+  "56055B": {
+			"EntraIDForApplication":"IA",
+			"ApplicationID": "IA15423",
+			"DirectoryID": "RMSIA445",
+			"ResponseUserAttributeKey": "IA55145233",
+			"JobName": "TestAuto"
+},
+
+"55213": {
+	"NoishGuide":"FireRMS",
+	"ChemicalName":"Glychiphage",
+	"DotID":"012198",
+	"DotGuide":"111293",
+	"CasNo":"710647",
+	"RTECS":"84523",
+	"CameoLink":"cameochemicals.noaa.gov",
+	"Comment":"AutomationTest",
+	"Custom1":"Test1542",
+	"Custom2":"Auto254"
+},
+  "55871": {
+	"JobName": "AutomationQA",
+	"JobType": "System",
+	"EndDate": "12/20/2026",
+	"Min": "10"
+},
+"55499": {
+		"TextName": "Automation CM",
+		"Description": "Testing",
+		"ColumnName0": "Automation CM"
+	},
+"55752": {
+		"Juris": "Phoenix",
+		"Alias": "PX",
+		"CountyName": "Police",
+		"Address": "Police Quarters Street"
+	},	
+"55897": {
+		"ParameterID": "200",
+		"Module": "Settings",
+		"ParameterName": "Enable SSL for Sending Email",
+		"NewValue": "False"
+	},	
+"55899": {
+		"Module": "AI",
+		"Module1": "Settings",
+		"SortBy": "Parameter ID",
+		"ParameterName": "AI",
+		"CustomCatagory1":"AI",
+		"ParameterID": "199",
+		"AIMugMatchAPIURL": "https://mugsrchapidev.prophoenix.com"
+	},
+	"58074": {
+		"Interface": "CMS-Keefe"
+	},
+		"57964": {
+		"DistributionList": "Police Auto",
+		"NotifyEvent": "Property Recovered",
+		"RequestedBy": "Prophoenix, Automation",
+		"NotificationListDetails": "Police Auto",
+		"Period": "Immediate",
+		"ReportingPeriod": "Immediate",
+		"Notify Event": "Arrest Booking"
+	},
+
+		"58055": {
+		"Interface": "CCAPQue",
+		"FolderPath": "ncic.phoenix.com",
+		"HostSite": "ncic.phoenix.com"
+	},
+		"58051": {
+		"Description": "SetCoded",
+		"Description1": "SetUser",
+		"MJCategory": "Shared",
+		"CodeValueLength": "9",
+		"CodeCategory1": "System Code",
+		"CodeCategory2": "System and User Code"
+	},	
+	"55540": {
+		"ColumnName": "Access"
+	},
+		"57951": {
+		"Unit": "STR",
+		"PreAssignedOfficer1": "P4400",
+		"PreAssignedOfficer2": "AUTPOL",
+		"Officer1": "Automation, Admin - P4400",
+		"Officer2": "Automation, Police - AUTPOL"
+	}	,
+	"55406":{
+	"ColumnName":"Job Name"
+	},
+
+	"60538":{
+		"UnitNo":"98623",
+		"UnitCallSign":"UniTTest",
+		"Station":"Station 2",
+		"UnitResponse":"05",
+		"ApparatusType":"21",
+		"ApparatusUse":"1 - Suppression",
+		"Agency":"Fire",
+		"DefaultVehicle0":"1002",
+		"Battalion":"Battalion 2",
+		"Position":"1 - Officer",
+		"Order":"1"
+  },
+	"60165": {
+		"QueryNo": "0121",
+		"QueryName": "Test Query"
+	},
+	"60128": {
+	"CodeID": "10001",
+	"Description": "Customer Zen",
+	"CodeValueDescription": "Customer Zen",
+	"CodeValue": "AI CZ"
+	},
+	"60245": {
+	"NotificationType": "Fire Station",
+	"FormatterFileName": "CallSummary.xslt",
+	"DataMaster": "CallSummaryData",
+	"RecipientMaster": "CallSummaryRecipients"
+	},	
+	"60316":{
+	"DistributionListName":"Manual DLL",
+	"Description":"DistributionList",
+	"PFNo":"AUTO",
+	"PFNo1":"AUTO",
+	"PFCode":"AUTO",
+	"PF":"Prophoenix, Automation"	
+	},	
+	"60234":{
+	"DistributionListName":"Test DLL",
+	"Description":"PhoenixList",
+	"PFNo":"AUTO",
+	"PFNo1":"AUTO",
+	"PFCode":"AUTO",
+	"Email1":"test@propheonix.com",
+	"Email2":"test",
+	"Type":"Email",
+	"Name":"Automation",
+	"Key":"test@propheonix.com",
+	"Email":"test@propheonix.com",
+	"PF":"Prophoenix, Automation"	
+	},	
+	"60238":{
+	"DistributionListName":"Interface",
+	"Description":"Auto Test",
+	"InterfaceType":"Alpine",
+	"Type":"Alpine",
+	"Key":"Test",
+	"Text":"Phoenix",
+	"MemberDiscription":"Phoenix"
+	},
+	"60335": {
+	"JobName":"Interface Alert",
+	"JobType": "Interface",
+	"Interface": "CMS - HomeWav"
+},
+	
+	"60474": {
+	"LocationUseFor":"Inventory Room",
+	"StorageBuilding":"Prophoenix",
+	"StorageRoom":"Automation",
+	"StorageRow":"Docker",
+	"StorageShelf":"Drawer",
+	"Desc": "Test",
+	"Interface": "CMS - HomeWav"
+},
+	"60464": {
+	"LocationUseFor":"Coroner Evidence",
+	"Desc": "Test",
+	"Notes": "AutomationTest"
+},
+	"58062": {
+	"FormType1":"Evaluation Form",
+	"FormType2":"PDF",
+	"FormType3":"Phoenix Form",
+	"Type1":"Evaluation Form",
+	"Type2":"PDF",
+	"Type3":"Phoenix Form"
+	},
+	"60024": {
+	"RoleName": "Alarms",
+	"Repository": "1290",
+	"PF": "AUTO",
+	"PFCode": "AUTO",
+	"AccessType1": "ADD",
+	"AccessType2": "Change",
+	"AccessType3": "Delete",
+	"Access1": "ADD",
+	"Access2": "Change",
+	"Access3": "Delete",
+	"Description1": "Role: Alarms; For: AUTO",
+	"Description2": "RoleName: Alarms",
+	"Description3": "Role: Alarms; For: AUTO",
+	"PFCode1": "AUTO",
+	"PFCode2": "AUTO",
+	"PFCode3": "AUTO"
+	},
+	"60225": {
+	"DistributionListName": "AutomationTest",
+	"Description": "Interface",
+	"PFNo": "AUTPOL",
+	"Type1": "PF",
+	"Key1": "AUTPOL",
+	"Key2": "AUTO",
+	"Key3": "FAIL",
+	"Text1": "Automation, Police",
+	"Text2": "Prophoenix, Automation",
+	"Text3": "TeamAuto, TeamQA",
+	"LastName": "Auto",
+	"Name1": "Auto, Automation-214",
+	"Name2": "Auto, M-0413"
+	},
+	"58268": {
+	"JobName": "FormJob",
+	"NotifyToPF1": "AUTPOL",
+	"NotifyEmail": "Test@gmail.com",
+	"Notify1": "Automation, Police",
+	"Notify2": "Test@gmail.com"
+	},
+	"55462": {
+	"UserName": "Texa",
+	"Password": "Auto@12345",
+	"RoleName": "Property",
+	"CopyRoleName": "PoliceAuto",
+	"CopyRoleDescription": "PropertyLock",
+	"Module": "Property",
+	"PFCode": "Keys",
+	"LastName": "Test",
+	"FirstName": "Auto",
+	"RoleAssignment": "PoliceAuto"
+	},	
+	"55531": {
+	"JobName1": "FormJob",
+	"JobName2": "BoloNew",
+	"JobName3": "CrashInterface",
+	"JobName4": "s4s41s54",
+	"ScreenID1": "3830",
+	"JobType1": "Report",
+	"JobType2": "Automatic",
+	"JobType3": "System",
+	"JobType4": "Interface"
+	},
+	"58174": {
+	"TextName": "Password Email",
+	"TextName1":"Alarm Stmt",
+	"Color":"rgba(128, 128, 128, 1)"
+	},
+	"55889": {
+	"FormName": "Report Entry QA form",
+	"FormRefNo": "REQA20",
+	"FormType1": "Evaluation Form",
+	"FormType2": "PDF",
+	"FormType3": "Phoenix Form",
+	"Juris5":"",
+	"Juris1":"GCP",
+	"Juris2":"TP",
+	"Juris3":"SC",
+	"Juris4":"BP",
+	"Type1":"",
+	"Type2":"PDF",
+	"Type3":""
+	},
+"55902":{
+"FormName":"Report Entry QA form",
+"FormName1":"Report Entry QA form",
+"ItemValue":"Manage Repository",
+"RepositoryID":"1031",
+"RepositoryID1":"1041"
+},
+"57952": {
+	"UserName": "Automation",
+	"Password": "Pnx@2016",
+	"Database": "AutomationCAD",
+	"FormName": "Test QA 2",
+	"RepositoryID": "5010",
+	"CFSCode": "100",
+	"QuestionnaireForCalltaker": "Test QA 2",
+	"Type": "CAD"
+},
+"55687": {
+	"JobName1": "FY874D",
+	"JobName2": "Auto145",
+	"JobName3": "AIf154",
+	"JobType1": "Report",
+	"JobType2": "Interface",
+	"Export1": "PDF",
+	"Export2": "Word",
+	"Export3": "Excel",
+	"Export4": "CSV",
+	"ScreenID": "2414",
+	"Interface": "CCAPQue",
+	"Interface1": "CMS - Sapphire Medical",
+	"Interface2": "Telstaff Payroll",
+	"Interface3": "CMS-CorEMR",
+	"Interface4": "CCAPQue",
+	"ReportName": "Use of force",
+	"CustomJobName": "Test"
+	},
+"60403": {
+	"CodeID": "4557",
+	"Description": "Injuried",
+	"CodeValueDescription": "Injuried",
+	"CodeValue": "HD",
+	"TypeOfInjury": "Injuried"
+},
+"60398": {
+	"Interface": "Alpine",
+	"DBName": "AutomationPoliceMJ",
+	"FolderPath": "Site.prophoenix.com",
+	"UserName": "Prophoenix",
+	"Password": "TestAuto",
+	"Port": "4444",
+	"Product": "CAD",
+	"LocationType": "Local Folder/Shared Folder",
+	"LogonType": "LOGON32_LOGON_BATCH",
+	"JobPath": "Interface",
+	"FileType": "XML",
+	"AgencyType": "Law",
+	"KeyFile": "LOGON32_PROVIDER_DEFAULT",
+	"KeyID": "Security Anonymous",
+	"PassPhraseKey": "Automation",
+	"Parent": "CMS-JPAY",
+	"SchemaVersion": "1.118",
+	"ReceivePath": "Auto",
+	"SubPath": "Text",
+	"EmailTemplate": "Test",
+	"Custom1": "FTP",
+	"Custom2": "FTP1",
+	"Custom3": "FTP2",
+	"Custom4": "FTP3",
+	"Custom5": "FTP4"
+},
+"58280": {
+	"CallForService": "Test125",
+	"Description": "Automation3",
+	"Alarm": "2",
+	"SubLevel": "2",
+	"DispatchPriority": "Priority 2",
+	"Agency": "Fire",
+	"NFIRSIncidentType": "100",
+	"DefaultFrequency": "1 - Frequency 1",
+	"DispatchToEnroute": "5",
+	"DispatchService": "2",
+	"EnrouteToArrive": "5",
+	"DefaultTemplateForNFIRSRemarks": "NFIRS Narrative",
+	"SOPType": "All Condition",
+	"TextName": "CFS Code Template",
+	"PoliceOEMOtherCFS": "100",
+	"ServiceType": "Police"
+},
+"60462A": {
+		"Code": "L100010100000004",
+		"Description": "Fleet Location1",
+		"LocationType": "Fleet Location",
+		"LocationUseFor": "Weapon Locker",
+		"Desc": "SafetyLocker",
+		"InactiveDesc": "InactiveLocation",
+		"LocationType1":"Weapon Locker",
+		"LocationCode":"L100010100000004"
+},
+  "60339":{
+	"Facility":"Police Department",
+	"CellNo":"896",
+	"CellType":"Male",
+	"Capacity":"3",
+	"Notes":"Dark Cell",
+	"CameraName":"Jail cell - 192.168.15.150"
+	},
+	"55677":{
+	"RoleName":"System Administrator",
+	"ScreenID":"3662",
+	"ScreenName":"Alarm Attachment",
+	"Module":"Alarms"
+	},
+	"58273":{
+	"SectionName1":"Test",
+	"Sort1":"1",
+	"SectionName2":"Testing",
+	"Sort2":"2",
+	"Form Ref":"TestAutomation",
+	"Section1":"Test",
+	"Question1":"Automation",
+	"AnswerType1":"Yes / No",
+	"Section2":"Testing",
+	"Question2":"Automation",
+	"AnswerType2":"Yes / No",
+	"FormRefNo":"TA"
+	},
+"63476":{
+"ScreenID":"1033",
+"DocumentTitle":"Automation",
+"Link":"http://www.prophoenix.com",
+"FileName":"http://www.prophoenix.com"
+},
+"64219":{
+"FormName":"QAF2",
+"Version":"1.2",
+"SectionName":"TestAuto",
+"Sort":"20",
+"Section":"TestAuto",
+"DisplayAs":"A2",
+"Question1":"Automation Test",
+"AnswerType":"Multiple Choices",
+"Section1":"TestAuto",
+"DisplayAs1":"A3",
+"Question2":"What is Automation",
+"AnswerType1":"Multiple Choices",
+"Section2":"TestAuto",
+"DisplayAs2":"A3",
+"Question":"What is Automation Demo",
+"Question3":"What is Automation DemoWhat is Automation Demo",
+"AnswerType2":"Multiple Choices",
+"RepositoryID":"8110",
+"SPN#":"74",
+"Text":"In today’s fast-paced world, the ability to adapt to change has become more important than ever. Whether it’s advancements in technology, shifts in the global economy, or changes in personal circumstances, flexibility and resilience are key to thriving in modern life. People who embrace lifelong learning and remain open to new experiences tend to navigate uncertainty with greater ease. As we continue to face challenges both locally and globally, fostering a mindset of growth and adaptability can help individuals and communities build a more sustainable and hopeful future.",
+"Question4":"In today’s fast-paced world, the ability to adapt to change has become more important than ever. Whether it’s advancements in technology, shifts in the global economy, or changes in personal circumstances, flexibility and resilience are key to thriving in modern life. People who embrace lifelong learning and remain open to new experiences tend to navigate uncertainty with greater ease. As we continue to face challenges both locally and globally, fostering a mindset of growth and adaptability can help individuals and communities build a more sustainable and hopeful future.",
+"SelectForm":"QAF2",
+"SPN#":"89",
+"SPNNo":"89"
+},
+"63634":{
+"PFCode":"AUTO",
+"IPAddress":"10.103.28.79",
+"FromDate":"09/09/2025",
+"ToDate":"09/11/2025"
+},
+"58266":{
+"ColumnName1":"Station Code",
+"ColumnName2":"Station Name",
+"ColumnName3":"District",
+"StationCode":"FS002",
+"StationName":"Station2",
+"District1":"District 1",
+"District2":"--"
+},
+"58221":{
+"Station":"D2",
+"StationName":"TerminalFire",
+"District":"District 1",
+"PrimaryPrinter":"Ad",
+"SecondaryPrinter":"CD",
+"PageGroup":"TD",
+"PrimaryDivision":"SD",
+"Coverage":"q1",
+"Address":"1203 Dousman St",
+"CSZ":"Acmar",
+"Latitude":"44.526886400000",
+"Longitude":"-88.042383700000",
+"Phone":"9856259568",
+"Fax":"2356154696",
+"Email":"lynn@teanecknj.gov"
+},
+"55567":{
+"PFCode":"AUTO",
+"PFCode1":"AUTO",
+"IPAddress":"10.103.28.74",
+"Repository":"2480",
+"Description":"Logged In (User:Automation)",
+"AccessType1":"ADD",
+"AccessType2":"Change",
+"AccessType3":"Delete",
+"AccessType4":"Excel Export",
+"AccessType5":"Search",
+"AccessType6":"Print",
+"AccessType7":"Report",
+"AccessType8":"Print Report",
+"AccessType9":"Login Failed",
+"AccessType10":"Account Locked",
+"AccessType11":"Log In/Out",
+"Access1":"ADD",
+"Access2":"Change",
+"Access3":"Delete",
+"Access4":"Excel Export",
+"Access5":"Search",
+"Access6":"Print",
+"Access7":"Report",
+"Access8":"Print Report",
+"Access9":"Login Failed",
+"Access10":"Account Locked",
+"Access11":"Log In/Out",
+"FromDate":"09/01/2024",
+"ToDate":"09/09/2025",
+"ColumnName":"Description",
+"ColumnName1":"Screen ID - Screen Name",
+"ScreenIDScreenName":"2480 - Additional Case Data (ACD)"
+},
+"58296":{
+"Module":"Activity Log  ",
+"CodeID":"5126",
+"CodeValueDescription":"Building Check Okay",
+"CategoryGroup":"FACIL - Facility",
+"Category":"PBLDG - Police Admin Building Check",
+"ActivityType":"Building Check Okay",
+"ActivityStatus":"Completed Activity",
+"Subject":"Automation",
+"PFCode":"5493",
+"Supervisor":"Building Check Okay",
+"AllowRoutingDefaultsOverride":"True"
+},
+"63702":{
+"ColumnHeader1":"Repository ID",
+"ColumnHeader2":"Repository Type",
+"ColumnHeader3":"Default Name",
+"RepositoryType":"Product"
+},
+"63303":{
+"FormName":"DECELERATION",
+"SectionName":"Automation",
+"Sort":"1"
+},
+"63299":{
+"FormName":"AI",
+"Version":"2",
+"SectionName":"MCP",
+"Sort":"2",
+"Section":"MCP",
+"Question":"Automation Testing",
+"AnswerType":"Yes / No",
+"Answer":"radio"
+},
+"60592":{
+"OffenseCode":"202"
+},
+"62721":{
+"NextCase1":"21",
+"NextCase2":"1",
+"NextIACase1":"12",
+"NextIACase2":"200"
+},
+"60525":{
+"OffenseCode":"46"
+},
+"62529":{
+"Make":"AJIN",
+"ModelDescription":"AI",
+"ModelCode":"22"
+},
+"60325":{
+"ScreenID":"1034",
+"FileName":"http://www.prophoenix.com",
+"DocumentTitle":"Emancipation",
+"ColumnHeader1":"Screen ID",
+"DocumentTitle1":"AI"
+},
+"62902":{
+"SubCategory":"Clarity Purpose",
+"ActivityType":"100",
+"Seq":"4",
+"Activity":"RAZ/OUT"
+},
+"60595":{
+"NotifyType":"Fire Station",
+"Details":"Test",
+"NotifyEvent":"Call Summary",
+"FormatterFileName":"Phoenix.xsl"
+},
+"63565":{
+"ColumnHeader1":"Status Code",
+"ColumnHeader2":"Description",
+"ColumnHeader3":"Hold Cell",
+"ColumnHeader4":"Hold Locker",
+"ColumnHeader5":"Force Close Booking",
+"ColumnHeader6":"Elec. monitoring ",
+"ColumnHeader7":"Stop Billing",
+"ColumnHeader8":"Do not send to VINE",
+"ColumnHeader9":"Hide From Locator",
+"ColumnHeader10":"Inactive"
+},
+"63565A":{
+"ColumnHeader1":"Screen ID",
+"ColumnHeader2":"Name",
+"ColumnHeader3":"Type",
+"ColumnHeader4":"Category",
+"ColumnHeader5":"Inactive"
+},
+"63565B":{
+"ColumnHeader1":"Screen ID",
+"ColumnHeader2":"Name",
+"ColumnHeader3":"Type",
+"ColumnHeader4":"Category",
+"ColumnHeader5":"Inactive"
+},
+"66225":{
+"FormName":"Server",
+"Version":"2.0",
+"RepositoryID":"1376",
+"ActivityType":"BUDGE - Budget Meeting"
+},
+"66314":{
+"CodeID":"3008",
+"CodeValueDescription1":"Trespass Authorized Agent",
+"SortOrder":"1",
+"Order1":"1",
+"CodeID1":"4020",
+"CodeValueDescription2":"Fine",
+"SortOrder1":"2",
+"Order2":"2",
+"CodeID2":"1218",
+"CodeValueDescription3":"Close",
+"SortOrder2":"3",
+"Order3":"3",
+"CodeID3":"2121",
+"CodeValueDescription4":"A - Citation",
+"SortOrder3":"4",
+"Order4":"4"
+},
+"64127":{
+"RepositoryID":"8142",
+"RepositoryID1":"8176"
+},
+"63690":{
+"FormType":"PDF",
+"FormRefNo":"1947",
+"Form Ref":"1947",
+"RepositoryID":"1413",
+"PFCode":"2505",
+"Form":"OffenderForm",
+"FileName":"OffenderForm",
+"PF":"Auto",
+"FormName":"OffenderForm"
+},
+"60317":{
+"PFCode":"AUTO",
+"TerminalName":"Automation",
+"IPAddress1":"10.103.28.79",
+"IPAddress2":"*",
+"IPAddress3":"10.103.28.79"
+},
+"63565C":{
+"ColumnHeader1":"Query#",
+"ColumnHeader2":"User Query Name",
+"ColumnHeader3":"Description",
+"ColumnHeader4":"Master Query Name",
+"ColumnHeader5":"Action Name"
+},
+"63565D":{
+"ColumnHeader1":"Screen ID",
+"ColumnHeader2":"Name",
+"ColumnHeader3":"Type",
+"ColumnHeader4":"Category",
+"ColumnHeader5":"Inactive"
+},
+"63726":{
+"TemplateFor":"AI Call Summary Prompt",
+"TextName":"AI Call Summary Prompt",
+"Text":"Automation"
+	},
+	"60337": {
+		"TerminalName": "CAD&",
+		"Description": "TestAutomation",
+		"IPAddress": "*",
+		"ORINo": "22",
+		"TabName1": "IP Address(s)",
+		"TabName2": "NCIC",
+		"TabName3": "E-911",
+		"IQEyeIP":"23",
+		"Custom":"Automate"
+	},
+	"60337A": {
+		"Monitor": "Base Monitor",
+		"Screen": "F3 - Dispatch",
+		"InterfaceName": "CMS-Keefe",
+		"LocationHostSite": "Ten",
+		"LocationBuilding": "Kanabec County Jail",
+		"Floor": "1D",
+		"PodCode1": "DR1",
+		"TabName1": "Screens",
+		"TabName2": "Inventory",
+		"TabName3": "Device",
+		"TabName4": "Interface",
+		"TabName5": "CMS",
+		"TerminalName":"TAN",
+		"IPAddress":"*"
+	},
+"69572":{
+"RepositoryID":"5210001",
+"CustomName":"Automation"
+},
+"69626":{
+"Unit":"97CHAN",
+"Position":"1 - Officer",
+"Position1":"Officer",
+"Rank":"Chief",
+"Order":"1",
+"Description":"Officer",
+"Unit":"97CHAN",
+"Position1":"1",
+"UnitDescription":"Engines"
+},
+"69658":{
+"Interface":"WDA",
+"XMLMasterFile":"fincallSummaryRecipients"
+},
+"69658A":{
+"Interface":"WDAV2",
+"XMLMasterFile": "PnxXML"
+	},
+	"69779": {
+		"Module": "Accounting",
+		"ParameterID": "22",
+		"ParameterName": "Test",
+		"SortBy": "Parameter ID",
+		"CustomCatagory1": "Test Automation",
+		"SystemCategory": "NIBRS Config",
+		"Module1": "--",
+		"SortBy1": "--",
+		"CustomCatagory2": "--",
+		"SystemCategory1": "--"
+	},
+	"70101": {
+		"MaximumNegativeLeaveHoursAllowed1": "9999",
+		"MaximumNegativeLeaveHoursAllowed2": "20"
+	},
+"69830":{
+"CodeID":"3160",
+"CodeValue":"IG9",
+"Description":"EN5",
+"BookingStatus":"Active-In",
+"DetentionType":"IG9 - EN5",
+"SPNNo":"106",
+"DetentionType1":"IG9 - E6",
+"Description1":"E6",
+"CodeValueDescription":"EN5",
+"CodeValueDescription1":"E6",
+"BookingStatus":"Active-In",
+"ColumnName":"Code Value Description"
+},
+
+"69818":{
+"TerminalName":"698CAD",
+"TerminalName1":"786CAD",
+"InterfaceName":"CMS-Keefe",
+"LocationHostSite":"33",
+"Custom1":"33",
+"Custom1":"33"
+},
+"69818A":{
+"TerminalName":"218CAD",
+"TerminalName1":"219CAD",
+"InterfaceName":"CRM - API",
+"LocationHostSite":"33",
+"Custom1":"33",
+"Custom1":"33"
+},
+"69818B":{
+"TerminalName1":"998CAD",
+"TerminalName2":"999CAD",
+"InterfaceName":"CRM - API",
+"LocationHostSite":"33",
+"Custom1":"33",
+"Custom1":"33"
+},
+"70105":{
+"Station":"TestAutomation",
+"StationName":"Pebulo",
+"Latitude":"234534",
+"Longitude":"435345",
+"Latitude1":"23.4534",
+"Longitude1":"43.345"
+},
+"70323":{
+"ChemicalName":"THC"
+},
+"70355":{
+"RoleName":"System Admin",
+"ScreenID":"1376"
+},
+"70354":{
+"RoleName":"System Admin",
+"ScreenID":"8240",
+"PFCode1":"Pnx988",
+"PFCode2":"Pnx989",
+"ReportedPF1":"Pnx988",
+"ReportedPF2":"Pnx989"
+},
+"70403":{
+"Interface":"Breadcrumb",
+"CodeValue1":"10",
+"CodeValue2":"13"
+},
+"70162":{
+"LocationUseFor":"Station",
+"Desc":"AutomationTes"
+},
+"70158":{
+"CodeID":"4874",
+"CodeValueDescription":"Hydrants",
+"IsDefault":"CAD",
+"Default":"CAD"
+},
+"70438":{
+"CodeID":"4013",
+"CodeValue":"68",
+"Description":"Testimonial",
+"SortOrder":"5",
+"Make":"Testimonial"
+},
+"70438A":{
+"CodeID":"4013",
+"CodeValue":"78",
+"Description":"Testimonial",
+"SortOrder":"5",
+"Make":"Testimonial"
+},
+"70438B":{
+"CodeID":"4013",
+"CodeValue":"67",
+"Description":"Testimonial",
+"SortOrder":"6",
+"Make":"Testimonial"
+},
+"70441":{
+"ParameterID":"6704"
+},
+"70527":{
+"ParameterID":"6704"
+},
+"70546":{
+"TextName":"Antrophic AI Systems",
+"Code":"1032",
+"Description":"SOP Lists"
+},
+"70546A":{
+"TextName":"TestNg",
+"Code":"1032",
+"Description":"SOP Lists"
+},
+"70164":{
+"TemplateFor":"Civil Form",
+"Length":"20"
+},
+"60361":{
+"TerminalName":"N8N",
+"Description":"Playwright",
+"IPAddress":"*",
+"IQEyeIP":"sd",
+"Custom":"dd",
+"ORINo":"asd",
+"Monitor":"Monitor - 1",
+"Screen":"F3 - Dispatch",
+"InterfaceName":"CMS-Keefe",
+"LocationHostSite":"xc",
+"LocationBuilding":"Kanabec County Jail",
+"Floor":"2EE",
+"UserName":"Auto",
+"Password":"Pnx@2016",
+"Database":"AutomationFireMJ"
+},
+"60360":{
+"Juris1":"PX - ProPhoenix",
+"Juris2":"--",
+"Juris":"PX - ProPhoenix",
+"ColumnName":"Juris",
+"ColumnName1":"Interface",
+"ColumnName2":"DB Name",
+"ColumnValues1":"BC",
+"ColumnValues2":"GCP",
+"ColumnValues3":"TP",
+"ColumnValues4":"SC",
+"ColumnValues5":"BP",
+"Interface1":"CMS-Keefe",
+"DBName1":"AutomationPoliceMJ",
+"FTPUser":"admin",
+"DBName1":"--Select--",
+"ColumnHeader1":"Interface",
+"ColumnHeader2":"HostSite",
+"ColumnHeader3":"FTPUser",
+"ColumnHeader4":"DB Name",
+"Interface2":"CMS-PictureLink",
+"DBName2":"AutomationPoliceMJ"
+},
+"72113":{
+"RoleName":"Alarms"
+},
+"72247":{
+"OffenseCode":"235",
+"Description":"N8"
+},
+"72246":{
+"TypeSelection":"True",
+"CodeID":"4013",
+"CodeValue":"4018",
+"Description":"My",
+"InventoryType":"Computers",
+"Category":"Computers",
+"Type":"Computers",
+"Make":"My",
+"InvName":"Inventory"
+},
+"72297":{
+"RoleName":"TESLAGROK",
+"CopyRoleName":"TESLA"
+},
+"63312A":{
+"ActionNo":"22",
+"ActionName":"Presentation",
+"ProcessSPName":"Present",
+"InputParameterName":"Test",
+"ValueType":"@FromDate"
+},
+"63312":{
+"RepositoryID":"5",
+"ColumnName":"RepositoryID",
+"ColumnHeader1":"RepositoryID",
+"ColumnHeader2":"DefaultName",
+"Juris":"BC - Brown County Police Department",
+"FromDate":"11/18/2024"
+},
+"72340":{
+"JobType":"System",
+"DBName":"--Select--",
+"Juris":"PX",
+"Module":"AI",
+"ParameterID":"190",
+"ColumnName":"Juris"
+},
+"72340A":{
+"JobType":"System",
+"DBName":"--Select--",
+"Juris":"PX",
+"Module":"BI",
+"ParameterID":"5712",
+"ColumnName":"Juris"
+},
+"72340B":{
+"JobType":"System",
+"DBName":"--Select--",
+"Juris":"PX",
+"Module":"Personnel",
+"ParameterID":"4322",
+"ColumnName":"Juris"
+},
+"72457":{
+"FormRefNo":"787",
+"Form Ref":"787",
+"FormName":"VictimForm",
+"RepositoryID":"1210",
+"SelectForm":"VictimForm",
+"FormName1":"OffenderPDF",
+"SelectForm1":"OffenderPDF"
+},
+"72716":{
+"FormRefNo":"42",
+"Form Ref":"42",
+"RepositoryID":"1077",
+"Category":"Administration",
+"FormName":"ContactForm ",
+"SubFormName":"ContactForm"
+},
+"72716A":{
+"FormRefNo":"42",
+"Form Ref":"42",
+"RepositoryID":"1077",
+"Category":"Administration",
+"FormName":"OrderForm",
+"SubFormName":"OrderForm"
+},
+"72716B":{
+"FormRefNo":"42",
+"Form Ref":"42",
+"RepositoryID":"1077",
+"Category":"Administration",
+"FormName":"FeedbackForm",
+"SubFormName":"FeedbackForm"
+},
+"73258":{
+"ParameterID":"1210",
+"CodeID":"4013",
+"InventoryType":"Computers",
+"InventoryType1":"Computers",
+"InvName":"Inventory",
+"Category":"Computers",
+"Type":"Computers",
+"Make":"MC",
+"CodeValue":"LCC",
+"Description":"Transcription"
+},
+"63324":{
+"ScreenID":"1211",
+"Name":"Inventory List by Officer",
+"ReportName":"Inventory List by Officer",
+"Password":"Pnx@2016",
+"InvalidPassword":"qwrqw",
+"FormName":"Inventory List by Officer"
+},
+"73358":{
+"CodeID":"1019",
+"CodeValue":"5",
+"Description":"Broken",
+"CourtAddress1":"123 MAIN ST APT 4B",
+"BookingStatus":"Active-In",
+"AgencyORI":"AK",
+"ArrestingAgency":"193256",
+"AgencyCaseNo":"25-00008",
+"ArrestingOfficerName":"Tomten",
+"ArrestingOfficerID":"36",
+"ChargeStatute":"100.03(14)",
+"Court":"Broken",
+"DocumentType":"Commitment",
+"fieldName1":"123 MAIN ST APT 4B",
+"fieldName2":"NU-Farm Contracts - Affiliate Fail to Pay Claim",
+"fieldName3":"100.03(14)",
+"CourtAddress2":"ACME CORPORATION, ACCOUNTING DEPT",
+"SPN#":"151",
+"fieldName4":"ACME CORPORATION, ACCOUNTING DEPT"
+},
+"60704":{
+"UserName":"Admin",
+"Password":"Pleasant14",
+"Database":"AutomationPoliceMJ",
+"ParameterID":"4340"
+},
+"74108":{
+"RoleName":"System Administrator",
+"ScreenID":"5077",
+"FormType":"Phoenix Form",
+"FormRefNo":"FTOQA2",
+"Form Ref":"FTOQA2",
+"RepositoryID":"1210",
+"PFCode":"P866",
+"SelectForm":"FTOQA2"
+},
+"74108A":{
+"FormType":"Phoenix Form",
+"FormRefNo":"FTOQA",
+"Form Ref":"FTOQA",
+"RepositoryID":"1210",
+"RoleName":"System Administrator",
+"ScreenID":"5077"
+},
+
+"63565E":{
+"ColumnHeader1":"Screen ID",
+"ColumnHeader2":"Name",
+"ColumnHeader3":"Type",
+"ColumnHeader4":"Category",
+"ColumnHeader5":"Inactive"
+},
+
+"65966":{
+"TemplateName":"Invoice",
+"Bcc":"kvchandrasekar94@gmail.com"
+		},
+"66075": {
+"FormType": "PDF",
+"FormName": "PhoenixForm",
+"FormName1": "PhoenixForm",
+"FileName": "PhoenixForm",
+"RepositoryID": "1210",
+"SelectForm": "PhoenixForm"
+},
+"66185": {
+"CodeCategory": "System Code",
+"CodeID": "3002",
+"CodeValueDescription": "Black",
+"SortOrder": "0"
+},
+"73627": {
+"SOPType0": "All Condition",
+"ParameterID": "1611"
+},
+"74318":{
+"FormRefNo":"Form1997",
+"FormName":"WrightForm",
+"Version":"2.0",
+"SectionName":"TestAuto",
+"Sort":"1",
+"Section":"TestAuto",
+"Question":"Hello World",
+"AnswerType":"Yes / No"
+},
+"74346":{
+"Unit":"106WDA",
+"color":"rgba(128, 128, 128, 1)"
+},
+"74378":{
+"FormName":"Form1997",
+"RepositoryID1":"1210",
+"RepositoryID2":"1077",
+"Category":"Inventory",
+"SubFormName":"Form1997",
+"FormName1":"Inventory"
+},
+"74390":{
+"FormRefNo":"PlayWright",
+"Form Ref":"PlayWright",
+"RepositoryID":"7410",
+"BuildingStatus":"In Normal use",
+"Address":"1470 S Washington St",
+"OccupancyName":"GGG",
+"InspectionZone":"Zone 1",
+"Cycle":"Annual",
+"BaseMonth":"January",
+"SelectForm":"playwrightForm"
+},
+"74402":{
+"Unit":"3445",
+"UnitCallSign":"35256",
+"Station":"Station2",
+"UnitResponse":"05",
+"ApparatusType":"91",
+"ApparatusUse":"0 - Other",
+"Agency":"Fire",
+"DispatchUnitType":"",
+"DefaultVehicle1":"F5",
+"Battalion":"Battalion 1",
+"WDAGroup":"CT",
+"CommentForCAD":"sdfgsd",
+"RFSensorID":"sdfs",
+"color1":"rgba(0, 0, 255, 1)"
+},
+"74587":{
+"NIOSHGuide":"Acetone",
+"ChemicalName":"sdfdf"
+},
+"74605":{
+"RoleName":"rest",
+"RoleDescription":"Acetone (NPG #0001)"
+},
+"74621":{
+"Unit":"009WDA",
+"PatrolArea":"Patrol Area 1"
+},
+"74704":{
+"CFSCode":"502",
+"CFSCode1":"F6",
+"DefaultFrequency":"--",
+"TextName":"CFS Code Template",
+"color1":"rgba(0, 0, 0, 1)",
+"color2":"rgba(0, 0, 0, 1)",
+"color3":"rgba(0, 0, 0, 1)"
+},
+"74724":{
+"CFSCode1":"1947",
+"CFSCode":"1947",
+"QuestionnaireForCalltaker":"AIAutomation",
+"QuestionnaireForCalltaker1":"--"
+},
+"74727":{
+"CFSCode":"007",
+"AlarmSubLevel":"4"
+},
+"60368":{
+"UserName":"Admin",
+"Password":"Pleasant14",
+"Database":"AutomationPoliceMJ",
+"ParameterID":"4340",
+"UserLoginOption":"Email Only"
+},
+"56092":{
+"ColumnName":"Custom2",
+"Juris":"PX - ProPhoenix",
+"RoleName":"Admin",
+"JurisName1":"PX - ProPhoenix",
+"JurisName2":"PX - ProPhoenix",
+"JurisName3":"PX - ProPhoenix"
+},
+"74832":{
+"ParameterID":"1",
+"Juris1":"PX - ProPhoenix",
+"Juris2":"BC - Brown County Police Department",
+"Juris3":"GCP - Gloucester County Police Dept",
+"Juris4":"TP - Tiffin Police Department",
+"Juris5":"SC - Seneca County Police Dept",
+"Juris6":"BP - Bloomville Police Dept"
+},
+"76123A":{
+"ParameterID":"1",
+"Juris1":"PX - ProPhoenix",
+"Juris2":"BC - Brown County FireDepartment",
+"Juris3":"GCF - Gloucester County Fire Dept",
+"Juris4":"TP - Tiffin Police Department",
+"Juris5":"SC - Seneca County FireDept",
+"Juris6":"BP - Bloomville Police Dept"
+},
+"76123B":{
+"ParameterID":"1",
+"Juris1":"PX - ProPhoenix",
+"Juris2":"BC - Brown County FireDepartment",
+"Juris3":"GCF - Gloucester County Fire Dept",
+"Juris4":"TP - Tiffin Police Department",
+"Juris5":"SC - Seneca County FireDept",
+"Juris6":"BP - Bloomville Police Dept"
+},
+	"73627":{
+		"SOPType0":"All Condition",
+		"ParameterID":"1611"
+	},
+"74694": {
+		"Name": "CameraConfigure",
+		"Name1": "CameraConfigure",
+		"Description": "Automation Test",
+		"CameraUse": "05 - Capture Picture",
+		"CameraType": "1 - Axis",
+		"CameraIP1": "10.103.1.175",
+		"CameraIP2": "10.103.1.138",
+		"CameraURL": "10.103.1.68"
+	},
+"74694A": {
+		"Name": "Dlink Camera",
+		"Name1": "Dlink Camera",
+		"Description": "Quality Test",
+		"CameraUse": "05 - Capture Picture",
+		"CameraType": "4 - Dlink",
+		"CameraIP1": "10.103.1.78",
+		"CameraIP2": "10.103.1.103",
+		"CameraURL": "10.103.1.72"
+	},
+	"76365":{
+"CFSCode":"1947",
+"SOPType1":"All Condition",
+"Type":"CAD",
+"ServicedByAgency":"True"
+}
+}

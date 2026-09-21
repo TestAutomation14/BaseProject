@@ -1,0 +1,3419 @@
+{
+	"105471": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"105497": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"105506": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"105509": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"248769": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"PFCode": "PRES",
+		"PF": "PRES",
+		"HiredDate": "15/04/2017"
+	},
+	"256106": {
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"258919": {
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"LoginUserName": "P002",
+		"Name": "Supervisor, Officer",
+		"Unit": "AUTO",
+		"Location": "1801 Maple Ridge Rd",
+		"Notes": "ActivityEntry From Quick activity Screen"
+	},
+	"259709": {
+		"PFCode": "PS008",
+		"PFName": "EdgeWood, Celia",
+		"PhoneType": "H - Home",
+		"PhoneNumber": "9874563210",
+		"PhoneNo": "9874563210",
+		"PhnType": "(H)"
+	},
+	"260160": {
+		"PFCode": "WR58KL",
+		"Module0": "Personnel Work History",
+		"Module1": "Personnel Injury"
+		
+	},
+	"260821": {
+		"PFCode": "LOUI",
+		"EventType": "Personnel Master",
+		"Subject": "Pesonnel Events",
+		"Resource": "Prophoenix, Automation",
+		"InactivatedPF": "Louisville, Lindsay",
+		"FirstName":"Lindsay",
+		"LastName":"Louisville"
+		
+	},
+	"277264": {
+		"PFCode": "PAA001"
+	},
+	"278646": {
+		"FromHiredDate": "01/01/2016",
+		"PFName": "Police, Officer"
+	},
+	"282075": {
+		"PFCode": "PASS",
+		"PFCode1": "Col003",
+		"LastName": "Brian",
+		"FirstName": "Stuart",
+		"UserName": "akshay"
+	},
+	"231336": {
+		"PFCode": "INAC",
+		"FirstName": "InactivePF",
+		"LastName": "A"
+	},
+	"232493": {
+		"PFCode": "A108",
+		"SupervisorPF": "INAC",
+		"Supervisor": "Inactive, Parameter",
+		"Code": "INAC",
+		"SupervisorPF1": "P4400",
+		"Supervisor1": "Automation, Admin"
+	},
+	"292513": {
+		"PFCode": "P001",
+		"MobileNo": "8522589251"
+	},
+	"292510": {
+		"PFCode": "P002",
+		"MobileNo": "8527411470",
+		"Height":"183"
+	},
+	"261083": {
+		"CategoryGroup": "PI - Police",
+		"PFCode": "AUTPOL",
+		"Category": "VI - Visitors",
+		"ActivityType": "Escape Attempt",
+		"ActivityStatus": "Completed Activity",
+		"Subject": "Private check box functionality",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Description": "Detective",
+		"Team": "Off-Group1",
+		"Squad": "Detective"
+	},
+	"261083A": {
+		"PFCode": "PA005",
+		"Division": "Detective",
+		"Section": "Detective",
+		"Team": "Off-group 5",
+		"ActivityType": "Escape Attempt",
+		"Subject": "Private check box functionality",
+		"EnteredBy": "Prophoenix, Automation",
+		"PFCode1": "PA0764",
+		"LastName": "Ravan4",
+		"FirstName": "Rath4",
+		"Squad": "DT - Detective",
+		"UserName": "PA0764",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"Role": "Local Admin"
+	},
+	"AllowanceCodeEntry": {
+		"Year": "2023 - 2023",
+		"FromDate": "09/18/2023"
+	},
+	"WorkHistoryEntry": {
+		"Category": "Work",
+		"SubCategory": "Artificial Inteligence"
+	},
+	"PersonnelEntry": {
+		"PFCode": "AUT2122",
+		"LastName": "Miskin",
+		"FirstName": "Loas"
+	},
+	"AllowanceCodeEntryFire": {
+		"Year": "2023",
+		"FromDate": "09/20/2023"
+	},
+	"PersonnelEntryFire": {
+		"PFCode": "FIRE2022",
+		"LastName": "Harvey",
+		"FirstName": "Loas"
+	},
+	"WorkHistoryEntryFire": {
+		"Category": "Performance",
+		"SubCategory": "Above Expectations"
+	},
+	"9125": {
+		"PFCode": "AUTPOL",
+		"Name": "Automation,Police",
+		"PhoneType": "Work"
+	},
+	"9123": {
+		"PFCode": "Auto",
+		"PFCode1": "AUTO",
+		"SupervisorPF": "P002",
+		"Supervisor": "Supervisor, Officer",
+		"UserName": "P002",
+		"Password": "Pnx@2016"
+	},
+	"9127": {
+		"Juris": "PX - ProPhoenix",
+		"PFCode": "PnxTest",
+		"PFName": "PnxTest",
+		"FirstName": "Shelbey",
+		"LastName": "Thomos",
+		"SortBy": "LastName",
+		"Type": "Civilian Employee",
+		"Title": "Chief",
+		"Division": "Detective",
+		"Section": "Detective",
+		"DateFrom": "02/08/2023",
+		"DateTo": "02/08/2023",
+		"WorkHistoryCat": "Work",
+		"RFIDTag": "123",
+		"EmailType": "Work",
+		"Email": "PnxTest@prophoenix.com",
+		"LoginUserName": "Thomos",
+		"SupervisorPF": "auto"
+	},
+	"9117": {
+		"PFCode": "65",
+		"Name": "Aa, Mo",
+		"TrainingType": "Evidence Collection",
+		"CourseTitle": "Investigative"
+	},
+	"9110": {
+		"PFNo": "PS008",
+		"PFCode": "PS008",
+		"PhoneType": "M - Mobile",
+		"PhoneNumber": "9988776655",
+		"PhoneNo": "9988776655",
+		"PhoneNumber1": "8877665544",
+		"PhoneNo1": "8877665544"
+	},
+	"10224": {
+		"PFCode": "AUTO",
+		"TrainingCategory": "Administrative",
+		"CourseTitle": "Test Automation",
+		"TrainingType": "Internal Affairs"
+	},
+	"11007": {
+		"Type": "Accountability ID",
+		"Type1": "Accountability Tag"
+	},
+	"10944": {
+		"PFCode": "Auto",
+		"CaseNo": "22-000001"
+	},
+	"11717": {
+		"PFCode": "pnx500",
+		"UserName": "autto",
+		"Password": "Phoenix@3",
+		"RoleAssignment": "Local Admin",
+		"Password2": "Phoenix@5"
+	},
+	"13855": {
+		"Reference": "%&*#",
+		"Reference1": "Auto$%*",
+		"Reference2": "Auto",
+		"Badge": "%&*#",
+		"JOBNo": "***",
+		"JobName": "AutoJob",
+		"JOBNo1": "225",
+		"JobNo":"$%$%"
+	},
+	"8987": {
+		"PFCode": "pf3",
+		"LastName": "Test",
+		"FirstName": "Mode",
+		"UserName": "Pol",
+		"Password": "Newpf@2023",
+		"RoleAssignment": "System Administrator",
+		"MobileNo": "1234567890"
+	},
+	"13874": {
+		"PFCode": "Mike",
+		"LastName": "Tyson",
+		"FirstName": "Micheal",
+		"UserName": "MikeTyson",
+		"Password": "Cloudtest@12345",
+		"Re-EnterPassword": "Cloudtest@12345",
+		"RoleAssignment": "Local Admin"
+	},
+	"13880": {
+		"Form": "Form 441",
+		"Name": "Kumar",
+		"FormName": "frmShowPDFForm",
+		"FirstName": "David",
+		"LastName": "Miller",
+		"Reason": "None"
+	},
+	"13190": {
+		"TableName": "Auto",
+		"TabName": "Teamwork",
+		"DataType":"Single Line or Text",
+		"MaximumLength":"10"
+	},
+	"14912": {
+		"PFCode": "Ninja",
+		"LastName": "kawasaki",
+		"FirstName": "Japan",
+		"UserName": "Ninja",
+		"Database": "AutomationPoliceMJ",
+		"Password": "Pnx@1997"
+	},
+	"16342": {
+		"PFCode": "2277"
+	},
+	"16367": {
+		"Action": "Send for Approval",
+		"Supervisor": "AUTO",
+		"PFCode": "AUTO",
+		"PFName":"Prophoenix, Automation",
+		"Status": "Submitted"
+	},
+	"15915": {
+		"FormName": "AddingSignature",
+		"Version": "1",
+		"SectionName": "Form1",
+		"Sort": "0",
+		"Question1": "Test1",
+		"SectionName1": "Form2",
+		"Sort1": "1",
+		"RepositoryID": "1210",
+		"Section": "Form1",
+		"Section1": "Form2",
+		"Question": "Test",
+		"AnswerType": "Signature",
+		"AnswerType1": "Extended Text",
+		"Name": "Chandru",
+		"PFCode": "1997",
+		"LastName": "germays",
+		"FirstName": "DOg",
+		"SelectForm": "Automation"
+	},
+
+	"16352": {
+		"PFCode": "AUTPOL",
+		"Month": "August",
+		"Type": "Accountability Tag"
+	},
+	"9153": {
+		"Name": "Mahi, Ks",
+		"SelectForm": "Canditate Form",
+		"LastName": "Mahesha",
+		"Name": "Mahesha",
+		"To":"testautomation@prophoenix.com",
+		"Message":"For Testing Purpose",
+		"Form":"Form 441",
+		"FormName":"Canditate Form",
+		"BookingNo":"23-000001",
+		"PFCode":"pnx440"
+	},
+	
+	"18639": {
+		"Back": "Back to search parameter screen",
+		"Unlock": " ",
+		"MJRoles": " ",
+		"AddNew":" ",
+		"Reset":" ",
+		"Search":" "
+	},
+
+	"18605":{
+	"PFNo":"158",
+	"PFCode":"158",
+	"LoginUserName":"Frend",
+	"UserName":"Frend",
+	"Database":"AutomationPoliceMJ",
+	"Password":"Automation@12345"
+
+	
+	},
+	"18642":{
+	"PFCode":"158",
+	"Type":"Accountability ID",
+	"Minutes":"10"
+  },
+	
+	"18641":{
+		"PFCode":"AUT99",
+		"LastName":"Washngton",
+		"FirstName":"jo",
+		"Type":"Communications",
+		"TitleRank":"Detective",
+		"Division":"Operations",
+		"Section":"Detective"
+  },
+	"18636":{
+	"PFCode":"AUTPOL",
+	"Email1":"Test@Prophoenix.com"
+	},
+	"18756":{
+	"CMSBooking":"23-000007",
+	"Name":"Automation, Testing",
+	"PFCode":"PASS",
+	"SPNNo":"23"
+	},
+	
+
+    "16322":{
+    "PFCode":"AUTO",
+    "Shift":"Day Shift (1st)"
+     },
+     "21716":{
+     "Description":"text",
+     "DocumentTitle":"Auto",
+     "Link":"http://10.103.1.68/Fire/Firelogin.aspx"
+     
+     
+     },
+     "21715":{
+     "Amount":"99",
+     "AmountWithZero0":"99.00",
+     "AllowanceCode":"04 - Gun",
+     "Code0":"04 - Gun",
+     "AmountWithZero":"99.00"
+     },
+   
+"21717": {
+		"PFCode": "PASS",
+		"SSNo1": "!@#$%^&*^",
+		"SSNo2": "QWERTYUIO",
+		"SSNo3": "123654789",
+		"SSNo4": "123"
+	},
+
+	"21725":{
+		"PFCode":"PNX733",
+		"LastName":"Mathew",
+		"FirstName":"Halen"
+  },
+
+	"21718":{
+	"PFCode":"AUTPOL",
+	"Name":"Automation, Police"
+	},
+
+	"20213":{
+	"PFCode":"4501",
+	"FirstName":"Mark",
+	"LastName":"Daniel",
+	"Email1ComboBox":"Work",
+	"Email1":"Test@Prophoenix.com",
+	"PhoneType":"W - Work",
+	"PhoneNumber":"4562317895",
+	"Carrier":"TMobile",
+	"Extn":"0404"
+	},
+	"21766":{
+	"PFCode":"P001",
+	"Text":"Test Automation"
+	},
+	"21777":{
+	"Ref":"!@#$",
+	"PFCode":"AUTO",
+	"Division":"Administration"
+},
+	
+	"11491":{
+	"PFCode":"CadTest",
+	"Section":"Accident Investigator",
+	"Division":"Operations"
+	
+	},
+	"23261":{
+	"EmployeeName":"AUTO",
+	"PF":"AUTO",
+	"Juris":"PX - ProPhoenix"
+},
+"29424":{
+"PFCode":"8996",
+"LastName":"Hred",
+"FirstName":"winter",
+"UserName":"Wint958",
+"Password":"Pnx@2016",
+"RoleAssignment":"Firefighter",
+"Role":"Firefighter",
+"LoginUserName":"Winter95",
+"PFName":"Hred, Winter",
+"RoleName":"FireCADUser"
+
+
+},
+"32691": {
+		"PFCode": "AIO3",
+		"LastName": "Artificial2",
+		"FirstName": "Intelligance2",
+		"UserName": "Automation3",
+		"Password": "Pnx@2023",
+		"Database":"AutomationNJ",
+		"UserName1":"AIO2",
+		
+		"UserName0": "AIO3",
+		"Password0": "Pnx@2023",
+		"Re-EnterPassword": "Pnx@2023",
+		"RoleAssignment": "System Administrator"
+	},
+"32694":{
+	"PFCode":"AUTO",
+	"PhoneType":"Cell",
+	"PhoneNumber":"3655787235",
+	"PhoneNo":"3655787235"
+},
+"44361":{
+	"PFCode":"DEM001",
+	"RoleName":"Demo Search",
+	"ScreenID":"1921",
+	"ScreenName":"AI Mugmatch",
+	"UserName":"DEM001",
+	"Password":"Pnx@2016"
+},
+"44126":{
+	"Comments0":"Automation Testing",
+	"Comments1":"AUTOMATION TESTING",
+	"Comments2":"automation testing"
+},
+"44238":{
+	"PFCode":"Auto",
+	"RFIDTag":"Automation ID",
+	"Notes":"Testing purpose for TC ID - 44238"
+},
+"42524":{
+	"PFCode":"CM001",
+	"CaseNo":"24-000008",
+	"ItemType":"Meaningful Review Entry",
+	"ItemTypeInGrid":"Meaningful Review",
+	"Status1":"OnHold",
+	"Status2":"Submitted",
+	"Status3":"--",
+	"Action1":"Send for Approval",
+	"Action2":"Approve"
+},
+"42266":{
+	"PFCode":"PS007",
+	"LastName":"Paddock",
+	"FirstName":"Stacy",
+	"Email3Type":"Personal",
+	"Email3Text":"paddockstacyemail"
+},
+"42268":{
+	"PFCode":"ABF01",
+	"LastName":"Richard",
+	"FirstName":"Ben"
+	
+},
+"21731":{
+	"UserName":"Gelen",
+	"PFNo":"21731",
+	"PFCode":"21731",
+	"Password":"Pnx@2016",
+	"Database":"AutomationPoliceMJ SmokeTest"
+	
+},
+"42705":{
+"PFCode":"45F",
+"UserName":"Auto",
+"Password":"Pnx@2016",
+"Database":"AutomationFireMJ"
+},
+"44148":{
+"SelectProductVersion":"2022",
+"SelectProductVersion1":"2024",
+"ParameterID":"77"
+},
+"44148A":{
+"SelectProductVersion":"2022",
+"SelectProductVersion1":"2024",
+"ParameterID":"77"
+},
+"45645": {
+	"PFCode": "45W",
+	"RoleAssignment": "Police Officer",
+	"RoleName": "Police Officer"
+},
+"46164":{
+"PFCode":"Josh99",
+"Action":"Allow",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"SquadCode":"DT",
+"Title":"Police Officer",
+"Division1":"Administration",
+"FileName":"35428.png",
+"Alcclass":"alcpermission"
+},
+
+"46113":{
+	"PFCode":"919086942050",
+	"LastName":"Gal",
+	"FirstName":"Gadot"
+	},
+	"46130": {
+		"PFCode": "HFIW",
+		"RolesAllowed": "Detective",
+		"RoleName": "Detective"
+	},
+	"46264":{
+		"HideColumnHeader":"Juris",
+		"SourceColumnHeader":"PF Code",
+		"TargetColumnHeader":"Title"
+	},
+	"48751":{
+		"DateFrom1":"01/01/9999",
+		"DateFrom2":"03/01/9999",
+		"DateTo1":"01/02/9999",
+		"DateTo2":"12/01/9999",
+		"PFName":"Ken"
+	},
+	"48590":{
+		"PFCode":"AUTO",
+		"Purpose":"For Appraisal"
+	},
+	"48535":{
+		"PFCode" : "HAM",
+		"Link":"file://10.103.28.74/FileUpload",
+		"FileName":"file://10.103.28.74/FileUpload",
+		"261ParamValue":"prophoenix.corps",
+		"262ParamValue":"Autom",
+		"263ParamValue":"Pnx@2025"
+	},
+
+	"48824": {
+		"PFCode": "001",
+		"DashBoardName": "Inventory",
+		"Division": "--Add 2001 --",
+		"DocumentTitle":"TestTracking",
+		"InactiveDate":"02/03/2025 18:09:01"	
+},
+
+"48932":{
+"PFCode1":"P001",
+"NewAction":"Approve",
+"PFCode2":"P002",
+"PFCode":"Valtir, Mit",
+"Action":"Approve"
+
+},
+
+"50787":{
+"PFCode":"7152",
+"SSNo0":"*********",
+"SSNo1":"111111111"
+
+
+},
+
+"48821":{
+"PFCode":"HAM"
+
+
+},
+
+"53022":{
+"PFCode":"09092025",
+"OrderNo":"1",
+"ContactName":"Automation",
+"Phone":"1111111111",
+"Carrier":"Sprint PCS",
+"ColumnName":"Contact Name",
+"SpecialCharacters":",;'!@#$%^&*()_+",
+"Numerical":"1234556488888",
+"MedicalAlert":";',!@#$%^&*()_+"
+},
+
+"53022A":{
+"PFCode":"45F",
+"OrderNo":"1",
+"ContactName":"Automation",
+"Phone":"1111111111",
+"Carrier":"Sprint PCS",
+"ColumnName":"Contact Name",
+"SpecialCharacters":",.?;'{}[];',!@#$%^&*()_+",
+"MedicalAlert":",.?;'{}[];',!@#$%^&*()_+",
+"Numerical":"1234556488888"
+},
+"52900":{
+"ColumnName1":"Title/Rank",
+"ColumnName2":"Group",
+"ColumnName3":"Supervisor",
+"ColumnName4":"Hire Date",
+"ColumnName5":"Job Grade",
+"ColumnName6":"Calendar Label",
+"ColumnName7":"Schedule Label",
+"ColumnName8":"Calendar Name",
+"ColumnName9":"Schedule Name"
+},
+"52900A":{
+"ColumnName1":"Title/Rank",
+"ColumnName2":"Group",
+"ColumnName3":"Supervisor",
+"ColumnName4":"Hire Date",
+"ColumnName5":"Job Grade",
+"ColumnName7":"Schedule Label",
+"ColumnName9":"Schedule Name"
+},
+
+"52982":{
+
+"PFCode":"9985",
+"LastName":"Cathln",
+"FirstName":"core",
+"PFCode1":"9986"
+
+
+
+},
+"52996":{
+"ColumnName":"Description"
+
+
+},
+"55981":{
+"PFCode":"7876",
+"Name":"Jordan, Elliott",
+"Skills":"Automation"
+
+
+},
+
+"55750":{
+"PFCode":"3629",
+"LastName":"Rick",
+"FirstName":"Cathole",
+"UserName":"Rick",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator"
+
+},
+
+"55383":{
+
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"3629",
+"Ref":"56",
+"Unit":"087",
+"NatureAndExtentOfInjury":"Death",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"HowOccured":"TrafficOverrule",
+"PFCode":"3629",
+"Ref1":"AUTO",
+"InjuryType":"Mental Stress",
+"Code":"3629"
+
+
+},
+
+
+"55496":{
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"AUTO",
+"Ref":"75",
+"Unit":"087",
+"Code":"4525",
+"PFCode":"4525",
+"NatureAndExtentOfInjury":"Death",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"HowOccured":"TrafficOverrule",
+"Division":"Operations",
+"Section":"Administration",
+"Squad":"DT - Detective"
+
+
+},
+
+"55494":{
+
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"6589",
+"Ref":"56",
+"Unit":"087",
+"NatureAndExtentOfInjury":"Death",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"HowOccured":"TrafficOverrule",
+"PFCode":"6589",
+"Ref1":"AUTO",
+"InjuryType":"Mental Stress",
+"Code":"6589",
+"InjuryType":"Mental Stress"
+
+
+},
+
+"55494A":{
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"7152",
+"Ref":"75",
+"Unit":"087",
+"NatureAndExtentOfInjury":"Death",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"HowOccured":"TrafficOverrule",
+"Division":"Operations",
+"Section":"Administration",
+"Squad":"DT - Detective",
+"InjuryType":"Mental Stress",
+"Code":"7152",
+"PFCode":"7152"
+
+
+},
+
+"55536":{
+"EnteredBy":"AUTPOL"
+
+},
+
+"55541":{
+"EnteredBy":"09102025",
+"Notes0":"TestExecutedBYAutomation",
+"Notes1":"executed",
+"Notes":"TestExecutedBYAutomation",
+"MedicalCode":"ECG",
+"MedicalHistoryCode":"ECG",
+"PFCode":"AUTO"
+
+},
+
+
+
+"55600":{
+
+"Column1":"PF Name",
+"Column2":"Title/Rank",
+"Column3":"Division",
+"Column4":"Sex",
+"Column5":"Birth Date",
+"Column6":"Age",
+"Column7":"Seniority",
+"ReportName":"Personnel Age Report"
+
+},
+
+"55600A":{
+
+"Column1":"PF Name",
+"Column2":"Title/Rank",
+"Column3":"Division",
+"Column4":"Sex",
+"Column5":"Birth Date",
+"Column6":"Age",
+"Column7":"Seniority",
+"Column8":"Station",
+"Column9":"Unit",
+"ReportName":"Personnel Age Report"
+
+},
+
+"55575":{
+
+"PFCode":"91916",
+"LastName":"Caledian",
+"FirstName":"Maxi",
+"UserName":"Maxi",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"PhoneType":"W - Work",
+"PhoneNumber":"0123456789",
+"Carrier":"US Cellular",
+"Extn":"91",
+"phnType1":"Work",
+"phnType0":"W - Work",
+"PhoneNo":"(012) 345-6789"
+},
+
+
+
+"55591":{
+
+"Column1":"PF Name",
+"Column2":"Title/Rank",
+"Column3":"Division",
+"Column4":"Sex",
+"Column5":"Birth Date",
+"Column6":"Age",
+"Column7":"Seniority",
+"Column8":"Station",
+"Column9":"Unit",
+"ReportName":"Random Drug Screening Report"
+
+},
+
+"55595":{
+"PFCode0":"P855",
+"PFCode1":"P866",
+"PFCode2":"P855",
+"PFCode3":"P866",
+"Shift":"Day Shift (1st)",
+"PFName0":"Aayn, Aawman",
+"PFName1":"Aadwin, Aalmar",
+"Shift0":"Day Shift (1st)",
+"Shift":"Day Shift (1st)",
+"Shift1":"Day Shift (1st)"
+
+
+},
+
+"55554":{
+"PFCode":"94987",
+"LastName":"halton",
+"FirstName":"valeo",
+"UserName":"halton",
+"Password":"Pnx@2016",
+"UserName0":"p002",
+"Password0":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"RoleAssignment":"System Administrator",
+"SupervisorPF":"P002",
+"SupervisorDescription":"Supervisor, Officer"
+
+
+},
+
+"55159":{
+"PFCode":"6589",
+"Division":"Administration",
+"Section":"Patrol",
+"Squad":"DT - Detective",
+"Team":"Off-group 1",
+"InjuryOccuredDate":"03/11/2025",
+"InjuryOccuredTime":"15:55",
+"TypeOFInjury":"Mental Stress",
+"Ref":"2"
+
+},
+
+"55116":{
+"PFCode":"7458",
+"hiredDate":"4/30/2022",
+"HiredDate":"30/04/2022",
+"RoleName":"Local Admin"
+},
+
+"55054":{
+"PFCode":"7458",
+"TrainingRowIndex":"0",
+"Title":"Automation",
+"CourseTitle":"Automation"
+},
+
+"55538":{
+"CodeID":"2006",
+"Description":"Section Number",
+"CodeValue":"205",
+"Description1":"Automation",
+"Division":"Administration",
+"Division0":"Administration",
+"Division1":"Operations",
+"Division2":"Operations",
+"PFCode":"09072025",
+"PFCode1":"P09052025",
+"PFCode2":"P09062025",
+"Section":"Automation",
+"CodeValueDescription":"Automation"
+},
+
+"57887":{
+"PFCode":"85943",
+"LastName":"Moteco",
+"FirstName":"henrim",
+"UserName":"Moteco",
+"Password":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"Juris":"GCP - Gloucester County Police Dept",
+"PFCode":"85943",
+"RolesAllowed":"Local Admin",
+"RoleName":"Local Admin"
+},
+
+
+
+"56051":{
+
+"PFCode":"97859",
+"LastName":"fenadia",
+"FirstName":"mexican",
+"UserName":"fenadia",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"Height":"189",
+"Weight":"65",
+"Eyes":"Black",
+"Hair":"Black",
+"ReportName":"Personnel Detail Report"
+
+},
+
+
+
+"58137":{
+"PFCode":"8734",
+"LastName":"javek",
+"FirstName":"bren",
+"UserName":"javek",
+"Password":"Pnx@2016",
+"RoleAssignment":"Local Admin",
+"UserName0":"javek",
+"Password0":"Pnx@2016",
+"Database":"AutomationFireMJ"
+
+},
+
+"55686":{
+
+"PFCode":"7655",
+"LastName":"Jacob",
+"FirstName":"Maven",
+"UserName":"Jacoeb",
+"Password":"Pnx@2016",
+"Password1":"Pnx@2018",
+"RoleAssignment":"Local Admin",
+"UserName0":"Automation",
+"Password0":"Pnx@2016",
+"UserName2":"Jacoeb",
+"Password2":"Pnx@2016",
+"Database":"AutomationPoliceMJ"
+
+},
+
+"55446":{
+"PFCode":"PFlock",
+"EnteredPassword0":"PNX@$#@!#@#",
+"EnteredPassword1":"iLafJ029y0bxy+ledagEPA==",
+"EnteredPassword2":"nnbb##$$",
+"EnteredPassword3":"sfsdgasfasf",
+"EnteredPassword4":"678768",
+"EnteredPassword5":"67876876"
+
+},
+
+"55569":{
+"PFCode":"T066",
+"LoginUserName":"Admin",
+"RoleName":"Local Admin",
+"Description":"Role: Local Admin; For: T066",
+"Access":"Delete",
+"ScreenIDScreenName":"1210 - Personnel Entry",
+"Repository":"1210",
+"PFName0":"System, Admin",
+"PFCode0":"0"
+
+
+
+
+},
+
+"56052":{
+"PFCode":"6589",
+"Division":"Administration",
+"Section":"Patrol",
+"Squad":"DT - Detective",
+"Team":"Off-group 1",
+"InjuryOccuredDate":"06/10/2025",
+"InjuryOccuredTime":"13:42",
+"TypeOFInjury":"Mental Stress",
+"Ref":"1025",
+"Shift":"Day Shift (1st)"
+
+
+
+},
+
+"58264":{
+"PF":"t055",
+"PFName":"Stuart, Mark",
+"PFCode":"t055",
+"Squad":"DT - Detective",
+"Division":"Administration",
+"Section":"Patrol",
+"Team":"Off-group 1",
+"Shift":"Day Shift (1st)",
+"Shift0":"Day Shift (1st)",
+"Date":"06/10/2025",
+"Time":"13:46",
+"ToDate":"06/11/2025",
+"ToTime":"13:47",
+"Medicalcode":"ECG",
+"EnteredByPF":"T066",
+"EnteredBy":"T066",
+"EnteredByPFDescription":"Ibraham, Wilson"
+
+},
+
+
+"55190":{
+"PFName":"PF, Locked",
+"FirstName":"Locked",
+"LastName":"PF",
+"Division":"Administration",
+"LoginUserName":"LockedAuto",
+"UserName":"LockedAuto",
+"DateFrom":"06/10/2025",
+"DateTo":"06/10/2025"
+
+},
+
+"55891":{
+"Juris":"  --  ",
+"ColumnName0":"Juris",
+"ColumnName1":"PF Code",
+"ColumnName2":"Hire Date",
+"ColumnName3":"Title",
+"ColumnName4":"Job Grade",
+"ColumnName5":"Badge",
+"ColumnName6":"Division",
+"ColumnName7":"Section",
+"ColumnName8":"Group",
+"ColumnName9":"Shift",
+"ColumnName10":"PF Name"
+},
+
+
+"55398":{
+"AllowanceCode":"Transport",
+"Amount0":"2222.00",
+"Amount1":"2323.00"
+
+},
+"56057":{
+"PF":"t055",
+"PFName":"Stuart, Mark",
+"PFCode":"t055",
+"Squad":"DT - Detective",
+"Division":"Administration",
+"Section":"Patrol",
+"Team":"Off-group 1",
+"Shift":"Day Shift (1st)",
+"Date":"06/10/2025",
+"Time":"13:47",
+"Medicalcode":"ECG",
+"EnteredByPF":"T066",
+"EnteredBy":"T066",
+"EnteredByPFDescription":"Ibraham, Wilson"
+
+},
+
+
+"55601B":{
+"Division":"Administration",
+"PFCode":"InjRep"
+
+},
+"60465":{
+"PFCode":"T0287",
+"Section":"Patrol",
+"Division":"Administration",
+"Division1":"Operations",
+"FirstName":"halelen1",
+"LastName":"gladee",
+"ChangedFrom":"Administration",
+"ChangedTo":"Operations",
+"PromotionSeniority":"3",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Dispatcher, FT Emp, Traffic Unit",
+"Group":"Workgroup Automaion Team",
+"ChangedTo0":"Detective",
+"DataType0":"Squad",
+"ChangedTo1":"Off-group 1",
+"DataType1":"Team",
+"ChangedTo2":"Workgroup Automaion Team",
+"DataType2":"WorkGroupID",
+"Team":"Off-group 1",
+"Squad":"DT - Detective",
+"EffectiveDate":"Effective Date"
+
+
+},
+
+"60328":{
+"ColumnValue0":"Juris",
+"ColumnValue1":"PF Code",
+"ColumnValue2":"PF Name",
+"ColumnValue3":"Division",
+"ColumnValue4":"Sections",
+"ColumnValue5":"Shift",
+"ColumnValue6":"Job Grade",
+"ColumnValue7":"Assignment Date",
+"ColumnValue8":"Inactive"
+
+},
+
+"60350":{
+
+"PFCode1":"60350",
+"PFCode2":"05306",
+"PFName1":"Abel, Camerol",
+"PFName2":"Aden, Aeth",
+"Shift":"Early Shift (2nd)",
+"Shift1":"Early Shift (2nd)",
+"Shift2":"Early Shift (2nd)",
+"Division":"Administration",
+"Section":"Administration",
+"Division1":"Administration",
+"Section1":"Administration",
+"Division2":"Administration",
+"Section2":"Administration",
+"Type":"Civilian Employee",
+"TitleRank":"Police Officer",
+"WorkGroup":"Workgroup Automaion Team",
+"Group":"Workgroup Automaion Team",
+"Team":"Off-group 1",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Seniority":"5.2Years",
+"JobGrade":"Job Grade 3",
+"JobGrade1":"Job Grade 3",
+"JobGrade2":"Job Grade 3",
+"Squad":"DT - Detective",
+"DetailHierarchyOrder":"Ineligible",
+"NextReviewDueIn":"1 Month",
+"PromotionSeniority":"Aut"
+
+},
+
+"60418":{
+
+"PFCode":"T0239",
+"FirstName":"valeo",
+"LastName":"hlik",
+"Division":"Administration",
+"Section":"Administration",
+"Team":"Off-group 1",
+"TitleRank":"Police Officer",
+"JobGrade":"Job Grade 3",
+"Type":"Civilian Employee",
+"Squad":"DT - Detective",
+"Group":"Workgroup Automaion Team",
+"DataType0":"AssignDttm",
+"DataType1":"Division",
+"DataType2":"Sections",
+"DataType3":"Squad",
+"DataType4":"GradeID",
+"DataType5":"NextReview",
+"DataType6":"NextReviewDttm",
+"DataType7":"PFType",
+"DataType8":"Rank",
+"DataType9":"Shift",
+"DataType10":"Team",
+"DataType11":"WorkGroupID",
+"ColumnName":"Data Type"
+
+},
+
+"60103":{
+"PFCode":"852",
+"Allowance":"01 - Uniforms",
+"Year":"2025"
+
+},
+
+"60328":{
+"PFCode1":"60328",
+"PFCode2":"P628A",
+"Shift":"Day Shift (1st)",
+"Shift0":"Day Shift (1st)",
+"Shift1":"Day Shift (1st)",
+"PFName0":"Aadam, Aedil",
+"PFName1":"Aael, Aaden",
+"PFCode3":"A208",
+"PFCode4":"1565",
+"Shift2":"Early Shift (2nd)",
+"Shift3":"Early Shift (2nd)",
+"PFName2":"Berry, John",
+"PFName3":"Brandon, Brandon",
+"Division":"Administration",
+"Shift5":"--",
+"Division1":"--"
+
+},
+
+"58270":{
+"PFCode":"9858"
+},
+
+"58270A":{
+"PFCode":"9858"
+},
+
+"58190":{
+"Division":"Operations",
+"PFName":"Kenneth, Carl",
+"PFCode":"8958",
+"Team":"Off-group 1",
+"Section":"Administration",
+"Squad":"DT - Detective",
+"Shift":"Day Shift (1st)",
+"EnteredByPF":"8958",
+"EnteredByPFDescription":"Kenneth, Carl",
+"CommentDate":"06/18/2025",
+"CommentTime":"15:35",
+"ForPeriodFromDate":"06/18/2025",
+"ForPeriodFromTime":"15:35",
+"ForPeriodToDate":"06/18/2025",
+"ForPeriodToTime":"15:35",
+"Category":"Work",
+"SubCategory":"Artificial Inteligence",
+"Reference":"8958",
+"Supervisior":"8958",
+"SupervisorPFCode":"8958",
+"Disposition":"Artificial Inteligence"
+
+},
+
+"55489":{
+"Division":"Operations",
+"PFCode":"2505",
+"PFName":"Timothy, Terry",
+"PFCode0":"2505",
+"PFName0":"Timothy, Terry",
+"Section":"Accident Investigator",
+"Shift":"Early Shift (2nd)",
+"Group":"Workgroup Automaion Team",
+"Type":"Civilian Employee",
+"Team":"Off-group 1",
+"Title":"Police Officer",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"JobGrade":"Job Grade 3",
+"Badge":"55489",
+"SupervisorPF":"P866",
+"Supervisor":"P866",
+"SupervisorDescription":"Aadwin, Aalmar",
+"NextReviewDueIn":"1 Month",
+"NextReviewDueInDate":"08/18/2025",
+"Squad":"DT - Detective"
+
+},
+
+
+"55539":{
+"DateFrom":"07/18/2025",
+"PFName0":"Timothy, Terry",
+"PFCode0":"2505",
+"PFCode":"2505",
+"Category":"Work",
+"PeriodFrom":"07/18/2025",
+"PeriodTo":"07/18/2025",
+"MedicalHistoryCode":"ECG",
+"MedicalCode":"ECG",
+"Notes":"Automation data for Script",
+"HistoryCategory":"Work",
+"DateTo":"07/18/2025",
+"Code":"Artificial Inteligence",
+"Purpose":"PersonnelSearchWithAllFieldsInderWorkRecordAndOthersSection_55539",
+"LoginUserName":"Timothy",
+"UserName":"Timothy",
+"Security":"Property",
+"RoleName":"Property",
+"SpecialSkill":"Package",
+"Skills":"Package",
+"RFIDTag":"US7991871B2",
+"Email":"Automation125@Prophoenix.co",
+"EmployeeNumber":"225625",
+"QAFormData":"149 N 11th Ave",
+"FormName0":"Form 441",
+"FromHiredDate":"06/18/2020",
+"HiredDate":"06/18/2020"
+
+},
+
+
+"55654":{
+"Juris":"GCP - Gloucester County Police Dept",
+"UserName":"Aayn",
+"Password":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"PFCode":"P855",
+"RolesAllowed":"Local Admin",
+"RoleName":"Local Admin"
+
+},
+
+"58271":{
+"PFCode":"DEM001",
+"CaseNo":"25-000002",
+"Status0":"On Hold",
+"ColumnName0":"Main",
+"ColumnName1":"Attachments",
+"ColumnName2":"QA Forms",
+"ColumnName3":"Approval",
+"PFName":"Demo, Search"
+
+},
+
+"55863":{
+"CaseNo":"25-000009",
+"Status0":"On Hold",
+"NewAction0":"Send for Approval",
+"Status1":"Submitted",
+"NewAction1":"Reject",
+"Status2":"Rejected",
+"NewAction2":"Send for Approval",
+"NewAction3":"Approve",
+"Status4":"Approved",
+"RejectionCode":"Other Reason(s)"
+
+},
+
+
+"55577":{
+"PFCode":"B55577",
+"PFCode0":"B55577"
+
+},
+
+"60530":{
+"CaseNo":"25-000006",
+"ReviewType0":"Employee Involved Crash",
+"ReviewType1":"Bias Based Profiling"
+
+},
+
+"55174":{
+"Juris0":"  --  ",
+"OtherJuris":"BC",
+"Juris1":"BC - Brown County Police Department",
+"PFCode":"55174",
+"EntryJuris0":"BC - Brown County Police Department",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"Squad":"DT - Detective"
+
+
+
+},
+"60540":{
+"EmployeeNumber":"89858",
+"PFName0":"Mark, Thomas",
+"PFCode0":"9859",
+"LoginUserName":"Mark",
+"Email":"abianERERayaM@prophoenix.com",
+"Security":"Local Admin",
+"SpecialSkill":"Automation",
+"RFIDTag":"Mark",
+"EmployeeNumber":"89858",
+"FromHiredDate":"08/06/2024",
+"QAFormData":"Mark",
+"HiredDate":"08/06/2024",
+"UserName":"Mark",
+"RFIDTag":"Mark",
+"Skills":"Automation",
+"FormName":"Form 441",
+"FormName0":"Form 441",
+"Name":"Mark, Thomas"
+
+},
+
+"55586":{
+"PFNo":"9858",
+"PFCode":"9858"
+
+},
+
+"55586A":{
+"UserName":"MarkZuc",
+"Password":"Pnx@2019",
+"Database":"AutomationPoliceMJ SmokeTest",
+"PFNo":"9858",
+"PFCode":"9858"
+},
+
+"58385":{
+"PFCode":"9150",
+"LastName":"Thiago",
+"FirstName":"Isaiah",
+"UserName":"Thiago",
+"Password":"Pnx@2016",
+"RoleAssignment":"Press Officer",
+"RoleName":"Local Admin",
+"Email1ComboBox":"Personal",
+"Email1":"rajkiran@Prophoenix.com",
+"Email2ComboBox":"Work",
+"Email2":"rajkiran@Prophoenix.com",
+"Email3Type":"Other",
+"Email3Text":"rajkiran@Prophoenix.com",
+"PhoneType":"H - Home",
+"PhoneNumber":"2222222222",
+"Carrier":"AT&T",
+"Extn":"21",
+"PhoneNo":"2222222222",
+"Race":"White",
+"Ethincity":"Hispanic/Latino",
+"MaritalStatus":"Divorced",
+"BirthDate":"20/05/1998",
+"BirthPlace":"London",
+"hiredDate":"07/01/2022",
+"Probation":"07/25/2025",
+"TerminatedDate":"08/25/2025",
+"SSNo0":"111111111",
+"State":"AK - Alaska",
+"DL":"Alaska",
+"Custom1":"Automation",
+"Custom2":"Automation",
+"Custom3":"Automation",
+"Custom4":"Automation",
+"Height":"168",
+"Weight":"52",
+"Eyes":"Black",
+"Hair":"Black",
+"Seniority":"12"
+
+},
+"58385FA":{
+"PFCode":"931680",
+"LastName":"Valert1",
+"FirstName":"Helne",
+"UserName":"Valert1",
+"Password":"Pnx@2016",
+"RoleAssignment":"Press Officer",
+"RoleName":"Local Admin",
+"Email1ComboBox":"Personal",
+"Email1":"rajkiran@Prophoenix.com",
+"Email2ComboBox":"Work",
+"Email2":"rajkiran@Prophoenix.com",
+"Email3Type":"Other",
+"Email3Text":"rajkiran@Prophoenix.com",
+"PhoneType":"Home",
+"PhoneNumber":"2222222222",
+"Carrier":"AT&T",
+"Extn":"21",
+"PhoneNo":"2222222222",
+"Race":"White",
+"Ethincity":"Hispanic or Latino",
+"MaritalStatus":"Divorced",
+"BirthDate":"03/04/2016",
+"BirthPlace":"London",
+"hiredDate":"07/01/2022",
+"Probation":"07/25/2025",
+"TerminatedDate":"08/25/2025",
+"SSNo0":"111111111",
+"State":"AK",
+"DL":"Alaska",
+"Custom1":"Automation",
+"Custom2":"Automation",
+"Custom3":"Automation",
+"Custom4":"Automation",
+"Height":"168",
+"Weight":"52",
+"Eyes":"Black",
+"Hair":"Black",
+"Seniority":"12"
+},
+
+
+
+"60631":{
+"PFCode":"09082025",
+"Repository":"1210",
+"RoleAssignment":"System Administrator",
+"RoleName":"System Administrator",
+"Description":"Role: System Administrator; For: 09082025",
+"Access":"Delete",
+"Description0":"PFCode: 09082025; Name: Xavier,Atlas",
+"Description1":"Role: System Administrator; For: 09082025"
+
+},
+
+"63331":{
+"PFCode":"09122025",
+"PFCode0":"09122025",
+"FirstName":"Jett",
+"LastName":"Hayes",
+"Division":"Operations",
+"Division0":"Operations",
+"Section":"Accident Investigator",
+"Section0":"Accident Investigator",
+"Shift":"Early Shift (2nd)",
+"Group":"Workgroup Automaion Team",
+"Group0":"Workgroup Automaion Team",
+"Type":"Civilian Employee",
+"TitleRank":"Police Officer",
+"TitleRank0":"Police Officer",
+"Squad":"DT - Detective",
+"JobGrade":"Job Grade 3",
+"JobGrade0":"Job Grade 3",
+"NextReviewDueIn":"1 Month",
+"Supervisor":"AUTO",
+"Supervisor0":"Prophoenix, Automation",
+"PFName":"Hayes, Jett",
+"PFName0":"Hayes, Jett",
+"SortBy":"FirstName",
+"Team":"Off-group 1"
+
+},
+
+"63328":{
+"PF":"09122025",
+"FirstName":"Jett",
+"LastName":"Hayes",
+"SortOrder":"FirstName",
+"PFCode":"09122025",
+"PFName":"Hayes, Jett"
+
+
+},
+
+"63305":{
+"Shift":"Early Shift (2nd)",
+"PFCode":"09122025",
+"PFName":"Hayes, Jett",
+"Group":"Workgroup Automaion Team",
+"Type":"Civilian Employee",
+"DetailHierarchyOrder":"Ineligible",
+"TitleRank":"Police Officer",
+"Title":"Police Officer",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"Squad":"DT - Detective",
+"Team":"Off-group 1",
+"Badge":"OFF56",
+"JobGrade":"Job Grade 3",
+"NextReviewDueIn":"1 Month",
+"By":"10/23/2025",
+"Supervisor":"Prophoenix, Automation",
+"PFCode1":"09122025"
+
+},
+
+"64187":{
+"PFCode":"09182025",
+"RoleAssignment":"Personnel",
+"RoleName":"Personnel",
+"ScreenId1":"1210",
+"ScreenId2":"1211",
+"UserName":"Leonel",
+"Password":"Pnx@2020",
+"LastName":"Leonel",
+"FirstName":"Kohen",
+"Name":"Leonel, Kohen",
+"Custom2":"Automation",
+"Custom1":"Automation"
+
+},
+
+"64244":{
+"DivisionLabel0":"Division",
+"DefaultName":"Division",
+"CustomName":"DIV",
+"DivisionLabel1":"DIV",
+"DivisionLabelColor0":"black",
+"DivisionLabelColor1":"gray"
+
+},
+
+"64304":{
+
+"PFCode":"09182025"
+},
+
+
+
+"62669":{
+"Juris0":"BC - Brown County Police Department",
+"PFCode1":"09132025",
+"PFName1":"Rhett, Max",
+"Shift":"Day Shift (1st)",
+"Shift1":"Day Shift (1st)",
+"Shift2":"Day Shift (1st)",
+"Division":"Administration",
+"Section":"Administration",
+"Division1":"Administration",
+"Section1":"Administration",
+"Division2":"Administration",
+"Section2":"Administration",
+"Type":"Civilian Employee",
+"TitleRank":"Police Officer",
+"WorkGroup":"Workgroup Automaion Team",
+"Group":"Workgroup Automaion Team",
+"Team":"Off-group 1",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Seniority":"5.2",
+"JobGrade":"Job Grade 1",
+"JobGrade1":"Job Grade 1",
+"JobGrade2":"Job Grade 1",
+"Squad":"DT - Detective",
+"DetailHierarchyOrder":"Ineligible",
+"NextReviewDueIn":"1 Month",
+"PromotionSeniority":"Aut"
+
+},
+"62708":{
+"columnName0":"PF Code",
+"columnName1":"PF Name",
+"columnName2":"Hire Date",
+"columnName3":"Title",
+"columnName4":"Job Grade",
+"columnName5":"Badge",
+"columnName6":"Division",
+"columnName7":"Sections",
+"columnName8":"Group",
+"columnName9":"Shift"
+
+},
+"63453":{
+
+"PFCode":"09172025",
+"Amount":"222.00"
+
+},
+"58385A":{
+"PFNo":"9150",
+"PFCode":"9150",
+"LastName":"Thiago",
+"FirstName":"Isaiah",
+"Division":"Administration",
+"Section":"Administration",
+"Team":"Off-group 1",
+"TitleRank":"Police Officer",
+"JobGrade":"Job Grade 3",
+"Type":"Civilian Employee",
+"Squad":"DT - Detective",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Group":"Workgroup Automaion Team",
+"PromotionSeniority":"25",
+"SpecialPay":"Pay"
+
+},
+
+
+"58385FB":{
+"PFNo":"931680",
+"PFCode":"931680",
+"Division":"Administration",
+"Section":"Office of the Chief",
+"Team":"High Angle Rescue",
+"TitleRank":"Chief",
+"JobGrade":"Job Grade 1",
+"Type":"Full Time Paid Employee",
+"Squad":"Heavy Rescue",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Group":"Workgroup A",
+"PromotionSeniority":"25",
+"SpecialPay":"23",
+"Unit":"191",
+"Station":"Station2",
+"CostCenter":"Heavy",
+"EarningCode":"010",
+"Position":"1",
+"SupervisorPF":"001"
+
+},
+
+"62939":{
+"ColumnValue0":"OnHold",
+"Status0":"OnHold",
+"ColumnName0":"Status",
+"ItemType":"Personnel Work History",
+"ItemType0":"Personnel Injury",
+"ColumnName1":"Item Type",
+"ColumnValue1":"Work History",
+"ColumnName2":"Officer",
+"ColumnValue2":"AUTO",
+"ItemTypeInGrid":"Injury",
+"Juris":"BC - Brown County Police Department"
+
+},
+
+"63287A":{
+"Squad":"Heavy Rescue",
+"Division":"Administration",
+"Section":"Office of the Chief",
+"Shift":"A Shift",
+"Shift0":"A Shift",
+"Team":"HazMat Team",
+"PFCode":"09012025",
+"Medicalcode":"Annual Physical"
+
+
+
+},
+"63418":{
+"EnteredBy":"AUTO",
+"Category":"Work",
+"SubCategory":"Artificial Inteligence",
+"Subject":"Build Your Dream",
+"Comments0":"Processed by Automation",
+"EnteredByPF":"AUTO",
+"PFCode":"AUTO",
+"EnteredByPFDescription":"Prophoenix, Automation",
+"Status":"Submitted",
+"ForPeriodFromDate":"08/01/2025",
+"ForPeriodToDate":"08/01/2025"
+
+
+},
+
+"63418A":{
+"EnteredBy":"001",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"Subject":"Automation Process",
+"Comments0":"Processed by Automation",
+"EnteredByPF":"001",
+"PFCode":"001",
+"EnteredByPFDescription":"Test, Automation",
+"Status":"Submitted",
+"ForPeriodFromDate":"08/01/2025",
+"ForPeriodToDate":"08/01/2025"
+
+
+},
+
+"64640":{
+
+"PFCode":"43399",
+"LastName":"kanther",
+"FirstName":"veleo",
+"UserName":"kanther11",
+"Password":"Pnx@2023",
+"RoleAssignment":"Local Admin",
+"ParamValue":"0",
+"ParameterID":"4337"
+
+
+
+
+},
+"64747":{
+"PFNo":"09192025",
+"PFCode":"09192025",
+"Allowance":"01 - Uniform",
+"TranscationDate":"10/03/2018",
+"Type":"G - Equipement",
+"Item":"Pistol",
+"Amount":"20.00",
+"Allownaceyear":"2018"
+
+
+
+},
+"62759":{
+"SpecialCharacters":",.?;'{}[];',!@#$%^&*()_+",
+"MedicalAlert":",.?;'{}[];',!@#$%^&*()_+",
+"Numerical":"1234556488888"
+},
+
+"62759A":{
+"SpecialCharacters":",.?;'{}[];',!@#$%^&*()_+",
+"MedicalAlert":",.?;'{}[];',!@#$%^&*()_+",
+"Numerical":"1234556488888"
+},
+
+"62793":{
+
+"PFCode0":"09152025",
+"Type":"Civilian Employee",
+"PFNo":"09152025",
+"PFCode":"09152025",
+"ChangedTo0":"Civilian Employee"
+
+},
+
+"60594":{
+"PFNo":"P09042025",
+"PFCode":"P09042025",
+"UserName":"Roman",
+"Password":"Pnx@2023",
+"UserName0":"Roman",
+"Password0":"Pnx@2023",
+"Database":"AutomationPoliceMJ"
+
+},
+"62715":{
+"PFCode":"09122025",
+"PFCode0":"09122025",
+"PFName0":"Hayes, Jett",
+"JobGrade":"Job Grade 3",
+"JobGrade0":"Job Grade 3",
+"FirstName":"Jett",
+"LastName":"Hayes",
+"SortBy":"FirstName",
+"Shift":"Early Shift (2nd)",
+"Shift0":"Early Shift (2nd)",
+"Group":"Workgroup Automaion Team",
+"Group0":"Workgroup Automaion Team",
+"TitleRank":"Police Officer",
+"TitleRank0":"Police Officer",
+"Division":"Operations",
+"Division0":"Operations",
+"Section":"Accident Investigator",
+"Section0":"Accident Investigator",
+"Supervisor":"AUTO",
+"Supervisor0":"Prophoenix, Automation",
+"Type":"Civilian Employee",
+"Team":"Off-group 1",
+"Squad":"DT - Detective",
+"NextReviewDueIn":"1 Month",
+"NextReviewDate":"10/23/2025",
+"LoginUserName":"Hayes",
+"UserName":"Hayes",
+"SecurityRoles":"System Administrator",
+"RoleName":"System Administrator",
+"SpecialSkill":"Automation",
+"Skills":"Automation",
+"columnvalueName0":"Shift",
+"columnvalueName1":"Group",
+"columnvalueName2":"Title/Rank",
+"columnvalueName3":"Division",
+"columnvalueName4":"Section",
+"columnvalueName5":"Job Grade"
+},
+"63298":{
+"EnteredByPF":"09112025",
+"CommentDate":"08/23/2025",
+"CommentTime":"13:12",
+"ToCommentTime":"13:12",
+"ToCommentDate":"08/23/2025",
+"FromDate":"08/23/2025",
+"ToDate":"08/23/2025",
+"Category":"Work",
+"SubCategory":"Artificial Inteligence",
+"PFCode":"09112025",
+"ForPeriodFromDate":"08/23/2025",
+"ForPeriodFromTime":"13:12",
+"ForPeriodToDate":"08/23/2025",
+"ForPeriodToTime":"13:12",
+"Reference":"09112025",
+"Supervisior":"P09052025",
+"Disposition":"Artificial Inteligence",
+"PFName":"Nathaniel, Bryson",
+"SupervisorPFCode":"P09052025",
+"Fromcolumnvalue":"Period From",
+"Tocolumnvalue":"Period To"
+
+
+},
+"63298A":{
+"EnteredByPF":"001",
+"CommentDate":"09/23/2025",
+"CommentTime":"20:09",
+"ToCommentTime":"20:09",
+"ToCommentDate":"09/23/2025",
+"FromDate":"09/23/2025",
+"ToDate":"09/23/2025",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"PFCode":"09022025",
+"ForPeriodFromDate":"09/23/2025",
+"ForPeriodFromTime":"20:09",
+"ForPeriodToDate":"09/23/2025",
+"ForPeriodToTime":"20:09",
+"Reference":"2205",
+"Supervisior":"09012025",
+"Disposition":"Approved",
+"PFName":"Killian, Grady",
+"SupervisorPFCode":"09012025",
+"Fromcolumnvalue":"Period From",
+"Tocolumnvalue":"Period To"
+
+
+},
+"58385B":{
+"PFNo":"9150",
+"PFCode":"9150",
+"OrderNo":"1",
+"ContactName":"Walter",
+"ContactName0":"Walter",
+"Phone":"2222222222",
+"Phone0":"(222) 222-2222",
+"Carrier":"AT&T",
+"RelationShip":"Brother",
+"Notes":"Automation",
+"MedicalAlert":"HeartPatient",
+"Allergies":"None",
+"Medications":"Tablets",
+"HospitalPreferences":"yes",
+"FamilyPhysician":"Martin",
+"PhysicianPhone":"2222222233",
+"BloodType":"A +Ve",
+"LastTetanusShot":"08/13/2025",
+"LastPhysical":"08/13/2025",
+"LastToHepatitisShot":"",
+"LastHepatitisShot":"08/13/2025",
+"InsurancePlan":"1 Year",
+"Religion":"none",
+"ReligiousLeader":"none",
+"Miscellanoues":"none",
+"OrganDonor":"none"
+},
+
+"58385FC":{
+"PFNo":"931680",
+"PFCode":"931680",
+"OrderNo":"1",
+"ContactName":"Walter",
+"ContactName0":"Walter",
+"Phone":"2222222222",
+"Phone0":"(222) 222-2222",
+"Carrier":"AT&T",
+"RelationShip":"Brother",
+"Notes":"Automation",
+"MedicalAlert":"HeartPatient",
+"Allergies":"None",
+"Medications":"Tablets",
+"HospitalPreferences":"yes",
+"FamilyPhysician":"Martin",
+"PhysicianPhone":"2222222233",
+"BloodType":"A + Ve",
+"LastTetanusShot":"08/13/2025",
+"LastPhysical":"08/13/2025",
+"LastToHepatitisShot":"",
+"LastHepatitisShot":"08/13/2025",
+"InsurancePlan":"1 Year",
+"Religion":"none",
+"ReligiousLeader":"none",
+"Miscellanoues":"none",
+"OrganDonor":"none"
+
+},
+
+"58385C":{
+"PFNo":"9150",
+"PFCode":"9150",
+"UserName":"Aadwin",
+"Password":"Pnx@2023",
+"RoleAssignment":"System Administrator",
+"RoleName":"System Administrator"
+},
+
+
+
+"58385FD":{
+"PFNo":"931680",
+"PFCode":"931680",
+"UserName":"Walter",
+"Password":"Pnx@2023",
+"RoleAssignment":"Dispatcher",
+"RoleName":"Dispatcher"
+},
+
+"63035":{
+"PFCode":"09122025",
+"PFCode0":"09122025",
+"PFName0":"Hayes, Jett",
+"JobGrade0":"Job Grade 3",
+"Group0":"Workgroup Automaion Team",
+"TitleRank0":"Police Officer",
+"Division0":"Operations",
+"Section0":"Accident Investigator",
+"LoginUserName":"Hayes",
+"UserName":"Hayes",
+"SecurityRoles":"System Administrator",
+"RoleName":"System Administrator",
+"SpecialSkill":"Automation",
+"Skills":"Automation"
+},
+
+"63601":{
+"PFNo":"09172025",
+"PFCode":"09172025",
+"RFIDTag":"P866"
+},
+
+"62898":{
+"PFCode":"09162025",
+"UserName":"Miguel",
+"UserName0":"admin",
+"Password":"Pnx@2016",
+"PFNo":"0",
+"Description":"System, Admin-0",
+"PFName":"System, Admin"
+
+},
+"63576":{
+"RepositoryID":"1210"
+
+
+
+},
+
+"63638":{
+"PFCode":"09172025",
+"CaseNo":"25-000100",
+"LabelName0":"Review Type",
+"LabelName1":"Review of Available Materials",
+"LabelName2":"Recommendation from Review",
+"Labelcolor0":"rgba(153, 0, 0, 1)",
+"Labelcolor1":"rgba(0, 0, 0, 1)",
+"Labelcolor2":"rgba(128, 128, 128, 1)"
+
+},
+
+"63396":{
+"Custom1color0":"rgba(153, 0, 0, 1)",
+"Custom2color0":"rgba(153, 0, 0, 1)",
+"Custom1color1":"rgba(0, 0, 0, 1)",
+"Custom2color1":"rgba(0, 0, 0, 1)",
+"Juris0":"PX - ProPhoenix",
+"Juris":"BC - Brown County Police Department",
+"PFCode":"Val",
+"LastName":"Val",
+"FirstName":"Val",
+"Custom1":"Val",
+"Custom2":"Val"
+
+},
+"63396A":{
+"Custom1color0":"rgba(153, 0, 0, 1)",
+"Custom2color0":"rgba(153, 0, 0, 1)",
+"Custom1color1":"rgba(0, 0, 0, 1)",
+"Custom2color1":"rgba(0, 0, 0, 1)",
+"Juris0":"BC - Brown County Police Department",
+"Juris":"BC - Brown County Police Department",
+"PFCode":"Val",
+"LastName":"Val",
+"FirstName":"Val",
+"Custom1":"Val",
+"Custom2":"Val"
+
+},
+
+"62965":{
+"Status0":"OnHold",
+"ItemType":"Personnel Work History"
+
+
+},
+
+"60470":{
+
+"SortBy1":"LastName",
+"SortBy2":"Division",
+"SortBy3":"Section",
+"SortBy4":"PFCode",
+"SortBy5":"FirstName",
+"ColumnValue0":"PF Name",
+"ColumnValue1":"Division",
+"ColumnValue2":"Sections",
+"ColumnValue3":"PF Code"
+
+
+},
+
+"55734":{
+"Juris0":"--",
+"ColumnNameJuris":"Juris",
+"ColumnJuris0":"BC",
+"ColumnJuris5":"GCP",
+"Juris1":"BC - Brown County Police Department",
+"ColumnJuris1":"BC",
+"PFCode":"BC092325",
+"Medicalcode":"ECG",
+"Juris2":"GCP - Gloucester County Police Dept",
+"PF":"GCP092325",
+"PFName0":"Mason, Gabriel",
+"PFCode0":"GCP092325",
+"Juris3":"TP - Tiffin Police Department",
+"Juris4":"SC - Seneca County Police Dept",
+"PFName1":"Cooper, Charles",
+"PFCode1":"SC0923202"
+
+},
+
+"61559":{
+"Code0":"03 - Transport",
+"Year":"2025 - 2025",
+"Allownaceyear":"2025",
+"Allowance":"03 - Transport",
+"FromDate":"08/22/2025",
+"Amount":"2,222.00",
+"PFCode":"09012025",
+"TranscationDate":"08/22/2018",
+"TranscationDate1":"08/23/2025",
+"Type":"T - Transport",
+"Item":"Ladder",
+"Invoice":"256",
+"AllowanceAmount":"2222.00",
+"AllowanceType":"Transport",
+"Code":"Transport",
+"ToDate":"08/21/2026",
+"AmountIngrid":"2222.00",
+"AllowYear":"2025",
+"AllowanceAmt":"$2,222.00",
+"Balance0":"$2,222.00",
+"Balance1":"$0.00"
+
+},
+
+"55157":{
+"columnName0":"Code",
+"columnName1":"Year",
+"columnName2":"From",
+"columnName3":"To",
+"columnName4":"Amount",
+"columnName5":"Inactive Date"
+
+},
+
+"63121":{
+"UserName0":"Benjamin",
+"Password0":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"PFCode":"09232025",
+"RoleName":"Patrol Officer",
+"ScreenID":"1213",
+"TabName":"Security"
+},
+
+"66304":{
+"PFCode":"7858",
+"LastName":"Automat",
+"FirstName":"kathel",
+"Barcode":"7858",
+"PFCode1":"78589"
+
+
+},
+
+"67523":{
+"PFCode":"09202025",
+"PFName0":"Kade, Luciano",
+"PFCode0":"09202025",
+"NextReviewMonth":"2 Months",
+"columnName":"PF Code"
+
+
+},
+
+"67570":{
+"PFCode":"11132025",
+"ColumnName":"PF Code"
+
+},
+
+"58385D":{
+"PFNo":"9150",
+"PFCode":"9150",
+"TrainingCategory":"Administrative",
+"TrainingType":"Internal Affairs",
+"CourseTitle":"ToCreateaDataFromAllTabsInPersonnelEntryScreenTrainingTab58385D",
+"CourseHours":"24",
+"TrainingTabName":"Training",
+"InnerTrainingTabName":"Training"
+},
+
+"58385E":{
+"PFNo":"9150",
+"PFCode":"9150",
+"Certification":"3 - Docker Certification",
+"EarnedCEU":"12",
+"EarnedHours":"24",
+"CertificationOrLicenseNo":"85555",
+"CertificationInGrid":"Docker Certification",
+"UserName":"AUTO",
+"EarnedCEUs":"12.00",
+"EarnedHoursInGrid":"24:00",
+"EarnedVia":"Manual Entry",
+"MainTabName":"Main",
+"CertificationTabName":"Certification",
+"TrainingTabName":"Training"
+
+},
+
+"58385FE":{
+"PFNo":"931680",
+"PFCode":"931680",
+"Certification":"3 - Driver Operator - Pumper",
+"EarnedCEU":"12",
+"EarnedHours":"24",
+"CertificationOrLicenseNo":"85555",
+"CertificationInGrid":"Driver Operator - Pumper",
+"UserName":"AUTO",
+"EarnedCEUs":"12.00",
+"EarnedHoursInGrid":"24:00",
+"EarnedVia":"Manual Entry",
+"MainTabName":"Main",
+"CertificationTabName":"Certification",
+"TrainingTabName":"Training"
+
+},
+
+"58385H":{
+"PFNo":"9150",
+"PFCode":"9150",
+"RFIDTag":"8870",
+"Notes":"ToCreateaDataFromAllTabs",
+"RFID0":"8870",
+"Notes0":"ToCreateaDataFromAllTabs",
+"RFID1":"3915",
+"Notes1":"TabsInPersonnelEntryScreen",
+"InactiveGreyColor":"rgba(128, 128, 128, 1)",
+"RFIDTabName":"RFID"
+
+},
+
+"58385I":{
+
+"PFNo":"9150",
+"PFCode":"9150",
+"Category":"Work",
+"SubCategory":"Artificial Inteligence",
+"Subject":"orkRecordTabWorHistoryTab",
+"Ref":"8854",
+"Status0":"On Hold",
+"Status1":"Submitted",
+"Code":"Artificial Inteligence",
+"WorkHistoryTabName":"Work History",
+"WorkRecordTabName":"Work Record"
+
+},
+
+"58385J":{
+"PFNo":"9150",
+"PFCode":"9150",
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"9150",
+"Ref":"8854",
+"Unit":"5625",
+"HowOccured":"Accident",
+"NatureAndExtentOfInjury":"Puncture",
+"LocationOfIncident":"Road",
+"TimeLostDueToInjury":"2Hours",
+"TreatmentDetails":"FirstAid",
+"WorkRecordTabName":"Work Record",
+"InjuryReportTabName":"Injury Report",
+"InjuryType":"Mental Stress",
+"Nature":"Puncture"
+
+},
+
+"58385K":{
+"PFNo":"9150",
+"PFCode":"9150",
+"MedicalCode":"ECG",
+"Notes0":"MedicalHistoryTab",
+"WorkRecordTabName":"Work Record",
+"medicalHistoryTabName":"Medical History",
+"Notes":"MedicalHistoryTab",
+"PerformanceEvaluationTabName":"Performance Evaluations"
+},
+"60548":{
+"ColumnHeader1":"Code",
+"ColumnHeader2":"Year",
+"ColumnHeader3":"From",
+"ColumnHeader4":"To",
+"ColumnHeader5":"Amount",
+"ReportName":"Training Allowance Code Report",
+"Amount":"45343.00",
+"ColumanName":"Inactive",
+"AllowanceCode":"01 - Uniform",
+"Year1":"2025 - 2025",
+"AllowanceFrom":"01/03/2024",
+"ColumnName1":"From",
+"ColumnName2":"To",
+"ColumnName3":"Year",
+"Count":"0",
+"Color":"rgba(128, 128, 128, 1)",
+"ColumnName":"Code",
+"Year":"2025"
+},
+
+"68141":{
+"ItemType0":"Personnel Work History",
+"ItemType1":"Performance Review",
+"ItemType2":"Personnel Injury",
+"ItemType3":"Meaningful Review Entry",
+"ColumnName0":"Item Type",
+"ColumnValue0":"Work History",
+"ColumnName1":"Status",
+"ColumnValue1":"OnHold",
+"ColumnName2":"Item Type",
+"ColumnValue2":"Injury",
+"ColumnName3":"Item Type",
+"ColumnValue3":"Meaningful Review"
+},
+
+"58385M":{
+"PFNo":"9150",
+"PFCode":"9150",
+"CaseNo":"25-000001",
+"UOFNo":"23-000001",
+"UOFApprovedBy":"PersonnelEntry",
+"UseOfForcePortalCase":"Personnel",
+"ReviewType":"Bias Based Profiling",
+"ReviewOfAvailableMaterial":"Body Worn Cameras",
+"RecommendationFromReview":"Remedial Training",
+"ForceUtilizedInaNonDiscriminatoryFashion":"Yes",
+"UseOfForceReportWasCompletedByEveryOfficer":"Yes",
+"OfficerAttemptedDeEscalationDuringTheIncident":"Yes",
+"IncidentReviewedWithOfficerInvoloved":"Yes",
+"Custom1":"Yes",
+"Custom2":"Yes",
+"Custom3":"Yes",
+"WorkRecordTabName":"Work Record",
+"MeaningFulReviewTabName":"Meaningful Review"
+},
+
+"58385N":{
+"PFNo":"9150",
+"PFCode":"9150",
+"IssueByPF":"AUTO",
+"PF":"9150",
+"Qty":"1",
+"AvailableQty":"10",
+"InventoryNo":"18-000006",
+"Description":"Oil For Engine",
+"Make":"American Oil",
+"Type":"Engine Oil",
+"Invnetory":"18-000006",
+"IssueQty":"1",
+"Comment":"PersonnelEntryScreen_InventoryTab",
+"InventoryTabName":"Inventory"
+},
+
+"58385O":{
+"PFNo":"9150",
+"PFCode":"9150",
+"Allowance":"05 - Inventory",
+"Allownaceyear":"2025",
+"TranscationDate":"11/27/2025",
+"Type":"I - Inventory",
+"Item":"Sheild",
+"Invoice":"564",
+"Amount":"222",
+"Balance1":"$2,378.00",
+"AllowanceAmount":"222.00",
+"AllowanceType":"Inventory",
+"AllowanceTabName":"Allowance"
+},
+
+"58385P":{
+"PFNo":"9150",
+"PFCode":"9150",
+"AboutMeTabName":"About Me"
+},
+
+"58385Q":{
+"PFNo":"9150",
+"PFCode":"9150",
+"SelectForm":"Form 441",
+"FormName":"Form 441",
+"PFName":"Prophoenix, Automation",
+"QAFomTabName":"QA Forms"
+},
+
+"68356":{
+"LastName":"Cody",
+"FirstName":"Justin",
+"PFCode":"68358",
+"PFCode1":"68357A",
+"Email1ComboBox":"Personal",
+"Email1":"RajasProphoenix",
+"Email":"rajas@prophoenix.com",
+"Email2ComboBox":"Work",
+"Email20":"kiranProphoenix.",
+"Email2":"Kiran@prophoenix.com"
+},
+
+"68377":{
+"PFCode":"68377",
+"PFCode1":"68377",
+"Shift":"Early Shift (2nd)",
+"Division0":"Operations",
+"Section0":"Accident Investigator",
+"Squad0":"DT - Detective",
+"Team0":"Off-group 1",
+"Group0":"Workgroup Automaion Team",
+"PromotionSeniority0":"1",
+"DetailHierarchyOrder0":"Ineligible",
+"DetailRateType0":"Cadets, Per Diem Dispatcher",
+"JobGrade0":"Job Grade 1",
+"NextReviewDueIn0":"1 Month",
+"ReviewMonth":"12/06/2025",
+"Type":"Communications",
+"TitleRank":"Detective",
+"Division":"Administration",
+"Section":"CM Investigator",
+"Squad":"DT - Detective",
+"WorkGroup":"Workgroup A",
+"Team":"Off-group 2",
+"DetailRateType":"Dispatcher, FT Emp, Traffic Unit",
+"PromotionSeniority":"3",
+"JobGrade":"Job Grade 3",
+"DetailHierarchyOrder":"Active Police Officer",
+"PFName1":"Geoffrey, Gavin",
+"Shift1":"Day Shift (1st)",
+"Division1":"Administration",
+"Section1":"CM Investigator",
+"JobGrade1":"Job Grade 3",
+"Squad1":"DT - Detective",
+"Team1":"Off-group 2",
+"Group1":"Workgroup A",
+"PromotionSeniority1":"3",
+"DetailHierarchyOrder1":"Active Police Officer",
+"DetailRateType1":"Dispatcher, FT Emp, Traffic Unit",
+"NextReviewDueIn1":"2 Months"
+},
+"69488":{
+"PFNo":"11142025",
+"Name":"Grady, Grayson",
+"OrderNo":"1",
+"ContactName":"Rek",
+"Phone":"1234567890",
+"Carrier":"AT&T",
+"ContactName0":"Rek",
+"Phone0":"(123) 456-7890",
+"Carrier0":"SkyTel",
+"PFCode":"11152025",
+"ContactName1":"MAV",
+"Carrier1":"Sprint PCS",
+"Phone1":"(233) 434-3434"
+},
+
+"69491":{
+"SearchContent0":"CAD",
+"videoName":"Rapid SOS Integration with CAD",
+"SearchContent1":"Expungement",
+"WebinarName":"Expungements",
+"SearchContent2":"Expungements",
+"WebinarColumnName":"Webinar Name"
+},
+
+"69826":{
+"By0":"T",
+"By1":"-",
+"By2":"+",
+"By3":"T-3",
+"By4":"T+4",
+"By5":"T+1M",
+"By6":"T-1M",
+"By7":"T-1Y",
+"By8":"T+1Y",
+"By9":"[",
+"By10":"]",
+"By11":";",
+"By12":"'",
+"By13":"W",
+"By14":"K",
+"By15":"M",
+"By16":"H",
+"By17":"Y",
+"By18":"R"
+},
+
+
+"69872":{
+"PFCode":"69790",
+"UserName":"RoWood",
+"Password":"Pnx@2016",
+"UserName0":"automation",
+"LastName":"Robin",
+"FirstName":"Woods"
+},
+
+"69876":{
+"PFCode":"Auto",
+"Name":"Prophoenix, Automation",
+"ProQAMedicalDeFaultCFSForDisciplineLaunching1":"69876Script",
+"Password":"Pnx@2016",
+"ProQAMedicalDeFaultCFSForDisciplineLaunching2":"69876",
+"PFCode1":"69876",
+"LastName":"Dilen",
+"FirstName":"MAX",
+"UserName":"Dilen"
+},
+
+"69964":{
+"PFCode":"69964",
+"LastName":"Will",
+"FirstName":"cret",
+"UserName":"Will",
+"Password":"Pnx@2016"
+},
+
+
+"69933":{
+"CodeID":"1018",
+"CodeValue":"RBC",
+"Description":"Blood Attack",
+"PFCode":"11202025",
+"Name":"Amber, Brianna",
+"Skills":"Blood Attack"
+},
+
+"69933A":{
+"CodeID":"1018",
+"CodeValue":"WBCRRR",
+"Description":"Neural Attack",
+"CodeValueEditField0":"WBC",
+"CodeValueEditField1":"SKL",
+"CodeValue1":"S!@#$%^&*()K!@#$%^&*()L!@#$%^&*()",
+"Description1":"Marshal",
+"CodeValueDescription0":"Neural Attack",
+"CodeValueDescription1":"Marshal",
+"CodeValueInGrid0":"WBC",
+"CodeValueInGrid1":"SKL",
+"Skills":"Neural Attack",
+"Skills1":"Marshal",
+"Skills0":"Marshal",
+"PFCode":"69933A",
+"Name":"Everett, Floyd"
+},
+
+
+"69970":{
+"PFCode":"11172025",
+"Allowance":"S - Shoe",
+"Allownaceyear":"2026",
+"Type":"T - Transport",
+"Item":"Ladder",
+"Amount":"256",
+"AllowanceAmount":"256",
+"AllowanceAmount0":"256",
+"AllowanceType":"T - Transport",
+"AllowanceType0":"Transport",
+"Balance0":"($6.00)",
+"TranscationDate":"11/08/2025"
+},
+
+"69981":{
+"PFCode":"11182025",
+"Allowance":"B - Bullets",
+"Allownaceyear":"2026",
+"Year":"2026",
+"Type":"T - Transport",
+"Item":"Ladder",
+"Amount":"34",
+"AllowanceAmount":"34",
+"AllowanceType":"Transport",
+"Balance0":"$0.00",
+"TranscationDate":"09/02/2026"
+},
+
+"70014":{
+"PFCode":"11022025",
+"Type":"Civilian Employee",
+"TitleRank":"Police Officer",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"Team":"Off-group 1",
+"Squad":"DT - Detective",
+"PromotionSeniority":"34",
+"DetailHierarchyOrder":"Active Police Officer",
+"DetailRateType":"Cadets, Per Diem Dispatcher",
+"Group":"Workgroup Automaion Team",
+"ChangedTo0":"Civilian Employee",
+"ChangedTo1":"Police Officer",
+"ChangedTo2":"Accident Investigator",
+"ChangedTo3":"Early Shift (2nd)",
+"ChangedTo4":"Detective",
+"ChangedTo5":"Off-group 1",
+"ChangedTo6":"Workgroup Automaion",
+"ChangedTo7":"1 Month",
+"ChangedTo8":"11/01/2025",
+"ChangedTo9":"Operations",
+"ReportName":"PF Assignment History"
+},
+
+"70030":{
+"PFNo":"T067",
+"PFCode":"T067",
+"Category":"Work",
+"SubCategory":"Artificial Inteligence",
+"Subject":"orkRecordTabWorHistoryTab",
+"Ref":"58385I",
+"Status0":"On Hold",
+"Status1":"Submitted",
+"Code":"Artificial Inteligence",
+"WorkHistoryTabName":"Work History",
+"WorkRecordTabName":"Work Record"
+},
+
+"70037":{
+
+"PFNo":"11032025",
+"PFCode":"11032025",
+"MedicalCode":"ECG",
+"Notes0":"DeleteAMedicalHistoryEntryThatWasEnteredByMistake",
+"Notes":"DeleteAMedicalHistoryEntryThatWasEnteredByMistake",
+"WorkRecordTab":"Work Record",
+"MedicalHistoryTab":"Medical History",
+"count":"0"
+},
+
+"70041":{
+"PFNo":"11042025",
+"PFCode":"11042025",
+"Purpose":"DeletePerformamceReview",
+"PerformanceEvaluationsTab":"Performance Evaluations",
+"count":"0"
+},
+
+"70075":{
+"UserName":"Admin",
+"Password":"Pleasant14",
+"paramvalue":"Email Only",
+"LastName":"kal",
+"FirstName":"mark",
+"PFCode":"70075",
+"Email1ComboBox":"Personal",
+"Email1":"mathu@prophoenix.com",
+"LastName0":"m",
+"FirstName0":"2",
+"PFCode1":"700751",
+"PFNo":"700751",
+"UserName0":"muthu@prophoenix.com",
+"Password0":"Pnx@2016",
+"Database":"AutomationPoliceMJ"
+},
+
+"70320":{
+"PFNo":"11032025",
+"PFCode":"11032025",
+"mainContent":"Work",
+"subContent":"Complaint",
+"Category":"Work",
+"SubCategory":"Complaint",
+"Subject":"Automation"
+},
+
+"70417":{
+"PFCode":"11062025"
+},
+
+"70419":{
+"PFCode":"11072025",
+"SignText":"Automation",
+"Name":"Kirk,Manuel"
+},
+
+"70422":{
+"PFCode":"70422",
+"SignText":"Automation",
+"Name":"Martin,Mason"
+},
+
+"70524":{
+"LastName":"Oliver",
+"FirstName":"Henry",
+"PFCode":"6225",
+"FormName":"TestNGForm",
+"Form Ref":"10",
+"RepositoryID":"1210",
+"SavePDFAsPartOfTheAttachmentTab":"Yes",
+"SelectForm":"TestNGForm",
+"Name":"70524",
+"Link":"TestNGForm.pdf",
+"LastName0":"Elijah",
+"FirstName0":"Theodore",
+"PFCode1":"77822",
+"PFNo":"77822",
+"UserName":"Eod134",
+"Password":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"RoleName":"System Administrator",
+"UserName1":"won7",
+"Password2":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"FormName1":"SeleniumForm",
+"Form Ref0":"12",
+"Link1":"SeleniumForm.pdf",
+"SelectForm0":"SeleniumForm",
+"Juris0":"BC - Brown County Police Department",
+"PFName":"Elijah, Theodore",
+"ColumnName":"Attachment"
+},
+
+"63618":{
+"PFCode":"63618",
+"LastName":"matik",
+"FirstName":"Callis",
+"Email1":"Muthu123@Prophoenix.com",
+"Email1ComboBox":"Work",
+"UserName":"matik",
+"Password":"Pnx@2016",
+"RoleAssignment":"Local Admin",
+"UserName1":"AnotherAdmin",
+"Password1":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"UserName0":"matik",
+"Password0":"Pnx@2016",
+"PFName":"Matik, Callis",
+"TabName":"Security",
+"Password2":"Pnx@2020"
+},
+
+"72058":{
+"PFCode":"12042025",
+"TypeOfInjury":"Mental Stress",
+"Supervisor":"59850",
+"WorkRecordTabName":"Work Record",
+"InjuryReportTabName":"Injury Report",
+"InjursectiyType":"Mental Stress"
+
+},
+
+"72076":{
+"PFCode":"12022025",
+"DisplayName":"selenium ",
+"ColumnName":"Automation",
+"ColumnName0":"Automation",
+"Description":"CustomInquiryFields",
+"DataType":"Multi Line or Text",
+"MultiMaximumLength":"25",
+"OfLines":"10",
+"GroupName":"Inquiry",
+"CustomFieldName0":"selenium",
+"CustomFieldsText":"InjuryReportTabNameWorkRe",
+"TabName":"custom",
+"Length":"25",
+"LineCount":"10"
+},
+
+"72111":{
+"PFCode":"12212025",
+"RoleName":"Local Admin"
+
+},
+
+"72114":{
+"PFCode":"12082025",
+"Name":"Robinson,Green"
+
+},
+
+"72118":{
+"PFCode":"12092025",
+"Name":"Johnson,Martinez",
+"MobileNo":"1234567890"
+
+},
+
+"72256":{
+"PFCode":"12152025",
+"Shift":"Day Shift (1st)",
+"SupervisorCode":"AUTO",
+"SupervisorDescription":"Prophoenix, Automation",
+"SortBy":"LastName",
+"CheckAllShift":"Check All",
+"CheckAllGroup":"Check All",
+"Group":"Workgroup A",
+"CheckAllDetailRateType":"Check All",
+"DetailRateType":"Dispatcher, FT Emp, Traffic Unit",
+"CheckAllType":"Check All",
+"Type":"Civilian Employee",
+"CheckAllDetailHierarchyOrder":"Check All",
+"DetailHierarchyOrder":"Ineligible",
+"Title":"Police Officer",
+"CheckAllSquad":"Check All",
+"Squad":"DT - Detective",
+"CheckAllTeam":"Check All",
+"Team":"Off-group 1",
+"CheckAllWorkHistiryCategory":"Check All",
+"CheckAllMecialHistory":"Check All",
+"CheckAllSecurity":"Check All",
+"CheckAllSpecialSkills":"Check All",
+"Skills":"Automation",
+"CheckAllTitleRank":"Check All",
+"TypeInput0":"All items checked",
+"TypeInput1":"--",
+"DetailHierarchyOrder0":"All items checked",
+"DetailHierarchyOrder1":"--",
+"TitleOrRank0":"All items checked",
+"TitleOrRank1":"--",
+"DetailRateType0":"All items checked",
+"DetailRateType1":"--",
+"Squad0":"All items checked",
+"Squad1":"--",
+"Team0":"All items checked",
+"Team1":"--",
+"WorkHistory0":"All items checked",
+"WorkHistory1":"--",
+"MedicalHistory0":"All items checked",
+"MedicalHistory1":"--",
+"Security0":"All items checked",
+"Security1":"--",
+"SpecialSkills0":"All items checked",
+"SpecialSkills1":"--"
+},
+
+"72318":{
+"PFCode":"12172025",
+"Reason":"UnAuthorized",
+"Comments":"VerifyTheLastUpdatedDateLabelReasonCustomLabel",
+"Name":"Susan, Martin-12172025",
+"Action1":"Allow",
+"gridTableRowsCount":"0"
+
+},
+
+"72344":{
+"PFCode":"12122025",
+"SignatureArea0":"Signature",
+"SignatureArea1":"Click here to sign",
+"Name":"Perez,Karen",
+"SignatureText":"Signature"
+
+
+},
+
+"72401":{
+"PFCode":"72401F",
+"LastName":"Calion",
+"FirstName":"Willi",
+"UserName":"Cali",
+"PFName":"Calion, Willi",
+"Name":"Calion, Willi",
+"LoginUserName":"Cali"
+
+},
+
+"72403":{
+
+"ParamValue":"User Name Only",
+"PFCode":"72403B",
+"LastName":"Helium1",
+"FirstName":"OX",
+"UserName":"Heli",
+"PFCode1":"Helium6",
+"LastName0":"Carbon",
+"FirstName0":"Oxide"
+},
+
+"72471":{
+"Race0":"White",
+"Ethnicity0":"Non Hispanic or Latino",
+"PFName":"Miller, Deborah",
+"PFCode":"65539",
+"LastName":"Welle",
+"FirstName":"Catherine",
+"Race":"Black or African American",
+"Ethnicity":"Non Hispanic or Latino",
+"Race1":"Black or African American",
+"Ethnicity1":"Non Hispanic or Latino"
+
+},
+
+"72475":{
+"ReportName":"Personnel Profile Report",
+"ActiveStatus0":"All",
+"ActiveStatus1":"Active",
+"ActiveStatus2":"Inactive",
+"columnName0":"PF Name"
+
+
+},
+"72510":{
+"ParamValue":"User Name Only",
+"PFCode":"12052025",
+"UserName":"Patricia",
+"UserName1":"Patricia",
+"Password1":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"UserName2":"Patricia",
+"Password2":"Pnx@2018"
+},
+
+
+"72515":{
+"ParamValue":"User Name Only",
+"PFCode":"12072025",
+"UserName":"12072025",
+"Password":"Pnx2018@@2018",
+"UserName0":"12072025",
+"Password0":"Pnx2018@@2018",
+"ParameterID":"4340",
+"ParameterValue":"User Name Only",
+"Database":"AutomationPoliceMJ"
+
+},
+
+"72519":{
+"Password":"Pleasant14",
+"ParamValue":"Email Only",
+"PFCode":"12162025",
+"UserName":"Admin",
+"UserName1":"Campbell",
+"Password1":"Pnx@2018",
+"Password2":"Pnx@2018",
+"Database":"AutomationPoliceMJ",
+"UserName4":"muthu6@prophoenix.com",
+"UserName5":"muthu6@prophoenix.com",
+"Password4":"Pnx@2018",
+"UserName3":"Admin",
+"Password3":"Pleasant14"
+},
+
+"58651":{
+"PFNo":"12112025",
+"PFCode":"12012025",
+"PFName":"Melissa, Davis A I",
+"LastName":"Martial",
+"FirstName":"Arts",
+"MiddleName":"A",
+"Address0":"Martial Arts Campus",
+"Suffix":"Jr",
+"EmployeeNumber0":"12012025",
+"Badge0":"120120",
+"Description":"Absecon",
+"Email1ComboBox":"Personal",
+"Email1":"Automation@gmail.com",
+"Email2ComboBox":"Work",
+"Email2":"Automation1@gmail.com",
+"Email3Type":"Other",
+"Email3Text":"Automation2@gmail.com",
+"PhoneType":"Cell",
+"PhoneType0":"H - Home",
+"PhoneNumber":"1234567890",
+"PhoneNo":"(123) 456-7890",
+"Extn":"23",
+"Sex":"Male",
+"Height":"183",
+"Race":"White",
+"Ethnicity":"Hispanic/Latino",
+"Weight":"120",
+"Eyes":"Black",
+"Hair":"Black",
+"BirthPlace":"US",
+"MaritalStatus0":"Divorced",
+"BirthDate":"11/26/1999"
+},
+
+"58651A":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"EmployeeNumber":"12012025",
+"Badge":"120120",
+"LastName0":"Martial",
+"FirstName0":"Arts",
+"MiddleName0":"A",
+"Suffix0":"Jr",
+"Address0":"Martial Arts Campus",
+"City0":"Absecon",
+"State0":"NJ - New Jersey",
+"Zip0":"08201",
+"Email10":"Personal",
+"Email20":"Work",
+"Email30":"Other",
+"Email":"Automation@gmail.com",
+"Email2":"Automation1@gmail.com",
+"Email3":"Automation2@gmail.com",
+"PhoneNo":"1234567890",
+"Height":"183",
+"Weight0":"120",
+"Race0":"White",
+"Ethnicity0":"Hispanic/Latino",
+"BirthDate0":"11/26/1999",
+"Eyes0":"Black",
+"BirthPlace0":"US",
+"MaritalStatus0":"Divorced",
+"hair0":"Black"
+},
+
+"58651B":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"Team":"Off-group 1",
+"TitleRank":"Detective",
+"JobGrade":"Job Grade 3",
+"Type":"Civilian Employee",
+"Squad":"DT - Detective",
+"Group":"Workgroup A",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Dispatcher, FT Emp, Traffic Unit",
+"PromotionSeniority":"2",
+"SpecialPay":"Pay",
+"SupervisorPF":"Auto"
+},
+
+"58651C":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"Division":"Operations",
+"Section":"Accident Investigator",
+"Team":"Off-group 1",
+"TitleRank":"Detective",
+"JobGrade":"Job Grade 3",
+"Type":"Civilian Employee",
+"Squad":"DT - Detective",
+"Group":"Workgroup A",
+"DetailHierarchyOrder":"Ineligible",
+"DetailRateType":"Dispatcher, FT Emp, Traffic Unit",
+"PromotionSeniority":"2",
+"Shift0":"Day Shift (1st)",
+"Shift1":"Day Shift (1st)",
+"SpecialPay":"Pay",
+"ReviewDueDate":"12/26/2025",
+"Supervisor":"AUTO",
+"SupervisorDescription":"Prophoenix, Automation",
+"NextReviewDueIn":"1 Month"
+},
+"58651D":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"ContactName0":"Susan",
+"ContactName":"Jackie",
+"OrderNo":"2",
+"Phone":"1234567890",
+"Carrier":"SkyTel",
+"RelationShip":"Brother",
+"Notes":"Tes",
+"ContactName1":"Jackie",
+"Phone1":"(123) 456-7890",
+"MedicalAlert":"NONEMERGENCY",
+"Allergies":"Yes",
+"Medications":"Yes",
+"HospitalPreferences":"Yes",
+"FamilyPhysician":"Yes",
+"PhysicianPhone":"2222222220",
+"BloodType":"B -Ve",
+"LastTetanusShot":"11/01/2025",
+"LastPhysical":"11/14/2025",
+"LastHepatitisShot":"11/14/2025",
+"LastToHepatitisShot":"11/14/2025",
+"InsurancePlan":"One Year",
+"Religion":"Hindhu",
+"ReligiousLeader":"None",
+"Miscellanoues":"No",
+"OrganDonor":"heart Donor"
+},
+
+"58651E":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"ContactName0":"Jackie",
+"Phone0":"(123) 456-7890",
+"MedicalAlert":"NONEMERGENCY",
+"Allergies":"Yes",
+"Medication":"Yes",
+"HospitalPreference":"Yes",
+"FamilyPhysician":"Yes",
+"FamilyPhysicianPhoneNo":"(222) 222-2220",
+"BloodType":"B -Ve",
+"LastTetanusShot":"11/01/2025",
+"LastPhysicalDate":"11/14/2025",
+"LastHepatitisShotDate":"11/14/2025",
+"LastHepatitisShotToDate":"11/14/2025",
+"InsurancePlan":"One Year",
+"Religion":"Hindhu",
+"ReligiousLeader":"None",
+"Miscellaneous":"No",
+"OrganDonor":"heart Donor"
+},
+
+"58651F":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"UserName":"Martial55",
+"Password":"Pnx@2025",
+"RoleName":"Local Admin",
+"RoleName0":"Expungement",
+"RoleAssignment":"Local Admin",
+"Role":"Local Admin",
+"UserName0":"Martial55"
+},
+"58651G":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"TrainingType":"Empty Handed Control",
+"CourseTitle":"Fight1",
+"Description":"Provide Guard & Patrol Services",
+"Location":"Auto",
+"Result":"Pass",
+"Requalify":"12/26/2025",
+"Location0":"Auto",
+"Title0":"Fight",
+"course0":"1000",
+"Result0":"Pass",
+"Hours0":"01:00",
+"RequalifyBy0":"11/30/2025",
+"CourseHours":"03:00",
+"Title1":"Selenium Automation Training"
+},
+
+"58651H":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"Certification0":"Docker Certification",
+"EarnedVia":"Manual Entry",
+"Certification1":"3 - Docker Certification",
+"EarnedCEU":"2",
+"EarnedHours":"2",
+"Reason":"William",
+"CertificationOrLicenseNo":"certified",
+"CertificationInGrid":"Docker Certification",
+"EarnedHoursInGrid":"02:00",
+"EarnedCEUs":"2.00"
+},
+"58651I":{
+"PFNo":"12012025",
+"PFName":"Martial, Arts A Jr",
+"PFCode":"12012025",
+"Skills":"Automation",
+"Skills1":"Team"
+},
+"58385DFE":{
+"PFNo":"45F",
+"PFCode":"45F",
+"Certification":"1 - Firefighter I",
+"EarnedCEU":"12",
+"EarnedHours":"24",
+"CertificationOrLicenseNo":"85555",
+"CertificationInGrid":"Firefighter I",
+"UserName":"AUTO",
+"EarnedCEUs":"12.00",
+"EarnedHoursInGrid":"24:00",
+"EarnedVia":"Manual Entry",
+"MainTabName":"Main",
+"CertificationTabName":"Certification",
+"TrainingTabName":"Training"
+
+},
+"58385FF":{
+"PFNo":"931680",
+"PFCode":"931680",
+"TrainingTabName":"Training",
+"Skills":"Spanish Speaking",
+"Skills1":"Electrician",
+"Skill":"Electrician",
+"Skill0":"Electrician",
+"InactiveGreyColor":"rgba(128, 128, 128, 1)",
+"SpecialSkillsTabName":"Special Skills"
+},
+"58385FH":{
+"PFNo":"931680",
+"PFCode":"931680",
+"RFIDTag":"8870",
+"Notes":"ToCreateaDataFromAllTabs",
+"RFID0":"8870",
+"Notes0":"ToCreateaDataFromAllTabs",
+"RFID1":"3915",
+"Notes1":"TabsInPersonnelEntryScreen",
+"InactiveGreyColor":"rgba(128, 128, 128, 1)",
+"RFIDTabName":"RFID"
+},
+
+"58385FI":{
+"PFNo":"931680",
+"PFCode":"931680",
+"Category":"Administrative",
+"SubCategory":"Complaint - Governmental Agency",
+"Subject":"orkRecordTabWorHistoryTab",
+"Ref":"8854",
+"Status0":"On Hold",
+"Status1":"Submitted",
+"Code":"Complaint - Governmental Agency",
+"WorkHistoryTabName":"Work History",
+"WorkRecordTabName":"Work Record"
+},
+
+"74323":{
+"UserName":"AnotherAutomation",
+"Password":"Pnx@2016",
+"UserName0":"AnotherAutomation",
+"Password0":"Pnx@2018",
+"Database":"AutomationPoliceMJ",
+"Password2":"Pnx@2019",
+"UserName1":"AnotherAutomation",
+"Password1":"Pnx@2019",
+"UserName3":"AnotherAutomation",
+"Password3":"Pnx@2016",
+"TabName":"Security"
+},
+
+"74382":{
+"PFCode":"Alben",
+"SignatureArea0":"Click here to sign",
+"Name":"Alfred,Ben",
+"SignatureText":"Alfred",
+"SignatureArea1":"Alfred",
+"NewSignatureText":"AlfredBen",
+"SignatureArea2":"AlfredBen",
+"RowColor0":"rgba(0, 0, 0, 1)"
+
+},
+
+"74382A":{
+"PFCode":"reacheFre",
+"SignatureArea0":"Click here to sign",
+"Name":"Fred,Reacher",
+"SignatureText":"Reacher",
+"SignatureArea1":"Reacher",
+"NewSignatureText":"ReacherFred",
+"SignatureArea2":"ReacherFred",
+"RowColor0":"rgba(0, 0, 0, 1)"
+
+},
+
+"74400":{
+"UserName0":"Admin",
+"Password1":"Pleasant14",
+"Password0":"Pleasant14",
+"Database":"AutomationPoliceMJ",
+"PFCode":"Richard01",
+"UserName":"Richard01",
+"Password":"Pnx@2018",
+"4340ParamValue":"User Name Only",
+"4326ParamValue":"30"
+
+},
+"74403":{
+"UserName0":"Admin",
+"Password1":"Pleasant14",
+"Password0":"Pleasant14",
+"Database":"AutomationPoliceMJ",
+"PFCode":"CalKel",
+"UserName":"muthu@prophoenix.com",
+"UserName3":"muthu@prophoenix.com",
+"UserName1":"muthu@prophoenix.com",
+"Password":"Pnx@2019",
+"4340ParamValue":"Email Only",
+"4326ParamValue":"30",
+"4340ParamValue1":"User Name Only",
+"UserName2":"muthu@prophoenix.com",
+"Password2":"Pnx@2016"
+
+},
+"74465":{
+"UserName0":"Admin",
+"Password0":"Pleasant14",
+"4340ParamValue":"Email Only",
+"PFCode":"75465",
+"LastName":"Martnik5",
+"FirstName":"chaloas5",
+"Email1ComboBox":"Personal",
+"Email1":"Automation@Gmail.com",
+"UserName1":"Automation@Gmail.com",
+"Password1":"Pnx@2016",
+"RoleAssignment":"System Administrator",
+"RoleName":"System Administrator",
+"UserName2":"Automation@Gmail.com",
+"Password2":"Pnx@2016",
+"Database":"AutomationPoliceMJ",
+"4340ParamValue1":"User Name Only",
+"UserName3":"AutoLogin@Prophoenix.com",
+"Password3":"Pnx@2016"
+},
+
+"58385FG":{
+"PFNo":"931680",
+"PFCode":"931680",
+"TrainingCategory":"General",
+"TrainingType":"General Knowledge",
+"CourseTitle":"ToCreateaDataFromAllTabsInPersonnelEntryScreen",
+"CourseHours":"23",
+"TrainingTabName":"Training",
+"InnerTrainingTabName":"Training"
+},
+
+
+"58385FJ":{
+"PFNo":"931680",
+"PFCode":"931680",
+"TypeOfInjury":"Cold - Exposure",
+"Supervisor":"931680",
+"Ref":"8854",
+"Unit":"02",
+"HowOccured":"MajorAccident",
+"NatureAndExtentOfInjury":"FlatTire",
+"LocationOfIncident":"RoadSide",
+"TimeLostDueToInjury":"1Hours",
+"TreatmentDetails":"FirstAidAndCPR",
+"WorkRecordTabName":"Work Record",
+"InjuryReportTabName":"Injury Report",
+"InjuryType":"Cold - Exposure",
+"Nature":"FlatTire"
+
+},
+"58385FK":{
+"PFNo":"931680",
+"PFCode":"931680",
+"MedicalCode":"Annual Physical",
+"Notes0":"MedicalHistoryTab",
+"WorkRecordTabName":"Work Record",
+"medicalHistoryTabName":"Medical History",
+"Notes":"MedicalHistoryTab",
+"PerformanceEvaluationTabName":"Performance Evaluations"
+},
+
+"58385FL":{
+"PFNo":"931680",
+"PFCode":"931680",
+"Purpose":"TabFucnitoanlity",
+"RaterPF":"001",
+"Password":"Pnx@2016",
+"WorkRecordTabName":"Work Record",
+"PerformanceEvaluationTabName":"Performance Evaluation"
+
+
+},
+
+"58385FM":{
+"PFNo":"931680",
+"PFCode":"931680",
+"IssueByPF":"001",
+"PF":"931680",
+"Qty":"1",
+"AvailableQty":"10",
+"InventoryNo":"17-000002",
+"Description":"17-000002",
+"Make":"Key",
+"Type":"EMS Supplies",
+"Invnetory":"17-000002",
+"IssueQty":"1",
+"Comment":"PersonnelEntryScreen_InventoryTab",
+"InventoryTabName":"Inventory"
+},
+"58385FN":{
+"PFNo":"931680",
+"PFCode":"931680",
+"Allowance":"2 - Turn Out Gear",
+"Allownaceyear":"2025",
+"TranscationDate":"02/05/2026",
+"Type":"1 - Uniforms - Shirts",
+"Item":"Cloth",
+"Invoice":"564",
+"Amount":"222",
+"Balance1":"$1,983.00",
+"AllowanceAmount":"222.00",
+"AllowanceType":"Uniforms - Shirts",
+"AllowanceTabName":"Allowance"
+},
+
+"58385FO":{
+"PFNo":"931680",
+"PFCode":"931680",
+"AboutMeTabName":"About Me"
+},
+
+"58385FP":{
+"PFNo":"931680",
+"PFCode":"931680",
+"SelectForm":"Form 441 (Multiple)",
+"FormName":"Form 441",
+"PFName":"Test, Automation",
+"QAFomTabName":"QA Forms"
+}
+}

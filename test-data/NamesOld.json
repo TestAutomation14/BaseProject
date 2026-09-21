@@ -1,0 +1,1412 @@
+{
+  "243231": {
+    "CaseNo": "20-000014",
+    "NameID": "A-0000000203",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Charge": "943.02(1)(b)",
+    "Charge1":"29.974(2)(b)",
+    "Officer1": "AUTO",
+    "NIBRSOffence": "200-Arson",
+    "Status": "Arrested Adult",
+    "CADCFS": "100",
+    "Location":"69 Prospect Hill Rd",
+    "CADDisposition":"I",
+    "Unit": "AUTO"
+
+  },
+
+  "160546": {
+    "NameType": "A",
+    "NameID": "A-0000000131",
+    "Officer": "Auto"
+  },
+
+  "244240":
+  {
+  "NameID":"A-0000000203",
+  "CaseNo":"20-000019",
+  "How":"On-View Arrest",
+  "Evidence":"Fingerprints",
+  "SubDocs":"COPY OF BOND",
+  "EvidenceValue":"Automation Evidence",
+  "SubDocsValue":"Automation SubDocs",
+  "Status":"Arrested Adult",
+  "Charge":"100.03(4)"
+
+  },
+  "244248":
+  {
+    "NameID":"A-0000000207",
+    "Name":"Jeffery, Joshuva",
+    "WarrantNo":"20-000001"
+  },
+  "246278":
+  {
+    "NameID":"A-0000000211",
+    "Reason":"Stolen",
+    "Value":"100",
+    "Property":"Clothes/Furs",
+    "FirstName":"Eugenie",
+    "LastName":"Magnus",
+    "CaseNo":"20-000005"
+  },
+
+  "255336": {
+    "NameID": "A-0000000299",
+    "Name": "Karlaney, Michaelmas",
+    "LastName": "James",
+    "FirstName": "Naples",
+    "Address": "927 Karlaney Ave"
+  },
+
+    "254473": {
+    "Charge": "101.123(2)(a)2",
+    "How": "On-View Arrest",
+    "NameID": "A-0000000292",
+    "Password": "Pnx@2016",
+    "Case#": "20-000013",
+    "OfficerName": "Prophoenix, Automation"
+  },
+
+  "254773": {
+    "LastName": "Hurlbut",
+    "Name": "Hurlbut, Dousman",
+    "Password": "Pnx@2016",
+    "ArrestBooking": "20-000009"
+  },
+
+  "254572": {
+    "NameID": "A-0000000110",
+    "NameID1": "A-0000000285",
+    "PropertyType": "Article",
+    "LastName": "Gabriel",
+    "FirstName": "Charlotte",
+    "Type": "Article"
+
+  },
+  "251735": {
+    "CallNo": "20.000082",
+    "PlateNo": "008245",
+    "State": "NY",
+    "PlateCheckVehicle": "NY-008245",
+    "EthicityOfDriver": "Hispanic/Latino"
+
+  },
+
+  "253126": {
+    "NameID": "A-0000000279",
+    "CaseNo": "20-000113",
+    "How": "On View Arrest",
+    "Charge": "940.19(2)",
+    "Armed": "Unarmed",
+    "BookingDate": "09/01/2020",
+    "BookingTime": "17:11:29"
+  },
+
+  "254110": {
+    "NameID": "A-0000000279",
+    "CaseNo": "20-000113",
+    "How": "On View Arrest",
+    "Charge": "940.19(2)",
+    "Armed": "Unarmed",
+    "BookingDate": "09/01/2020",
+    "BookingTime": "17:11:29"
+  },
+
+  "253390": {
+    "IncidentNo": "20-000020",
+    "LastName": "Berlin",
+    "Activity": "Owner",
+    "Name": "Berlin, Jerry"
+  },
+  "253123": {
+    "LastName": "Jeremiah",
+    "FirstName": "Nolan",
+    "Address": "1498 Mc Kinley St",
+    "BirthDate": "09/03/2020"
+
+  },
+
+
+  "251736": {
+    "AssignedTo": "PRMS",
+    "CallNo": "20.000082",
+    "LastName": "Kathryn",
+    "FirstName": "Posuere",
+    "NameID": "A-0000000261"
+
+  },
+
+
+  "251733": {
+    "NameType": "J",
+    "NameID": "J-0000000041",
+    "CaseNo": "20-000082",
+    "IncidentLocation": "69 Prospect Hill Rd",
+    "How": "On-View Arrest",
+    "Charge": "110.06(3)(b)",
+    "Status": "Arrested Juvenile",
+    "AgencyAction": "Handled Within the Department"
+  },
+  "251734": {
+    "NameID": "J-0000000042",
+    "CaseNo": "20-000082",
+    "IncidentLocation": "784 Lobortis Ave",
+    "How": "On-View Arrest",
+    "Charge": "218.0116(1)(t)",
+    "Status": "No Process",
+    "AgencyAction": "Handled Within the Department"
+
+  },
+
+  "250436": {
+    "NameID": "A-0000000248",
+    "CaseNo": "20-000061",
+    "Charge": "940.04(4)",
+    "Charge1": "94.03(1)",
+    "Status": "Arrested Adult",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Officer1": "Auto"
+
+  },
+
+
+  "250435": {
+    "NameID": "A-0000000247",
+    "CaseNo": "20-000060",
+    "Charge": "100.20(1)",
+    "Charge1": "940.203(2)(b)",
+    "Status": "Arrested Adult",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed"
+  },
+
+
+
+  "99894": {
+    "LastName": "Smith",
+    "FirstName": "Wood",
+    "How": "Attempted to Arrest",
+    "CaseNo1": "18-000035",
+    "Charge1": "343.50(12)(b)",
+    "Officer1": "Auto"
+  },
+
+  "99920": {
+    "How": "Attempted to Arrest",
+    "NewCharge": "100.295(2)",
+    "LastName": "Johnson",
+    "FirstName": "Ward",
+    "NameID": "A-0000000084",
+    "Officer1": "Auto",
+    "CaseNo1": "19-000036",
+    "CaseNo2": "19-000037",
+    "Charge1": "26.05(3)(a)",
+    "Charge2": "26.05(3)(a)"
+  },
+  "99941": {
+    "Officer": "AUTO",
+    "Height": "100",
+    "EyeColor": "Black",
+    "HairColor": "Black",
+    "HairLength": "Short",
+    "NewCharge": "100.295(2)",
+    "IncidentLocation": "594 Clinton Ct",
+    "Weight_lbs": "100",
+    "LastName": "Johnson",
+    "FirstName": "Ward",
+    "Activity": "Arrest",
+    "Location": "594 Clinton Ct",
+    "NameID": "A-0000000084",
+    "Charge": "26.05(3)(a)",
+    "CaseNo2": "19-000037",
+    "CaseNo": "19-000036",
+    "CaseID": "19-000036"
+  },
+
+  "102364": {
+    "LastName": "Jones",
+    "FirstName": "Cox",
+    "NameType": "A",
+    "NameID": "A-0000000085"
+  },
+
+  "102368": {
+    "LastName": "Brown",
+    "FirstName": "Hill",
+    "NameType": "A",
+    "Address": "14 Cove Rd ",
+    "NameID": "A-0000000086"
+  },
+  "102369": {
+    "LastName": "Davis",
+    "FirstName": "Wright",
+    "NameType": "A",
+    "NameID": "A-0000000087"
+  },
+  "102373": {
+    "LastName": "Wilson",
+    "FirstName": "Benny",
+    "NameType": "A",
+    "NameID": "A-0000000088"
+  },
+  "102374": {
+    "LastName": "Moore",
+    "FirstName": "Perez",
+    "NameType": "A",
+    "NameID": "A-0000000089"
+  },
+  "102376": {
+    "LastName": "Taylor",
+    "FirstName": "Bailey",
+    "NameType": "A",
+    "NameID": "A-0000000090",
+    "Address": "17 Cove Rd"
+  },
+  "102381": {
+    "LastName": "Anderson",
+    "FirstName": "Gray",
+    "NameType": "A",
+    "NameID": "A-0000000091"
+  },
+  "102383": {
+    "LastName": "Murphy",
+    "FirstName": "Powell",
+    "NameType": "A",
+    "NameID": "A-0000000092",
+    "Phone": "0123456789",
+    "DeletePhone": "(012) 345-6789"
+  },
+  "102393": {
+    "LastName": "Gracia",
+    "FirstName": "Peterson",
+    "NameType": "A",
+    "NameID": "A-0000000093"
+  },
+  "102395": {
+    "LastName": "jenkins",
+    "FirstName": "Perry",
+    "NameType": "A",
+    "NameID": "A-0000000094"
+  },
+  "102397": {
+    "LastName": "Campbell",
+    "FirstName": "Alexender",
+    "NameType": "A",
+    "NameID": "A-0000000095",
+    "DOB": "05/09/1985"
+  },
+  "102429": {
+    "LastName": "Edwards",
+    "FirstName": "Walker",
+    "NameType": "A",
+    "NameID": "A-0000000096",
+    "State": "12345",
+    "FBI": "12345"
+  },
+  "102431": {
+    "LastName": "Philips",
+    "FirstName": "Ramirez",
+    "NameType": "A",
+    "NameID": "A-0000000097",
+    "DOB": "03/17/1700",
+    "Email": "test@prophoenix.com"
+  },
+  "103323": {
+    "LastName": "Adams",
+    "FirstName": "Rivera",
+    "NameType": "A",
+    "NameID": "A-0000000098"
+  },
+
+  "103324": {
+    "LastName": "Mitchel",
+    "FirstName": "Butler",
+    "NameType": "A",
+    "NameID": "A-0000000099"
+  },
+  "103326": {
+    "LastName": "Collins",
+    "FirstName": "Sanders",
+    "NameType": "A",
+    "NameID": "A-0000000100",
+    "EmpLastName": "Prophoenix"
+  },
+  "104781": {
+    "LastName": "Nelson",
+    "FirstName": "Harris",
+    "NameType": "A",
+    "NameID": "A-0000000101",
+    "EmpLastName": "Prophoenix"
+  },
+  "104783": {
+    "LastName": "Watson",
+    "FirstName": "Parker",
+    "NameType": "A",
+    "NameID": "A-0000000102",
+    "BrotherLastName": "Vinton",
+    "BrotherFirstName": "Raja"
+  },
+
+  "104786": {
+    "LastName": "Griffin",
+    "FirstName": "Diaz",
+    "NameType": "A",
+    "NameID": "A-0000000103"
+  },
+  "104911": {
+    "LastName": "Adams",
+    "FirstName": "Torres",
+    "NameType": "A",
+    "NameID": "A-0000000106",
+    "AssociateLastName": "Carter",
+    "AssociateFirstName": "Howared",
+    "CaseNo": "18-000039"
+  },
+  "104936": {
+    "LastName": "Prophoenix",
+    "NameType": "B",
+    "NameID": "B-0000000011",
+    "BusinessContactLastName": "kelly",
+    "BusinessContactFirstName": "Evans"
+  },
+  "105069": {
+    "LastName": "Allen",
+    "FirstName": "young",
+    "NameType": "A",
+    "NameID": "A-0000000110"
+  },
+
+  "105070": {
+    "LastName": "Scott",
+    "FirstName": "Cooper",
+    "NameType": "A",
+    "NameID": "A-0000000111"
+  },
+
+  "105073": {
+    "LastName": "Hayes",
+    "FirstName": "Russel",
+    "NameType": "A",
+    "NameID": "A-0000000112"
+  },
+  "105081": {
+    "LastName": "Sanchez",
+    "FirstName": "Stewart",
+    "NameType": "A",
+    "NameID": "A-0000000113"
+  },
+  "105087": {
+    "LastName": "Gonzales",
+    "FirstName": "Washington",
+    "NameType": "A",
+    "NameID": "A-0000000114"
+  },
+  "105088": {
+    "LastName": "Martinez",
+    "FirstName": "Turner",
+    "NameType": "A",
+    "NameID": "A-0000000115"
+  },
+  "105091": {
+    "LastName": "Philips",
+    "FirstName": "Cox",
+    "NameType": "A",
+    "NameID": "A-0000000116",
+    "VisitorLastName": "Vinton",
+    "VisitorFirstName": "Raja"
+  },
+  "105102": {
+    "LastName": "William",
+    "FirstName": "Robort",
+    "NameType": "A",
+    "NameID": "A-0000000052"
+  },
+
+  "105104": {
+    "CaseID": "18-000007",
+    "CaseNo": "18-000007"
+  },
+  "105105": {
+    "LastName": "Veera",
+    "FirstName": "Raghavan",
+    "NameType": "A",
+    "NameID": "A-0000000066"
+  },
+  "135719": {
+    "LastName": "Shabeer",
+    "FirstName": "Mohan",
+    "CaseNo": "18-000004",
+    "PFCode": "Auto"
+  },
+  "143748": {
+    "LastName": "Automation",
+    "FirstName": "Team",
+    "NameID": "A-0000000069"
+  },
+  "165754": {
+    "PrimaryONameID": "O-0000000027",
+    "LastName": "Betty",
+    "FirstName": "Donald",
+    "MergeANameID": "A-0000000140",
+    "MergeBNameID": "B-0000000028",
+    "MergeJNameID": "J-0000000024",
+    "MergeONameID": "O-0000000029",
+    "AliasesName": "Timothy, Dorothy Lisa",
+    "Address": "152 Kirkwood Dr, Oshkosh, WI, 54904"
+  },
+  "165755": {
+    "MergeONameID": "O-0000000028",
+    "AliasesName": "Donald, Susan",
+    "Address": "2 S Oakwood Rd, Oshkosh, WI, 54904",
+    "PrimaryANameID": "A-0000000141",
+    "LastName": "Donald",
+    "Race": "White",
+    "Ethnic": "Unknown"
+  },
+  "165756": {
+    "PrimaryANameID": "A-0000000143",
+    "MergeBNameID": "B-0000000028",
+    "AliasesName": "A. O. Smith",
+    "Address": "3467 Charlie Anna Dr, Oshkosh, WI, 54904"
+  },
+  "165757": {
+    "PrimaryANameID": "A-0000000140",
+    "MergeJNameID": "J-0000000027"
+  },
+  "165758": {
+    "PrimaryANameID": "A-0000000140",
+    "LastName": "Jonathan",
+    "MergeANameID": "A-0000000142",
+    "Race": "Asian",
+    "BirthDate": "09/09/1994",
+    "AliasesName": "Jonathan, Nicholas",
+    "Address": "152 Kirkwood Dr, Oshkosh, WI, 54904"
+  },
+  "165759": {
+    "PrimaryJNameID": "J-0000000027",
+    "LastName": "Jeffrey",
+    "MergeONameID": "O-0000000030",
+    "Race": "Unknown",
+    "Ethinic": "Unknown",
+    "AliasesName": "Jeffrey, Cynthia"
+  },
+  "165760": {
+    "PrimaryJNameID": "J-0000000026",
+    "MergeBNameID": "B-0000000029",
+    "AliasesName": "Ameriprise Financial",
+    "Address": "3467 Charlie Anna Dr, Oshkosh, WI, 54904"
+  },
+  "165761": {
+    "PrimaryJNameID": "J-0000000027",
+    "MergeANameID": "A-0000000140"
+  },
+  "165762": {
+    "PrimaryJNameID": "J-0000000025",
+    "LastName": "Zachary",
+    "MergeJNameID": "J-0000000028",
+    "Race": "White",
+    "BirthDate": "10/11/2012",
+    "AliasesName": "Zachary, Madelyn",
+    "Address": "571 W Larrabee St, Omro, WI, 54963",
+    "Sex": "Female"
+  },
+  "165763": {
+    "PrimaryBNameID": "B-0000000030",
+    "MergeANameID": "A-0000000144",
+    "Address": "4311 Broderick Rd",
+    "Phone": "(015) 452-6369",
+    "AliasesName": "Ezekiel, Braxton",
+    "Addresses": "571 W Larrabee St, Omro, WI, 54963"
+  },
+  "165764": {
+    "PrimaryBNameID": "B-0000000034",
+    "LastName": "Maddox",
+    "MergeJNameID": "J-0000000029",
+    "Address": "4311 Broderick Rd",
+    "Phone": "(011) 987-4563",
+    "AliasesName": "Maddox, Elliott",
+    "Addresses": "5357 Rushford Ave, Omro, WI, 54963"
+  },
+  "165765": {
+    "PrimaryBNameID": "B-0000000033",
+    "MergeONameID": "O-0000000031",
+    "Address": "4311 Broderick Rd",
+    "AliasesName": "Francisco, Remington",
+    "Addresses": "5357 Rushford Ave, Omro, WI, 54963"
+  },
+  "165766": {
+    "PrimaryBNameID": "B-0000000031",
+    "LastName": "Kinder Morgan",
+    "MergeBNameID": "B-0000000032",
+    "Address": "4311 Broderick Rd",
+    "AliasesName": "Kinder Morgan",
+    "BusinessID": "AWRT346",
+    "Addresses": "571 W Larrabee St, Omro, WI, 54963"
+  },
+  "165767": {
+    "PrimaryANameID": "A-0000000145",
+    "LastName": "Vulcan",
+    "AliasesName": "Vulcan, Ava II",
+    "AliasesName2": "Vulcan Materials Company",
+    "Address": "324 N Westhaven Dr, Oshkosh, WI, 54904",
+    "AliasesName1": "Vulcan, Liam Mia"
+  },
+  "173284": {
+    "GangName": "AutomationTeam",
+    "Address1": "915 Oswego St"
+  },
+  "173285": {
+    "GangName": "AutoWorks",
+    "IdentificationType": "Symbols",
+    "Symbols": "Police"
+  },
+  "173286": {
+    "GangName": "AutoQA",
+    "NameID": "A-0000000065",
+    "Rank": "Captain",
+    "Status": "New Member",
+    "LocationOfActivity": "Wisconsin Park",
+    "Name": "Edward, Bella",
+    "IdentificationType": "Graffiti",
+    "Graffiti": "Graffiti"
+  },
+  "173287": {
+    "GangName": "Autoworks",
+    "Vehicle": "984188-WI",
+    "Activity": "Driver",
+    "Vehicle1": "984188-NJ",
+    "FutureName": "AutoWorks"
+  },
+  "173288": {
+    "NameID": "A-0000000018",
+    "GangName": "QATeam",
+    "Activity": "Suspect",
+    "PersonName": "Mikepty, Morganlkm",
+    "UpdatedBy": "AUTO",
+    "Notes": "Automation work on Gang module"
+  },
+
+  "160088": {
+    "ReportedLocation": "201 Paul Dr",
+    "Officer": "Auto",
+    "NameID": "A-0000000129",
+    "NameID1": "O-0000000025"
+  },
+  "160509": {
+    "Name": "Matthew, Scarlett",
+    "Name1": "Robert, Clary",
+    "NameAs": "A",
+    "LastName": "Robert",
+    "FirstName": "Clary"
+  },
+  "160519": {
+    "Location": "201 Paul Dr",
+    "NameID": "A-0000000130",
+    "Vehicle": "8POP-WI",
+    "Name": "William, Andy",
+    "Activity": "Field Interview"
+  },
+  "160536": {
+    "Case": "18-000065",
+    "Vehicle": "11POP",
+    "NameID": "A-0000000130",
+    "Activity": "CAD Traffic Stop",
+    "CaseNo": "18-000065"
+  },
+  "160537": {
+    "plate": "11POP",
+    "State": "WI - Wisconsin",
+    "NameActivity": "Suspect",
+    "Activity": "Suspect",
+    "VinNo": "13131336464646449797",
+    "Name": "Martinez, Turner"
+  },
+  "160543": {
+    "NameType": "B",
+    "NameID": "B-0000000024",
+    "NameRelation": "Building Owner",
+    "LastName": "Hayes",
+    "FirstName": "Russel",
+    "Name": "Hayes, Russel"
+  },
+  "160544": {
+    "NameType": "J",
+    "NameID": "J-0000000014",
+    "Name": "Naplin, Feddy",
+    "Name1": "Napline, Feddy",
+    "LastName": "Naplin",
+    "FirstName": "Feddy",
+    "LastName1": "Napline",
+    "FirstName1": "Feddy"
+  },
+  "160546": {
+    "NameType": "A",
+    "NameID": "A-0000000131",
+    "Officer": "Auto"
+  },
+
+  "124077": {
+    "Facility": "Phoenix Police Department",
+    "CellType": "Male",
+    "Capacity": "1",
+    "Notes": "Phoenix Cell A1",
+    "CellNo": "A1"
+  },
+  "124079": {
+    "Facility": "Phoenix Police Department",
+    "InmateType": "Male",
+    "NameID": "A-0000000048",
+    "CustodyReason": "Immigration",
+    "RiskLevel": "Security Risk",
+    "ActivityType": "Cell Assigned",
+    "AssignCellNo": "C5"
+  },
+  "124080": {
+    "Notes": "Awake",
+    "CellNo": "C4",
+    "ActivityType": "Okay - Awake",
+    "DetaineeID": "A-0000000091"
+  },
+  "124081": {
+    "CategoryGroup": "PI-Police",
+    "Category": "DAM- Damage",
+    "Activity": "Damage",
+    "ActivityStatus": "Completed Activity",
+    "CellNo": "C7",
+    "ActivityType": "Damage"
+  },
+  "124083": {
+    "RecordName": "Detention Record",
+    "CellNo": "C7"
+  },
+  "124084": {
+    "Notes": "Meals",
+    "ActivityType": "Meal Completed",
+    "CellNo": "C8"
+  },
+  "124087": {
+    "CellNo": "C8"
+  },
+  "124085": {
+    "TemporaryLocation": "Hospital",
+    "Remarks": "Taking to Hospital",
+    "ActivityType": "Moved to Temporary Location",
+    "CellNo": "C9"
+  },
+  "124088": {
+    "Notes": "Removed",
+    "CellNo": "C6"
+  },
+  "124089": {
+    "DetaineeID": "J-0000000005",
+    "CaseNo": "18-000056",
+    "AssignCellNo": "C4"
+  },
+
+  "124013": {
+    "UCAccountName": "Automation",
+    "MediaType": "Google Plus",
+    "UCCategory": "Auto Theft",
+    "URL": "https://accounts.google.com/Login#identifier",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "UCUserName": "AutoTest",
+    "SiteID": "Auto2016",
+    "SelectMediaType": "Google Plus",
+    "UCName": "Automation"
+  },
+  "124014": {
+    "NameID": "A-0000000040",
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+
+  "124015": {
+    "NameID": "A-0000000051",
+    "Username": "P001",
+    "Password": "Pnx@2016",
+    "PFCode": "P001"
+  },
+  "124557": {
+    "NameID": "A-0000000041",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "MediaType": "Google Plus",
+    "URL": "https://accounts.google.com/Login#identifier"
+  },
+  "124017": {
+    "NameID": "A-0000000041",
+    "UCAccountName": "Automation",
+    "MediaType": "Google Plus",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "URL": "https://accounts.google.com/Login#identifier",
+    "UCUserName": "AutoTest",
+    "UCCategory": "Auto Theft",
+    "SiteID": "Auto2016",
+    "FriendStatus": "Friend",
+    "SelectMediaType": "Google Plus",
+    "UCName": "Automation"
+  },
+  "124020": {
+    "NameID": "A-0000000042",
+    "Notes": "Automation Test",
+    "Notes1": "Automation Test Updated",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "FriendStatus": "Friend",
+    "MediaType": "Google Plus",
+    "URL": "https://accounts.google.com/Login#identifier"
+  },
+  "124021": {
+    "NameID": "A-0000000043",
+    "Notes1": "Automation Test Updated",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "Notes": "Automation Team"
+  },
+  "124022": {
+    "NameID": "A-0000000041",
+    "UCAccountName": "Automation",
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "PFCode": "P001",
+    "SiteID": "Auto2016"
+  },
+
+  "207320": {
+
+    "NameID": "J-0000000002",
+    "CaseNo": "19-000013",
+    "How": "On-View Arrest",
+    "Officer1": "PRMS",
+    "Charge": "100.186(3)",
+    "Status": "Arrested Adult",
+    "AgencyAction": "Handled Within the Department"
+
+  },
+
+  "243289": {
+    "NameRelation": "Manager",
+    "NameID": "B-0000000040",
+    "LastName": "William",
+    "FirstName": "Robort",
+    "Name": "William, Robort"
+
+  },
+
+  "243290": {
+    "ArrestNo": "20-000002",
+    "Officer1": "PRMS",
+    "CaseNo": "20-000011",
+    "ItemType": "Arrest Entry",
+    "Officer": "PRMS",
+    "RefNo": "20-000002",
+    "NewAction":"Send For Approval"
+  },
+
+  "247902": {
+    "NameID": "A-0000000213",
+    "LastName": "Barnum",
+    "FirstName": "Monmouth",
+    "ArrestBooking": "20-000005",
+    "Password": "Pnx@2016",
+    "ActivityNo":"21.000003"
+  },
+
+  "247940": {
+    "NameID": "J-0000000037",
+    "LastName": "Oakhurst",
+    "FirstName": "Zestimate",
+    "ArrestBooking": "20-000005",
+    "Password": "Pnx@2016",
+    "NameType": "A",
+    "Jacket": "238",
+    "SSno": "856-24-5721",
+    "Name": "Oakhurst, Zestimate",
+    "Height": "175",
+    "Weight": "75"
+
+  },
+
+  "247897": {
+    "NameID": "A-0000000213",
+    "LastName": "Michel",
+    "FirstName": "Mike Man",
+    "Address": "47 cove Rd",
+    "BirthDate": "01/01/2000",
+    "Sex": "Male",
+    "Resident": "Resident (Of Your Jurisdiction)",
+    "Race": "White",
+    "Ethnic": "Unknown",
+    "NameType": "A"
+  },
+
+
+  "247899": {
+    "NameID": "A-0000000213",
+    "LastName": "Robert",
+    "FirstName": "Clive",
+    "MiddleName": "KS",
+    "Address": "47 cove Rd",
+    "BirthDate": "08/29/1993",
+    "Sex": "Male",
+    "Resident": "Resident (Of Your Jurisdiction)",
+    "Race": "White",
+    "Ethnic": "Unknown",
+    "NameType": "A",
+    "LastName1": "Borden",
+    "FirstName1": "White",
+    "Name": "Robert, Clive KS",
+    "AliasesName":"Borden, White"
+  },
+
+  "250096": {
+    "NameID": "A-0000000239",
+    "NameType": "A",
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "Add": "Distribution list",
+    "DistributionList": "Police QA",
+    "ReportingPeriod": "Immediate",
+    "NotifyEvent": "Screen Printed",
+    "NameID1":"A-0000000171",
+    "NameID2":"A-0000000176"
+
+  },
+  "250160": {
+
+    "NameID": "A-0000000240",
+    "NameID1":"A-0000000241",
+    "NameType": "A",
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "Add": "Distribution list",
+    "DistributionList": "Police QA",
+    "ReportingPeriod": "Immediate",
+    "NotifyEvent": "Screen Printed"
+
+  },
+
+  "255527": {
+    "LastName": "Erickson",
+    "FirstName": "Linne",
+    "NameID": "O-0000000049",
+    "CallNo": "20-000152",
+    "NameID1": "O-0000000050",
+    "CaseNo": "20-000152",
+    "Unit": "AUTO",
+    "Charge":"100.02(1)"
+  },
+
+  "255530": {
+    "LastName": "Birch",
+    "FirstName": "Grindstone",
+    "NameType": "A",
+    "MiddleName": "LA",
+    "Suffix": "I",
+    "Address": "7635 Mueller Ave",
+    "PhoneNumber": "7858585858",
+    "PhoneNumber1": "8548569698",
+    "NameID": "A-0000000238",
+    "PropertyNo": "20-000018-1",
+    "Sex": "Male",
+    "Resident": "Resident (Of Your Jurisdiction)",
+    "Race": "White",
+    "Ethnic": "Unknown"
+  },
+  "256402": {
+    "LastName": "William",
+    "FirstName": "William",
+    "DOB": "03/25/1992",
+    "Details": "Person"
+  },
+
+  "256403": {
+    "LastName": "William",
+    "FirstName": "William",
+    "DOB": "03/25/1992",
+    "MiddleName": "W",
+    "Name": "William, William W",
+    "PlateNo": "313",
+    "PlateState": "WI - Wisconsin",
+    "NameType": "Adult"
+
+  },
+
+  "256406": {
+    "LastName": "Virginia",
+    "FirstName": "Trillium",
+    "Address": "743 Windsor Dr",
+    "BirthDate": "08/09/1995"
+  },
+
+  "256407": {
+"LastName": "Claremont",
+"FirstName": "Mayfair",
+"OldAddress":"1655 Wisconsin Ave",
+"NameType1":"Juvenile",
+"LastName1":"Claremont",
+"FirstName1":"Cottrell",
+"NameType2":"Business",
+"LastName2":"Claremont Flower Shop",
+"NameType":"Adult",
+"Address":"400 Spring St"
+  },
+
+  "256408": {
+    "BusinessOrPersonNameID": "O-0000000052",
+    "Type": "Deletion",
+    "Reason": "Alram Deleted",
+    "AlarmNo": "21",
+    "NameID":"O-0000000052",
+    "ActivityNo":"21"
+  },
+
+  "256409": {
+    "LastName": "Laurel",
+    "FirstName": "Mount",
+    "Address": "101 W Acorn Dr",
+    "AgeFrom": "18",
+    "AgeTo": "18",
+    "AgeFrom1": "17",
+    "AgeTo1": "18",
+    "AgeFrom2": "0",
+    "AgeTo2": "0",
+    "AgeFrom3": "19",
+    "AgeTo3": "20"
+  },
+
+  "256413": {
+    "NameID": "A-0000000318",
+    "Type": "Expungement",
+    "InvalidPassword": "Pnx@2018",
+    "Password": "Pnx@2016",
+    "Activity": "20-000100"
+
+  },
+  "256404": {
+    "LastName": "Sherman",
+    "FirstName": "Stony",
+    "LastName1": "Poplar Tower",
+    "LastName2": "Kettle",
+    "FirstName2": "Stony",
+    "Address": "101 W Acorn Dr",
+    "BirthDate": "10/10/2004",
+    "PF": "AUTO",
+    "Officer": "Prophoenix, Automation",
+    "Sex": "Male",
+    "Resident": "Resident (Of Your Jurisdiction)",
+    "Race": "White",
+    "Ethnic": "Unknown"
+
+  },
+  "256405": {
+    "LastName": "Blacksmith",
+    "FirstName": "Will",
+    "Name": "Blacksmith, Will",
+    "NameType": "Adult",
+    "Date": "10/12/2020",
+    "Activity": "Vehicle Owner",
+    "Activity1": "Caller",
+    "Activity2": "Victim"
+  },
+
+  "256412": {
+    "LastName": "Eabha",
+    "FirstName": "Ealasaid",
+    "MiddleName": "Ea",
+    "Name": "Eabha, Ealasaid Eam",
+    "NameType": "--",
+    "NameType1": "Adult",
+    "NameType2": "Juvenile",
+    "NameType3": "Business",
+    "NameType4": "Other",
+    "LastName1": "Ja",
+    "NameID1": "A-0000000061",
+    "Name1": "Jack, Daniel",
+    "NameID2": "J-0000000009",
+    "Name2": "James, Mohan",
+    "NameID3": "B-0000000045",
+    "Name3": "Jackson Mart",
+    "NameID4": "O-0000000053",
+    "Name4": "Jackie, Troy"
+  },
+
+  "256419": {
+
+    "NameID": "A-0000000011",
+    "NameID1": "B-0000000011",
+    "NameID2": "J-0000000011",
+    "NameID3": "O-0000000010",
+    "AtypeNameID":"A-0000000011",
+    "BtypeNameID":"B-0000000011",
+    "JtypeNameID":"J-0000000011",
+    "OtypeNameID":"O-0000000010",
+    "Race":"White",
+    "Ethnic":"Carribean",
+    "Race1":"White",
+    "Ethnic1":"Carribean",
+    "Description":"Latino or Hispanic",
+    "Description1":"Russian",
+    "CodeID":"1011",
+    "CodeID1":"2069"
+
+  },
+
+  "256410": {
+    "NameType": "Adult",
+    "Name": "Beeblebrox, Zaphod Z Jr",
+    "ActivityStatus": "Completed Activity",
+    "Location": "Marquette",
+    "Subject": "Visitor Card",
+    "ActivityType": "Visitor",
+    "LastName": "Claremont",
+    "FirstName": "Mayfair",
+    "Name1": "Claremont, Mayfair",
+    "NameID":""
+  },
+
+  "255721": {
+    "Name": "Carlisle, Frederick",
+    "Name1": "Martin, Luther King Dr",
+    "Password": "Pnx@2016",
+    "ArrestNo": "20-000010",
+    "ArrestNo1": "20-000011",
+    "LastName": "Martin",
+    "FirstName": "Luther King",
+    "ArrestBooking": "20-000012"
+  },
+  "256414": {
+    "NameID": "A-0000000319",
+    "Name": "Morton, Eleanor",
+    "LastName": "Morton",
+    "FirstName": "Eleanor",
+    "Address": "101 W Acorn Dr, Grafton, WI 53024",
+    "ActivityNo": "20-000002",
+    "Reason": "Flow test",
+    "ActivityNo1": "20.000168",
+    "ActivityType": "Citation",
+    "CENo": "20-000002",
+    "Activity1": "20.000168",
+    "Activity":"20-000002"
+  },
+
+  "256411": {
+    "LastName": "Cedar",
+    "FirstName": "Sauki",
+    "Address": "743 Windsor Dr",
+    "Marks": "ART L ARM",
+    "Officer": "AUTO",
+    "Name": "Cedar, Sauki",
+    "CaseNo": "20-000060",
+    "SMT":"ART ARM"
+  },
+
+  "256421": {
+    "InitialCFS": "100",
+    "ReportedLocation": "5098 Broadhorn Rd",
+    "NameID": "A-0000000181",
+    "BNameID": "B-0000000015",
+    "NameID1": "J-0000000035",
+    "NameID2": "O-0000000044",
+    "AtypeNameID": "A-0000000181",
+    "BtypeNameID": "B-0000000015",
+    "JtypeNameID": "J-0000000035",
+    "OtypeNameID": "O-0000000044",
+    "Location1": "5098 Broadhorn Rd",
+    "Address": "5098 Broadhorn Rd",
+    "Activity": "Victim",
+    "Activity1": "Arrested",
+    "Activity2": "Suspect",
+    "Activity3": "Suspect"
+  },
+
+  "256422": {
+    "NameID": "A-0000000320",
+    "Name": "George, Bailey",
+    "LastName": "George",
+    "FirstName": "Bailey",
+    "Address": "101 W Acorn Dr, Grafton, WI 53024",
+    "ArrestNo": "20-000013",
+    "ArrestBooking": "20-000013",
+    "Password": "Pnx@2016"
+  },
+
+  "256420": {
+
+
+  "LastName": "Baren",
+    "FirstName": "Keith",
+    "MiddleName": "M",
+    "LastName1": "Philips",
+    "FirstName1": "Louis",
+    "Address": "101 W Acorn Dr",
+    "BirthDate":"01/01/2003",
+    "Description":"Tattoo Test",
+    "SMT":"ART ARM"
+  },
+
+  "256801": {
+    "Street1": "Minnesota Ave",
+    "Street2": "Saxon Rd",
+    "Location": "Minnesota Ave/Saxon Rd"
+  },
+
+
+
+  "256800": {
+    "LastName": "James",
+    "FirstName": "Barker",
+    "Name":"James, Barker",
+    "Juris":"BP - Bloomville Police Dept",
+    "Action":"Copied"
+  },
+
+  "256799": {
+    "NameID": "A-0000000322",
+    "Name": "Sandy, Scotty",
+    "LastName": "Sandy",
+    "FirstName": "Scotty",
+    "ArrestNo": "20-000016",
+    "BusinessName": "Walmart",
+    "BusinessNameID": "36",
+    "BusinessName1": "Renault Services"
+
+  },
+  "256798": {
+    "NameID": "A-0000000322",
+    "LastName": "Sandy",
+    "FirstName": "Scotty",
+    "Description": "Physically Fit"
+
+  },
+  "256797": {
+    "NameID": "A-0000000321",
+    "Name": "Scott, Lampe M",
+    "LastName": "Scott",
+    "FirstName": "Lampe",
+    "Address": "11201 Blueberry Ave, Couderay, WI 54828",
+    "ArrestBooking": "20-000014",
+    "Password": "Pnx@2016"
+  },
+
+  "257961": {
+    "ArrestNo": "20-000017",
+    "AssignCellNo": "C10",
+    "CustodyReason": "New Arrest",
+    "AssignedBy": "PRMS",
+    "RemovedBy": "AUTO",
+    "Subject": "Cell <Release>. Cell# C10",
+    "Category": "JC05 - Cell Inspection",
+    "CategoryGroup": "JCELL - Jail Cell",
+    "ActivityType": "Inspection",
+    "ActivityStatus": "Completed Activity"
+  },
+
+  "257959": {
+    "JNameID": "J-0000000058",
+    "CaseNo": "20-000177",
+    "Charge": "118.16(2)(cg)",
+    "Charge1": "26.99",
+    "AgencyAction": "Handled Within the Department",
+    "ArrestNo": "20-000018"
+  },
+
+  "257960": {
+    "NameID": "A-0000000331",
+    "CaseNo": "20-000176",
+    "Charge": "110.06(3)(b)",
+    "Charge1": "218.0116(1)(t)",
+    "School": "C - College degree",
+    "Grade": "A - 7th Grade",
+    "Officer1": "AUTO"
+  },
+  "259718": {
+    "JNameID": "J-0000000060",
+    "CADCFS": "100",
+    "Location": "5098 Broadhorn Rd",
+    "CADDisposition": "PI",
+    "Unit": "AUTO",
+    "Charge": "11.27(1)",
+    "Status": "Arrested Juvenile",
+    "JuvenileStatus": "Handled Within the Department",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Officer1": "AUTO"
+  },
+
+  "260158": {
+    "LastName": "Lexington11",
+    "FirstName": "Roosevelt11",
+    "Address": "1 Belvidere Ave",
+    "Race": "White",
+    "Ethnic": "Hispanic/Latino",
+    "SSNo": "544087632",
+    "Resident": "Resident (Of Your Jurisdiction)"
+
+  },
+  "259722": {
+    "NameID": "A-0000000342",
+    "ArrestBooking": "20-000018",
+    "Password": "Pnx@2016"
+  },
+  "259723": {
+    "CaseNo": "20-000188",
+    "Officer1": "PRMS",
+    "Charge": "100.185(2)",
+    "Charge1": "118.16(2)(cg)",
+    "Status": "Arrested Adult"
+  },
+
+  "260469": {
+    "Action": "Allow",
+    "NameID": "A-0000000348",
+    "ReportName": "Access List Control",
+    "PFCode": "Auto"
+  },
+  "260820": {
+    "NameID": "A-0000000354",
+    "Link": "http:\\www.external.com",
+    "FileName": "http:\\www.external.com",
+    "Link1": "Http:\\www.google.com"
+  },
+  "261092": {
+    "NameID": "A-0000000363",
+    "NameID1": "A-0000000362",
+    "NameID2": "A-0000000364",
+    "NameID3": "A-0000000365",
+    "LastName": "Tacony",
+    "FirstName": "Mascher",
+    "WarrantNo": "20-000666",
+    "LastName1": "Creek"
+
+  },
+  "261097": {
+    "NameID": "A-0000000363"
+
+  },
+
+  "261417": {
+    "CaseNo": "20-000211",
+    "NameID": "A-0000000368",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Charge": "100.183(1)",
+    "Officer1": "Auto",
+    "Status": "Arrested Adult",
+    "Action": "Deny",
+    "PFCode": "P002",
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "FileName": "ArrestDocket.pdf",
+    "Division": "Operations",
+    "Section": "Investigations",
+    "SquadCode": "DT"
+
+  },
+  "261989": {
+    "CADCFS": "RE2020",
+    "Location": "1212 N San Fernando Blvd,A1",
+    "CADDisposition": "I",
+    "Unit": "AUTO",
+    "Type": "Incident Report",
+    "NameID": "A-0000000370",
+    "Charge": "11.27(1)",
+    "Status": "Arrested Adult",
+    "JuvenileStatus": "Handled Within the Department",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Officer1": "AUTO"
+  },
+  "261990": {
+    "CADCFS": "RE2020",
+    "Location": "1212 N San Fernando Blvd,A4",
+    "CADDisposition": "I",
+    "Unit": "AUTO",
+    "Type": "Incident Report",
+    "NameID": "A-0000000372",
+    "Charge": "11.27(1)",
+    "Status": "Arrested Adult",
+    "JuvenileStatus": "Handled Within the Department",
+    "How": "On-View Arrest",
+    "Armed": "Unarmed",
+    "Officer1": "AUTO",
+    "LastName": "Cornell",
+    "FirstName": "Fernando",
+    "Name1": "Cornell, Fernando II",
+    "Name": "Amherst, Cornell"
+  },
+
+  "261991":{
+    "CADCFS":"RE2020",
+    "Location":"498 E Walnut Ave",
+    "CADDisposition":"I",
+    "Unit":"Auto",
+    "Type":"Incident Report",
+    "NameID":"A-0000000373",
+    "Armed":"Unarmed",
+    "Charge":"11.27(1)",
+    "Charge1":"118.16(2)",
+    "How":"On-View Arrest"
+  },
+
+  "254471" : {
+  "NameID" : "A-0000000291",
+  "CaseNo" : "20-000126",
+  "How" : "On-View Arrest",
+  "Charge" : "948.02(3)",
+  "Charge1" : "943.20(1)(a)",
+  "Status": "Arrested Adult",
+  "AgencyAction": "Handled Within the Department",
+  "Password":"Pnx@2016"
+},
+
+"256401":{
+  "PrimaryANameID":"A-0000000311",
+  "MergeNameID":"A-0000000312",
+  "Name":"McKensky,Kimberly",
+  "MergedPF":"Prophoenix, Automation",
+  "AliasesName":"Franklin, Harrison I"
+
+},
+
+"255119": {
+  "PermitType": "GUN",
+   "GunType": "Pistol - Semi Auto",
+  "GunPermit": "20-000001",
+  "Owner": "Jefferson, Madison",
+  "GunMake": "American Firearms",
+  "ApplicationDate": "09/22/20",
+  "Serial": "ASER5677ERT",
+  "NameID": "A-0000000297",
+  "PermitStatus": "Approved"
+},
+"268018":{
+  "FormRefNo":"44",
+  "FormName":"Form 44",
+  "Version":"1",
+  "RepositoryID":"2282",
+  "LastName":"Javier",
+  "FirstName":"Kai",
+  "Name":"Javier, Kai",
+  "SelectForm":"44"
+
+},
+
+"271626":{
+"Address":"101 4th St",
+"FirstName":"Mill",
+"DOB":"04/27/1967",
+"Name":"Madison, Mill",
+"NameType":"Adult"
+
+}
+
+}

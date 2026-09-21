@@ -1,0 +1,439 @@
+{
+	"267553": {
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"Database": "Police MJ",
+		"OwnerPF": "Auto",
+		"CreatorPF": "Auto",
+		"Status": "IN Progress",
+		"Priority": "High",
+		"HelpDeskClass": "HelpDesk Tech",
+		"Project": "Police RMS",
+		"Module": "Records"
+	},
+	"267555": {
+		"HelpDeskClass": "HelpDesk IT",
+		"Subject": "Automation Test",
+		"CreatorPF": "AUTO",
+		"Status": "New",
+		"Priority": "High",
+		"OwnerPF": "PASS",
+		"Template": "HelpDesk Template",
+		"TemplateValue": "Help Desk Created for Raised Tickets By The customers",
+		"ProblemDescription": "Test"
+	},
+	"267564": {
+		"HelpDeskClass": "HelpDesk Tech",
+		"Subject": "Automation Ticket Entry",
+		"Subject1": "Automation Ticket Entry",
+		"CreatorPF": "AUTO",
+		"Status": "Approved",
+		"Priority": "Critical",
+		"OwnerPF": "AUTPOL",
+		"Category":"Windows Application",
+		"Type":"Support"
+	},
+	"294705": {
+		"TicketNo": "22-000001",
+		"Status": "New",
+		"Status0": "New",
+		"Status1": "IN Progress"
+	},
+	"294706": {
+		"TicketNo": "21-000002",
+		"OwnerPF": "PA001",
+		"OwnerName": "Det Patrol, Officer",
+		"Status": "IN Progress",
+		"Status1": "Approved",
+		"Status2": "New",
+		"Priority": "High"
+	},
+	"294712": {
+		"TicketNo": "21-000002",
+		"Template": "HelpDesk Template",
+		"TemplateValue": "Help Desk Created for Raised Tickets By The customers"
+	},
+	"294729": {
+		"TicketNo": "22-000003",
+		"TicketNo1": "22-000005"
+	},
+	"294731": {
+		"Priority": "Critical",
+		"Priority1": "High",
+		"Priority2": "Med",
+		"Priority3": "Low"
+	},
+	"294733": {
+		"TicketNo": "22-000004",
+		"Priority": "Low",
+		"Priority1": "High"
+	},
+	"294713": {
+		"TicketNo": "24-000002",
+		"Status0": "New",
+		"Status": "New",
+		"Status1": "Closed",
+		"Status2":"Reopened"
+	},
+	"16143": {
+		"HelpDeskClass": "Automation",
+		"Priority": "High",
+		"Subject": "Automation Test",
+		"Status": "New",
+		"EmailAddressToWatch": "test@automation.com",
+		"UserName": "auto",
+		"Password": "Pnx@2016"
+	},
+
+	"16991":{
+	"RepositoryID":"1375004"
+  },
+	"17019":{
+	"HelpDeskClass":"Automation",
+	"Priority":"High",
+	"Priority1":"--",
+	"Status":"New",
+	"Status1":"--",
+	"HelpDeskclass":"--"
+	},
+	"21773": {
+		"Subject1": "HelpDesk control for IT",
+		"Subject2": "Automation",
+		"TemplateValue":"Automation Entry Ticket",
+		"TicketNo":"24-000001",
+		"Subject3": "Low Priority Test",
+		"CreatorJuris":"PX - ProPhoenix"
+	},
+	"41204":{
+	"Subject0":"Automation Testing",
+	"Template1":"HelpDesk Templete",
+	"TextName":"Automation Internal",
+	"RichText":"Test Automation process",
+	"Template2":"Automation Internal"
+	},
+	"42348":{
+	"HelpDeskManagersDistributionList":"--Add Distribution List--",
+	"DistributionListName":"Automation",
+	"DistributionListName1":"Auto"
+	},
+	
+	"48802":{
+	"HelpDeskClass":"AutomationHelpDesk",
+	"TenentId":"34",
+	"ApplicantID":"33",
+	"ClientSceretID":"32",
+	"EmailID":"Automation@Prophoenix.com",
+	"HelpDeskManagersDistributionList":"Police Auto"	
+	},
+	"53081": {
+		"UserName": "auto13",
+		"Password": "Pnx@2016",
+		"EmailID":"auto@prophoenix.com",
+		"HelpDeskClass": "HelpDesk IT",
+		"Subject": "Automation Test",
+		"CreatorPF": "AUTO",
+		"Status": "New",
+		"Priority": "High",
+		"OwnerPF": "PASS"
+},
+"50643":{
+	"HelpDeskClass":"HelpDesk Tech",
+	"TenentId":"76",
+	"ApplicantID":"77",
+	"ClientSceretID":"03",
+	"EmailID":"automationtest@Prophoenix.com",
+	"UserName": "auto73",
+    "Password": "Pnx@2025",
+	"EmailID1":"automationnk@Prophoenix.com"
+	},
+	"64298":{
+	"HelpDeskClass":"Automation",
+	"Subject0":"Duplicate Verfication",
+	"CreatorPF":"P009",
+	"Subject1":"Verification Duplicate",
+	"HelpDeskclass":"--",
+	"Subject":"Duplicate Verfication"
+	},
+	"64309":{
+	"TicketNo":"25-000002",
+	"BusinessID":"Auto123",
+	"Name":"Selenium",
+	"VendorName":"Selenium"
+	},
+	"65797":{
+	"HelpDeskClass":"AutoP001",
+	"EmailID":"Test@Prophoenix.com",
+	"UserName":"P001",
+	"Password":"Pnx@2016",
+	"SMTPServer":"123Server",
+	"Role":"Patrol Officer",
+	"Subject":"AutoP001",
+	"CreatorPF":"Lock",
+	"Status":"New",
+	"Priority":"High",
+	"UserName1":"P002",
+	"Password1":"Pnx@2016"
+	},
+	"72257":{
+	"TicketNo":"25-000003",
+	"Status1":"New",
+	"Status2":"Reopened"
+	},
+"72298":{
+	"ColumnHeader1":"Juris",
+	"ColumnHeader2":"Ticket#",
+	"ColumnHeader3":"Subject",
+	"ColumnHeader4":"Priority",
+	"ColumnHeader5":"Status",
+	"ColumnHeader6":"Owner",
+	"ColumnHeader7":"Due Date",
+	"ColumnHeader8":"Category",
+	"ColumnHeader9":"Created Date",
+	"ColumnHeader10":"Creator"
+	},
+"72314": {
+		"HelpDeskClass": "Automation",
+		"Juris": "BC - Brown County Police Department",
+		"SMTPServer": "smtp.office365.com",
+		"EmailID": "Helpdesk.EW@prophoenix.com",
+		"UserName": "test",
+		"Password": "Pnx@2016"
+	},
+"72326":{
+	"TicketNo1":"25-000001",
+	"TicketNo2":"25-123456",
+	"TicketNo3":"27-123456",
+	"TicketNo4":"!@-#$%^&*!@-#$%^&*",
+	"TicketNo5":"ABXYZABCZABC"
+	},
+"72349": {
+		"EmailAddressToWatch1": "crmewdevonqa@gmail.com",
+		"EnableSSL1": "True",
+		"SMTPServer1": "helpdesk.auto.gmail.com",
+		"Domain1": "Automation",
+		"UserName1": "Auto",
+		"Password1": "Pnx@2020",
+		"NotificationEmail1": "Automation@Prophoenix.com",
+		"EmailAddressToWatch2": "",
+		"EnableSSL2": "--",
+		"SMTPServer2": "",
+		"Domain2": "",
+		"UserName2": "",
+		"Password2": "",
+		"OwnerPF2": "PA002",
+		"OwnerPF1": "PA001",
+		"Category": "Browser Application",
+		"Status": "ReOpened",
+		"Priority": "Crictical",
+		"Type": "Release",
+		"Category1": "Windows Application",
+		"Status1": "New",
+		"Priority1": "High",
+		"AutoEmailContent1": "CRM - Test",
+		"Type1": "Support",
+		"HelpDeskClass": "Basic Authentication",
+		"HelpDeskManagersDistributionList": "Police QA",
+		"HelpDeskManagersDistributionList1": "Police Auto",
+		"Role": "Supervisor",
+		"Role1": "System Administrator",
+		"AutoEmailContent2": "RPA - Automation"
+	},
+"72369": {
+		"HelpDeskClass": "Modern Authentication",
+		"EmailAddressToWatch1": "CRMEmailWatcher@prophoenix.com",
+		"EmailAddressToWatch2": "",
+		"SMTPServer1": "smtp.office365.com",
+		"SMTPServer2": "",
+		"TenantID1": "9a9540fa-5182-4079-b71f-80947968ab6d",
+		"TenantID2": "",
+		"ApplicationID1": "e3154f00-5e40-4bc8-a083-3e1a08312d2b",
+		"ApplicationID2": "",
+		"ClientSecretID1": "DdP8Q~p3ls5so4xxNexM2.iTMBnbidrtKRATAc8X",
+		"ClientSecretID2": "",
+		"NotificationEmail1": "Automation@Prophoenix.com",
+		"EnableSSL1": "True",
+		"OwnerPF2": "PA002",
+		"OwnerPF1": "PA001",
+		"Category": "Browser Application",
+		"Status": "ReOpened",
+		"Priority": "Crictical",
+		"Type": "Release",
+		"Category1": "Windows Application",
+		"Status1": "New",
+		"Priority1": "High",
+		"AutoEmailContent1": "CRM - Test",
+		"Type1": "Support",
+		"HelpDeskManagersDistributionList": "Police QA",
+		"HelpDeskManagersDistributionList1": "Police Auto",
+		"Role": "Supervisor",
+		"Role1": "System Administrator",
+		"AutoEmailContent2": "RPA - Automation"
+	},
+"72393":{
+	"HelpDeskManagersDistributionList":"--Add Distribution List--",
+	"HelpDeskManagersDistributionList1":"HelpDesk Support",
+	"HelpDeskEmailAllowedList1":"HelpDesk Support",
+	"DistributionListName":"HelpDesk Support",
+	"Description":"AutoTest",
+	"Email1":"Test@prophoenix.com",
+	"Name":"Auto",
+	"Type":"Auto",
+	"Key":"Test@prophoenix.com",
+	"ParameterID":"6702",
+	"HelpDeskClass":"Automation",
+	"DistributionListName1":"Auto"
+	},
+"72399":{
+	"HelpDeskClass1":"AutomationHelpDesk",
+	"HelpDeskClass2":"Basic Authentication",
+	"Status":"New",
+	"Priority":"High",
+	"Owner1":"PA001",
+	"OwnerName":"Det Patrol, Officer",
+	"Subject1":"Prophoenix",
+	"Code":"CM002",
+	"CodeValue":"CM002",
+	"CreatorPF":"CM002",
+	"CreatorPF1":"CM002",
+	"CreatorPF2":"CM, Supervisor",
+	"DateType":"Reported On"
+	},
+"72423":{
+	"HelpDeskClass1":"AutomationHelpDesk",
+	"HelpDeskClass2":"HelpDesk IT",
+	"Status":"New",
+	"Priority":"High",
+	"Owner1":"P011",
+	"OwnerName":"Patrol, Officer",
+	"Subject":"Prophoenix",
+	"Subject1":"Ticket Updated",
+	"Subject2":"Prophoenix",
+	"Subject3":"Ticket Updated",
+	"Code":"CM002",
+	"CodeValue":"CM002",
+	"CreatorPF":"CM002",
+	"CreatorPF1":"CM002",
+	"CreatorPF2":"CM, Supervisor",
+	"DateType":"Reported On"
+	},	
+"72435":{
+	"HelpDeskClass1":"AutomationHelpDesk",
+	"HelpDeskClass2":"HelpDesk IT",
+	"Status":"New",
+	"Priority":"High",
+	"Owner1":"P011",
+	"OwnerName":"Patrol, Officer",
+	"Subject1":"Ticket Updated",
+	"Subject2":"Prophoenix",
+	"Code":"CM002",
+	"CodeValue":"CM002",
+	"CreatorPF":"CM002",
+	"CreatorPF1":"CM002",
+	"CreatorPF2":"CM, Supervisor",
+	"ProblemDescription":"TestAutomation",
+	"Category":"Windows Application",
+	"Project":"CAD",
+	"Type":"Support",
+	"Module":"Names",
+	"CreatorJuris":"PX - ProPhoenix",
+	"Version":"1.68",
+	"RelatedCRM":"25",
+	"HowWasItClosed":"Test",
+	"VendorName":"Ventor For Tracking",
+	"VendorNotes":"Automation",
+	"VendorContact":"Test",
+	"RelatedTicket":"25-000001",
+	"HowWasitClosed":"Test",
+	"ActionPlan":"Automation",
+	"DateType":"Reported On"
+	},
+"72492":{
+	"Subject1":"Automation Testing",
+	"Subject2":"Vendor Name Verification",
+	"Status":"New",
+	"Template":"HelpDesk Template",
+	"Text":"Help Desk Created for Raised Tickets By The customers",
+	"DateType":"Updated On"
+	},
+"72526":{
+	"HelpDeskClass1":"NewRoleRestriction",
+	"Status":"New",
+	"Status1":"Closed",
+	"TotalTime1":"!@#%^&",
+	"TotalTime2":"TEFSS",
+	"TotalTime3":"24",
+	"CreatorPF":"CM002",
+	"Template":"HelpDesk Template",
+	"Text":"Help Desk Created for Raised Tickets By The customers",
+	"TemplateValue":"Help Desk Created for Raised Tickets By The customers",
+	"Owner1":"P008",
+	"Subject1":"Role Restriction"
+	},
+"73537":{
+	"HelpDeskClass1":"Basic Authentication",
+	"Status":"New",
+	"Status1":"Closed",
+	"TotalTime1":"!@#%^&",
+	"TotalTime2":"TEFSS",
+	"TotalTime3":"24",
+	"DateType2":"Reported On",
+	"CreatorPF":"CM002",
+	"Template":"HelpDesk Template",
+	"Text":"Help Desk Created for Raised Tickets By The customers",
+	"TemplateValue":"Help Desk Created for Raised Tickets By The customers",
+	"Owner1":"PA001",
+	"OwnerPFCodeValue":"PA001",
+	"OwnerPFCodeDescription":"Det Patrol, Officer",
+	"Subject1":"Role Restriction"
+	},			
+"73997":{
+	"HelpDeskClass1":"Basic Authentication",
+	"Status":"New",
+	"Status1":"Closed",
+	"TotalTime1":"!@#%^&",
+	"TotalTime2":"TEFSS",
+	"TotalTime3":"24",
+	"DateType2":"Reported On",
+	"CreatorPF":"CM002",
+	"Template":"HelpDesk Template",
+	"Text":"Help Desk Created for Raised Tickets By The customers",
+	"TemplateValue":"Help Desk Created for Raised Tickets By The customers",
+	"Owner1":"PA001",
+	"Subject1":"Role Restriction"
+	},
+"72252":{
+"TicketNo":"25-000001",
+"Status1":"New",
+"Status2":"In-Progress"
+},
+	"64298A":{
+	"HelpDeskClass":"Automation",
+	"Subject0":"Duplicate Verfication",
+	"CreatorPF":"P100",
+	"Subject1":"Verification Duplicate",
+	"HelpDeskclass":"--",
+	"Subject":"Duplicate Verfication",
+	"Status":"New",
+	"Priority":"High"
+	},
+	"64298B":{
+	"HelpDeskClass":"Automation",
+	"Subject0":"Duplicate Verfication",
+	"CreatorPF":"IA001",
+	"Subject1":"Verification Duplicate",
+	"HelpDeskclass":"--",
+	"Subject":"Duplicate Verfication"
+	},
+	"64309A":{
+	"TicketNo":"25-000002",
+	"BusinessID":"Auto123",
+	"Name":"Selenium",
+	"VendorName":"Selenium"
+	},
+	"64309B":{
+	"TicketNo":"25-000002",
+	"BusinessID":"Auto123",
+	"Name":"Selenium",
+	"VendorName":"Selenium"
+	}
+}

@@ -1,0 +1,863 @@
+{
+	"159952": {
+		"InitialCFS": "F2",
+		"ReportedLocation": "42 Beech St;PX",
+		"ReceivedSource": "9",
+		"FinalCFS": "F2",
+		"ExactLocation": "42 Beech St;PX",
+		"ExactLocation1": "42 Beech St",
+		"Status": "Report Due",
+		"CFSCode": "F2"
+	},
+	"159954": {
+		"InitialCFS": "14252",
+		"ReportedLocation": "202 Perry Ave",
+		"ReceivedSource": "9",
+		"FinalCFS": "14252",
+		"ExactLocation": "202 Perry Ave",
+		"ExactLocation1": "202 Perry Ave;PX",
+		"Status": "Report Due",
+		"IncidentAddress": "202 Perry Ave;PX"
+	},
+	"159986": {
+		"FinalCFS": "F1",
+		"ExactLocation": "3 Morish Rd",
+		"ExactLocation1": "3 Morish Rd;PX",
+		"IncidentNo": "17-000051",
+		"UnitNo": "15",
+		"Unit": "15"
+	},
+	"159991": {
+		"ExactLocation": "50 cherry Ave",
+		"UnitNo": "235FW",
+		"Unit": "235FW",
+		"Location1": "50 cherry Ave;PX  , Cinnaminson, NJ 08077",
+		"Location": "50 cherry Ave;PX , Cinnaminson, NJ 08077"
+	},
+	"159996": {
+		"IncidentNo": "17-000052",
+		"ExactLocation": "20 Jamie Dr",
+		"ExactLocation1": "20 Jamie Dr;PX",
+		"FinalCFS": "F3",
+		"UnitNo": "SFIRE",
+		"PersonnelID": "Krishnan, Siva Rama",
+		"Name": "Krishnan, Siva Rama"
+	},
+	"184881": {
+		"IncidentNo": "18-000039",
+		"UnitNo": "191",
+		"Activity": "Dispatch",
+		"UnitNo1": "191 - Investigator",
+		"RespondingUnit": "191",
+		"PSAPCallDate": "07/13/2018",
+		"IncidentAddress": "20 Jamie Dr;PX",
+		"City": "Moorestown",
+		"State": "NJ",
+		"ZipCode": "08057"
+	},
+	"246373": {
+		"IncidentNo": "20-000010",
+		"PersonnelID": "Krishnan, Siva Rama",
+		"PFNo": "687",
+		"PFNo1": "F003",
+		"PersonnelID1": "Fire, Dispatcher"
+	},
+	"248204": {
+		"InitialCFS": "AFIRE",
+		"ReportedLocation": "Glider Ave/Oxford Ave",
+		"ReceivedSource": "9",
+		"CFSCode": "AFIRE",
+		"LocationType": "2 - Intersection",
+		"ActionsTaken1": "10",
+		"PropertyUse": "131",
+		"CrossStreetDirections": "Glider Ave/Oxford Ave",
+		"LocationType1": "2 - Intersection"
+	},
+	"249605": {
+		"VehicleNo": "45F",
+		"UnitNo": "45F",
+		"IncidentNo": "17-000028",
+		"VehicleNoDescription": "ACUR,TL,2010"
+	},
+	"249606": {
+		"LocationJuris": "PX - ProPhoenix Fire Department",
+		"Location": "844 No Colony Rd;PX",
+		"IncidentNo": "20-000024",
+		"IncidentNo1": "20-000023"
+	},
+	"249609": {
+		"IncidentNo": "20-000024",
+		"PFCode": "001",
+		"PF": "001",
+		"Notes": "VerifyShared#$%LockerAllowingToAssignMultiplePropertyEntries_249233(ITestContext testContext)"
+	},
+	"250387": {
+		"InitialCFS": "IENE",
+		"ReportedLocation": "Raritan",
+		"ReceivedSource": "9",
+		"FinalCFS": "IENE",
+		"ExactLocation": "1255 Raritan Rd;PX"
+	},
+	"250388": {
+		"InitialCFS": "IE",
+		"ReportedLocation": "125 Shoprite Way",
+		"ReceivedSource": "P",
+		"FinalCFS": "IE",
+		"ExactLocation": "125 Shoprite Way"
+	},
+	"69895": {
+		"IncidentNo": "20-000025",
+		"ExactLocation": "9336 N Rivercrest Dr;PX",
+		"Location": "9336 N Rivercrest Dr;PX",
+		"Location1": "9336 N Rivercrest Dr, MenomoneeFalls, WI 53051",
+		"LastName": "MAson",
+		"FirstName": "Taylor",
+		"Name": "MAson, Taylor",
+		"Name1": "Pearson, Taylor I",
+		"Address": "9336 N Rivercrest Dr",
+		"Activity": "Owner",
+		"Activity1": "Caller",
+		"LastName1": "Pearson",
+		"FirstName1": "Taylor"
+	},
+	"250390": {
+		"IncidentNo": "20-000026",
+		"ExactLocation": "2900 Milwaukee Rd;PX",
+		"Location": "2900 Milwaukee Rd;PX",
+		"Location1": "2900 Milwaukee Rd;PX , Beloit, WI 53511",
+		"LastName": "Andrew",
+		"FirstName": "Timothy",
+		"Name": "Andrew, Timothy",
+		"Address": "125 Shoprite Way;PX",
+		"Activity": "Victim",
+		"Name1": "Gasser, Taylor"
+	},
+	"250391": {
+		"IncidentNo": "20-000025",
+		"UnitNo": "ASF256",
+		"CADREF": "FCCAD",
+		"Activity": "Acknowledge",
+		"Activity1": "Dispatch",
+		"UnitNo1": "217F"
+	},
+	"69885": {
+		"IncidentNo": "20-000027",
+		"UnitNo": "235FW",
+		"CADREF": "ERCAD",
+		"Activity": "Dispatch",
+		"UnitNo1": "45F",
+		"Operator": "001",
+		"OperatorName": "Test, Automation",
+		"Unit": "45F"
+	},
+	"250393": {
+		"IncidentNo": "20-000027",
+		"UnitNo": "217F",
+		"CADREF": "ERCAD",
+		"UnitNo1": "45F",
+		"PFCode": "001",
+		"Notes": "Sharing some of the Team Metrics which I noted in the last quarter.  ",
+		"PF": "001"
+	},
+	"250394": {
+		"CADREF": "NECAD",
+		"IncidentNo": "20-000028",
+		"UnitNo": "ASF256",
+		"PF": "001",
+		"PFCode": "001",
+		"Notes": "Added new notes for grid",
+		"UnitNo1": "SFIRE"
+	},
+	"250395": {
+		"IncidentNo": "20-000028",
+		"CADREF": "NECAD",
+		"PFNo": "FRMS",
+		"DOTNo": "9190",
+		"EstAmtReleased": "754",
+		"DOTNo1": "9117",
+		"EstAmtReleased1": "500"
+	},
+	"250396": {
+		"IncidentNo": "20-000025",
+		"CADREF": "FCCAD",
+		"Reason": "Evidence",
+		"Property": "Alcohol",
+		"Description": "Drunken alcohol",
+		"Value": "250",
+		"LastName": "Isabella",
+		"FirstName": "Olivia",
+		"Disposition": "Sent to Property Room",
+		"InitialStorageLocation": "L100020300000072"
+	},
+	"250397": {
+		"IncidentNo": "20-000029",
+		"CADREF": "IECAD",
+		"Reason": "Seized",
+		"Property": "Computer Hardware/Software",
+		"Property1": "Jewelry/Precious Metals",
+		"Description": "Stolen property",
+		"Value": "200",
+		"LastName": "Gasser",
+		"FirstName": "Taylor",
+		"Disposition": "Sent to Property Room",
+		"InitialStorageLocation": "L100020300000072"
+	},
+	"250405": {
+		"IncidentNo": "20-000030",
+		"CADREF": "CADRE",
+		"Reason": "Evidence",
+		"Property": "Firearms",
+		"GunType": "ShotGun",
+		"Property1": "Automobiles",
+		"PlateNo": "12453",
+		"Description": "Stolen property",
+		"Value": "200",
+		"LastName": "Gasser",
+		"FirstName": "Taylor",
+		"Disposition": "Sent to Property Room",
+		"InitialStorageLocation": "L100020300000072"
+	},
+	"257074": {
+		"Juris": "BC - Brown County FireDepartment",
+		"LocationJuris": "BC - Brown County FireDepartment"
+	},
+	"260435": {
+		"IncidentNo": "20-000010",
+		"Action": "Allow",
+		"PFCode": "001",
+		"AllowOrDeny": "Allow",
+		"Name": "Test, Automation-001"
+	},
+	"261103": {
+		"CallForService": "ALS901",
+		"CFS": "ALS901",
+		"Alarm": "2",
+		"SubLevel": "3",
+		"InitialCFS": "ALS901",
+		"ReportedLocation": "15 Stephens Rd",
+		"InitialAlarm": "2",
+		"FinalAlarm": "3"
+	},
+	"263042": {
+		"IncidentNo": "21-000001",
+		"UnitNo": "16",
+		"Activity": "Dispatch"
+	},
+	"263043": {
+		"IncidentNo": "21-000001",
+		"DOTNo": "9192",
+		"PFNo": "P100"
+	},
+	"263045": {
+		"IncidentNo": "21-000004",
+		"EquipmentType": "FS",
+		"EquipmentType1": "Fire Suppression",
+		"Quantity": "1",
+		"Comments": "For Automation Testing"
+	},
+	"263046": {
+		"IncidentNo": "21-000001",
+		"ActivityType": "Incident",
+		"Subject": "3400 Mirage Cir, F1"
+	},
+	"268014": {
+		"UnitNo": "MOBF    ",
+		"IncidentFromDate": "02/24/2021",
+		"IncidentToDate": "03/10/2021",
+		"IncidentDate": "03/10/2021 15:10:55",
+		"IncidentNo": "21-000006"
+	},
+	"273899": {
+		"IncidentNo": "24-000006",
+		"UnitNo": "GM26"
+	},
+	"273903": {
+		"InitialCFS": "ALS901",
+		"ReportedLocation": "1599 Old Freehold Rd",
+		"UnitNo": "15",
+		"EquipmentType": "EM"
+	},
+	"273904": {
+		"InitialCFS": "101",
+		"ReportedLocation": "1615 Old Freehold Rd;PX",
+		"Address": "1615 Old Freehold Rd;PX",
+		"Address1": "1615 Old Freehold Rd;PX",
+		"IncidentType": "200",
+		"ActionsTaken1": "20",
+		"PropertyUse": "100",
+		"PFNo": "F001",
+		"PFNo1": "BC001",
+		"NewAction": "Send for Approval",
+		"Juris1": "BC - Brown County FireDepartment",
+		"Juris": "PX - ProPhoenix Fire Department",
+		"ExactLocation": "1615 Old Freehold Rd;PX",
+		"UnitNo": "18",
+		"UnitNo1": "BCF001",
+		"EquipmentType": "FS",
+		"AddressType": "Inspection Mail To",
+		"PFCode": "BC001",
+		"ReportBy": "BC001",
+		"LocationType": "3 - In front of"
+	},
+	"273905": {
+		"InitialCFS": "101",
+		"ReportedLocation": "1605 Old Freehold Rd",
+		"Address": "1605 Old Freehold Rd",
+		"Address1": "1605 Old Freehold Rd",
+		"IncidentType": "200",
+		"ActionsTaken1": "20",
+		"PropertyUse": "100",
+		"PFNo": "45F",
+		"NewAction": "Send for Approval",
+		"Juris": "PX - ProPhoenix Fire Department",
+		"ExactLocation": "1605 Old Freehold Rd",
+		"UnitNo": "235FW",
+		"EquipmentType": "FS"
+	},
+	"273906": {
+		"InitialCFS": "101",
+		"ReportedLocation": "1597 Old Freehold Rd",
+		"Address": "1597 Old Freehold Rd",
+		"Address1": "1597 Old Freehold Rd",
+		"IncidentType": "200",
+		"ActionsTaken1": "20",
+		"PropertyUse": "100",
+		"PFNo": "F004",
+		"NewAction": "Send for Approval",
+		"Juris": "PX - ProPhoenix Fire Department",
+		"ExactLocation": "1597 Old Freehold Rd",
+		"UnitNo": "235FW",
+		"EquipmentType": "FS"
+	},
+	"273908": {
+		"InitialCFS": "ALS901",
+		"ReportedLocation": "1613 Old Freehold Rd",
+		"Address": "1613 Old Freehold Rd",
+		"Address1": "1613 Old Freehold Rd",
+		"IncidentType": "200",
+		"ActionsTaken1": "20",
+		"PropertyUse": "100",
+		"PFNo": "BCRMS",
+		"NewAction": "Send for Approval",
+		"Juris": "BC - Brown County FireDepartment",
+		"ExactLocation": "1615 Old Freehold Rd;PX",
+		"UnitNo": "BCF001",
+		"ReportBy": "BCRMS",
+		"EquipmentType": "FS",
+		"LocationType": "1 - Street address",
+		"AidType": "1 - Mutual aid received"
+	},
+	"276808": {
+		"DOTNo": "9269",
+		"EstAmtReleased": "200",
+		"PFNo": "F004",
+		"IncidentNo": "21-000017"
+	},
+	"281044": {
+		"CodeID": "3089"
+	},
+	"282104": {
+		"IncidentFromDate": "01/01/2021",
+		"IncidentToDate": "07/10/2021",
+		"UnitNo": "Check All"
+	},
+	"282794": {
+		"IncidentNo": "21-000006",
+		"PFNo": "PAA001",
+		"ActingRank": "Captain",
+		"ActualRank": "Chief"
+	},
+	"282797": {
+		"IncidentAddress": "3001 University Rd",
+		"ReportedLocation": "3001 University Rd",
+		"InitialCFS": "101"
+	},
+	"286448": {
+		"IncidentNo": "21-000011",
+		"UserName": "F003",
+		"Password": "Pnx@2016"
+	},
+	"286631": {
+		"IncidentNo": "20-000039"
+	},
+	"286632": {
+		"IncidentNo": "21-000010"
+	},
+	"CADStatusEntrySmoke": {
+		"Name": "Test Automationssbjdfdh",
+		"ScreenType": "F3 - Dispatch"
+	},
+	"IncidentEntry": {
+		"InitialCFS": "911",
+		"ReportedLocation": "Elizabeth;PX"
+	},
+	"UnitReportEntry": {
+		"ExactLocation": "Roscoe;PX  ",
+		"FinalCFS": "101",
+		"PFNo": "45F",
+		"UnitNo": "01"
+	},
+	"10732": {
+		"IncidentNo": "21-000011"
+	},
+	"10875": {
+		"IncidentNo": "21-000033",
+		"UnitNo": "01",
+		"PFNo": "F003",
+		"EquipmentType": "RI"
+	},
+	"201717": {
+		"InitialCFS": "101",
+		"ReportedLocation": "Acorn;PX",
+		"Status": "On Hold",
+		"IncidentNo": "23-000007",
+		"IncidentType": "100",
+		"ActionsTaken1": "10",
+		"PropertyUse": "100"
+	},
+	"201719": {
+		"RefNo": "23-000006",
+		"Location": "825 Cleveland Blvd",
+		"LocationType": "Y92.137",
+		"ServiceRequest": "911 Response (Scene)"
+	},
+	"201720": {
+		"InitialCFS": "101",
+		"ReportedLocation": "Albany;PX  ",
+		"ExactLocation": "101 W Acorn Dr;PX  ",
+		"FinalCFS": "101",
+		"IncidentType": "100",
+		"AidType": "N - None",
+		"ActionsTaken1": "00",
+		"PropertyUse": "000",
+		"Remarks": "Automation",
+		"IncidentNo": "23-000011",
+		"Location": "101 W Acorn Dr"
+	},
+	"205041": {
+		"IncidentNo": "20-000002",
+		"LastName": "Snipper",
+		"PhoneType": "Home",
+		"PhoneNo1": "2566185441",
+		"PhoneType1": "Home",
+		"PhoneNo2": "2126515615",
+		"PhoneNo3": "(256) 618-5441",
+		"PhoneNo4": "(212) 651-5615"
+	},
+	"203666": {
+		"InitialCFS": "101",
+		"ReportedLocation": "AutumnCommonName",
+		"FinalCFS": "911",
+		"ExactLocation": "1 N Atwood Rd",
+		"IncidentNo": "23-000007"
+	},
+	"206761": {
+		"InitialCFS": "123",
+		"ReportedLocation": "Auto",
+		"FinalCFS": "911",
+		"ExactLocation": "Auto",
+		"Zip": "35004"
+	},
+	"206769": {
+		"InitialCFS": "123",
+		"ReportedLocation": "Auto",
+		"Zip": "35004",
+		"FinalCFS": "911",
+		"ExactLocation": "Josh",
+		"City": "Acmar",
+		"State": "AL",
+		"ZipCode": "35004"
+	},
+	"206767": {
+		"": "",
+		"": ""
+	},
+	"213723": {
+		"IncidentNo": "23-000008",
+		"Address": "9 Autumn Rd",
+		"City": "Moorestown",
+		"State": "NJ",
+		"ZipCode": "08057",
+		"LocationType": "1 - Street address",
+		"IncidentType": "100",
+		"IncidentDescription": "Fire, other",
+		"ActionsTaken1": "10",
+		"PropertyUse": "000",
+		"Exp#": "000"
+	},
+	"213728": {
+		"IncidentNo": "23-00008",
+		"Action": "Allow",
+		"PFCode": "001",
+		"PFDescription": "Test, Automation",
+		"AllowOrDeny": "Allow",
+		"Name": "Test, Automation"
+	},
+	"226185": {
+		"IncidentNo": "21-000017",
+		"Activity": "W - Worked",
+		"PFNo": "InjRep",
+		"PFCode": "InjRep",
+		"InjuryType": "Smoke Exposure"
+	},
+	"17765": {
+		"IncidentNo": "23-000001",
+		"PersonnelID": "Jack, Daniel V-jack123"
+	},
+	"16411": {
+		"InitialCFS": "123",
+		"ReportedLocation": "1 N Fire"
+	},
+	"17907": {
+		"UnitNo": "ASF256  ",
+		"IncidentNo1": "20-000024",
+		"IncidentNo2": "21-000017"
+	},
+	"19288": {
+		"IncidentType": "100"
+	},
+	"19269": {
+		"FinalCFS": "Fire 1",
+		"CFS": "F1"
+	},
+	"19242": {
+		"Juris": "PX - ProPhoenix Fire Department",
+		"Juris1": "BC - Brown County FireDepartment",
+		"IncidentFromDate": "12/29/2020",
+		"IncidentToDate": "01/12/2024",
+		"DateFrom": "12/29/2020"
+	},
+	"26734": {
+		"PFNo": "45F",
+		"IncidentNo": "21-000006",
+		"PFNo1": "F46",
+		"PFNo3": "F004",
+		"Action1": "40",
+		"Action2": "80",
+		"Action3": "90"
+	},
+	"29338": {
+		"Reason": "Evidence",
+		"Property": "Alcohol",
+		"LastName": "A",
+		"Value": "10",
+		"Disposition": "Returned to Owner",
+		"Description": "For Automation Purpose",
+		"IncidentNo": "24-000005"
+	},
+	"29339": {
+		"PersonnelID": "Sfire, S",
+		"IncidentNo": "24-000004",
+		"ExactLocation": "Caroline;PX  ",
+		"FinalCFS": "123",
+		"PFNo": "SFIRE",
+		"UnitNo": "30-K9"
+	},
+	"35470": {
+		"IncidentNo": "24-000010",
+		"HoseType": "Attack Line"
+	},
+	"20254": {
+		"IncidentFromDate": "07/23/2024"
+	},
+	"42135": {
+		"IncidentNo": "24-000012",
+		"DOTNo": "9602",
+		"EstAmtReleased": "200",
+		"C1ContainerType": "20",
+		"C3Capacityunits": "21",
+		"DOT#": "9602",
+		"ReleasedUnits": "Ounce (weight)."
+	},
+	"42120": {
+		"IncidentNo": "24-000011",
+		"PersonnelID": "Fire, Dispatcher",
+		"EquipmentType": "Extrication",
+		"HoseType": "Attack Line"
+	},
+	"43947": {
+		"IncidentNo": "24-000013",
+		"Name": "Lydia, Max"
+	},
+	"48510": {
+		"ExactLocation": "50 cherry Ave",
+		"UnitNo": "FIR356",
+		"PFNo": "001"
+	},
+	"48547": {
+		"Station": "Station 2",
+		"ExactLocation": "50 cherry Ave",
+		"UnitNo": "15",
+		"Unit": "15",
+		"Station1": "S02"
+	},
+	"50820": {
+		"IncidentNo": "25-000006",
+		"Exp": "000",
+		"FirstName": "Joseph",
+		"LastName": "Scerbo",
+		"Name": "Scerbo, Joseph",
+		"Address": "1066 Marquette St",
+		"City": "Racine",
+		"State": "WI",
+		"Zip": "53404"
+	},
+	"60288": {
+		"IncidentNo": "25-000013",
+		"IncidentNo0": "25-000013",
+		"UnitNo": "01",
+		"PFCode": "PAA001",
+		"Notes": "Test"
+	},
+	"62790": {
+		"IncidentNo": "25-000003"
+	},
+	"63468": {
+		"IncidentNo": "25-000017",
+		"Text": "Automation"
+	},
+	"65496": {
+		"Station": "Station 2",
+		"Station1": "Station 2"
+	},
+	"66240": {
+		"IncidentNo": "17-000046"
+	},
+	"68341": {
+		"Address": "9336 N Rivercrest Dr",
+		"Longitude": "-88.127858300000",
+		"Latitude": "43.187274400000",
+		"ReportedLocation": "9336 N Rivercrest Dr"
+	},
+	"68655": {
+		"IncidentNo": "25-000019",
+		"ExactLocation": "Ashdale"
+	},
+	"69742": {
+		"Location": "101 W Acorn Dr",
+		"CADREF": "4567"
+	},
+	"69770": {
+		"IncidentNo": "25-000017"
+	},
+	"69792": {
+		"IncidentNo": "25-000020",
+		"ColumnName": "Incident#"
+	},
+	"69799": {
+		"IncidentNo": "25-000021",
+		"RunAssignment": "24",
+		"Event": "01 - Traffic Investigation",
+		"Disposition": "ALM",
+		"PrimeUnit": "ASF256",
+		"Custom1": "Test",
+		"Custom2": "Test"
+	},
+	"69823": {
+		"IncidentNo": "25-000018",
+		"": ""
+	},
+	"69852": {
+		"IncidentNo": "25-000002",
+		"UnitNo": "SFIRE",
+		"": ""
+	},
+	"69898": {
+		"Juris": "PX - ProPhoenix Fire Department",
+		"District1": "District #",
+		"Unit1": "ASF256   - ALS Rescue",
+		"Juris1": "BC - Brown County FireDepartment",
+		"District2": "District #",
+		"Unit2": "BCF001   - BLS Rescue",
+		"Juris0": "  --  "
+	},
+	"69936": {
+		"IncidentNo": "25-000002",
+		"Notes": "Test",
+		"PFCode": "201"
+	},
+	"69968": {
+		"InitialCFS": "ALS",
+		"ReportedLocation": "101 W Acorn Dr",
+		"Reason": "Evidence",
+		"Property": "Alcohol",
+		"LastName": "A",
+		"Value": "10",
+		"Disposition": "Returned to Owner",
+		"Description": "For Automation Purpose",
+		"Name1": "A, Mithun",
+		"Name": "Test, Automation",
+		"InvestigatorType": "11"
+	},
+	"69980": {
+		"Description": "Emergency",
+		"ReportedLocation": "150 Gold Star Hwy",
+		"TabName1": "Main",
+		"TabName2": "Names",
+		"TabName3": "Units",
+		"TabName4": "HazMat Observed",
+		"TabName5": "Unit Reports",
+		"TabName6": "NFIRS Reports",
+		"TabName7": "EMS Reports",
+		"TabName8": "Evidence",
+		"TabName9": "Notes",
+		"TabName10": "Attachment",
+		"TabName11": "Disposition",
+		"TabName12": "Map"
+	},
+	"70019": {
+		"Units": "01 - Engine Special",
+		"ColumnName1": "Unit",
+		"ColumnValue1": "01",
+		"Location0": "596 Muirfield CT",
+		"ColumnName2": "CFS",
+		"ColumnValue2": "596 Muirfield CT, Moorestown, NJ 08057",
+		"Location1": "@#FETF",
+		"IncidentFromDate": "10/01/2018",
+		"IncidentToDate": "10/16/2025",
+		"ColumnName3": "Incident Date"
+	},
+	"72217": {
+		"StationName": "S02 - Station 2",
+		"Station1": "S02",
+		"ApparatusTypeMainContent": "1 - Ground Fire Suppression",
+		"ApparatusTypeSubContent": "11 - Engine",
+		"ApparatusType": "Engine",
+		"ApparatusUse": "0 - Other",
+		"ActionTakenMainContent": "7 - Assistance",
+		"ActionTakenSubContent": "70 - Assistance, other",
+		"Shift": "A Shift",
+		"HoseType": "1 - Attack Line",
+		"HoseType1": "Attack Line",
+		"ActionTaken1": "Assistance, other",
+		"EquipmentType": "Extrication"
+	},
+	"72218": {
+		"Quantity": "10",
+		"Used": "10",
+		"HoseType": "1 - Attack Line",
+		"HoseType1": "Attack Line",
+		"Activity1": "W - Worked",
+		"Activity": "Worked",
+		"Status": "OND - On Duty",
+		"ActingRank": "Chief",
+		"ActualRank": "Assistant Chief",
+		"StartTime": "12:41",
+		"EndTime": "21:42",
+		"Points": "100",
+		"Comments": "TC#72223",
+		"Action1": "11",
+		"PFNo": "P100",
+		"PersonnelID":"Kanaga Raj",
+		"ExactLocation": "Forsythe",
+		"UnitNo": "02",
+		"ApparatusTypeMainContent": "1 - Ground Fire Suppression",
+		"ApparatusTypeSubContent": "11 - Engine",
+		"ApparatusUse": "0 - Other",
+		"ActionTaken1MainContent": "1 - Fire Control or Extinguishment",
+		"ActionTaken1SubContent": "11 - Extinguishment by fire service personnel",
+		"ActionTaken2MainContent": "2 - Search & Rescue",
+		"ActionTaken2SubContent": "21 - Search",
+		"ActionTaken3MainContent": "3 - EMS & Transport",
+		"ActionTaken3SubContent": "31 - Provide first aid & check for injuries",
+		"ActionTaken4MainContent": "4 - Hazardous Condition",
+		"ActionTaken4SubContent": "40 - Hazardous condition, other",
+		"EngineHrs": "48",
+		"PumpHrs": "10",
+		"OdometerReading": "120",
+		"MilesDriven": "1000",
+		"FuelUsed": "100",
+		"TimeStart": "12:41",
+		"TimeEnd": "21:42",
+		"HoursPaid": "10",
+		"OilUsed": "50",
+		"TemplateFor":"Unit Report Entry",
+		"TemplateName":"Test Auto 1",
+		"TextName": "Test Auto 1"
+	},
+	"72347": {
+		"PFCode": "SFIRE",
+		"PersonnelID": "Sfire, S",
+		"Code": "SFIRE"
+	},
+	"72355": {
+		"IncidentNo": "25-000025",
+		"IncidentNo1": "25-000010"
+	},
+	"72356": {
+		"IncidentNo": "25-000010",
+		"IncidentFromDate": "01/01/2025",
+		"FinalCFS": "101",
+		"IncidentTypeMainContent1": "1 - Fire",
+		"IncidentTypeSubContent1": "10 - Fire, other",
+		"IncidentType1": "100 - Fire, other",
+		"IncidentTypeMainContent0": "4 - Hazardous Conditions (No fire)",
+		"IncidentTypeSubContent0": "40 - Hazardous condition, other",
+		"IncidentType0": "400 - Hazardous condition, other",
+		"Disposition": "Closed",
+		"Code": "9",
+		"IncidentType":"100",
+		"CodeValue": "911 Lines",
+		"ReceivedSource": "9"
+	},
+	"72363": {
+		"InitialCFS": "F2",
+		"ReportedLocation": "42 Beech St;PX",
+		"ExactLocation": "42 Beech St;PX",
+		"PFNo": "FRMS",
+		"DOTNo": "9190",
+		"EstAmtReleased": "754"
+	},
+	"72364": {
+		"InitialCFS": "F2",
+		"ReportedLocation": "42 Beech St;PX",
+		"ExactLocation": "42 Beech St;PX"
+	},
+	"72366": {
+		"InitialCFS": "F2",
+		"ReportedLocation": "42 Beech St",
+		"ExactLocation": "42 Beech St",
+		"FinalCFS": "F2"
+	},
+	
+	"72680":{
+		"Juris": "--"
+	},
+	
+	"72676":{
+		"IncidentFromDate":"12/11/2025",
+		"Location":"534 W Elm St St",
+		"District":"District 1",
+		"AddressModifier":"DC",
+		"Event":"01 - Traffic Investigation",
+		"PF":"001",
+		"Division":"Administration",
+		"Shift":"A Shift",
+		"UnitNo":"191",
+		"Station":"Station 1",
+		"VehicleNo":"91",
+		"ResponseMode":"Emergent (Immediate Response)",
+		"Agency":"EMS"
+	},
+	"74326":{
+		"InitialCFS": "F2",
+		"ReportedLocation":"42 Beech St",
+		"FinalCFS":"F2",
+		"ExactLocation":"42 Beech St",
+		"LastName":"Marison",
+		"FirstName":"Tyson",
+		"Address":"42 Beech St",
+		"PhoneType":"Home",
+		"PhoneType1":"Home",
+		"PhoneNo1":"2126515615",
+		"PhoneType2":"Home",
+		"PhoneNo2":"2126515615",
+		"Name":"Marison, Tyson"
+		
+	},
+	"77667": {
+	"IncidentNo": "26-000004",
+	"ReceivedSource": "O",
+	"ReceivedSourceDescription": "Officer Initiated"	
+	}
+}

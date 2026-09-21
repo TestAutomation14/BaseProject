@@ -1,0 +1,301 @@
+
+{
+
+"30316":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"CADQAQINo":"24-000003"
+},
+"30400":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"FormType":"Police CAD QA",
+"FormName":"Form2"
+},
+"30378":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"ServiceType":"Police",
+"CallNo":"24-000019",
+"EvaluationForPF":"Abcd, Efgh - 5555 (Call Taker)",
+"CADQAQINo":"24-000004"
+},
+"30419":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"ServiceType":"Police",
+"ListPreparedBy":"MKS598",
+"NoOfCalls":"4",
+"Description":"Test"
+},
+
+"30445":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"ServiceType":"Police",
+"CallNo":"24-000015",
+"EvaluationForPF":"Team, Automation - MKS598 (Cmt Officer)",
+"EvaluationForm":"Form1",
+"Priority":"1",
+"ReportedTime":"06/17/24 08:21:15",
+"StackedTime":"06/17/24 08:21:25",
+"DispatchTime":"01/01/01 12:00:00",
+"DayOfWeek":"Monday",
+"NoOfActiveCalls":"10",
+"NoOfStackedCalls":"10",
+"NoOfLawUnitsOD":"0"
+},
+
+"33192":{
+"UserName":"Automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"CADQAQINo":"24-000015",
+"Template":"Automation",
+"Text":"Test Automation",
+"Comments":"Auto"
+},
+
+  "32744":{
+	"CADQAQINo":"24-000013",
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD"
+},
+
+"32802":{
+	"CADQAQINo":"24-000014",
+	"NewAction":"Send for Approval",
+	"RefNo":"24-000014",
+	"UserName1":"automation",
+	"UserName2":"cadsup",
+	"Password1":"Pnx@2016",
+	"Database":"AutomationCAD"
+},
+
+"32751":{
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD",
+	"CADQAQINo":"24-000013",
+	"Template":"Test",
+	"Text":"Test",
+	"TextName":"Automation",
+	"Template1":"Automation"
+},
+
+"32720":{
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD",
+	"PFCode":"MKS598",
+	"EvaluationForm":"Form2",
+	"EvaluationForPF":"Team, Automation"
+},
+
+"EvaluationEntry":{
+	"ServiceType":"Police",
+	"EvaluationForPF":""
+},
+"45353":{
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD",
+	"ServiceType":"Police",
+	"CallNo":"25-000006",
+	"EvaluationForPF":"Raj, Kamal - 01236CAD (Call Taker)",
+	"EvaluationForm":"TestAutomation"
+},
+"35534":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"ServiceType":"Police",
+"CADQAQINo":"25-000001",
+"EvaluationForm":"automation",
+"EvaluationForPF":"01236CAD",
+"EvaluationFor":"Raj, Kamal",
+"EvaluationByPF":"MKS598",
+"EvaluationBy":"Team, Automation",
+"Comments":"Test"
+},
+"55874":{
+"FormType":"Police CAD QA",
+"FormName":"Automation Report",
+"FormName1":"Automation Report Inactive"
+},
+"63273":{
+"ServiceType":"Police",
+"FromDate":"07/14/2020",
+"Description":"Selenium"
+},
+"63274":{
+"ServiceType":"Police",
+"FromDate":"07/14/2020"
+},
+
+"72362":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"ServiceType":"Police",	
+"FromDate":"11/18/2024",
+"NoOfCalls":"3",
+"CallCount":"3",
+"Description":"Test",
+"FromDate1":"11/18/24"
+},
+
+"72386":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",	
+"ServiceType":"Police",
+"FromDate":"10/01/2025",
+"NoOfCalls":"4",
+"FromDate1":"10/01/25",
+"Description":"Testing",
+"CallCount":"4"
+},
+
+"72382":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",	
+"ServiceType":"Police",
+"FromDate":"09/01/2025",
+"ToDate":"12/01/2025"	
+},
+
+"72463":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",	
+"ServiceType":"Police",
+"CallNo":"25-008897",
+"EvaluationForPF0":"D, Saravanan - CAD93 (Call Taker)",
+"EvaluationForPF1":"D, Saravanan - CAD93 (Dispatcher)",
+"EvaluationForm0":"AutomationForm1",
+"EvaluationForm1":"Eval Form Test1",
+"EvaluationForPFOption0":"D, Saravanan - CAD93 (Call Taker)",
+"EvaluationForPFOption1":"D, Saravanan - CAD93 (Cmt Officer)",
+"EvaluationForPFOption2":"D, Saravanan - CAD93 (Dispatcher)",
+"EvaluationForPFOption3":"Dell, Dell - dell (Unit Officer)",
+"CallTakerNDispatch":"D, Saravanan - CAD93"
+},
+
+"72531":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"CADQAQINo":"25-000001",
+"CallTaker":"D, Saravanan-CAD93",
+"Dispatcher":"D, Saravanan-CAD93"	
+},
+
+"72537":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",
+"Juris":"SOP - ProPhoenix Township Police Dept",
+"FormType":"Police CAD QA",
+"FormName1":"FormInactive",
+"FormName":"AutomationForm1",
+"FormName2":"abcd",	
+"FormName0":"AutomationForm1"
+},
+
+"72545":{
+"UserName":"automation",
+"Password":"Pnx@2016",
+"Database":"AutomationCAD",	
+"CADQAQINo":"25-000001"
+},
+
+"72612":{
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD",
+	"CADQAQINo":"25-000001",
+	"Location":"640 N Clinton Ave;",
+	"Weather":"Fair",
+	"DewPoint":"17.1 F (-8.3 C)",
+	"Pressure":"1004.7 mb",
+	"Visibility":"10.00 Miles",
+	"LastUpdateOn":"12/11/25 07:53:00",
+	"Temperature":"30.9 F (-0.6 C)",
+	"RelativeHumidity":"56 %",
+	"Wind":"290 degrees West"
+},
+
+"72606":{
+	"UserName":"automation",
+	"Password":"Pnx@2016",
+	"Database":"AutomationCAD",
+	"EvaluationForm":"AutomationForm1",
+	"ServiceType":"Police",
+	"EvaluationForm0":"AutomationForm1"
+},
+
+"73948":{
+	"EvaluationFormType":"Police CAD QA",
+	"EvaluationFormName":"AutoEvalForm",
+	"Description":"PerformEval",
+	"Column1":"1",
+	"ColumnHeading1":"Skill",
+	"AllowedValues1":"0-9",
+	"MandateCommentsIfValue":"9",
+	"WeightageScore":"40",
+	"CharForChartReport":"75",
+	"ColumnWidth":"10",
+	"Notes":"SkillPoints",
+	"MandateComments1":"9",
+	"Weightage1":"40",
+	"ReportChar1":"75",
+	"Width1":"10",
+	"Notes1":"SkillPoints",
+	"CategoryGroupName1":"CatGroupA",
+	"CategoryGroupName":"CatGroupA",
+	"SortOrder1":"1",
+	"Category1":"1",
+	"SortOrder":"1",
+	"CategoryGroup1":"CatGroupA",
+	"CategoryName1":"Catty1",
+	"EvaluationGuidelines":"CatTest",
+	"RatingInstructions":"Rate1",
+	"EvaluatorConsentAndAcceptance":"EvalConsent",
+	"DisallowEntriesFor":"Skill",
+	"Score1":"50"
+},
+
+"72780":{
+"RoleName":"System",
+"RoleDescription":"Administrator ",
+"ScreenID1":"7714",
+"ScreenID2":"1108",
+"PFCode":"5345687",
+"FirstName":"Tait",
+"LastName":"Shawn",
+"UserName":"PNX006",
+"Password":"Phoenix@2025",
+"RoleAssignment":"Syste",
+"Database":"AutomationPoliceMJ",
+"FormType":"Automation",
+"FormName":"TestAuto",
+"Description":"Gork",
+"ScreenName1":"FTO",
+"ScreenName2":"CAD"
+},
+"72780A":{
+"RoleName":"System",
+"ScreenID1":"1108",
+"UserName":"PNX006",
+"Password":"Phoenix@2025",
+"Database":"AutomationPoliceMJ"
+}
+}

@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>
+    <%= title %> – Automation Report
+  </title>
+
+  <!-- ✅ Styles -->
+  <link rel="stylesheet" href="assets/theme.css" />
+
+  <!-- ✅ Chart.js -->
+  <script src="assets/chart.umd.js"></script>
+</head>
+
+<body>
+
+  <!-- ================= HEADER ================= -->
+  <header class="header">
+    <img src="assets/logo.png" class="report-logo" alt="Logo" />
+    <div class="header-text">
+      <h1>
+        <%= title %> – Automation Report
+      </h1>
+      <p><strong>Product:</strong>
+        <%= product %>
+      </p>
+      <p><strong>Generated:</strong>
+        <%= generatedAt %>
+      </p>
+    </div>
+  </header>
+
+  <!-- ================= BREADCRUMB ================= -->
+  <nav class="breadcrumbs">
+    <% (breadcrumbs || []).forEach((crumb, index) => { %>
+      <% if (index > 0) { %><span> / </span><% } %>
+      <a class="<%= crumb.active ? 'active' : '' %>" href="<%= crumb.href %>"><%= crumb.label %></a>
+    <% }); %>
+  </nav>
+
+
+  <% function formatDuration(ms) { if (!ms || ms <=0) return '0:00' ; const totalSeconds=Math.floor(ms / 1000); const
+    minutes=Math.floor(totalSeconds / 60); const seconds=totalSeconds % 60; return
+    `${minutes}:${seconds.toString().padStart(2, '0' )}`; } %>
+
+
+    <!-- ================= SUMMARY + EXECUTION INFO ================= -->
+    <section class="summary-dashboard">
+
+      <!-- LEFT: SUMMARY + DASHBOARD -->
+      <div class="dashboard-left">
+
+        <!-- SUMMARY -->
+        <div class="summary">
+          <div class="cards">
+            <div class="card total">Total<br>
+              <%= data.summary.total %>
+            </div>
+            <div class="card passed">Passed<br>
+              <%= data.summary.passed %>
+            </div>
+            <div class="card failed">Failed<br>
+              <%= data.summary.failed %>
+            </div>
+            <div class="card skipped">Skipped<br>
+              <%= data.summary.skipped %>
+            </div>
+          </div>
+        </div>
+
+        <!-- DASHBOARD -->
+        <div class="dashboard-wrapper">
+          <div class="dashboard-grid">
+            <div class="chart-card">
+              <h3>Status</h3>
+              <canvas id="barChart"></canvas>
+            </div>
+            <div class="chart-card">
+              <h3>Distribution</h3>
+              <canvas id="pieChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+
+
+      <!-- ✅ RIGHT: EXECUTION INFO (ENHANCED, NOTHING REMOVED) -->
+      <aside class="execution-info">
+        <h3>Execution Info</h3>
+
+        <!-- Existing info -->
+        <span>👤 Executed By: <b>
+            <%= (data.tests && data.tests[0] && data.tests[0].executedBy) || 'Unknown User' %>
+          </b></span>
+        <span>💻 Machine Name: <b>
+            <%= (data.tests && data.tests[0] && data.tests[0].machineName) || 'Unknown Machine' %>
+          </b></span>
+        <span>🖥 OS Name: <b>
+            <%= (data.tests && data.tests[0] && data.tests[0].osName) || 'Unknown OS' %>
+          </b></span>
+        <span>🌐 Browser: <b>chrome</b></span>
+
+        <hr>
+
+        <!-- ✅ Added info to utilize space -->
+        <span>🚦 Environment: <b>QA Automation</b></span>
+        <span>🕒 Start Time: <b>
+            <%= generatedAt %>
+          </b></span>
+
+        <span>🏁 End Time: <b>
+            <%= endTime %>
+          </b></span>
+
+        <!-- <pre><%= JSON.stringify(data.stats, null, 2) %></pre> -->
+        <span>⏱ Total Duration: <b>
+            <%= data.stats.formattedDuration || 'N/A' %>
+          </b></span>
+      </aside>
+
+    </section>
+
+    <!-- ================= FILTERS ================= -->
+    <div class="test-filters">
+      <label>
+        Severity:
+        <select id="severityFilter">
+          <option value="all">All</option>
+          <option value="Critical">Critical</option>
+          <option value="Major">Major</option>
+          <option value="Minor">Minor</option>
+          <option value="Not Set">Not Set</option>
+        </select>
+      </label>
+
+      <label>
+        Priority:
+        <select id="priorityFilter">
+          <option value="all">All</option>
+          <option value="P0">P0</option>
+          <option value="P1">P1</option>
+          <option value="P2">P2</option>
+          <option value="P3">P3</option>
+          <option value="Not Set">Not Set</option>
+        </select>
+      </label>
+
+
+      <button id="clearFiltersBtn" style="
+  padding:6px 10px;
+  border:none;
+  border-radius:6px;
+  background:#2563eb;
+  color:#fff;
+  cursor:pointer;
+">
+        Clear
+      </button>
+
+
+    </div>
+
+    <div id="filterSummary" style="margin:10px 20px; font-weight:600;">
+      Showing ALL tests
+    </div>
+
+    <div id="noResultsMsg" class="no-results" style="display:none;">
+      No test cases match the selected filter criteria.
+    </div>
+
+    <!-- ================= TEST DETAILS ================= -->
+    <section>
+      <h2 class="section-title">Test Details</h2>
+
+      <% data.tests.forEach(function(test) { const sev=test.severity || 'Not Set' ; const
+        sevCls=sev.toLowerCase().replace(/\s+/g, '.' ); const pri=test.priority || 'Not Set' ; %>
+
+        <div class="test-card" data-severity="<%= sev %>" data-priority="<%= pri %>" data-status="<%= test.status %>">
+
+          <div class="test-badges">
+            <span class="badge severity <%= sevCls %>">Severity: <%= sev %></span>
+            <span class="badge priority">Priority: <%= pri %></span>
+          </div>
+
+          <div class="test-body">
+            <div class="test-left">
+              <h3>
+                <%= test.title %>
+              </h3>
+              <p>Status: <strong>
+                  <%= test.status %>
+                </strong>
+                &nbsp;•&nbsp;
+
+                🕒 Start: <strong>
+                  <%= test.startTime %>
+                </strong>
+                &nbsp;|&nbsp;
+
+                🏁 End: <strong>
+                  <%= test.endTime %>
+                </strong>
+                &nbsp;|&nbsp;
+
+                ⏱ Duration: <strong>
+                  <%= test.durationFormatted %>
+                </strong>
+              </p>
+
+
+              <% if (test.error) { %>
+                <details open>
+                  <summary>❌ Error</summary>
+                  <pre><%= test.error.message %></pre>
+                  <pre><%= test.error.stack %></pre>
+                </details>
+                <% } %>
+
+                  <% if (test.attachments && test.attachments.length) { %>
+                    <details>
+                      <summary>📎 Attachments</summary>
+
+                      <% if (test.videoUrl) { %>
+                        <p>
+                          🎥 Video:
+                          <a href="<%= test.videoUrl %>" target="_blank" rel="noopener noreferrer">
+                            Open Playwright Test Videos
+                          </a>
+                        </p>
+                        <% } %>
+
+                      <% test.attachments.forEach(att=> { %>
+
+                        <% if (att.contentType && att.contentType.startsWith('image')) { %>
+                          <img src="attachments/<%= att.fileName %>" class="screenshot-viewer" alt="Screenshot" />
+
+                          <% } else if (att.contentType && att.contentType.includes('video')) { %>
+                            <video controls width="320">
+                              <source src="attachments/<%= att.fileName %>" type="<%= att.contentType %>" />
+                            </video>
+
+                            <% } else if (att.contentType==='application/zip' ) { %>
+                              <p>
+                                🧵 Trace:
+                                <a href="attachments/<%= att.fileName %>" download>
+                                  <%= att.fileName %>
+                                </a>
+                              </p>
+                              <% } %>
+                                <% }) %>
+                    </details>
+                    <% } %>
+
+                  <% if (test.videoUrl && (!test.attachments || !test.attachments.length)) { %>
+                    <p>
+                      🎥 Video:
+                      <a href="<%= test.videoUrl %>" target="_blank" rel="noopener noreferrer">
+                        Open Playwright Test Videos
+                      </a>
+                    </p>
+                  <% } %>
+            </div>
+          </div>
+        </div>
+
+        <% }) %>
+    </section>
+
+    <footer class="footer">
+      Custom Playwright Reporter Generated by Mithun
+    </footer>
+
+    <!-- ================= CHART DATA ================= -->
+    <script type="application/json" id="summaryData">
+{
+  "passed": <%= data.summary.passed %>,
+  "failed": <%= data.summary.failed %>,
+  "skipped": <%= data.summary.skipped %>
+}
+</script>
+
+    <!-- ================= CHART SCRIPT ================= -->
+    <script>
+      let currentStatusFilter = ["passed", "failed", "skipped"];
+
+
+      document.addEventListener('DOMContentLoaded', function () {
+
+        window.metrics = JSON.parse(
+          document.getElementById('summaryData').textContent
+        );
+
+        /* ✅ STATUS FILTER FUNCTION */
+        function filterByStatus(status) {
+          currentStatusFilter = [status.toLowerCase()];
+          window.applyFilters();
+        }
+
+        /* ✅ BAR CHART */
+        const barChart = new Chart(document.getElementById('barChart'), {
+          type: 'bar',
+          data: {
+            labels: ['Passed', 'Failed', 'Skipped'],
+            datasets: [{
+              data: [metrics.passed, metrics.failed, metrics.skipped],
+              backgroundColor: ['#22c55e', '#ef4444', '#eab308']
+            }]
+          },
+          options: {
+            indexAxis: 'y',
+            plugins: { legend: { display: false } },
+            onClick: (evt, elements) => {
+
+              if (!elements.length) return;
+
+              const index = elements[0].index;
+              const label = barChart.data.labels[index];
+
+              filterByStatus(label);
+            }
+          }
+        });
+
+        window.createPieChart = function (){
+          return new Chart(document.getElementById('pieChart'), {
+            type: 'pie',
+            data: {
+              labels: ['Passed', 'Failed', 'Skipped'],
+              datasets: [{
+                data: [metrics.passed, metrics.failed, metrics.skipped],
+                backgroundColor: ['#22c55e', '#ef4444', '#eab308']
+              }]
+            },
+            options: {
+              plugins: {
+                legend: {
+                  onClick: function (evt, legendItem, legend) {
+
+                    const index = legendItem.index;
+                    const chart = legend.chart;
+
+                    chart.toggleDataVisibility(index);
+                    chart.update();
+
+                    const visibleStatuses = chart.data.labels
+                      .filter((label, i) => chart.getDataVisibility(i))
+                      .map(label => label.toLowerCase());
+
+                    currentStatusFilter = visibleStatuses;
+
+                    window.applyFilters();
+                  }
+                }
+              },
+              onClick: (evt, elements) => {
+
+                if (!elements.length) {
+                  currentStatusFilter = ["passed", "failed", "skipped"];
+                  window.applyFilters();
+                  return;
+                }
+
+                const index = elements[0].index;
+                const label = evt.chart.data.labels[index];
+
+                currentStatusFilter = [label.toLowerCase()];
+                window.applyFilters();
+              }
+            }
+          });
+        }
+
+        /* ✅ PIE CHART */
+        window.pieChart = createPieChart();
+      });
+    </script>
+
+    <!-- ✅ ================= FILTER LOGIC ================= -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+
+
+
+        const severityFilter = document.getElementById("severityFilter");
+        const priorityFilter = document.getElementById("priorityFilter");
+
+        const noResultsMsg = document.getElementById("noResultsMsg");
+
+
+        window.applyFilters = function () {
+
+          const severityFilter = document.getElementById("severityFilter");
+          const priorityFilter = document.getElementById("priorityFilter");
+          const noResultsMsg = document.getElementById("noResultsMsg");
+
+          const selectedSeverity = severityFilter.value.toLowerCase();
+          const selectedPriority = priorityFilter.value.toLowerCase();
+          const status = currentStatusFilter;
+
+          let visibleCount = 0;
+
+          document.querySelectorAll(".test-card").forEach(card => {
+
+            const cardSeverity = (card.getAttribute("data-severity") || "").toLowerCase();
+            const cardPriority = (card.getAttribute("data-priority") || "").toLowerCase();
+            const cardStatus = (card.getAttribute("data-status") || "unknown").toLowerCase();
+
+            const severityMatch = selectedSeverity === "all" || cardSeverity === selectedSeverity;
+            const priorityMatch = selectedPriority === "all" || cardPriority === selectedPriority;
+            const statusMatch = cardStatus && currentStatusFilter.includes(cardStatus);
+
+
+
+
+            if (severityMatch && priorityMatch && statusMatch) {
+              card.style.display = "block";
+              visibleCount++;
+            } else {
+              card.style.display = "none";
+            }
+
+          });
+
+
+          const summary = document.getElementById("filterSummary");
+
+          if (visibleCount === document.querySelectorAll(".test-card").length) {
+            summary.innerText = "Showing ALL tests";
+          } else {
+            summary.innerText = `Showing ${visibleCount} test(s)`;
+          }
+
+
+          noResultsMsg.style.display =
+            visibleCount === 0 ? "block" : "none";
+        };
+
+
+        document.getElementById("severityFilter")
+          .addEventListener("change", window.applyFilters);
+
+        document.getElementById("priorityFilter")
+          .addEventListener("change", window.applyFilters);
+
+document.getElementById("clearFiltersBtn")
+  .addEventListener("click", function () {
+
+    // ✅ Reset dropdowns
+    severityFilter.value = "all";
+    priorityFilter.value = "all";
+
+    // ✅ Destroy old chart
+    if (window.pieChart) {
+      window.pieChart.destroy();
+    }
+
+    // ✅ Recreate chart
+    window.pieChart = createPieChart();
+
+currentStatusFilter = ["passed", "failed", "skipped"];
+
+    // ✅ Apply filters
+    window.applyFilters();
+  });
+
+      });
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,662 @@
+﻿123:public void SwitchToInvoiceTypeScreen() {
+128:public void SwitchToInvoiceSearch() {
+133:public void SwitchToInvoiceEntry() {
+138:public void SwitchToTransactionAndAdjustment() {
+143:public void SwitchToInvoiceTypeEntry() {
+148:public void SwitchToItemCodeEntry() {
+153:public void SwitchToItemCode() {
+158:public void SwitchToReceivePayment() {
+163:public void SwitchToReceivePaymentOption() {
+168:public void SwitchToReceivePaymentFindAccountScreen() {
+173:public void SwitchToFeeSearch() {
+178:public void SwitchToPaymentSearch() {
+183:public void SwitchToInvoiceSearchHelpWindow() {
+188:public void switchToSearchAccount() {
+193:public void switchToExpenseSearch() {
+197:public void switchToExpenseEntry() {
+201:public void switchToPermitType() {
+206:public void switchToPermitTypeEntry() {
+210:public void switchToPermitCSDCMACTypeEntry() {
+215:public void switchToPaymentReceipt() {
+221:public void ClickAddNew() {
+225:public void VerifyExpandCollapseCheckboxChecked() {
+230:public void VerifyAtInvoiceType() {
+238:public void VerifyCycleAsMonthlyByAtInvoiceType() {
+245:public void VerifyCurrentMonthAppearInMonthColumn() {
+253:public void SelectRowByAtInvoiceType() {
+261:public void selectRowByAtInvoiceTypeInOpenRecordsRequest() {
+268:public void verifyAtInvoiceTypeShowsGrayColor() {
+276:public void verifyAtInvoiceTypeShowsBlackColor() {
+284:public void clickIncludeInactiveCheckbox() {
+288:public void clickSearchButton() {
+292:public void selectRowAtInvoiceType1() {
+299:public void verifyAtInvoiceTypeUsingIndex(int i) {
+311:public void ClickSaveButton() {
+315:public void SelectAtInvoiceClass() {
+322:public void SelectDisbursementAccount() {
+327:public void EnterAtInvoiceType() {
+331:public void EnterAtInvoiceType(int i) {
+336:public void EnterDescription() {
+340:public void EnterAtDescription() {
+345:public void EnterCycleAsMonthly() {
+350:public void SelectDefaultBaseMonthAsCurrentMonth() {
+355:public void SelectAtInvoiceTemplate() {
+360:public void EnterAtSendFirstNoticeIn() {
+368:public void SelectTemplateAsInvoiceDue() {
+373:public void EnterAtSendSubsequentNoticeInEvery() {
+380:public void SelectTemplateAsInvoiceFinalNotice() {
+384:public void Save() {
+389:public void ClickIsPenaltyRadioButton() {
+393:public void ClickIsPermitRadioButton() {
+397:public void ClickAttachReportTemplateButton() {
+401:public void Verify8EnterMandatoryDataAcknowledgeMessage() {
+405:public void ClickAddNewItemCodeButton() {
+409:public void verifyAdditionSuccessfulMessage() {
+414:public void verifyUpdateSuccessfulStatusMessage() {
+419:public void VerifyAtItemCodeInGrid() {
+429:public void VerifyAtDescriptionInGrid() {
+438:public void VerifyInvoiceClassDispalyedAsInspection() {
+443:public void VerifyInvoiceClassDispalyedAsMiscellaneous() {
+448:public void VerifyInvoiceClassDispalyedAtDescription() {
+453:public void SelectAdd2990InInvoiceClassComboBox() {
+459:public void ClickDeleteIcon() {
+463:public void Verify4DoYouWantToDeleteConfirmMsg() {
+471:public void close() {
+476:public void ClickInactiveCheckbox() {
+480:public void SaveNClose() {
+485:public void verifyAdditionSuccessful() {
+496:public void VerifyInvoiceClassDispalyedAsManualInvoice() {
+501:public void VerifyInvoiceClassDispalyedAsAlarms() {
+506:public void verify21813SaveAcknowledge() {
+510:public void verify21812InvoiceTypeCannotDeleteAckMsg() {
+518:public void Verify4DoYouWantToDeleteConfirmMsgForFire() {
+526:public void verifyIsPermitIsNotSelected() {
+530:public void clickResetIcon() {
+534:public void verifyAtInactiveDateAndTime() {
+539:public void verifyInactiveDateFieldIsBlank() {
+544:public void clickInvoiceTypeCopyIcon() {
+549:public void verify2528CopiedSuccesssfullyBottomMessage() {
+554:public void verifyAtInvoiceType() {
+560:public void verifyInvoiceTypeEntryGridCount(int count) {
+567:public void clearInvoiceType() {
+571:public void verifyAtAmountByItemCodeInGrid() {
+579:public void verifyAtNotesByItemCodeInGrid() {
+591:public void Close() {
+595:public void VerifyAtInvoiceClass() {
+602:public void SelectAtInvoiceClass() {
+608:public void VerifyAtInvoiceType() {
+615:public void SelectAtInvoiceType() {
+621:public void EnterAtItemCode() {
+625:public void ClickInactiveCheckbox() {
+629:public void EnterAtDescription() {
+633:public void EnterAtConditionsNotes() {
+638:public void EnterAtAmount() {
+645:public void VerifyDollarSymbol() {
+649:public void SaveNClose() {
+654:public void ClickSaveButton() {
+658:public void save() {
+663:public void verifyAdditionSuccessfulMessage() {
+668:public void Verify21857DoYouWantRegFeeItemCodeAckMsg() {
+677:public void enterConditionsNotes() {
+681:public void clickPrintCheckbox() {
+685:public void clickDeleteButton() {
+689:public void verify4DoYouWantToDeleteConfirmMsg() {
+696:public void verifyAdditionSuccessful() {
+707:public void verify3DoYouWantToSavePopup() {
+710:public void verifyUpdateSuccessfulMessage() {
+715:public void verify3DoYouWantToSavePopupForFire() {
+718:public void clickResetIcon() {
+722:public void verifyAtItemCode() {
+729:public void verifyAtDescription() {
+734:public void verifyInactiveCheckboxIsSelected() {
+741:public void VerifyExpandCollapseCheckboxChecked() {
+746:public void ClickExpandCollapseCheckbox() {
+750:public void ClickAddNewButton() {
+754:public void ClickSearchButton() {
+758:public void ClickIncludeInactiveCheckbox() {
+762:public void EnterAtItemCode() {
+766:public void EnterAtItemCode1() {
+770:public void EnterAtDescription() {
+774:public void ClearItemCode() {
+778:public void EnterItemCode() {
+782:public void ClickShowPermitsOnlyCheckbox() {
+786:public void VerifyAtItemCodeInGrid() {
+791:public void VerifyAtItemCodeAppearsGrayColor() {
+798:public void VerifyAtDescriptionInGrid() {
+804:public void VerifyAtItemCode1InGrid() {
+810:public void SelectRowByAtItemCode1() {
+815:public void SelectRowByAtItemCode() {
+820:public void VerifyAtInvoiceClassInGrid() {
+826:public void VerifyAtInvoiceTypeInGrid() {
+832:public void SelectAtInvoiceClass() {
+837:public void SelectAtInvoiceType() {
+842:public void ReloadScreen() {
+847:public void Verify6040NoRecordFoundMessage() {
+851:public void selectAtDescriptionUnderAnimalContainment() {
+858:public void selectAtDescriptionInGrid() {
+863:public void verifyAtItemCodeRowAppearsGrayColor(int i) {
+886:public void VerifyInvoiceNo(String invoiceNo) {
+893:public void VerifyAtInvoiceNo() {
+900:public void VerifyInvoiceTypeAsFalseAlarm() {
+907:public void close() {
+911:public void EnterAtBillToAccountNameID() {
+919:public void VerifyAtBillToAccountLastName() {
+925:public void EnterAtBillToAccountLastName() {
+932:public void TabOutBillToAccountNameFields() {
+938:public void VerifyBillToAccountNameFieldIsEnabled() {
+943:public void VerifyAtBillToAccountFirstName() {
+949:public void VerifyAtPhoneType() {
+954:public void VerifyAtPhoneNumber() {
+960:public void GetInvoiceNo(String invoiceNo) {
+967:public String readInvoiceNo() {
+975:public void verifyAtInVoiceType() {
+981:public void VerifyAtInvoiceClass() {
+987:public void VerifyAtDetailNo() {
+994:public void GetInvoiceNo(String invoiceYear, String invoiceNo) {
+1001:public void GetIDNo(String IDNo) {
+1006:public void SaveScreen() {
+1011:public void SaveNClose() {
+1016:public void ClickSaveButton() {
+1020:public void TabOutInvoiceDate() {
+1024:public void TabOutDueDate() {
+1028:public void TabOutOriginalPaymentDueDate() {
+1032:public void ClickIDInfoIcon() {
+1037:public void VerifyIDNoAsAlarmNo(String alarmNo) {
+1041:public void VerifyAtIDNo() {
+1046:public void SelectAtInvoiceClass() {
+1054:public void SelectAtInvoiceType() {
+1059:public void SelectAtBillingContact() {
+1065:public void VerifyAtAddress() {
+1070:public void VerifyAtInvoiceBalance() {
+1075:public void Verify21811EnterTheInvoiceDateAckMsg() {
+1079:public void VerifyInvoiceDateAsCurrentDate() {
+1084:public void VerifyDueDateAsNextMonthCurrentDate() {
+1089:public void VerifyOriginalpaymentDueDateAsNextMonthCurrentDate() {
+1094:public void VerifyAdditionSuccessfulStatusMessage() {
+1100:public void VerifyUpdateSuccessfulStatusMessage() {
+1109:public void VerifyReceivePaymentIconDisplayed() {
+1113:public void ClickReceivePaymentIcon() {
+1117:public void VerifyDeleteIconDisplayed() {
+1121:public void ClickDeleteButton() {
+1126:public void VerifyEmailInvoiceButtonEnabled() {
+1130:public void ClickEmailInvoiceButton() {
+1134:public void VerifyPrintInvoiceButtonEnabled() {
+1138:public void VerifyVoidInvoiceButtonEnabled() {
+1142:public void ClickVoidInvoiceButton() {
+1146:public void VerifyAtInvoiceTemplate() {
+1152:public void Verify21858DoYouWishToVoidInvoiceConfirmMSg() {
+1156:public void Verify21829ItemCodeDetailsMandatoryAckMsg() {
+1160:public void Verify21827DoYouWantToDeleteInvoiceConfirmMsg() {
+1167:public void Verify1004DeletionSuccessfulStatusMessage() {
+1173:public void VerifyAtTotalAmount() {
+1179:public void VerifyAtInvoiceAmount() {
+1185:public void VerifyVoidStatus() {
+1190:public void VerifyPastDueStatus() {
+1195:public void VerifyVoidInvoiceButtonDisabled() {
+1199:public void verifyStatusAsVoid() {
+1207:public void ClickTransactionsHistoryTab() {
+1211:public void VerifyOnlyInvoiceDetailsTabEnabled() {
+1215:public void VerifyTransactionHistoryTabNotEnabled() {
+1220:public void clickInvoiceDetailsTab() {
+1224:public void verifyAdditionSuccessful() {
+1235:public void clickAddANewContact() {
+1239:public void verifyInvoiceTemplateIsDisplayed() {
+1243:public void verifyAtDeletedInvoiceType() {
+1250:public void Verify21829ItemCodeDetailsMandatoryAckMsgForFire() {
+1254:public void VerifyUpdateSuccessfulStatusMessageForFire() {
+1259:public void clickPrintIcon() {
+1264:public void verifyInvoiceDatewithInFromDateAndToDate(String InvoiceFromDate ,  String InvoiceToDate) {
+1270:public void VerifyInvoiceClass(String invoiceclass) {
+1276:public void verifyInvoiceClassFeildIsDisabled() {
+1281:public void VerifyInvoiceType(String InvoiceType) {
+1286:public void verifyInvoiceClassTypeIsDisabled() {
+1292:public void verify1051UpdatedDataExistInInvoiceDetailsTabAck() {
+1296:public void verify1011NoRecordFoundAckMsg() {
+1301:public void ClickDeleteButtonWithConfirmationPopup() {
+1307:public void VerifyAtInvoiceBalance(String InvoiceBalance) {
+1312:public void clickRefreshButton() {
+1317:public void verifyAtJuris() {
+1323:public void selectAtJuris(int i) {
+1327:public void enterAtBillToAccountNameID(int i) {
+1335:public void verifyDoYouWantToApplyCreditPopup(String screeshotName) {
+1347:public void verifyTheSumOfInvoicesAcknowledgePopup() {
+1352:public void verifyDedicatedCheckboxCheckedDisabled() {
+1357:public void verifyAtCompensatoryAmnt() {
+1362:public void verifyAtDedicatedAmt() {
+1367:public void ClickPrintInvoiceButton() {
+1375:public void SelectAtItemCode() {
+1381:public void ClearQuantity() {
+1385:public void EnterAtQuantity() {
+1390:public void VerifyQualityAs1() {
+1395:public void VerifyAtRate() {
+1400:public void EnterAtRate() {
+1407:public void ClearRate() {
+1411:public void TabOutRate() {
+1415:public void VerifyAtAmount() {
+1421:public void VerifyAtAmount1() {
+1427:public void ClickAddButton() {
+1431:public void VerifyAtDescription(int rowIndex) {
+1438:public void SelectRowByAtItemCode() {
+1445:public void DeleteAtItemCodeInGrid() {
+1451:public void DeleteAtItemCode1InGrid() {
+1456:public void DeleteAtItemCode1Grid() {
+1463:public void VerifyAtItemCodeInGrid(int rowIndex) {
+1470:public void verifyAtItemCodeInGrid(int i) { // Changed by Absar
+1476:public void verifyAtItemCodeGrid(int i) {
+1480:public void VerifyAtItemCode1InGrid(int rowIndex) {
+1487:public void VerifyAtRateInGrid(int rowIndex) {
+1493:public void VerifyAtAmountInGrid(int rowIndex) {
+1499:public void VerifyAtTotalAmount() {
+1504:public void Verify4DoYouWantToDeleteConfirmMsg() {
+1512:public void VerifyAtItemCodeNotInGrid() {
+1519:public void SelectAtSubItemCode1() {
+1525:public void SelectAtSubItemCode() {
+1531:public void selectAtItemCode(int i) {
+1537:public void verifyDeleteIconNotPresentByItemCodeInGrid(int i) {
+1544:public void SelectAtItemCode(int i) {
+1550:public void VerifyAtItemCode2InGrid(int rowIndex) {
+1557:public void verifyAtItemCodeInGridInList(String ItemCode) {
+1563:public void enterAtAmount() {
+1569:public void enterAtConditionsNotes() {
+1574:public void enterAtDescription(int i) {
+1580:public void clickPrintConditionsCheckbox() {
+1584:public void enterAtRate(int i) {
+1592:public void verifyDeleteIconIsDispayedByItemCodeInGrid(int i) {
+1600:public void verify6RecordMarkedForDeletionPopup() {
+1604:public void verify1018RequiredEntriesAreMissingAcknowledgePopup() {
+1608:public void verify1051UpdatedDataExistsInInvoiceDetailsTabAcknowledgePopup() {
+1612:public void enterAtQuantity() {
+1616:public void verifyQuantityAsBlank() {
+1621:public void verifyDeleteIconNotPresentInGrid(int i) {
+1633:public void VerifyVoidRowInGrid(int rowIndex) {
+1641:public void VerifyActionAsCorrection(int rowIndex) {
+1648:public void VerifyAtActionTypeInGrid(int rowIndex) {
+1655:public void VerifyAtCreditAmountDecreasedInGrid(int rowIndex) {
+1662:public void ClickAddTransactionHistoryButton() {
+1666:public void VerifyAtAdjustment() {
+1686:public void EnterAtAmount() {
+1691:public void EnterAtInvoiceNo() {
+1699:public void selectPaymentMethodAsCash() {
+1705:public void SelectPaymentMethodAsMO() {
+1711:public void clickSave() {
+1716:public void verifyAdditionSuccessfulMessage() {
+1721:public void SaveScreen() {
+1727:public void getInvoiceNo(String invoiceYear, String invoiceNumber) {
+1734:public void SaveNClose() {
+1739:public void CloseScreen() {
+1743:public void VerifyAtInvoiceClass() {
+1749:public void VerifyAtAccountBalance() {
+1754:public void VerifyAtBillToAccountNo() {
+1761:public void VerifyAtNameID() {
+1768:public void EnterAmount() {
+1772:public void EnterAmountAs0() {
+1777:public void enterAmount(String balanceAmount) {
+1781:public void SelectAtPaymentMethod() {
+1788:public void EnterAtTransactionReference() {
+1793:public void VerifyAtPaymentMethod() {
+1800:public void verifyAtPaymentMethodDropdownValue() {
+1806:public void VerifyAtTransactionReference() {
+1811:public void EnterAtCheckNo() {
+1815:public void EnterCheckNo() {
+1819:public void ClickVoidPaymentButton() {
+1823:public void VerifyVoidPaymentConfMsg() {
+1828:public void Verify21815PleaseSelectPaymentMethodAckMsg() {
+1832:public void Verify8EnterMandatoryDataAckMsg() {
+1836:public void EnterVoidPaymentReason() {
+1840:public void EnterVoidPaymentAtReason() {
+1844:public void ClickVoidOKButton() {
+1848:public void VerifyVoidAtReason() {
+1853:public void VerifyVoidReasonAppearsRedColor() {
+1858:public void SelectAtInvoiceClass() {
+1863:public void SelectInvoiceClassAsInspection() {
+1868:public void enterAtAccountNameID() {
+1879:public void EnterAtAccountName() {
+1888:public void ClickInvoiceNoLookup() {
+1893:public void TabDate() {
+1897:public void EnterMemo() {
+1901:public void ClickFindAnAccountOrInvoiceButton() {
+1905:public void EnterAtAmountDue() {
+1909:public void clickPrintButton() {
+1913:public void verify21844DoYouWantApplyCreditAckMessage() {
+1918:public void VerifyAtAvailableCredit() {
+1923:public void enterAtLastName() {
+1930:public void enterAtFirstName() {
+1937:public void selectRowCheckBoxByAtInvoiceNoInGrid() {
+1943:public void enterAtPaymentEditInGrid() {
+1949:public void clickSaveNClose() {
+1953:public String getWindowID() {
+1958:public void verifyAtLastName() {
+1963:public void verifyAtFirstName() {
+1968:public void selectRowCheckBoxByInvoiceNoInGrid(String invoiceNo) {
+1974:public void verifyAtCheckNo() {
+1979:public void verify21821SelectOverPaymtAck() {
+1984:public void verifyAtAmountDue() {
+1990:public void enterInvoiceNo(String invoiceNo) {
+1999:public void Verify21815PleaseSelectPaymentMethodAckMsgForFire() {
+2003:public void VerifyVoidPaymentConfMsgForFire() {
+2008:public void clickSelectAllCheckBox() {
+2013:public void verifyAtJuris() {
+2018:public String readReceiptNo() {
+2024:public void clickEmailReceipt() {
+2028:public void verifyPaymentReceiptWindowOpens() {
+2032:public void clickHistoryTab() {
+2036:public void verifyAtTabColorAsBlue(int i,String TabName) {
+2041:public void switchToAttachmentTab() {
+2047:public String getAccountBalance() {
+2051:public void clickInvoicesTab() {
+2055:public void clickResetIcon() {
+2059:public void verifyInvoiceTabIsDisplayed() {
+2063:public void verifyHistoryTabIsDisplayed() {
+2067:public void verifyAttachmentsTabIsDisplayed() {
+2071:public void selectAtCashRegister() {
+2077:public void clickPrintEmailReceiptButton() {
+2081:public void clickVoidPaymentButton() {
+2086:public void clickEnterKeyInReason() {
+2090:public void verify21852VoidingPaymentAcknowledgementPopup() {
+2098:public void clickRowAtByInvoiceNoCheckBox() {
+2104:public void ClickRowByInvoiceNoCheckBox() {
+2109:public void clickRowByInvoiceNoCheckBox(String invoiceNo) {
+2116:public void SelectAtInvoiceNoInGrid() {
+2122:public void VeriyApplyCheckboxChecked(int rowIndex) {
+2128:public void EnterAtPaymentAmountInGrid() {
+2139:public void VerifyAtPaymentInGrid() {
+2146:public void VerifyAtApplied() {
+2151:public void VerifyAtOverPayment() {
+2156:public void clickLeaveCreditUsedLaterRadioButton() {
+2160:public void ClickSelectAllCheckbox() {
+2164:public void VerifyAtAccountBalanceAfterPayment() {
+2173:public void verifyAtInvoiceNoInGrid() {
+2179:public void verifyAtInvoiceNo1InGrid() {
+2185:public void verifyAtInvoiceNo2InGrid() {
+2191:public void verifyAtApplyCreditInGrid() {
+2198:public void verifyAtApplyCredit1InGrid() {
+2204:public void verifyAtAmountDueInGrid(String invoice) {
+2211:public void verifyAtAmountDue1InGrid() {
+2217:public void enterAtPaymentInGrid() {
+2229:public void EnterAtPaymentAmountForInvoiceInGrid() {
+2238:public String verifyAndSelectInGrid(String InvoiceNo) {
+2248:public void verifyPaymentEnabledInGrid() {
+2253:public void verifyAtPaymentAmountInGrid(int count) {
+2266:public void verifyPaymentDisabledInGrid() {
+2271:public void enterPaymentByInvoiceNoInGrid(String invoiceNo, int paymentIdx) {
+2282:public void selectGridRowCheckBoxByInvoiceNo(String invoiceNo) {
+2287:public void verifyAtGridRowCount(int gridRowCount) {
+2293:public void verifySelectAllCheckBoxIsEnabled() {
+2298:public void verifyLeaveTheCreditRadioButtonIsEnabled() {
+2304:public void verifyRefundRadioButtonIsEnabled() {
+2309:public void clickRefundRadioButton() {
+2313:public void verifyAtRefundAmount() {
+2321:public void verifyDatAsCurrentDateInGrid() {
+2327:public void verifyNotesInGrid() {
+2333:public void CloseScreen() {
+2337:public void clickCloseButton() {
+2343:public void ClickPrintReceiptButton() {
+2349:public void ClickEmailReceiptButton() {
+2355:public void verifyReceivedTextInGreenColor() {
+2362:public void ClickPrintButton() {
+2366:public void SelectAtItemCode(int i) {
+2372:public void SelectAtInvoiceType() {
+2378:public void SelectAtInvoiceClass() {
+2385:public void EnterAtAddress() {
+2390:public void clickAddNewButton() {
+2394:public void EnterAtAccountName() {
+2402:public void EnterAtAccountLastName() {
+2409:public void ClickSearch() {
+2414:public void ClickBackButton() {
+2420:public void ClickResetButton() {
+2425:public void Verify1011NoRecordFoundAcknowledgeMessage() {
+2432:public void VerifyAtNameInGrid(int rowCount) {
+2438:public void VerifyAtAccountInGrid(int rowCount) {
+2444:public void SelectAtInvoiceTypeinGrid() {
+2451:public void SelectRowByAtInvoiceNo() {
+2458:public void VerifyAtInvoiceNoAppearsGrayColor() {
+2465:public void SelectRowByAtAccount() {
+2473:public void EnterAtInvoiceNo() {
+2481:public void ClickInvoiceInfoIcon() {
+2485:public void EnterAtSystemIDFromAndToFields() {
+2491:public void EnterAtInvoiceNoFromAndToFields() {
+2503:public void ClickOverDueCheckbox() {
+2507:public void clickIncludeVoidCheckBox() {
+2516:public void VerifyUnpaidRadioButtonAsSelected() {
+2520:public void verifyAtInvoiceNoInGrid(int rowCount) {
+2526:public void reloadScreen() {
+2530:public void verifyvoidedRecordsApperasRedIntheGrid() {
+2537:public void verifyIbubbleIsDisplayed() {
+2543:public void verifyValidationPopUpIsArised(boolean windowExist) {
+2548:public void selectAtInvoiceDate() {
+2553:public String getInvoiceFromDate() {
+2560:public String getInvoiceToDate() {
+2566:public String getDueFromDate() {
+2572:public String getDueToDate() {
+2577:public void verifyInvoiceFromDateAndToDateForLastWeek(String FromDate , String Todate)
+2589:public void verifyDueDateWithInFromAndToDateInGrid(String FromDate , String ToDate) {
+2595:public void SelectAtDueDate() {
+2600:public void verifyFromAndToDueDate(int NoOfDays) {
+2608:public void selectInvoiceClass() {
+2613:public void selectInvoiceInGrid() {
+2619:public String getSelectedInvoiceClass() {
+2623:public void selectInvoiceType() {
+2627:public String getSelectedInvoiceType() {
+2631:public void selectItemCode() {
+2636:public String getSelectedItemCode() {
+2642:public void verifyNameColumnIsNotNull() {
+2650:public void clickRefreshButton() {
+2655:public void verifyBackButtonIsDisplayed() {
+2661:public void clickBackButton() {
+2666:public void verifyInvoiceClassDropDownIsDisplayed() {
+2671:public void ClickSelectAllCheckbox() {
+2675:public void clickAtInvoiceNoCheckboxInGrid() {
+2681:public void clickReceivePayment() {
+2685:public void selectAtJuris(int i) {
+2690:public void verifyInvoiceFromDateAndToDateForLastYear(String fromDate, String toDate) {
+2695:public void verifyDateBetweenInvoiceFromAndToDatesInGrid(String fromDate, String toDate) {
+2699:public void enterAtFromDate() {
+2703:public void enterAtToDate() {
+2707:public void enterAtInvoiceNoFromAndToFields() {
+2719:public void verifyAtInvoiceNoFromAndToInGrid() {
+2741:public void selectRandomGridRow() {
+2746:public void enterAtTracking() {
+2751:public void verifyAtInvoiceNoInGrid(String invoiceNo) {
+2757:public void EnterAtInvoiceNo(String getinvoiceNo) {
+2766:public void clickShowAccountBalanceSummaryCheckbox() {
+2770:public void selectRandomInvoiceSummaryGridRow() {
+2775:public void selectInvoiceNoInGrid(String invoiceNo) {
+2780:public void enterAtStateReg() {
+2785:public void selectInvoiceNoCheckBoxInGrid(int rowIndex) {
+2790:public String getInvoiceNoByRowIndexInGrid(int rowIndex) {
+2796:public void verifyFromInvoiceNo(String readedFromInvoiceNo) {
+2802:public void clickInvoiceToLookupIcon() {
+2806:public void verifyToInvoiceNo(String readedToInvoiceNo) {
+2812:public void verifyInvoiceFromAndToDateForThisCalenderYear(String FromDate, String Todate) {
+2819:public void selectAtInvoiceDate(int i) {
+2825:public void zoomOutInvoiceSearch()  {
+2842:public void zoomInInVoiceSearch() {
+2859:public void verifyGridIsNotEmpty() {
+2866:public void verifyInvoiceDateFromAndToDateInGrid(String invoiceFromDate, String invoiceToDate) {
+2877:public void VerifyAtInvoiceNo() {
+2884:public void VerifyDateOfActionAsCurrentDate() {
+2889:public void TabOutDateofAction() {
+2893:public void TabOutPFCode() {
+2898:public void VerifyAtPFCode() {
+2903:public void SelectAtActionType() {
+2910:public void EnterAtAmount() {
+2914:public void EnterTransactionNotes() {
+2918:public void SaveNClose() {
+2923:public void ClickSaveNClose() {
+2927:public void saveScreen() {
+2937:public void VerifyAtForYear() {
+2943:public void SelectAtInvoiceType() {
+2948:public void ClickIncludeBilledCheckbox() {
+2952:public void ClickSearchButton() {
+2956:public void ClickSelectAllCheckbox() {
+2960:public void ClickCreateInvoiceButton() {
+2964:public void Verify6040TotalInvoiceGeneratedAckMsg() {
+2968:public void VerifyAtSystemIDNoInGrid(int rowIndex) {
+2974:public void VerifyAtOccupancyNameInGrid(int rowIndex) {
+2980:public int GetFeeSearchGridRow() {
+2985:public void VerifyTotalRecordsSelectedAs1(int row) {
+2990:public void VerifyRecordsSelectedTextInPopup(int row) {
+2995:public void TabOutInvoiceDate() {
+2999:public void VerifyDueDateAsOneMonthFutureDate() {
+3004:public void ClickPopupCreateInvoiceButton() {
+3008:public void selectAtJuris(int i) {
+3013:public void verifyAtJurisInGrid(int i) {
+3019:public void reloadTabScreen() {
+3024:public void selectAtForYear() {
+3030:public void verifyAtInvoiceTypeInGrid() {
+3036:public void selectAtItemCode() {
+3041:public void selectRowByAtInvoiceType() {
+3048:public void selectAtForMonth() {
+3055:public void verifyAtBaseMonthInGrid() {
+3061:public void selectAtForYear(int i) {
+3067:public void clickRandomRowCheckBoxInGrid() {
+3072:public void verifyRandomRowCheckBoxIsSelected() {
+3084:public void EnterAtInvoiceNo() {
+3092:public void clickReceivePayment() {
+3096:public void EnterInvoiceNo(String invoiceYear, String invoiceNumber) {
+3102:public void SelectAtInvoiceClass() {
+3108:public void ClickSearchButton() {
+3112:public void SelectRowByAtInvoiceNo() {
+3117:public void SelectRowByInvoiceNo(String invoiceYear, String invoiceNumber) {
+3123:public void VerifyAtPaidByInGrid() {
+3131:public void VerifyAtReferenceNoInGrid(int rowIndex) {
+3137:public void VerifyAtAccountNameInGrid(int rowIndex) {
+3143:public void selectPaymentDateAsToday() {
+3149:public void verifyAtAccountNameInGrid() {
+3157:public void clickPrintIcon() {
+3162:public void selectRandomGridRow() {
+3166:public void enterAtReceiptNo(String ReceiptNo) {
+3170:public void clickResetButton() {
+3174:public void verifyAtInvoiceClass(int i) {
+3182:public void verifyAtInvoiceType(int i) {
+3190:public void selectAtInvoiceType() {
+3194:public void verifyAtSelectedInvoiceClass(int i) {
+3198:public void verifyAtSelectedInvoiceType(int i) {
+3203:public void clickSelectAllCheckbox() {
+3207:public void selectRandomGridRowsCheckboxes(int noOfItemsToSelect) {
+3212:public int getTotalGridRowsCount() {
+3218:public int getSelectedGridRowsCount() {
+3224:public void verifyTotalRecordsSelectedCount(int selectedRowsCount) {
+3229:public void verify6040PleaseEnterReceiptNoInCorrectFormatAcknowledgePopup() {
+3233:public void selectAtPaymentMethod() {
+3239:public void clickBackButton() {
+3243:public void clickExportToExcelButton() {
+3247:public void verify6040PleaseEnterReceiptNoInCorrectFormatAcknowledgePopupNotArisingTwice() {
+3255:public void SelectAtInvoiceNoInGrid() {
+3274:public void clickSelectInvoice() {
+3280:public void selectRowByAtName() {
+3285:public void selectRowByAtInvoiceNo() {
+3290:public void enterAtAccountNameID() {
+3301:public void clickSearchButton() {
+3305:public void enterAtInvoiceNo() {
+3313:public void closeScreen() {
+3320:public void clickSearchButton() {
+3324:public void selectAtExpenseClass() {
+3330:public void selectAtCategoryComboBox() {
+3335:public void enterAtExpenseFromDate() {
+3341:public void enterAtExpenseToDate() {
+3347:public void selectAtApprovalStatusComboBox() {
+3353:public void doubleClickRowByAtNameInGrid() {
+3358:public void verifyExpenseEntryWindowOpened() {
+3364:public void clickAddNew() {
+3368:public void verifyStatusInGrid(String Status) {
+3374:public void selectAtApprovalStatusComboBox1() {
+3381:public String enterExpenseFromDate() {
+3388:public String enterExpenseToDate() {
+3404:public void enterAtPf() {
+3410:public void verifyAtNameInGrid() {
+3415:public void selectAtCostInGrid() {
+3419:public void enterAtcolumnCellAfterDoubleClickInGrid() {
+3423:public void selectRowByAtNameInGrid() {
+3429:public void clickColumnHeader(int i) {
+3436:public void verifyAtColumnValuesAreSortedAscendingOrder(int i) {
+3445:public void verifyAtColumnValuesAreSortedDescendingOrder(int i) {
+3453:public void selectAtJuris(int jsonIndexValue) {
+3458:public void verifyAtColumnValues(int jsonIndexValue) {
+3464:public void reloadScreen() {
+3469:public void selectRandomGridRow() {
+3488:public void clickSaveNCloseButton() {
+3493:public void selectExpenseClass() {
+3498:public void selectCategory() {
+3502:public void taboutPFAndVerifyBubbleIconIsDisplayed() {
+3507:public void clickSaveButton() {
+3512:public void verifyAdditionSuccessFullMessage() {
+3518:public void verifyAdditionSuccessful() {
+3529:public void VerifyAndClickAttachmentTabForFire() {
+3534:public void tabOutDate() {
+3537:public void verifyOnHoldTextIsDisplayedInGreenColor() {
+3542:public void SaveNCloseScreen() {
+3554:public void tabOutDate() {
+3558:public void selectExpenseItemCategory() {
+3563:public void enterDescriptionAsTestAutomation() {
+3567:public void clickAddButton() {
+3572:public void deleteAtCategoryInGridByRow(int i) {
+3579:public void verifyAtDeleteIconPresentInGridByCategory(int i) {
+3588:public void verifyAtcategoryInGrid(int i) {
+3594:public void verifyAtDeletedCategoryNotListedInGrid() {
+3600:public void clickDeleteAtDescriptionInGrid() {
+3603:public void clickCancelConfirmationPopup() {
+3606:public void verifyAtDescriptionInGrid() {
+3610:public void verifyCurrentDateInGrid() {
+3617:public void selectAtExpenseItemCategory(int i) {
+3622:public void enterCommentsAs250Character() {
+3626:public void verifyCommentsAcceptMoreThan250Characters() {
+3631:public void copyFromComments() {
+3641:public void pasteIntoComments() {
+3650:public void enterDescription(String RandomString) {
+3656:public void enterAtCost() {
+3660:public void selectAtPaidMethod() {
+3665:public void enterComments(String RandomString) {
+3677:public void selectAtNewAction(int i) {
+3682:public void taboutDateAndTime() {
+3687:public void saveInternal() {
+3692:public void verifyAtNewAction(int i) {
+3697:public void verifyAtStatusInGrid(int i) {
+3704:public void verifyDeleteConfirmPopup() {
+3709:public void verifyUpdateSuccessful() {
+3720:public void clickItemsTab() {
+3725:public void clickCancelConfirmationPopup() {
+3730:public void save() {
+3737:public void verifyDateFieldIsMandatory() {
+3742:public void switchToItemsTab() {
+3747:public void saveScreen() {
+3752:public void clickAttachmentTab() {
+3756:public void verifyJurisFieldIsDisabled() {
+3761:public void switchToApprovalTab() {
+3766:public void verify1051UpdateDataExistsInApprovalTabAcknowledgePopupMessage() {
+3772:public void verifyAtStatus(int JsonKeyIndex) {
+3779:public void verifyExpenseDateIsMandatoryAcknowledgePopup() {
+3783:public void clickDateArrow() {
+3787:public void enterPurpose(String randomString) {
+3794:public void selectAtK9Name(int JsonKeyIndex) {
+3799:public void verifyAtPurpose(String PurposeValue) {
+3807:public void selectAtCategory() {
+3812:public void verifyAtExpenseClass() {
+3818:public void verifyAtPFCode() {
+3822:public void verifyAtPFDescription() {
+3857:public void clickAddNew() {
+3861:public void EnterAtPermit() {
+3865:public void EnterAtDescription() {
+3870:public void save() {
+3874:public void closeScreen() {
+3879:public void EnterAtItemCode() {
+3883:public void EnterAtDescription() {
+3887:public void EnterAtRate() {
+3890:public void clickAddButton() {
+3894:public void DeleteAtGridRowBySubItemCode() {
+3902:public void clickInactiveCheckbox() {
+3908:public void verifyCurrentDateAndTimeInInactiveTextField(String currentTime) {
+3915:public void verifyInactiveTextFieldIsBlank() {
+3922:public String getCurrentTime() {
+3929:public void saveAndClose() {
+3935:public void verify6040SubItemCodeAlreadyInUseAcknowledge() {
+3941:public void clickRegistrationRequiredCheckbox() {
+3946:public void clickSave() {
+3951:public void verify21857DoYouWantToUpdateTheRegistrationFeeConfirmationPopupMessage() {
+3956:public void clickEnableApprovalRoutingCheckbox() {
+3961:public void enterAtLabelNameForCustom1Field() {
+3967:public void enterAtLabelNameForCustom2Field() {
+3973:public void verifyAtPermit() {
+3980:public void clickAddNew() {
+3985:public void verifyInvoiceTypeAcknowledgePopup() {
+3989:public void verify6040AcknowledgePopup() {

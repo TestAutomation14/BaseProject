@@ -1,0 +1,246 @@
+{
+  "265521": {
+    "RMSCaseNo": "21-000001",
+    "NameID": "A-0000000285",
+    "Investigator": "Pass",
+    "LocationOfDeath": "75 Sutherland Dr",
+    "CauseOfDeath": "Acident",
+    "LocalMortuary": "Gunderson Funeral",
+    "FacilityNameID": "A-000000096",
+    "SubstanceInvolved": "Chemical Substances",
+    "AgeOfDeath": "20",
+    "MannerOfDeath": "Natural",
+    "Sex": "Female",
+    "DOB": "05/07/2000",
+    "Age": "21",
+    "Address": "9 Herbert Dr, Latham, NY 12110"
+  },
+  
+ 
+  "265537": {
+    "InvestNo": "21-000003",
+    "NameID": "A-0000000325",
+    "Investigator": "PRMS",
+    "Relationship": "Physician",
+    "Name": "Willow, Juniper",
+    "InvestigatorName": "Raja, Sadaraj",
+    "LastName": "Willow",
+    "FirstName": "Juniper",
+    "DOB":"05/07/2000"
+  },
+  "265542": {
+    "NameID": "A-0000000326",
+    "Name": "Willow, Juniper",
+    "LastName": "Willow",
+    "FirstName": "Juniper",
+    "Template": "Template",
+    "Status": "Case Review",
+    "InvestNo": "21-000003"
+  },
+  "265705": {
+    "NameID": "A-0000000340",
+    "Name": "Turner, Burham Thai",
+    "LastName": "Turner",
+    "FirstName": "Burham",
+    "Template": "Automation",
+    "ReportedOfficer": "Prophoenix, Automation",
+    "InvestNo": "21-000004",
+    "Type": "Coroner Report",
+    "Status": "On Hold",
+    "CauseOfDeath": "Heart Attack",
+    "CaseStatus": "Case Review"
+  },
+  "265707": {
+    "NameID": "A-0000000340",
+    "Name": "Turner, Burham Thai",
+    "LastName": "Turner",
+    "FirstName": "Burham",
+    "Template": "Automation",
+    "ReportedOfficer": "Prophoenix, Automation",
+    "InvestNo": "21-000004",
+    "CauseOfDeath": "Heart Attack",
+    "CaseStatus": "Case Review",
+    "CaseNo": "21-000003",
+    "Reason": "Health Issues",
+    "EvidenceType": "Chemical",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Storage"
+  },
+  "265732": {
+    "NameID": "A-0000000340",
+    "Name": "Turner, Burham Thai",
+    "LastName": "Turner",
+    "FirstName": "Burham",
+    "Template": "Automation",
+    "ReportedOfficer": "Prophoenix, Automation",
+    "InvestNo": "21-000004",
+    "CauseOfDeath": "Heart Attack",
+    "CaseStatus": "Case Review",
+    "CaseNo": "21-000003",
+    "Reason": "Health Issues",
+    "EvidenceType": "Chemical",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Storage"
+  },
+  "265927": {
+    "InvestNo": "21-000002",
+    "DateOfDeath": "02/09/2021",
+    "Reason": "Health Issues",
+    "EvidenceType": "Chemical",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Storage"
+  },
+  "265928": {
+    "InvestNo": "21-000005",
+    "DateOfDeath": "03/19/2021",
+    "Reason": "Health Issues",
+    "EvidenceType": "Forensic",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Location"
+  },
+  "265929": {
+    "InvestNo": "21-000005",
+    "DateOfDeath": "03/19/2021",
+    "Reason": "Mental illness",
+    "EvidenceType": "Forensic",
+    "EvidenceStatus": "Open Investigation",
+    "EvidenceNo": "21-000002-001"
+    
+  },
+  "268508": {
+    "NameID": "A-0000000326",
+    "Name": "Willow, Juniper",
+    "LastName": "Willow",
+    "FirstName": "Juniper",
+    "Template": "Template",
+    "Investigator": "Pass",
+    "InvestigatorName": "Automation, Testing",
+    "InvestNo": "21-000003",
+    "CoronerCategory": "Accident",
+    "CoronerActivity": "Post-Mortem",
+    "Remarks": "Automation Testing Completed"
+  },
+  "268677": {
+    "NameID": "A-0000000340",
+    "Name": "Turner, Burham Thai",
+    "LastName": "Turner",
+    "FirstName": "Burham",
+    "Template": "Automation",
+    "ReportedOfficer": "Prophoenix, Automation",
+    "InvestNo": "21-000004",
+    "CauseOfDeath": "Heart Attack",
+    "CaseStatus": "Case Review",
+    "CaseNo": "21-000003",
+    "Reason": "Health Issues",
+    "EvidenceType": "Chemical",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Storage",
+    "ChangeReason": "Location Not Proper"
+  },
+  "268680": {
+    "NameID": "A-0000000342",
+    "Name": "Arthur, Jenny II I",
+    "LastName": "Arthur",
+    "FirstName": "Jenny",
+    "PFName": "AUTO - Prophoenix, Automation",
+    "InvestNo": "21-000005",
+    "EvidenceNo": "21-000002-001",
+    "Reason": "Mental illness",
+    "EvidenceType": "Forensic",
+    "EvidenceStatus": "Closed/Cleared",
+    "StorageLocation": "Coroner Storage",
+    "ChangeReason": "Location Not Proper",
+    "LocationTo": "Coroner Storage"
+  },
+  "268953": {
+    "RMSCaseNo": "24-000030",
+    "NameID": "A-0000000288",
+    "Investigator": "PA001",
+    "LocationOfDeath": "18 Hawthorne St",
+    "CauseOfDeath": "Natural",
+    "LocalMortuary": "Gunderson Funeral",
+    "FacilityNameID": "A-000000096",
+    "SubstanceInvolved": "Chemical Substances",
+    "LastName": "Selaer",
+    "FirstName": "Hurt",
+    "PFName": "AUTO - Prophoenix, Automation",
+    "AgeOfDeath": "32",
+    "MannerOfDeath": "Natural",
+    "Sex": "Male",
+    "DOB": "05/07/1985",
+    "Age": "37",
+    "CaseNo": "24-000030",
+    "Address": "42 Elmhurst Ave, Rensselaer, NY 12144"
+  },
+   "CoronerCaseEntrySmoke": {
+    "RMSCaseNo": "21-000161",
+    "NameID": "A-0000000300",
+    "Investigator": "Pass",
+    "LocationOfDeath": "75 Sutherland Dr",
+    "FacilityNameID": "A-000000100",
+    "SubstanceInvolved": "Chemical Substances",
+    "Address": "9 Herbert Dr, Latham, NY 12110"
+  },
+  "CEvidenceSmoke": {
+    "CaseNo": "21-000161",
+    "Reason": "Health Issues",
+    "EvidenceType": "Chemical",
+    "EvidenceStatus": "Open Investigation",
+    "StorageLocation": "Coroner Storage"
+     },
+  "18322":{
+  "CaseNo":"23-000001",
+  "FieldName":"Test2"
+  },
+  
+	"21260": {
+	"InvestNo": "23-000002",
+	"SamplesObtained": "CheckAll",
+	"LaboratoryUsed": "CheckAll",
+	"DrugType": "Automation",
+	"Concentration": "7861432",
+	"Concentration1": "4516494748",
+	"Measurement": "8748512",
+	"SampleType": "Blood",
+	"Comments": "Test Automation"
+	},
+	"32632":{
+	"InvestNo":"24-000002",
+	"CaseNo":"23-000064"
+	},
+	"34804":{
+	"InvestNo":"21-000003",
+	"Sex":"Female",
+	"Sex1":"Male"
+},
+	"35334":{
+	"InvestNo": "24-000001",
+	"Reason":"Health Issues",
+	"EvidenceType":"Forensic",
+	"EvidenceStatus":"Open Investigation"
+	},
+	"42908":{
+	"NameID":"A-0000000195",
+	"Investigator":"AUTPOL",
+	"Relationship":"Next of Kin",
+	"LastName":"Sai",
+	"FirstName":"Kumar"
+	},
+	"78353":{
+	"NameID": "A-0000000001",
+	"Investigator": "Auto",
+	"PhysicianNameID": "A-0000000010",
+	"PhysicianName": "Beeblebrox, Zaphod Z Jr",
+	"PhysicianAddress": "Hueytown, AL, 35023",
+	"PhoneNo": "(213) 213-2131"
+	},
+	"78348":{
+	"InvestNo": "26-000001",
+	"Investigator": "Auto",
+	"CoronerCategory": "Accident",
+	"CoronerActivity": "Autospy",
+	"InvestigatorName": "Prophoenix, Automation",
+	"Hours": "50",
+	"Minutes": "30"
+	}
+	}

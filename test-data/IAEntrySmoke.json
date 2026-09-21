@@ -1,0 +1,118 @@
+{
+  "NewIAEntry":{
+  "IncidentLocation":"100 Adams St",
+  "ReportedBy":"Public",
+  "FirstName":"Wyne",
+  "LastName":"Bruce",
+  "NameID": "A-0000000012",
+  "ComplaintType": "Improper Search",
+  "Classification": "Performance Deficiency"
+  },
+  "IncidentEntry":{
+   "IncidentCategory": "Citizen Complaint",
+   "IncidentLocation": "10 Gotham",
+   "Reported By": "Criminal Justice",
+   "FirstName": "Kyle",
+   "LastName": "Salina",
+   "NameID": "A-0000000001",
+   "ReportedLastName":"Jim",
+   "ReportedFirstName":"Gorden",
+   "NameID1":"A-0000000007",
+   "SelectAgencyEmployedBy": "Professional Responsibility",
+   "Classification": "Administrative Misconduct",
+   "Type": "Improper Arrest"
+  },
+  "UOF":{
+  "SubjectsNameID": "A-0000000004"
+  },
+  "CaseFolder":{
+  	"CaseNo":"22-000004",
+  	"Division": "Administration",
+    "Section": "Internal Affairs",
+    "PrimeInvestigator": "IARMS",
+    "Template": "Case Notification"
+  },
+  "DocumentSmoke":{
+  	"Documentcategory":"Police RMS",
+  	"DocumentType":"Geo Module",
+  	"DocumentTitle":"Geo Doc"
+  },
+  "NameEntrySmoke":{
+  	"LastName":"Rachel",
+  	"FirstName":"Marcus",
+  	"Address":"5 Saasam"
+  },
+  "PersonnelEntrySmoke":{
+   	"PFCode":"Pnx24",
+   	"LastName":"Jacob",
+   	"FirstName":"Stwart"
+  },
+  "ChargeSharedCodesEntry":{
+  	"ChargeCode":"Incident1",
+  	"ChargeType":"Major",
+  	"RelatedCFSCode":"1004",
+  	"NIBRSCode":"120"
+  },
+  "CodedDocHelpEntry":{
+  	"ScreenID":"1034",
+	"DocumentTittle":"Custom Tittle",
+	"Link":"http://www.prophoenix.com"
+  },
+  "DispositionSharedCodesEntry":{
+	"Disposition":"CII",
+	"Type":"Incident"
+	},
+	"JobEntry":{
+	"JobName":"Automation Job",
+	"JobType":"Automatic"
+	},
+	"QAFormEntry":{
+	"FormName":"QA Automation Form",
+	"Version":"2",
+	"SectionName":"Auto",
+	"Sort":"6",
+	"AnswerType":"Yes / No",
+	"RepositoryID":"1031",
+	"Role":"IA Supervisor"
+	},
+  "ReportRepoSharedCodesEntry":{
+	"ScreenID":"1077",
+	"ReportType":"Form",
+	"FormName":"Automation Report1",
+	"FileName":"AutoFile.PDF",
+	"ScreenCategory":"Others"
+	},
+  "RoleEntry":{
+	"RoleName":"Auto Test",
+	"RoleDescription":"Auto Role Description"
+	},
+  "TerminalEntry":{
+	"TerminalName":"Auto Terminal",
+	"IPAddress":"10.103.3.111"
+	},
+  "UnitEntry":{
+	"Unit":"Temp46",
+    "DispatchUnitType":"IA - Internal Affairs"
+	},
+  "WorkHistoryEntry":{
+  	"Category":"Administrative",
+ 	"SubCategory":"Complaint - Public"
+  	},
+  "VehicleMakeModelEntry":{
+	"Make":"TMTO",
+	"ModelCode":"AWS",
+	"ModelDescription":"Test AWS"
+	},
+  "VehicleEntry":{
+	"VinNo":"75869425877",
+	"PlateNumber":"2565",
+	"NameID":"A-0000000014"
+	},
+  "BoatEntry":{
+	"BoatHullNo":"Boat678"
+	},
+	"TrnEnt":{
+		"EmployeePF":"auto"
+	}
+	
+}

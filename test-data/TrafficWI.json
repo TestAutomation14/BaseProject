@@ -1,0 +1,768 @@
+{
+	"112076": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"PermitLocation": "100 Mill St;PX, Moorestown, NJ, 08057",
+		"PlateNo": "1111-WI",
+		"PermitNumber": "18-000001"
+	},
+	"169544": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CEType": "Traffic Violation",
+		"LastName": "Sam",
+		"FirstName": "Vinton",
+		"Officer": "P001",
+		"Charge": "2A:94-1",
+		"StreetName": "Mill St",
+		"NIBRS": "220-Burglary/Breaking and Entering"
+	},
+	"169545": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"CitationNo": "JE5",
+		"CitationLastName": "Sam",
+		"CitationFirstName": "Vinton",
+		"DOB": "05/10/1986",
+		"Gender": "Male",
+		"Race": "Asian",
+		"Height": "100",
+		"Weight": "100",
+		"SSNo": "112233445",
+		"DriverLicNo": "DL123456"
+	},
+	"169546": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CitationLocation": "Mill St",
+		"Charge": "39:3-33",
+		"CENo": "18-000005",
+		"CitationNo": "JE5",
+		"VehicleNo": "333",
+		"State": "WI",
+		"LicPlateType": "Passenger Car",
+		"IssueState": "WI",
+		"PlateExpirationYear": "12/2020",
+		"VehicleYear": "2016",
+		"VehicleMake": "Acura",
+		"VehicleColor": "Black",
+		"VINNo": "4433221"
+	},
+	"169547": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CitationNo": "JE7",
+		"PlateNo": "478963-WI",
+		"CENo": "18-000007",
+		"Charge": "2A:94-2",
+		"StreetName": "Charlie Anna Dr"
+	},
+	"169548": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"PlaintiffType": "3 - City/Village/Town",
+		"County": "66",
+		"CityVlgTown": "6658",
+		"CourtType": "M"
+	},
+	"169549": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"Officer": "P001"
+	},
+	"169550": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"Charge": "39:3-33",
+		"OriginalCharge": "39:3-33",
+		"Disposition": "GUI",
+		"Penalty": "100",
+		"Disposition1": "Guilty"
+	},
+	"169551": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000006",
+		"CEType": "Traffic Violation",
+		"NIBRS": "220-Burglary/Breaking and Entering"
+	},
+	"169552": {
+		"UserName": "P001",
+		"Database": "AutomationPoliceMJ",
+		"Password": "Pnx@2016",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation"
+	},
+	"169553": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"LastName": "Stuart",
+		"FirstName": "Sin",
+		"Name": "James, Vinton"
+	},
+	"169554": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000005",
+		"CEType": "Traffic Violation",
+		"Subject": "TrafficViolation",
+		"PFCode": "P001"
+	},
+	"169555": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CENo": "18-000007",
+		"CEType": "Traffic Violation",
+		"Charge": "39:3-33"
+	},
+	"169556": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CEType": "Non Traffic Violation",
+		"LastName": "Rebort",
+		"FirstName": "James",
+		"Location": "701 Kimberly Dr",
+		"PF": "AUTO",
+		"Charge": "2A:94-2",
+		"Fine": "100",
+		"Penalty": "100"
+	},
+	"170120": {
+		"TicketNo": "TKT123",
+		"Officer": "P001",
+		"PlateNumber": "333",
+		"PlateState": "WI",
+		"Violation": "116-3",
+		"Location": "100 Mill St",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"170121": {
+		"TicketNo": "TKT1234",
+		"Defendant1LastName": "Raja",
+		"Defendant1FirstName": "Sadaraj",
+		"Defendant2LastName": "Raga",
+		"Defendant2FirstName": "Ranjani",
+		"Defedant2": "Raga, Ranjani",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"Activity": "Parking Defendant"
+	},
+	"170122": {
+		"TicketNo": "TKT1234",
+		"Year": "2015",
+		"Make": "ABCH",
+		"Model": "TL",
+		"Style": "2D",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"170123": {
+		"TicketNo": "TKT1234",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"170124": {
+		"TicketNo": "TKT1234",
+		"InitialFine": "$100.00",
+		"1stAdjustment": "+ 10",
+		"2ndAdjustment": "+ 15",
+		"3rdAdjustment": "+ 20",
+		"1stAdjustmentValue": "$10.00",
+		"2ndAdjustmentValue": "$15.00",
+		"3rdAdjustmentValue": "$20.00",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"170125": {
+		"TicketNo": "TKT1234",
+		"CitationNo": "1",
+		"UserName": "P001",
+		"Database": "AutomationPoliceMJ",
+		"Password": "Pnx@2016"
+	},
+	"170126": {
+		"TicketNo": "TKT9876",
+		"Payment": "100",
+		"PaymentMethod": "Cash",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ"
+	},
+	"170127": {
+		"TicketNo": "TKT9876",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"Subject": "Automation Test"
+	},
+	"206128": {
+		"UserName": "P001",
+		"Database": "AutomationPoliceMJ",
+		"Password": "Pnx@2016",
+		"CaseNo": "19-00002",
+		"Officer": "AUTO"
+	},
+	"206129": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000007",
+		"CrashNo": "19-000003",
+		"TracsRefNo": "19-000003",
+		"EMSNo": "19-525",
+		"TotalUnits": "4"
+	},
+	"206130": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000003",
+		"County": "67",
+		"Municipality": "6777",
+		"OnStreet": "Yellow Cote Rd",
+		"FrmStreetName": "SouthView"
+	},
+	"206131": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000003",
+		"UnitNo": "1",
+		"TracsRefNo": "19-000001",
+		"TotalOccupants": "3",
+		"NameID": "A-0000000012",
+		"Vehicle": "ASD123",
+		"State": "WI",
+		"OwnerNameID": "A-0000000013",
+		"DriverDescription": "1 - Exceeding-Speed-Limit",
+		"HwyDescription": "1 - Snow,-Ice,-or-Wet",
+		"VehicleDescription": "1 - Brake-System"
+	},
+	"206132": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "18-000035",
+		"AccidentNo": "4152",
+		"Unitno": "1",
+		"TotalOccupants": "1",
+		"LastName": "Deone",
+		"FirstName": "Jones",
+		"InjurySeverity": "C - Possible Injury",
+		"NameID": "A-0000000008"
+	},
+	"206133": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"TracsRefNo": "19-000004",
+		"CaseNo": "18-000035",
+		"UnitNo": "2",
+		"HazmatClass": "41",
+		"CarrierName": "Bharat Benz",
+		"CarrierAddress": "594 Clinton Ct",
+		"HazmatUNNo": "AD45",
+		"ICCMNo": "1254675",
+		"LCNo": "1254"
+	},
+	"206134": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000003",
+		"DOTNo": "52",
+		"LastName": "Citation",
+		"FirstName": "Narrative",
+		"PhoneNo": "(553) 453-4534",
+		"Name": "Citation, Narrative"
+	},
+	"206135": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000007"
+	},
+	"206136": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"TracsRefNo": "19-000002",
+		"CrashNo": "19-000002",
+		"Subject": "WI Crash",
+		"PFCode": "P001"
+	},
+	"206137": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000007",
+		"CrashNo": "19-000002"
+	},
+	"206138": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"TracsRefNo": "18-000006",
+		"Address": "17 E brustown St W",
+		"CrashNo": "18-000006"
+	},
+	"206142": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"TracsRefNo": "19-000001",
+		"OfficerCode": "AUTO",
+		"CaseNo": "19-000003",
+		"TrailerUnitNo": "4",
+		"Vehicle": "ASD123",
+		"State": "WI",
+		"VehicleNo": "ASD123",
+		"UnitNo": "4",
+		"UnitType": "TRUK - Truck"
+	},
+	"206143": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"CaseNo": "19-000003",
+		"DOTNo": "52"
+	},
+	"206144": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"TracsRefNo": "19-000004",
+		"Address": "594 Clinton Ct",
+		"CrashNo": "19-000004",
+		"NameID": "O-0000000005",
+		"PropertyType": "1 - Federal/State",
+		"Name": "Antone, Clarance",
+		"TagNo": "AST852",
+		"UnitNo": "2"
+	},
+	"254492": {
+		"CADCFS": "100",
+		"Location": "5098 Broadhorn Rd",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Type": "Incident Report",
+		"NameID": "A-0000000293",
+		"How": "On-View Arrest",
+		"Charge": "100.195(2)(a)",
+		"CEType": "Traffic Violation",
+		"DefendantType": "1 - Individual- Audult",
+		"StreetName": "Broadhorn Rd",
+		"ArrestOthersType": "Arrest Docket",
+		"CitationOthersType": "TrafficSummons"
+	},
+	"258299": {
+		"LastName": "Robert",
+		"FirstName": "PATRICK",
+		"CENo": "20-000003",
+		"Payment": "52",
+		"Method": "Credit Card",
+		"Method1": "Cash",
+		"Type": "Visa",
+		"CreditCardNo": "896523657895",
+		"HolderName": "RajaS",
+		"ExpirationMonth": "March",
+		"ExpirationYear": "2025",
+		"Bank": "BOI"
+	},
+	"260393": {
+		"LastName": "Kleissler",
+		"FirstName": "Coggins",
+		"NIBRS": "90Z - All Other Offenses"
+	},
+	"261089": {
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"NameID": "A-0000000160",
+		"CEType": "Non Traffic Violation",
+		"Location": "198 Randall St",
+		"Charge": "103.43(1)",
+		"ChargeDescription": "MU-Fraudulent Advertising for Labor",
+		"NIBRS": "26A-False Pretenses/Swindle/Confidence Game",
+		"PF": "AUTO",
+		"CitationNo": "23"
+	},
+	"265273": {
+		"CaseNo": "21-000046",
+		"PFCode": "AUTO",
+		"Code": "AUTO",
+		"TotalUnits": "2",
+		"Type": "Incident Report"
+	},
+	"272361": {
+		"MiddleName": "Dia",
+		"DOB": "05/07/2002",
+		"CENo": "21-000008"
+	},
+	"272364": {
+		"CitationNo": "JE20",
+		"Subject": "Citation Report",
+		"CallNo": "21.000139"
+	},
+	"272371": {
+		"CEType": "E Citation - Parking",
+		"NameID": "A-0000000422",
+		"Charge": "100.03(12)",
+		"StreetName": "Charlie Anna Dr",
+		"TextName": "Automation Testing"
+	},
+	"272376": {
+		"CallNo": "21-000140",
+		"NameID": "A-0000000421",
+		"TicketNo": "222",
+		"TicketNo1": "223",
+		"Officer": "P001",
+		"PlateNumber": "ABC123",
+		"PlateState": "WI",
+		"Violation": "100.05(1)",
+		"Location": "6209 Providence Rd",
+		"InitialFine": "155",
+		"InitialFine1": "185",
+		"Name": "Writz, Long Dia",
+		"Status": "ISSUED",
+		"BalanceFine": "340.00"
+	},
+	"272377": {
+		"PlateNo": "324324325",
+		"State": "AL",
+		"LastName": "Writz",
+		"FirstName": "Long",
+		"LastName1": "Cartor",
+		"FirstName1": "Gross",
+		"PermitType": "1 - Parking Permission",
+		"PermitLocation": "6209 Providence Rd",
+		"PermitLocation1": "198 Randall St"
+	},
+	"275945": {
+		"UserName": "TPR001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"RoleName": "Traffic",
+		"ScreenID": "3886",
+		"Officer": "AUTO",
+		"PlateNumber": "4159",
+		"PlateState": "NJ",
+		"Violation": "100.03(15)(b)",
+		"Location": "164 Melrose Dr",
+		"InitialFine": "500",
+		"Payment": "500",
+		"PaymentMethod": "Cash"
+	},
+	"275947": {
+		"PlateNo": "64582",
+		"LastName": "Kane",
+		"FirstName": "Williamson",
+		"PermitType": "1 - Parking Permission",
+		"Action": "Permit",
+		"Reason": "Guest",
+		"PermitLocation": "2599 Thorofare Rd",
+		"DateType": "Issue date",
+		"Plate": "NJ-64582"
+	},
+	"275949": {
+		"CitationLocation": "141 Records Rd",
+		"CENo": "21-000002",
+		"CitationNo": "JE16",
+		"PremiseNo": "141",
+		"Street": "Records Rd",
+		"Street1": "Rothwell Ave",
+		"Street2": "Desoto PI"
+	},
+	"276770": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"CallNo": "21-000199",
+		"Officer": "P001"
+	},
+	"278633": {
+		"CaseNo": "21-000207",
+		"Template": "Sample",
+		"Charge": "100.03(15)(a)",
+		"TypeOfArrest": "On-View Arrest",
+		"NameID": "A-0000000207",
+		"StreetName": "Hawthorne St",
+		"TextName": "Sample",
+		"Template1": "Traffic Violation",
+		"DefendantType": "1 - Individual - Adult",
+		"RichTextFromTemplate1": "This e-service enables citizens and residents to enquire about the "
+	},
+	"282068": {
+		"CallNo": "21-000231",
+		"NameID": "A-0000000449",
+		"Charge": "100.025(4)",
+		"Street": "Charlie Anna Dr",
+		"County": "NC - North Carolina"
+	},
+	"250118": {
+		"TicketNo": "N300Pul",
+		"Officer": "AUTO",
+		"PlateNumber": "ABC123",
+		"PlateState": "AL",
+		"Violation": "100.03(5)(a)",
+		"Location": "299 W Ashdale St",
+		"Plate1": "BC18351"
+	},
+	"246250": {
+		"CaseNo": "20-000026",
+		"CFS": "1002",
+		"Charge": "940.305(2)",
+		"NIBRS": "100 -Kidnapping/Abduction",
+		"Charge1": "175.60(16)(a)3",
+		"NIBRS2": "520-Weapon Law Violations",
+		"CrimeAgainst": "Person",
+		"PropertyLoss": "Stolen/Etc",
+		"AttemptedOrCompleted": "Completed",
+		"LocationType": "Amusement Park",
+		"SuspectedOfUsing": "Alcohol",
+		"WeaponsForceUsed": "None",
+		"NameID": "A-0000000211",
+		"Armed": "Handgun",
+		"CEType": "Non Traffic Violation",
+		"Location": "42 Fairhaven Commons Way",
+		"NIBRS1": "100-Kidnapping/Abduction"
+	},
+	"CitationEntrySmoke": {
+		"CEType": "Non Traffic Violation",
+		"LastName": "Rebort",
+		"FirstName": "James",
+		"Charge": "2A:94-2"
+	},
+	"CityVillageTownSmoke": {
+		"CodeValue": "5757",
+		"CodeDescription": "AutoTownTest",
+		"ORIState": "MN",
+		"ORI": "056669"
+	},
+	"CourtEntrySmoke": {
+		"CodeValue": "6767",
+		"CodeDescription": "AutoCourtTest"
+	},
+	"CrashEntrySmoke": {
+		"CallNo": "21-000199",
+		"CaseNo": "21-000199",
+		"ReportedLocation": "2339 Eargle Rd",
+		"Officer": "AUTO"
+	},
+	"ParkingEntry": {
+		"TicketNo": "TICAUTO",
+		"Officer": "AUTO",
+		"PlateNumber": "BC18351",
+		"PlateState": "AL",
+		"Violation": "100.03(12)",
+		"Location": "4220 King Arthur Pl"
+	},
+	"ParkingPermits": {
+		"PlateNo": "33159",
+		"State": "AL",
+		"LastName": "Writz",
+		"FirstName": "Long",
+		"PermitType": "1 - Parking Permission",
+		"PermitLocation": "6209 Providence Rd"
+	},
+	"9133": {
+		"State": "AK",
+		"PlateNo": "00008",
+		"Plate": "WI-55WI98"
+	},
+	"9134": {
+		"TicketNo": "",
+		"": "",
+		"": ""
+	},
+	"9136": {
+		"TicketNo": "DF254"
+	},
+	"9138": {
+		"fromDate": "01/05/2021",
+		"CrashNo1": "22-000002",
+		"Case1": "22-000005"
+	},
+	"13714": {
+		"CADCFS": "ANE",
+		"CADDisposition": "I",
+		"LastName": "Austin",
+		"FirstName": "Jesse",
+		"Location":"12 benny St"
+	},
+	"18127": {
+		"NameID": "A-0000000012",
+		"NameID2": "A-0000000013",
+		"PlateNumber": "4159",
+		"PlateState": "NJ",
+		"Location": "1 Wallace Ter",
+		"TicketNo": "11",
+		"InitialFine": "100",
+		"Parking#":"23-000002",
+		"Violation":"100.025(4)"
+		},
+ "13882C": {
+        "Database": "AutomationPoliceNJ",
+        "InitialFine": "2",
+        "Location": "701 Kimberly Dr",
+        "NameID": "J-0000000007",
+        "NameID2": "J-0000000007",
+        "Officer": "pass",
+        "Password": "Pnx@2016",
+        "PlateNumber": "101212",
+        "PlateState": "WI",
+        "TicketNo": "1",
+        "UserName": "Automation"
+    },
+    "18083":{
+    "TicketNo":"13",
+    "NameID":"O-0000000003",
+    "Officer":"AUTPOL",
+    "NameID2":"O-0000000060",
+    "PlateNumber":"4650",
+    "PlateState":"NJ",
+    "Location":"1 Wallace Ter",
+    "InitialFine":"100"
+    },
+    "13886":{
+    "CallNo":"23-000004",
+    "UserName":"Automation",
+    "Password":"Pnx@2016",
+    "Database":"AutomationPoliceNJ",
+    "UnitNo":"1",
+    "NameID":"O-0000000002",
+    "LastName":"Adame",
+    "NameID1":"B-0000000010",
+    "CrashNo":"21-000007",
+    "Type":"22 - Truck 2 Axle w/Trailer",
+    "CarrierID":"0000000028",
+    "LastName1":"A. O. Smith",
+    "LastName2":"B1 - Prophoenix"
+    },
+    "13882B":{
+    "TicketNo":"15",
+    "NameID": "B-0000000029",
+    "Officer": "AUTPOL",
+    "PlateNumber":"2345",
+    "PlateState": "NJ",
+    "Location": "6498 N Shore Dr",
+    "Violation":"100.025(4)",
+    "InitialFine": "100",
+    "NameID2":"B-0000000021",
+    "Parking#":"18-000001"
+    },
+    "15776":{
+    "DefendantType":"1 - Individual - Adult",
+    "NameID":"A-0000000001",
+    "CourtType":"C",
+    "Court":"001",
+    "Charge":"10-2-1.1",
+    "StreetName":"W End Plz",
+    "PlaintiffType":"2 - County of",
+    "CountyInCourt":"01-ADAMS"
+    },
+ "21780":{
+"AccidentLocationType":"--Inq 1144 --",
+"StructureType":"--Add 2118 --",
+"value":"--Add 2118 --",
+"":""
+},
+	"44000": {
+		"UserName": "P4400",
+		"Password": "Pnx@2023",
+		"Database": "AutomationPoliceMJ",
+		"RoleName": "System Administrator",
+		"ScreenID": "3810",
+		"ScreenID1": "3885",
+		"CEType": "Traffic Violation",
+		"DefendantType": "1 - Individual - Adult",
+		"NameID": "A-0000000529",
+		"Charge": "100.03(14)",
+		"Reason": "Auto",
+		"StreetName": "N Scoville Ave"
+	},
+	
+	"44000A": {
+		"UserName": "P4400",
+		"Password": "Pnx@2023",
+		"Database": "AutomationPoliceMJ",
+		"RoleName": "System Administrator",
+		"ScreenID": "3810",
+		"ScreenID1": "3885",
+		"CEType": "Traffic Violation",
+		"DefendantType": "1 - Individual - Adult",
+		"NameID": "A-0000000529",
+		"Charge": "100.03(14)",
+		"Reason": "Auto",
+		"StreetName": "E Shadow Dr"
+	},
+	
+	"44000B": {
+		"UserName": "P4400",
+		"Password": "Pnx@2023",
+		"Database": "AutomationPoliceMJ",
+		"RoleName": "System Administrator",
+		"ScreenID": "3810",
+		"ScreenID1": "3885",
+		"CEType": "Traffic Violation",
+		"DefendantType": "1 - Individual - Adult",
+		"NameID": "A-0000000529",
+		"Charge": "100.03(14)",
+		"Reason": "Auto",
+		"StreetName": "E Chalfont Way"
+	},
+	
+		"44000C": {
+		"UserName": "P4400",
+		"Password": "Pnx@2023",
+		"Database": "AutomationPoliceMJ",
+		"RoleName": "System Administrator",
+		"ScreenID": "3810",
+		"ScreenID1": "3885",
+		"CEType": "Traffic Violation",
+		"DefendantType": "1 - Individual - Adult",
+		"NameID": "A-0000000529",
+		"Charge": "100.03(14)",
+		"Reason": "Auto",
+		"StreetName": "E Chalfont Way"
+	},	
+	"48487":{
+	"CEType":"Traffic Violation",
+	"NameID":"A-0000000121",
+	"Charge":"100.05(1)",
+	"Street":"1 Anderson Rd",
+	"Charge":"100.05(1)",
+	"Reason":"test"
+	},
+	
+	"44448":{
+	"VinNo1":"98777743210123456789012",
+	"VinNo":"985653550",
+	"PlateNumber":"8525",
+	"State":"AL - Alabama",
+	"VehicleNo":"V-86"
+		}
+}

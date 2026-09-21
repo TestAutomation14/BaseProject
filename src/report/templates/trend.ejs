@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="refresh" content="5" />
+  <title>Execution Trend Report</title>
+  <style>
+    :root {
+      --primary: #1f4e78;
+      --border: #d9e2f3;
+      --background: #f5f7fb;
+      --success: #198754;
+      --danger: #dc3545;
+      --muted: #6c757d;
+    }
+
+    body {
+      background: var(--background);
+      color: #212529;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 32px;
+    }
+
+    .container {
+      margin: 0 auto;
+      max-width: 1280px;
+    }
+
+    .header {
+      background: white;
+      border-left: 6px solid var(--primary);
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      margin-bottom: 24px;
+      padding: 24px 28px;
+    }
+
+    h1 {
+      color: var(--primary);
+      margin: 0 0 8px;
+    }
+
+    .generated {
+      color: var(--muted);
+      margin: 0;
+    }
+
+    .summary {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: repeat(4, 1fr);
+      margin-bottom: 24px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      padding: 18px;
+    }
+
+    .card strong {
+      display: block;
+      font-size: 26px;
+      margin-top: 8px;
+    }
+
+    .card.total strong { color: var(--primary); }
+    .card.passed strong { color: var(--success); }
+    .card.failed strong { color: var(--danger); }
+    .card.runs strong { color: #6f42c1; }
+
+    .table-container {
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      overflow-x: auto;
+    }
+
+    table {
+      border-collapse: collapse;
+      min-width: 860px;
+      width: 100%;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 12px 14px;
+      text-align: left;
+    }
+
+    th {
+      background: var(--primary);
+      color: white;
+      white-space: nowrap;
+    }
+
+    tbody tr:hover {
+      background: #f8fbff;
+    }
+
+    .passed { color: var(--success); font-weight: 600; }
+    .failed { color: var(--danger); font-weight: 600; }
+    .empty {
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 800px) {
+      body { padding: 16px; }
+      .summary { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>Execution Trend Report</h1>
+      <p class="generated"><strong>Generated:</strong> <%= generatedAt %></p>
+    </header>
+
+    <section class="summary">
+      <div class="card total">
+        Total executions
+        <strong><%= totals.total %></strong>
+      </div>
+      <div class="card passed">
+        Passed
+        <strong><%= totals.passed %></strong>
+      </div>
+      <div class="card failed">
+        Failed
+        <strong><%= totals.failed %></strong>
+      </div>
+      <div class="card runs">
+        Recorded runs
+        <strong><%= totals.runs %></strong>
+      </div>
+    </section>
+
+    <section class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Execution date</th>
+            <th>Total</th>
+            <th>Passed</th>
+            <th>Failed</th>
+            <th>Skipped</th>
+            <th>Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% if (rows.length === 0) { %>
+            <tr><td class="empty" colspan="7">No trend data</td></tr>
+          <% } else { %>
+            <% rows.forEach(row => { %>
+              <tr>
+                <td><%= row.product %></td>
+                <td><%= row.executionDate %></td>
+                <td><%= row.total %></td>
+                <td class="passed"><%= row.passed %></td>
+                <td class="failed"><%= row.failed %></td>
+                <td><%= row.skipped %></td>
+                <td><%= row.duration %> ms</td>
+              </tr>
+            <% }) %>
+          <% } %>
+        </tbody>
+      </table>
+    </section>
+  </main>
+</body>
+
+</html>

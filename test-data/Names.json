@@ -1,0 +1,5155 @@
+{
+	"99894": {
+		"LastName": "Smith",
+		"FirstName": "Wood",
+		"How": "Attempted to Arrest",
+		"CaseNo1": "18-000035",
+		"Charge1": "343.50(12)(b)",
+		"Officer1": "Auto",
+		"AgencyAction": "Referred to Other Authorities",
+		"CourtType": "Supreme Court"
+	},
+	"99920": {
+		"How": "Attempted to Arrest",
+		"NewCharge": "100.295(2)",
+		"LastName": "Johnson",
+		"FirstName": "Ward",
+		"NameID": "A-0000000084",
+		"Officer1": "Auto",
+		"CaseNo1": "21-000172",
+		"CaseNo2": "21-000175",
+		"Charge1": "26.05(3)(a)",
+		"Charge2": "26.05(3)(a)",
+		"Comments": "Testing process",
+		"Richtext": "Automation Testing Process"
+	},
+	"99941": {
+		"Officer1": "AUTO",
+		"Height": "100",
+		"EyeColor": "Black",
+		"HairColor": "Black",
+		"HairLength": "Short",
+		"NewCharge": "100.295(2)",
+		"IncidentLocation": "1575 Old Freehold Rd",
+		"Weight_lbs": "100",
+		"LastName": "Johnson",
+		"FirstName": "Ward",
+		"Activity": "Arrest",
+		"Location": "1575 Old Freehold Rd",
+		"NameID": "A-0000000084",
+		"Charge": "26.05(3)(a)",
+		"CaseNo1": "21-000175",
+		"CaseNo": "21-000172",
+		"CaseID": "19-000036"
+	},
+	"102364": {
+		"LastName": "Jones",
+		"FirstName": "Cox",
+		"NameType": "A",
+		"Flags": "Armed Dangerous",
+		"Comment": "Armed Dangerous Person",
+		"NameID": "A-0000000085"
+	},
+	"102368": {
+		"LastName": "Brown",
+		"FirstName": "Hill",
+		"NameType": "A",
+		"Comment": "Automation",
+		"Address": "14 Cove Rd ",
+		"NameID": "A-0000000086",
+		"Flags": "Armed Dangerous",
+		"": ""
+	},
+	"102369": {
+		"LastName": "Davis",
+		"FirstName": "Wright",
+		"NameType": "A",
+		"NameID": "A-0000000087",
+		"Flag": "Armed Dangerous"
+	},
+	"104908": {
+		"NameType": "Juvenile",
+		"LastName": "Lee",
+		"FirstName": "Thamkins",
+		"NameID": "J-0000000066",
+		"GangName": "AutoQA",
+		"PFDescription": "Prophoenix, Automation",
+		"IdentificationType": "Color"
+	},
+	"104908R2": {
+		"NameType": "Juvenile",
+		"LastName": "Brian",
+		"FirstName": "B",
+		"NameID": "J-0000000003",
+		"GangName": "AutoQA",
+		"PFDescription": "Prophoenix, Automation",
+		"IdentificationType": "Color"
+	},
+	"102373": {
+		"LastName": "Wilson",
+		"FirstName": "Benny",
+		"NameType": "A",
+		"NameID": "A-0000000088"
+	},
+	"102374": {
+		"LastName": "Moore",
+		"FirstName": "Perez",
+		"NameType": "A",
+		"ScreeName": "Alias",
+		"KeyValue0": "Added Alias Name for A-000000089",
+		"KeyValue1": "Deleted Alias Name for A-000000089",
+		"NameID": "A-0000000089"
+	},
+	"102376": {
+		"LastName": "Taylor",
+		"FirstName": "Bailey",
+		"NameType": "A",
+		"NameID": "A-0000000090",
+		"Address": "141 Records Rd",
+		"value": "17 Cove Rd",
+		"ScreeName": "Address Details",
+		"KeyValue0": "Added Address for A-000000090"
+	},
+	"102381": {
+		"LastName": "Anderson",
+		"FirstName": "Gray",
+		"NameType": "Adult",
+		"NameID": "A-0000000091",
+		"ScreeName": "Address Details",
+		"KeyValue0": "Deleted Address for A-000000091"
+	},
+	"102383": {
+		"LastName": "Murphy",
+		"FirstName": "Powell",
+		"NameType": "Adult",
+		"NameID": "A-0000000092",
+		"Phone": "0123456789",
+		"PhoneType1": "W - Work",
+		"ExistingPhone": "(123) 421-2211",
+		"DeletePhone": "(012) 345-6789"
+	},
+	"102393": {
+		"LastName": "Gracia",
+		"FirstName": "Peterson",
+		"NameType": "A",
+		"NameID": "A-0000000093"
+	},
+	"102395": {
+		"LastName": "jenkins",
+		"FirstName": "Perry",
+		"NameType": "A",
+		"NameID": "A-0000000094"
+	},
+	"102397": {
+		"LastName": "Campbell",
+		"FirstName": "Alexender",
+		"NameType": "Adult",
+		"NameID": "A-0000000095",
+		"DOB": "05/09/1985"
+	},
+	"102429": {
+		"LastName": "Edwards",
+		"FirstName": "Walker",
+		"NameType": "A",
+		"NameID": "A-0000000096",
+		"State": "12345",
+		"FBI": "12345"
+	},
+	"102431": {
+		"LastName": "Philips",
+		"FirstName": "Ramirez",
+		"NameType": "A",
+		"NameID": "A-0000000097",
+		"DOB": "03/17/1700",
+		"Email": "test@prophoenix.com"
+	},
+	"103323": {
+		"LastName": "Adams",
+		"FirstName": "Rivera",
+		"NameType": "A",
+		"NameID": "A-0000000098"
+	},
+	"103324": {
+		"LastName": "Mitchel",
+		"FirstName": "Butler",
+		"NameType": "A",
+		"NameID": "A-0000000099"
+	},
+	"103326": {
+		"LastName": "Collins",
+		"FirstName": "Sanders",
+		"NameType": "Adult",
+		"NameID": "A-0000000100",
+		"Name": "Prophoenix",
+		"BusinessName": "Prophoenix",
+		"EmpLastName": "Prophoenix"
+	},
+	"104781": {
+		"LastName": "Nelson",
+		"FirstName": "Harris",
+		"NameType": "Adult",
+		"Code": "E",
+		"Type": "Temporary",
+		"Description": "Education",
+		"NameID": "A-0000000101",
+		"Name": "Prophoenix",
+		"EmpLastName": "Prophoenix"
+	},
+	"104783": {
+		"LastName": "Watson",
+		"FirstName": "Parker",
+		"NameType": "A",
+		"NameID": "A-0000000102",
+		"BrotherLastName": "Vinton",
+		"BrotherFirstName": "Raja",
+		"Name": "Vinton, Raja"
+	},
+	"104786": {
+		"LastName": "Griffin",
+		"FirstName": "Diaz",
+		"NameType": "A",
+		"NameID": "A-0000000103",
+		"SSNo": "654-87-9312",
+		"ssnumber": "654-87-9444"
+	},
+	"104911": {
+		"LastName": "Adams",
+		"FirstName": "Torres",
+		"NameType": "Adult",
+		"NameID": "A-0000000106",
+		"AssociateLastName": "Carter",
+		"AssociateFirstName": "Howared",
+		"Name": "Carter, Howared",
+		"CaseNo": "18-000039",
+		"NameID1": "A-0000000020",
+		"AssociatesNameID": "A-0000000007",
+		"AssociatesName": "Tom, Hanks",
+		"LastName1": "Mikeegl",
+		"FirstName1": "Morganhdr"
+	},
+	"104936": {
+		"LastName": "Prophoenix",
+		"NameType": "Business",
+		"NameID": "B-0000000011",
+		"LicenseType": "Hotel",
+		"LicenseNo": "85266",
+		"LicenseNo1": "85266",
+		"LicenseNo2": "85555",
+		"LicenseNo3": " ",
+		"EmailID": "auto@prophoenix.com",
+		"BusinessContactLastName": "kelly",
+		"BusinessContactFirstName": "Evans"
+	},
+	"105069": {
+		"LastName": "Allen",
+		"FirstName": "young",
+		"NameType": "A",
+		"NameID": "A-0000000110"
+	},
+	"105070": {
+		"LastName": "Scott",
+		"FirstName": "Cooper",
+		"NameType": "A",
+		"NameID": "A-0000000111",
+		"Subject": "Test"
+	},
+	"105073": {
+		"LastName": "Hayes",
+		"FirstName": "Russel",
+		"NameType": "A",
+		"NameID": "A-0000000112"
+	},
+	"105081": {
+		"LastName": "Sanchez",
+		"FirstName": "Stewart",
+		"NameType": "A",
+		"NameID": "A-0000000113"
+	},
+	"105087": {
+		"LastName": "Gonzales",
+		"FirstName": "Washington",
+		"NameType": "A",
+		"NameID": "A-0000000114"
+	},
+	"105088": {
+		"LastName": "Martinez",
+		"FirstName": "Turner",
+		"NameType": "A",
+		"NameID": "A-0000000115"
+	},
+	"105091": {
+		"LastName": "Philips",
+		"FirstName": "Cox",
+		"NameType": "A",
+		"NameID": "A-0000000116",
+		"Name": "Vinton, Raja",
+		"RelationShip": "Brother",
+		"VisitorLastName": "Vinton",
+		"VisitorFirstName": "Raja"
+	},
+	"105102": {
+		"LastName": "William",
+		"FirstName": "Robort",
+		"NameType": "Adult",
+		"NameID": "A-0000000052"
+	},
+	"105104": {
+		"CaseID": "18-000007",
+		"CaseNo": "18-000007"
+	},
+	"52219": {
+		"ColumnName0": "Sex",
+		"ColumnName1": "Race/Ethnicity"
+	},
+	"105105": {
+		"LastName": "Veera",
+		"FirstName": "Raghavan",
+		"NameType": "Adult",
+		"NameID": "A-0000000066"
+	},
+	"124013": {
+		"UCAccountName": "Automation",
+		"MediaType": "GPlus",
+		"UCCategory": "Auto Theft",
+		"URL": "https://accounts.google.com/Login#identifier",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"UCUserName": "AutoTest",
+		"SiteID": "Auto2016",
+		"SelectMediaType": "GPlus",
+		"UCName": "Automation"
+	},
+	"124014": {
+		"NameID": "A-0000000040",
+		"UserName": "P001",
+		"Password": "Pnx@2016"
+	},
+	"124015": {
+		"NameID": "A-0000000498",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"PFCode": "P001"
+	},
+	"124017": {
+		"NameID": "A-0000000528",
+		"UCAccountName": "Test Auto",
+		"MediaType": "GPlus",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"URL": "https://accounts.google.com/Login#identifier",
+		"UCUserName": "AutoTest",
+		"UCCategory": "Auto Theft",
+		"SiteID": "Auto2016",
+		"FriendStatus": "Friend",
+		"SelectMediaType": "GPlus",
+		"UCName": "Test Auto"
+	},
+	"124020": {
+		"NameID": "A-0000000042",
+		"Notes": "Automation Test",
+		"Notes1": "Automation Test Updated",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"FriendStatus": "Friend",
+		"MediaType": "Google Plus",
+		"URL": "https://accounts.google.com/Login#identifier"
+	},
+	"124021": {
+		"NameID": "A-0000000043",
+		"Notes1": "Automation Test Updated",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Notes": "Automation Team"
+	},
+	"124022": {
+		"NameID": "A-0000000041",
+		"UCAccountName": "Automation",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"PFCode": "P001",
+		"SiteID": "Auto2016"
+	},
+	"124077": {
+		"Facility": "Phoenix Police Department",
+		"CellType": "Male",
+		"Capacity": "1",
+		"Notes": "Phoenix Cell A1",
+		"CellNo": "A33"
+	},
+	"124079": {
+		"Facility": "Phoenix Police Department",
+		"InmateType": "Male",
+		"NameID": "A-0000000048",
+		"CustodyReason": "Hold for Immigration",
+		"RiskLevel": "Security Risk",
+		"ActivityType": "Cell Assigned",
+		"AssignCellNo": "C11",
+		"DetaineeID": "A-0000000048",
+		"Name": "Automation, Team"
+	},
+	"124080": {
+		"Notes": "Awake",
+		"CellNo": "C4",
+		"ActivityType": "Okay - Awake",
+		"DetaineeID": "A-0000000091"
+	},
+	"124081": {
+		"CategoryGroup": "PI-Police",
+		"Category": "DAM- Damage",
+		"Activity": "Damage",
+		"ActivityStatus": "Completed Activity",
+		"CellNo": "C7",
+		"ActivityInGrid": "",
+		"ActivityType": "Damage"
+	},
+	"124083": {
+		"RecordName": "Detention Record",
+		"CellNo": "C7"
+	},
+	"124084": {
+		"Notes": "Meals",
+		"ActivityType": "Meal Completed",
+		"CellNo": "C9"
+	},
+	"124085": {
+		"TemporaryLocation": "Hospital",
+		"Remarks": "Taking to Hospital",
+		"ActivityType": "Meal Completed",
+		"CellNo": "C9"
+	},
+	"124087": {
+		"CellNo": "C9"
+	},
+	"124088": {
+		"Notes": "Removed",
+		"CellNo": "C6"
+	},
+	"124089": {
+		"DetaineeID": "J-0000000005",
+		"CaseNo": "18-000056",
+		"AssignCellNo": "C4"
+	},
+	"124557": {
+		"NameID": "A-0000000527",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"SiteID": "256",
+		"FriendStatus": "Friend",
+		"TargetUserName": "Automation Test",
+		"MediaType": "GPlus",
+		"URL": "https://accounts.google.com/Login#identifier"
+	},
+	"135719": {
+		"LastName": "Shabeer",
+		"FirstName": "Mohan",
+		"CaseNo": "18-000004",
+		"PFCode": "Auto",
+		"ReasonCollected": "Blood Sample"
+	},
+	"143748": {
+		"LastName": "Automation",
+		"FirstName": "Team",
+		"NameID": "A-0000000069"
+	},
+	"160088": {
+		"ReportedLocation": "201 Paul Dr",
+		"Officer": "Auto",
+		"NameID": "A-0000000129",
+		"NameID1": "O-0000000025"
+	},
+	"160509": {
+		"Name": "Matthew, Scarlett",
+		"Name1": "Robert, Clary",
+		"NameAs": "A",
+		"LastName": "Robert",
+		"FirstName": "Clary"
+	},
+	"160519": {
+		"Location": "201 Paul Dr",
+		"NameID": "A-0000000130",
+		"Vehicle": "8POP-WI",
+		"Name": "William, Andy",
+		"Activity": "Field Interview"
+	},
+	"160536": {
+		"Case": "18-000065",
+		"Vehicle": "11POP",
+		"NameID": "A-0000000130",
+		"Activity": "CAD Traffic Stop",
+		"CaseNo": "18-000065"
+	},
+	"160537": {
+		"Plate": "11POP",
+		"State": "WI - Wisconsin",
+		"NameActivity": "Suspect",
+		"Activity": "Suspect",
+		"VinNo": "131313364646464",
+		"Name": "Martinez, Turner"
+	},
+	"160543": {
+		"NameType": "Business",
+		"NameID": "B-0000000024",
+		"NameRelation": "Building Owner",
+		"LastName": "Hayes",
+		"FirstName": "Russel",
+		"Name": "Hayes, Russel"
+	},
+	"160544": {
+		"NameType": "Juvenile",
+		"NameID": "J-0000000014",
+		"Name": "Naplin, Feddy",
+		"Name0": "Naplin, Feddy",
+		"Name1": "Napline, Feddy",
+		"LastName": "Naplin",
+		"FirstName": "Feddy",
+		"LastName1": "Napline",
+		"FirstName1": "Feddy",
+		"HexColorCode0": "#ff0000",
+		"HexColorCode1": "#ffa500"
+	},
+	"160546": {
+		"NameType": "A",
+		"NameID": "A-0000000131",
+		"Officer": "Auto"
+	},
+	"165754": {
+		"PrimaryONameID": "O-0000000027",
+		"LastName": "Betty",
+		"FirstName": "Donald",
+		"MergeANameID": "A-0000000140",
+		"MergeBNameID": "B-0000000028",
+		"MergeJNameID": "J-0000000024",
+		"MergeONameID": "O-0000000029",
+		"AliasesName": "Timothy, Dorothy Lisa",
+		"Address1": "152 Kirkwood Dr",
+		"CSZ": "Oshkosh, WI 54904",
+		"Country": "United States of America",
+		"Address": "152 Kirkwood Dr, Oshkosh, WI, 54904"
+	},
+	"165755": {
+		"MergeONameID": "O-0000000028",
+		"AliasesName": "Donald, Susan",
+		"Address": "2 S Oakwood Rd, Oshkosh, WI, 54904",
+		"PrimaryANameID": "A-0000000141",
+		"LastName": "Donald",
+		"Race": "White",
+		"Country": "United States of America",
+		"Address1": "2 S Oakwood Rd",
+		"CSZ": "Oshkosh, WI 54904",
+		"Ethnic": "Unknown"
+	},
+	"165756": {
+		"PrimaryANameID": "A-0000000143",
+		"MergeBNameID": "B-0000000028",
+		"AliasesName": "A. O. Smith",
+		"CSZ": "Oshkosh, WI 54904",
+		"Country": "United States of America",
+		"Address1": "3467 Charlie Anna Dr",
+		"Address": "3467 Charlie Anna Dr, Oshkosh, WI, 54904"
+	},
+	"165757": {
+		"PrimaryANameID": "A-0000000140",
+		"MergeJNameID": "J-0000000027"
+	},
+	"165758": {
+		"PrimaryANameID": "A-0000000140",
+		"LastName": "Jonathan",
+		"MergeANameID": "A-0000000142",
+		"Race": "Asian",
+		"BirthDate": "09/09/1994",
+		"AliasesName": "Jonathan, Nicholas",
+		"CSZ": "Oshkosh, WI 54904",
+		"Country": "United States of America",
+		"Address1": "152 Kirkwood Dr",
+		"Address": "152 Kirkwood Dr, Oshkosh, WI, 54904",
+		"Sex": "Unknown",
+		"PrimaryNameLocation": "324 N Westhaven Dr, Oshkosh, WI 54904",
+		"FirstName": "Layla"
+	},
+	"165759": {
+		"PrimaryJNameID": "J-0000000027",
+		"LastName": "Jeffrey",
+		"MergeONameID": "O-0000000030",
+		"Race": "Unknown",
+		"Ethnic": "Unknown",
+		"Sex": "Unknown",
+		"AliasesName": "Jeffrey, Cynthia"
+	},
+	"165760": {
+		"PrimaryJNameID": "J-0000000026",
+		"MergeBNameID": "B-0000000029",
+		"AliasesName": "Ameriprise Financial",
+		"CSZ": "Oshkosh, WI 54904",
+		"Country": "United States of America",
+		"Address1": "3467 Charlie Anna Dr",
+		"Address": "3467 Charlie Anna Dr, Oshkosh, WI, 54904"
+	},
+	"165761": {
+		"PrimaryJNameID": "J-0000000027",
+		"MergeANameID": "A-0000000140"
+	},
+	"165762": {
+		"PrimaryJNameID": "J-0000000025",
+		"LastName": "Zachary",
+		"MergeJNameID": "J-0000000028",
+		"Race": "White",
+		"BirthDate": "10/11/2012",
+		"AliasesName": "Zachary, Madelyn",
+		"Address": "571 W Larrabee St, Omro, WI, 54963",
+		"Address1": "571 W Larrabee St",
+		"CSZ": "Omro, WI 54963",
+		"Country": "United States of America",
+		"Sex": "Female"
+	},
+	"165763": {
+		"PrimaryBNameID": "B-0000000030",
+		"MergeANameID": "A-0000000144",
+		"Address": "4311 Broderick Rd",
+		"Phone": "(015) 452-6369",
+		"AliasesName": "Ezekiel, Braxton",
+		"Country": "United States of America",
+		"CSZ": "Omro, WI 54963",
+		"Address1": "571 W Larrabee St",
+		"Addresses": "571 W Larrabee St, Omro, WI, 54963"
+	},
+	"165764": {
+		"PrimaryBNameID": "B-0000000034",
+		"LastName": "Maddox",
+		"MergeJNameID": "J-0000000029",
+		"Address": "4311 Broderick Rd",
+		"Phone": "(011) 987-4563",
+		"AliasesName": "Maddox, Elliott",
+		"CSZ": "Omro, WI 54963",
+		"Country": "United States of America",
+		"Address1": "5357 Rushford Ave",
+		"Addresses": "5357 Rushford Ave, Omro, WI, 54963"
+	},
+	"165765": {
+		"PrimaryBNameID": "B-0000000033",
+		"MergeONameID": "O-0000000031",
+		"Address": "4311 Broderick Rd",
+		"AliasesName": "Francisco, Remington",
+		"CSZ": "Omro, WI 54963",
+		"Country": "United States of America",
+		"Address1": "5357 Rushford Ave",
+		"Addresses": "5357 Rushford Ave, Omro, WI, 54963"
+	},
+	"165766": {
+		"PrimaryBNameID": "B-0000000031",
+		"LastName": "Kinder Morgan",
+		"MergeBNameID": "B-0000000032",
+		"Address": "4311 Broderick Rd",
+		"AliasesName": "Kinder Morgan",
+		"BusinessID": "AWRT346",
+		"CSZ": "Omro, WI 54963",
+		"Country": "United States of America",
+		"Address1": "571 W Larrabee St",
+		"Addresses": "571 W Larrabee St, Omro, WI, 54963",
+		"BusinessType": "Community College"
+	},
+	"165767": {
+		"PrimaryANameID": "A-0000000145",
+		"LastName": "Vulcan",
+		"AliasesName": "Vulcan, Ava II",
+		"AliasesName2": "Vulcan Materials Company",
+		"CSZ": "Oshkosh, WI 54904",
+		"Address1": "324 N Westhaven Dr",
+		"Address": "324 N Westhaven Dr, Oshkosh, WI, 54904",
+		"AliasesName1": "Vulcan, Liam Mia",
+		"NameID1": "B-0000000035",
+		"NameID2": "O-0000000033"
+	},
+	"173284": {
+		"GangName": "AutomationTeam",
+		"Address1": "915 Oswego St",
+		"EstimatedMembers": "5"
+	},
+	"173285": {
+		"GangName": "AutoWorks",
+		"IdentificationType": "Symbols",
+		"Symbols": "Police"
+	},
+	"173286": {
+		"GangName": "GunsMan",
+		"NameID": "A-0000000065",
+		"Rank": "Captain",
+		"Status": "New Member",
+		"LocationOfActivity": "Wisconsin Park",
+		"Name": "Edward, Bella",
+		"IdentificationType": "Graffiti",
+		"KnownMember": "1",
+		"Graffiti": "Graffiti"
+	},
+	"173287": {
+		"GangName": "AutoWorks",
+		"Overlay": "Parks",
+		"Vehicle": "984188-WI",
+		"Activity": "Driver",
+		"Vehicle0": "984188-WI",
+		"Activity0": "Driver",
+		"Vehicle1": "984188-NJ",
+		"Activity1": "Passenger",
+		"FeatureName": "AutoWorks"
+	},
+	"173288": {
+		"NameID": "A-0000000018",
+		"GangName": "QATeam",
+		"Activity": "Suspect",
+		"PersonName": "Mikepty, Morganlkm",
+		"UpdatedBy": "AUTO",
+		"Notes": "Automation work on Gang module"
+	},
+	"179814": {
+		"PremiseNo": "101",
+		"Street": "Raymond St",
+		"NameID": "A-0000000037",
+		"BirthDate": "08/08/1996"
+	},
+	"179815": {
+		"FirstName": "Robert",
+		"LastName": "Harper",
+		"Address": "302 Fellowship Rd",
+		"BirthDate": "09/08/1997",
+		"Address1": "502 Pleasant Valley Ave"
+	},
+	"207320": {
+		"NameID": "J-0000000002",
+		"CaseNo": "19-000013",
+		"How": "On-View Arrest",
+		"Officer1": "PRMS",
+		"Charge": "100.186(3)",
+		"Status": "Arrested Adult",
+		"AgencyAction": "Handled Within the Department"
+	},
+	"243231": {
+		"CaseNo": "20-000014",
+		"NameID": "A-0000000203",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge": "943.02(1)(b)",
+		"Charge1": "29.974(2)(b)",
+		"Officer1": "AUTO",
+		"NIBRSOffence": "200-Arson",
+		"Status": "Arrested Adult",
+		"CADCFS": "100",
+		"Location": "69 Prospect Hill Rd",
+		"CADDisposition": "I",
+		"Unit": "AUTO"
+	},
+	"243289": {
+		"NameRelation": "Manager",
+		"NameID": "B-0000000040",
+		"LastName": "William",
+		"FirstName": "Robort",
+		"Name": "William, Robort",
+		"ColumnName": "SS#"
+	},
+	"243290": {
+		"ArrestNo": "20-000002",
+		"Officer1": "AUTO",
+		"CaseNo": "20-000011",
+		"ItemType": "Arrest Entry",
+		"Officer": "PRMS",
+		"RefNo": "20-000002",
+		"NewAction": "Send For Approval",
+		"Charge": "145.174(a)2"
+	},
+	"244240": {
+		"NameID": "A-0000000203",
+		"CaseNo": "20-000019",
+		"How": "On-View Arrest",
+		"Evidence": "Fingerprints",
+		"SubDocs": "COPY OF BOND",
+		"EvidenceValue": "Automation Evidence",
+		"SubDocsValue": "Automation SubDocs",
+		"Status": "Arrested Adult",
+		"Charge": "100.03(4)"
+	},
+	"244248": {
+		"NameID": "A-0000000207",
+		"Name": "Jeffery, Joshuva",
+		"WarrantNo": "20-000001"
+	},
+	"246278": {
+		"NameID": "A-0000000211",
+		"Reason": "Stolen",
+		"Value": "100",
+		"Property": "Clothes/Furs",
+		"FirstName": "Eugenie",
+		"LastName": "Magnus",
+		"CaseNo": "20-000005"
+	},
+	"247897": {
+		"NameID": "A-0000000213",
+		"LastName": "Rernando",
+		"FirstName": "Burzzi",
+		"Address": "47 cove Rd",
+		"BirthDate": "01/01/2000",
+		"Sex": "Male",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"NameType": "A",
+		"GoToOption": "Arrest",
+		"CaseNo": "25-000001",
+		"ArrestDate": "01/08/2025",
+		"ArrestTime": "16:54:56",
+		"LastName1": "0123356487921"
+	},
+	"247899": {
+		"NameID": "A-0000000213",
+		"LastName": "Morgan Man",
+		"FirstName": "Mike Rose",
+		"MiddleName": "KS",
+		"Address": "47 cove Rd",
+		"Address1": "25 Passaic Ave",
+		"BirthDate": "08/29/1993",
+		"Sex": "Male",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"Race1": "Asian",
+		"Ethnic1": "Hispanic/Latino",
+		"NameType": "A",
+		"LastName1": "Borden",
+		"FirstName1": "White",
+		"AliasesName": "Borden, White",
+		"Name": "Morgan Man, Mike Rose KS"
+	},
+	"247902": {
+		"NameID": "A-0000000213",
+		"LastName": "Barnum",
+		"FirstName": "Monmouth",
+		"ArrestBooking": "20-000005",
+		"Password": "Pnx@2016",
+		"ActivityNo": "21.000003"
+	},
+	"247940": {
+		"NameID": "J-0000000037",
+		"LastName": "Oakhurst",
+		"FirstName": "Zestimate",
+		"ArrestBooking": "20-000005",
+		"Password": "Pnx@2016",
+		"NameType": "A",
+		"Jacket": "238",
+		"SSno": "856-24-5721",
+		"Name": "Oakhurst, Zestimate",
+		"Height": "175",
+		"Weight": "75"
+	},
+	"250096": {
+		"NameID": "A-0000000482",
+		"NameType": "A",
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"Add": "Distribution list",
+		"DistributionList": "Police QA",
+		"NotificationListDetails": "Police QA",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent": "Screen Printed",
+		"NameID1": "A-0000000171",
+		"NameID2": "A-0000000176"
+	},
+	"250160": {
+		"NameID": "A-0000000240",
+		"NameID1": "A-0000000241",
+		"NameType": "A",
+		"UserName": "Automation",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"Add": "Distribution list",
+		"DistributionList": "Police QA",
+		"NotificationListDetails": "Police QA",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent": "Screen Printed"
+	},
+	"250435": {
+		"NameID": "A-0000000247",
+		"CaseNo": "20-000060",
+		"Charge": "100.20(1)",
+		"Charge1": "940.203(2)(b)",
+		"Status": "Arrested Adult",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge0": "100.20(1)"
+	},
+	"250436": {
+		"NameID": "A-0000000540",
+		"CaseNo": "25-000012",
+		"Charge0": "940.04(4)",
+		"Charge1": "94.03(1)",
+		"Status": "Arrested Adult",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Count0": "1",
+		"Count1": "2",
+		"Officer1": "Auto"
+	},
+	"251733": {
+		"NameType": "J",
+		"NameID": "J-0000000041",
+		"CaseNo": "20-000082",
+		"IncidentLocation": "69 Prospect Hill Rd",
+		"How": "On-View Arrest",
+		"Charge": "110.06(3)(b)",
+		"Status": "Arrested Juvenile",
+		"AgencyAction": "Handled Within the Department"
+	},
+	"251734": {
+		"NameID": "J-0000000042",
+		"CaseNo": "20-000082",
+		"IncidentLocation": "784 Lobortis Ave",
+		"How": "On-View Arrest",
+		"Charge": "218.0116(1)(t)",
+		"Status": "No Process",
+		"AgencyAction": "Handled Within the Department"
+	},
+	"251736": {
+		"AssignedTo": "PRMS",
+		"CallNo": "20.000082",
+		"LastName": "Kathryn",
+		"FirstName": "Posuere",
+		"NameID": "A-0000000261"
+	},
+	"253123": {
+		"LastName": "Jeremiah",
+		"FirstName": "Nolan",
+		"Address": "1498 Mc Kinley St",
+		"BirthDate": "09/03/2020"
+	},
+	"253390": {
+		"IncidentNo": "20-000020",
+		"LastName": "Berlin",
+		"Activity": "Owner",
+		"Name": "Berlin, Jerry"
+	},
+	"254110": {
+		"NameID": "A-0000000279",
+		"CaseNo": "20-000113",
+		"CaseNo1": "20-000114",
+		"How": "On View Arrest",
+		"Charge": "940.19(2)",
+		"Armed": "Unarmed",
+		"BookingDate": "09/01/2020",
+		"BookingTime": "17:11:29"
+	},
+	"254471": {
+		"NameID": "A-0000000291",
+		"CaseNo": "20-000126",
+		"How": "On-View Arrest",
+		"Charge": "948.02(3)",
+		"Charge1": "943.20(1)(a)",
+		"Status": "Arrested Adult",
+		"AgencyAction": "Handled Within the Department",
+		"Password": "Pnx@2016",
+		"RemarksText": "Sheriff&#39;",
+		"Remarks": "Sheriff'"
+	},
+	"254473": {
+		"Charge": "101.123(2)(a)2",
+		"How": "On-View Arrest",
+		"NameID": "A-0000000292",
+		"Password": "Pnx@2016",
+		"Case#": "20-000004",
+		"OfficerName": "Prophoenix, Automation"
+	},
+	"254572": {
+		"NameID": "A-0000000110",
+		"NameID1": "A-0000000285",
+		"PropertyType": "Article",
+		"LastName": "Gabriel",
+		"FirstName": "Charlotte",
+		"Type": "Article"
+	},
+	"254773": {
+		"FirstName": "Jackson",
+		"LastName": "Micheal",
+		"Name": "Micheal, Jackson",
+		"Password": "Pnx@2016",
+		"Type": "Expungement - Arrest",
+		"NameID": "A-0000000498",
+		"ArrestBooking1": "24-000005"
+	},
+	"255119": {
+		"PermitType": "GUN",
+		"GunType": "Pistol - Semi Auto",
+		"GunPermit": "20-000001",
+		"Owner": "Jefferson, Madison",
+		"GunMake": "American Firearms",
+		"ApplicationDate": "09/22/20",
+		"Serial": "ASER5677ERT",
+		"Serial0": "22552255",
+		"GunType0": "Cannon",
+		"GunType1": "Cannon",
+		"NameID": "A-0000000297",
+		"PermitStatus": "Approved"
+	},
+	"255336": {
+		"NameID": "A-0000000299",
+		"Name": "Karlaney, Michaelmas",
+		"LastName": "James",
+		"FirstName": "Naples",
+		"Address": "927 Karlaney Ave"
+	},
+	"255527": {
+		"LastName": "Erickson",
+		"FirstName": "Linne",
+		"NameID": "O-0000000049",
+		"CallNo": "20-000152",
+		"NameID1": "O-0000000050",
+		"CaseNo": "20-000152",
+		"Unit": "AUTO",
+		"Charge": "100.02(1)"
+	},
+	"255530": {
+		"LastName": "Birch",
+		"FirstName": "Grindstone",
+		"NameType": "A",
+		"MiddleName": "LA",
+		"Suffix": "I",
+		"Address": "7635 Mueller Ave",
+		"PhoneNumber": "7858585858",
+		"PhoneNumber1": "8548569698",
+		"NameID": "A-0000000238",
+		"PropertyNo": "20-000018-1",
+		"Sex": "Male",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"Race": "White",
+		"Ethnic": "Unknown"
+	},
+	"255721": {
+		"Name": "Kevin, Brain",
+		"Name1": "Martin, Luther King Dr",
+		"Password": "Pnx@2016",
+		"ArrestNo": "23-000003",
+		"ArrestNo1": "23-000004",
+		"LastName": "Martin",
+		"FirstName": "Luther King",
+		"ArrestBooking": "20-000012"
+	},
+	"256401": {
+		"PrimaryANameID": "A-0000000311",
+		"MergeNameID": "A-0000000312",
+		"Name": "McKensky,Kimberly",
+		"Address": "2038 Chateau Ct",
+		"Race": "Asian",
+		"DOB": "11/08/1954",
+		"Jacket": "328",
+		"MergedPF": "Prophoenix, Automation",
+		"AliasesName": "Franklin, Harrison I",
+		"MergeName": "Franklin,Harrison I"
+	},
+	"256402": {
+		"LastName": "William",
+		"FirstName": "William",
+		"DOB": "03/25/1992",
+		"Details": "Person"
+	},
+	"256403": {
+		"LastName": "William",
+		"FirstName": "William",
+		"DOB": "03/25/1992",
+		"MiddleName": "W",
+		"Name": "William, William W",
+		"PlateNo": "313",
+		"PlateState": "WI - Wisconsin",
+		"NameType": "Adult"
+	},
+	"256404": {
+		"LastName": "Sherman",
+		"FirstName": "Stony",
+		"LastName1": "Poplar Tower",
+		"LastName2": "Kettle",
+		"FirstName2": "Stony",
+		"Address": "101 W Acorn Dr",
+		"PF": "AUTO",
+		"Officer": "Prophoenix, Automation",
+		"Sex": "Male",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"NameType": "O",
+		"FirstName1": "Kiran",
+		"Height": "110px",
+		"Width": "104px"
+	},
+	"256405": {
+		"LastName": "Josh",
+		"FirstName": "Mad",
+		"Name": "Josh, Mad",
+		"NameType": "Adult",
+		"Date": "02/07/2026",
+		"Activity": "Arrest",
+		"Activity1": "Warrant",
+		"Activity2": "Property"
+	},
+	"256406": {
+		"LastName": "Virginia",
+		"FirstName": "Trillium",
+		"Address": "743 Windsor Dr",
+		"BirthDate": "08/09/1995"
+	},
+	"256407": {
+		"LastName": "Claremont",
+		"FirstName": "Mayfair",
+		"Address": "2799 S Gladstone P",
+		"Address1": "1012 N Glenoaks Blvd,b6",
+		"Address12": "6 Jefferson Ave",
+		"OldAddress": "1655 Wisconsin Ave",
+		"NameType1": "Juvenile",
+		"LastName1": "Claremont",
+		"FirstName1": "Cottrell",
+		"NameType2": "Business",
+		"LastName2": "Claremont Flower Shop",
+		"NameType": "Adult",
+		"Address": "400 Spring St"
+	},
+	"256409": {
+		"LastName": "Pique",
+		"FirstName": "Ineaka",
+		"Address": "101 W Acorn Dr",
+		"AgeFrom": "18",
+		"AgeTo": "18",
+		"AgeFrom1": "17",
+		"AgeTo1": "18",
+		"AgeFrom2": "0",
+		"AgeTo2": "0",
+		"AgeFrom3": "19",
+		"AgeTo3": "20",
+		"NameType": "A"
+	},
+	"256410": {
+		"NameType": "Adult",
+		"Name": "Beeblebrox, Zaphod Z Jr",
+		"ActivityStatus": "Completed Activity",
+		"Location": "Marquette",
+		"VisitorsLocation0": "3 bank St",
+		"Subject": "Visitor Card",
+		"ActivityType": "Visitor",
+		"LastName": "Claremont",
+		"FirstName": "Mayfair",
+		"Name1": "Claremont, Mayfair",
+		"NameID": "A-0000000010",
+		"VisitorsLocation1": "1655 Wisconsin Ave"
+	},
+	"256412": {
+		"LastName": "Eabha",
+		"FirstName": "Ealasaid",
+		"MiddleName": "Ea",
+		"Name": "Eabha, Ealasaid Eam",
+		"NameType": "--",
+		"NameType1": "Adult",
+		"NameType2": "Juvenile",
+		"NameType3": "Business",
+		"NameType4": "Other",
+		"LastName1": "Ja",
+		"NameID1": "A-0000000061",
+		"Name1": "Jack, Daniel",
+		"NameID2": "J-0000000009",
+		"Name2": "James, Mohan",
+		"NameID3": "B-0000000045",
+		"Name3": "Jackson Mart",
+		"NameID4": "O-0000000053",
+		"Name4": "Jackie, Troy",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"256413": {
+		"NameID": "A-0000000487",
+		"Type": "Expungement",
+		"InvalidPassword": "Pnx@2018",
+		"Password": "Pnx@2016",
+		"Activity": "24-000086",
+		"Activity1": "24-000003"
+	},
+	"256414": {
+		"NameID": "A-0000000319",
+		"Name": "Morton, Eleanor",
+		"LastName": "Morton",
+		"FirstName": "Eleanor",
+		"Address": "101 W Acorn Dr, Grafton, WI 53024",
+		"ActivityNo": "20-000002",
+		"Reason": "Flow test",
+		"ActivityNo1": "20.000168",
+		"ActivityType": "Citation",
+		"CENo": "20-000002",
+		"Activity1": "20.000168",
+		"Activity": "20-000002"
+	},
+	"256419": {
+		"NameID": "A-0000000011",
+		"NameID1": "B-0000000011",
+		"NameID2": "J-0000000002",
+		"NameID3": "O-0000000010",
+		"AtypeNameID": "A-0000000011",
+		"BtypeNameID": "B-0000000011",
+		"JtypeNameID": "J-0000000002",
+		"OtypeNameID": "O-0000000010",
+		"Race": "Latino or Hispanic",
+		"Ethnic": "Russian",
+		"Race1": "# Latino or Hispanic",
+		"Ethnic1": "# Russian",
+		"Description": "Latino or Hispanic",
+		"Description1": "Russian",
+		"CodeID": "1011",
+		"CodeID1": "2069",
+		"CodeValueDescription": "Latino or Hispanic"
+	},
+	"256420": {
+		"LastName": "Baren",
+		"FirstName": "Keith",
+		"MiddleName": "M",
+		"LastName1": "Philips",
+		"FirstName1": "Louis",
+		"Address": "101 W Acorn Dr",
+		"BirthDate": "01/01/2003",
+		"Description": "Tattoo Test",
+		"SMT": "ART ARM",
+		"HairColor0": "Brown",
+		"Condition0": "Normal",
+		"EyeColor0": "Green",
+		"HairColor1": "Blue",
+		"Condition1": "Alcohol Impaired",
+		"EyeColor1": "Blue",
+		"AliasesName2": "Philips, Louis M"
+	},
+	"256421": {
+		"InitialCFS": "100",
+		"ReportedLocation": "5098 Broadhorn Rd",
+		"NameID": "A-0000000181",
+		"BNameID": "B-0000000015",
+		"NameID1": "J-0000000035",
+		"NameID2": "O-0000000044",
+		"AtypeNameID": "A-0000000181",
+		"BtypeNameID": "B-0000000015",
+		"JtypeNameID": "J-0000000035",
+		"OtypeNameID": "O-0000000044",
+		"Location1": "5098 Broadhorn Rd",
+		"Address": "5098 Broadhorn Rd",
+		"Activity": "Victim",
+		"Activity1": "Arrested",
+		"Activity2": "Suspect",
+		"Activity3": "Suspect"
+	},
+	"256797": {
+		"NameID": "A-0000000321",
+		"Name": "Scott, Lampe M",
+		"LastName": "Scott",
+		"FirstName": "Lampe",
+		"Address": "11201 Blueberry Ave, Couderay, WI 54828",
+		"ArrestBooking": "20-000014",
+		"Password": "Pnx@2016",
+		"Type": "Expungement - Arrest"
+	},
+	"256799": {
+		"NameID": "A-0000000322",
+		"Name": "Sandy, Scotty",
+		"LastName": "Sandy",
+		"FirstName": "Scotty",
+		"ArrestNo": "20-000016",
+		"BusinessName": "Walmart",
+		"BusinessNameID": "36",
+		"BusinessName1": "Renault Services"
+	},
+	"256800": {
+		"LastName": "James",
+		"FirstName": "Barker",
+		"Name": "James, Barker",
+		"NameID": "A-0000000007",
+		"Juris": "BP - Bloomville Police Dept",
+		"Action": "Copied"
+	},
+	"256801": {
+		"Street1": "Minnesota Ave",
+		"Street2": "Saxon Rd",
+		"Location": "Minnesota Ave/Saxon Rd"
+	},
+	"257959": {
+		"JNameID": "J-0000000058",
+		"CaseNo": "20-000177",
+		"Charge": "118.16(2)(cg)",
+		"Charge1": "26.99",
+		"AgencyAction": "Handled Within the Department",
+		"ArrestNo": "20-000018"
+	},
+	"257960": {
+		"NameID": "J-00000000025",
+		"CaseNo": "20-000176",
+		"CFS": "110.06(3)(b)",
+		"Charge": "110.06(3)(b)",
+		"CFS1": "218.0116(1)(t)",
+		"Charge2": "218.0116(1)(t)",
+		"School": "PNX - Prophoenix",
+		"Grade": "CT - Chennoza",
+		"Officer1": "AUTO",
+		"AgencyAction": "Handled Within the Department",
+		"Charge0": "110.06(3)(b) - (Health or Safety)",
+		"ActivityType": "Arrest",
+		"Charge1": "218.0116(1)(t) - (Public Order Crimes)"
+	},
+	"257961": {
+		"ArrestNo": "20-000017",
+		"AssignCellNo": "C10",
+		"CustodyReason": "New Arrest",
+		"AssignedBy": "PRMS",
+		"RemovedBy": "AUTO",
+		"Subject": "Cell <Release>. Cell# C10",
+		"Category": "JC05 - Cell Inspection",
+		"CategoryGroup": "JCELL - Jail Cell",
+		"ActivityType": "Inspection",
+		"ActivityStatus": "Completed Activity"
+	},
+	"259718": {
+		"JNameID": "J-0000000060",
+		"CADCFS": "100",
+		"Location": "5098 Broadhorn Rd",
+		"CADDisposition": "PI",
+		"Unit": "AUTO",
+		"Charge": "11.27(1)",
+		"Status": "Arrested Juvenile",
+		"JuvenileStatus": "Handled Within the Department",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Officer1": "AUTO"
+	},
+	"259722": {
+		"NameID": "A-0000000342",
+		"ArrestBooking": "20-000018",
+		"Password": "Pnx@2016",
+		"Location": "4220 King Arthur Pl"
+	},
+	"259723": {
+		"CaseNo": "24-000085",
+		"Officer1": "PRMS",
+		"Charge": "100.185(2)",
+		"Charge1": "118.16(2)(cg)",
+		"Status": "Arrested Adult"
+	},
+	"260158": {
+		"LastName": "Lexington11",
+		"FirstName": "Roosevelt11",
+		"Address": "1 Belvidere Ave",
+		"Race": "White",
+		"Ethnic": "Hispanic/Latino",
+		"SSNo": "544087632",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"SSno1": "544-08-7632"
+	},
+	"260469": {
+		"Action": "Allow",
+		"NameID": "A-0000000348",
+		"ReportName": "Access List Control",
+		"PFCode": "Auto",
+		"FileName": "1F220BF4.PNG"
+	},
+	"260820": {
+		"NameID": "A-0000000354",
+		"Link": "http:\\www.external.com",
+		"FileName": "http:\\www.external.com",
+		"Link1": "Http:\\www.google.com"
+	},
+	"261092": {
+		"NameID": "A-0000000363",
+		"NameID1": "A-0000000362",
+		"NameID2": "A-0000000364",
+		"NameID3": "A-0000000365",
+		"LastName": "Tacony",
+		"FirstName": "Mascher",
+		"WarrantNo": "20-000666",
+		"LastName1": "Creek"
+	},
+	"261097": {
+		"NameID": "A-0000000363"
+	},
+	"261417": {
+		"CaseNo": "20-000211",
+		"NameID": "A-0000000368",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge": "100.183(1)",
+		"Officer1": "Auto",
+		"Status": "Arrested Adult",
+		"Action": "Deny",
+		"PFCode": "P002",
+		"UserName": "P002",
+		"Password": "Pnx@2016",
+		"Database": "PoliceMJAutomation",
+		"FileName": "ArrestDocket.pdf",
+		"Division": "Operations",
+		"Section": "Investigations",
+		"SquadCode": "DT"
+	},
+	"261989": {
+		"CADCFS": "RE2020",
+		"Location": "1212 N San Fernando Blvd,A1",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Type": "Incident Report",
+		"NameID": "A-0000000370",
+		"Charge": "11.27(1)",
+		"Status": "Arrested Adult",
+		"JuvenileStatus": "Handled Within the Department",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Officer1": "AUTO"
+	},
+	"261990": {
+		"CADCFS": "RE2020",
+		"Location": "1212 N San Fernando Blvd,A4",
+		"CADDisposition": "I",
+		"Unit": "AUTO",
+		"Type": "Incident Report",
+		"NameID": "A-0000000372",
+		"Charge": "11.27(1)",
+		"Status": "Arrested Adult",
+		"JuvenileStatus": "Handled Within the Department",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Officer1": "AUTO",
+		"LastName": "Cornell",
+		"FirstName": "Fernando",
+		"Name1": "Cornell, Fernando II",
+		"Name": "Amherst, Cornell"
+	},
+	"261991": {
+		"CADCFS": "RE2020",
+		"Location": "498 E Walnut Ave",
+		"CADDisposition": "I",
+		"Unit": "Auto",
+		"Type": "Incident Report",
+		"NameID": "A-0000000373",
+		"Armed": "Unarmed",
+		"Charge": "11.27(1)",
+		"Charge1": "118.16(2)",
+		"How": "On-View Arrest"
+	},
+	"268018": {
+		"FormRefNo": "44",
+		"FormName": "Form 44",
+		"Version": "1",
+		"RepositoryID": "2282",
+		"LastName": "Javier",
+		"FirstName": "Kai",
+		"Name": "Javier, Kai",
+		"SelectForm": "44"
+	},
+	"271627": {
+		"QAFormData": "Employee1@&",
+		"NameID": "A-0000000420",
+		"CaseNo": "21-000134",
+		"Officer1": "AUTO",
+		"Charge": "100.025(4)",
+		"SelectForm": "Form 441",
+		"Name": "Madison, Mill",
+		"PFNo": "AUTO"
+	},
+	"273003": {
+		"Name": "Vinton, Raja",
+		"LastName": "Vinton",
+		"FirstName": "Raja",
+		"IncidentLocation": "1152 Langlade Ave",
+		"CaseNo": "21-000148",
+		"NameID": "A-0000000064",
+		"Charge": "100.03(7)(b)",
+		"How": "On-View Arrest"
+	},
+	"273923": {
+		"NameID": "A-0000000427",
+		"MergeNameID": "A-0000000428"
+	},
+	"275935": {
+		"CaseNo": "21-000148",
+		"Charge": "100.03(7)(b)",
+		"Status": "Arrested Juvenile",
+		"NIBRSOffense": "90Z -All Other Offenses",
+		"CitationNo": "108",
+		"Charge1": "100.03(15)(b)",
+		"NameID": "A-0000000059",
+		"Location": "69 Prospect Hill Rd"
+	},
+	"276783": {
+		"NameID": "A-0000000441",
+		"CaseNo": "21-000203",
+		"How": "Prosecutor Review",
+		"Officer1": "AUTO",
+		"Armed": "Unarmed",
+		"Charge": "218.0116(1)(t)",
+		"Name": "Gibbon, Creek",
+		"Password": "Pnx@2016"
+	},
+	"278224": {
+		"NameID": "A-0000000442",
+		"WarrantNo": "21-001253"
+	},
+	"278225": {
+		"LastName": "Bruce",
+		"FirstName1": "",
+		"Name": "Bruce, Jordan",
+		"Address": "615 Vaughn Ave, Ashland, WI 54806",
+		"Location": "615 Vaughn Ave",
+		"Address1": "101 4th St",
+		"FirstName": "Mill",
+		"DOB": "04/27/1967",
+		"Name1": "Madison, Mill",
+		"NameType": "Adult"
+	},
+	"284117": {
+		"NameID": "A-0000000451",
+		"LastName": "Theodore",
+		"FirstName": "Lowe",
+		"Address": "606 Azusa",
+		"Type": "Frequented",
+		"Address1": "1601 Deming Way,100"
+	},
+	"289862": {
+		"PrimaryANameID": "A-0000000456",
+		"MergeANameID": "A-0000000457",
+		"MergeNameID": "A-0000000457"
+	},
+	"284330": {
+		"NameID": "A-0000000005",
+		"LastName": "Deone",
+		"FirstName": "Jones"
+	},
+	"275258": {
+		"LineupNo": "20-000001",
+		"Suspect": "Ciaz, Mh",
+		"SuspectID": "J-0000000054",
+		"NameID": "J-0000000054"
+	},
+	"278642": {
+		"CustomName": "Test"
+	},
+	"292626": {
+		"LastName": "Barbar"
+	},
+	"AESmoke": {
+		"NameID": "A-0000000452",
+		"CaseNo": "21-000177",
+		"Officer1": "AUTO",
+		"Armed": "Unarmed",
+		"Charge": "100.03(2)(a)"
+	},
+	"FISearch": {
+		"Location": "9 Riverton Rd,1"
+	},
+	"GMEntry": {
+		"Address1": "297 Grant Ave"
+	},
+	"GPEntry": {
+		"NameID": "A-0000000015"
+	},
+	"NameEntry": {
+		"LastName": "William",
+		"FirstName": "Vincent",
+		"Address": "331 Vine St"
+	},
+	"OffenderEntry": {
+		"OffenderCategory": "Drug Offender",
+		"NameID": "A-0000000015"
+	},
+	"SMSmoke": {
+		"UCCategory": "Auto Login",
+		"UCAccountName": "TestAutomation"
+	},
+	"AgeRange": {
+		"AgeFrom": "18",
+		"AgeTo": "18",
+		"AgeFrom1": "0",
+		"AgeTo1": "0",
+		"AgeFrom2": "17",
+		"AgeTo2": "18",
+		"LastName": "Ben",
+		"FirstName": "Stone",
+		"Address": "1152 Langlade Ave",
+		"NameType": "A",
+		"LastName1": "helison",
+		"FirstName1": "mathew",
+		"Address1": "2 Second Ave",
+		"DOB": "05/03/1999",
+		"BirthDate": "05/03/1999"
+	},
+	"NameEntryFire": {
+		"LastName": "Roy",
+		"FirstName": "Raven",
+		"Address": "326 N Madison Ave"
+	},
+	"NameInquiry": {
+		"LastName": "Icec",
+		"FirstName": "Newton",
+		"DOB": "06/21/1990",
+		"Details": "Society",
+		"Name": "Icec, Newton",
+		"Plate": "WI-NEWTON",
+		"PlateNo": "NEWTON",
+		"Month": "June"
+	},
+	"ArrestExpungement": {
+		"LastName": "Tyson",
+		"FirstName": "Mike",
+		"NameID": "A-0000000499",
+		"Activity": "Arrest",
+		"ActivityNo": "24-000081",
+		"Name": "Tyson, Mike",
+		"CaseNo": "24-000081",
+		"ArrestNo": "24-000006",
+		"ArrestBooking": "24-000006",
+		"Location": "606 Azusa",
+		"Password": "Pnx@2016"
+	},
+	"MJTab": {
+		"FirstName": "Howared",
+		"LastName": "Carter",
+		"Juris": "BC - Brown County Police Department",
+		"NameID": "A-0000000108",
+		"BCNameID": "A-0000000001"
+	},
+	"FlagTab": {
+		"NameID": "A-0000000464",
+		"Flag": "Mental",
+		"Flags": "Mental"
+	},
+	"ArrestEntry": {
+		"NameID": "A-0000000349",
+		"CaseNo": "24-000082",
+		"How": "On-View Arrest",
+		"Charge": "100.03(22)(b)",
+		"Officer1": "AUTPOL",
+		"Status": "Arrested Adult"
+	},
+	"ArrestTab": {
+		"Notes": "Test",
+		"Officer1": "AUTPOL"
+	},
+	"MedicalTab": {
+		"LastName": "Audubon",
+		"FirstName": "",
+		"Charge": "100.03(22)(b)",
+		"NameID": "A-0000000349",
+		"Notes": "Test"
+	},
+	"ChargeTab": {
+		"Charge1": "100.03(12)",
+		"CaseNo": "23-000029",
+		"Charge": "100.03(22)(b)"
+	},
+	"DispositionTab": {
+		"IncidentLocation": "812 N Buchanan St",
+		"Charge1": "100.03(22)(b)",
+		"Charge0": "100.03(12)",
+		"CaseNo": "23-000029",
+		"Bailposted": "No Process",
+		"ClearanceIndicator": "COUNT",
+		"Charge": "100.025(5)",
+		"NewCharge": "100.025(5)"
+	},
+	"ReleaseTab": {
+		"LastName": "Amherst",
+		"NotifiedBy": "AUTPOL",
+		"NameID": "A-0000000349",
+		"NameID1": "A-0000000400",
+		"ReleasedToLastName": "Daves",
+		"Charge": "100.03(12)",
+		"How": "On-View Arrest",
+		"NotifiedAddress": "238 Cornell Dr, Burbank, CA, 91504, Home (968) 556-6626",
+		"ReleasedAddress": "15 cove Rd, Moorestown, NJ, 08057,",
+		"ReleaseBy": "AUTPOL"
+	},
+	"PersonalData": {
+		"SMT": "ART L EYE",
+		"IncidentLocation": "812 N Buchanan St"
+	},
+	"CommentsTab": {
+		"Subject": "Adult Arrest",
+		"PF": "AUTO"
+	},
+	"AssociatesTab": {
+		"CaseNo": "21-000025",
+		"AssociateLastName": "Mikeqmw",
+		"AssociateFirstName": "Morgansvw"
+	},
+	"EmpSchoolTab": {
+		"BusinessNameID": "0000000002",
+		"BusinessName1": "Asian Market",
+		"BusinessName": "Unemployed"
+	},
+	"StatementTab": {
+		"TextName": "AdultArrest"
+	},
+	"ChargingConfTab": {
+		"LastName": "Audubon",
+		"Charge": "100.03(12)",
+		"IncidentLocation": "812 N Buchanan St",
+		"NewCharge": "100.03(15)(a)"
+	},
+	"ApprovalTab": {
+		"LastName": "Audubon",
+		"Charge": "100.03(12)",
+		"IncidentLocation": "812 N Buchanan St",
+		"Action0": "Send for Approval",
+		"Action1": "Reject",
+		"Action2": "Approve",
+		"Action4": "Send for Approval",
+		"Status0": "Submitted",
+		"Status1": "Rejected",
+		"Status2": "Approved",
+		"Division": "Operations",
+		"RejectionCode": "Poor Grammar"
+	},
+	"9129": {
+		"NameType": "Adult",
+		"NameID": "A-0000000124"
+	},
+	"9132": {
+		"NameType": "Adult",
+		"NameID": "A-0000000404",
+		"OthersType": "Name Detail",
+		"OthersType1": "Name Detail Report Date:",
+		"Report1": "CMS",
+		"Report2": "Name Activity Detail SSRS Report Date"
+	},
+	"8983": {
+		"LastName": "Balu",
+		"FirstName": "Kumar",
+		"NameType": "Adult"
+	},
+	"8981": {
+		"CaseNo": "23-000001",
+		"Juris": "--",
+		"IncidentLocation": "a"
+	},
+	"10366": {
+		"NameID": "A-0000000473",
+		"CaseNo": "23-000001",
+		"How": "Attempted to Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "343.50(12)(b)",
+		"Status": "Arrested Adult"
+	},
+	"10670": {
+		"ArrestNo": "23-000001",
+		"MiddleName": "Automation",
+		"Link": "FDD-Phoenix Arrest.PDF",
+		"NickName": "Auto"
+	},
+	"10227": {
+		"NameID": "A-0000000171",
+		"ScarsMarksTattoos": "ART HIP",
+		"ScarsMarksTattoos1": "ART R LEG",
+		"SMT": "ART HIP"
+	},
+	"10283": {
+		"NameID": "A-0000000048",
+		"Flags": "Domestic Violence",
+		"Flags1": "Armed Dangerous"
+	},
+	"11079": {
+		"NameID": "A-0000000242"
+	},
+	"11079A": {
+		"NameID": "A-0000000242",
+		"GednderIdentity1": "  --Add 3182 --  ",
+		"CodeValue": "ABC",
+		"Description": "Automation",
+		"GednderIdentity2": "Automation",
+		"CodeValueDescription": "Automation"
+	},
+	"11079B": {
+		"NameID": "A-0000000242"
+	},
+	"11349": {
+		"LastName": "Benz",
+		"FirstName": "Charlie",
+		"Address": "35 Sierra Ave",
+		"LastName1": "Elisa",
+		"FirstName1": "Ton",
+		"Address1": "9 Autumn Rd",
+		"Jacket": "NK11399",
+		"Jacket1": "1125632"
+	},
+	"11104": {
+		"NameType": "Adult",
+		"NameType1": "Business"
+	},
+	"10973": {
+		"NameType": "Adult",
+		"NameID": "A-0000000124",
+		"TableName": "Auto",
+		"TabName": "Teamwork"
+	},
+	"11093": {
+		"CaseNo": "23-000007"
+	},
+	"11050": {
+		"LastName": "Allen",
+		"NameID": "A-0000000110",
+		"PhoneType0": "H - Home",
+		"Type0": "Home",
+		"Phone": "11111111111",
+		"PhoneNO": "(111) 111-1111",
+		"Extn": "2",
+		"Phone1": "22222222222",
+		"PhoneType1": "W - Work",
+		"Type1": "Home",
+		"DeletePhone": "(222) 222-2222"
+	},
+	"104939": {
+		"NameType": "Business",
+		"LastName": "ManUnited",
+		"NameID": "B-0000000069",
+		"Name1": "Filson, Thruston",
+		"Name": "Filson, Thruston",
+		"NameRelation": "Building Owner",
+		"LastName1": "Filson",
+		"PhoneNumber": "125",
+		"PhoneNumber1": "111111111111"
+	},
+	"253126": {
+		"NameID": "A-0000000279",
+		"CaseNo": "20-000113",
+		"How": "On View Arrest",
+		"Charge": "940.19(2)",
+		"Armed": "Unarmed",
+		"BookingDate": "09/01/2020",
+		"BookingTime": "17:11:29"
+	},
+	"13143": {
+		"NameType": "Adult",
+		"URL": "https://www.youtube.com",
+		"Target User Name": "Automation Test"
+	},
+	"149129": {
+		"LastName": "Thomas",
+		"FirstName": "Lincoln",
+		"NameID": "A-0000000123",
+		"Type": "Air Force Serial Number",
+		"Number": "142345132"
+	},
+	"13704": {
+		"AssignCellNo": "C4",
+		"DOB": "09/08/1997",
+		"NameID": "A-0000000481"
+	},
+	"16105": {
+		"Type": "Alien Registration Number",
+		"LastName": "Allen",
+		"FirstName": "Kumar",
+		"Address": "121 darrow Ave "
+	},
+	"285051": {
+		"Height": "160-170",
+		"AgeFrom": "17",
+		"AgeTo": "20",
+		"Age": "20-25",
+		"Weight": "90-95",
+		"LastName": "Dan",
+		"FirstName": "Disouza",
+		"Name": "Dan, Disouza",
+		"LastName1": "Raj",
+		"FirstName1": "Kumari"
+	},
+	"18491": {
+		"NameID": "A-0000000193",
+		"CaseNo": "23-000002",
+		"Officer1": "Auto",
+		"Charge": "100.03(14)"
+	},
+	"18543": {
+		"NameType": "Adult"
+	},
+	"10320": {
+		"CodeID": "2077",
+		"MJCategory": "Local"
+	},
+	"289920": {
+		"Form": "Initial Classification",
+		"Name2": "Aaron, Finch",
+		"Name1": "Adams, Torres",
+		"FromDate": "08/20/2024",
+		"ToDate": "08/20/2024",
+		"SearchWords": "Aaron",
+		"FromTime": "16:10:37",
+		"ToTime": "18:10:40"
+	},
+	"289882": {
+		"NameID": "A-0000000400",
+		"NameID1": "B-0000000047",
+		"NameID2": "O-0000000024",
+		"NameID3": "J-0000000063",
+		"PhoneNumber": "1111111111",
+		"Created0": "Name created on 04/07/21 by Prophoenix, Automation - AUTO",
+		"Created4": "Name created on 10/29/20 by Prophoenix, Automation - AUTO",
+		"Created2": "Name created on 02/09/18 by Raja, Sadaraj - PRMS",
+		"Created3": "Name created on 04/07/21 by Prophoenix, Automation - AUTO",
+		"Modified": "Name modified on",
+		"Created1": "Name created on",
+		"PF1": "Prophoenix, Automation - AUTO",
+		"PF": "Prophoenix, Automation - AUTO",
+		"Juris": "BC - Brown County Police Department",
+		"LastName": "Lillian",
+		"FirstName": "Dennis"
+	},
+	"20011": {
+		"FormRefNo": "2205",
+		"RepositoryID": "2286",
+		"NameFlag": "Armed Dangerous",
+		"FormName": "NameFlag",
+		"NameID": "A-0000000483",
+		"AtypeNameID": "A-0000000483",
+		"FirstName": "Hick",
+		"LastName": "Walter",
+		"Flags": "Armed Dangerous",
+		"Flags1": "Domestic Violence",
+		"Name": "Walter",
+		"Comment": "AutomationTest",
+		"FileName": "Canditate Form 1.pdf",
+		"QAFromAddress": "10 Antrues St"
+	},
+	"20037": {
+		"LastName": "MR",
+		"FirstName": "JOSH",
+		"Address": "8 Saxon Rd;PX"
+	},
+	"20037A": {
+		"LastName": "Steve ",
+		"FirstName": "Mark",
+		"NameID": "O-0000000078",
+		"DOB": "05/09/1985",
+		"Race": "Not Applicable",
+		"Ethnic": "Hispanic or Latino",
+		"SSNo": "454545454",
+		"Resident": "County",
+		"BirthDate": "09/09/1994"
+	},
+	"20037B": {
+		"Comment": "Automation",
+		"Flags": "Armed Dangerous"
+	},
+	"20037D": {
+		"FirstName": "Mark",
+		"LastName": "Cena",
+		"Officer": "Test, Automation",
+		"PF": "001"
+	},
+	"20037E": {
+		"Address": "9 Autumn Rd;PX"
+	},
+	"20037F": {
+		"Phone": "9952955284",
+		"DeletePhone": "(995) 295-5284",
+		"PhoneType1": "Home"
+	},
+	"20037G": {
+		"EmpLastName": "Ashdale",
+		"Code": "2",
+		"Description": "Advertising/Media",
+		"Type": "Alternate",
+		"Name": "Ashdale"
+	},
+	"20037H": {
+		"LastName": "Micheal ",
+		"FirstName": "Jackson",
+		"NameID": "A-0000000029",
+		"BrotherLastName": "Abby",
+		"BrotherFirstName": "Abdul",
+		"Name": "Abby, Abdul"
+	},
+	"20037I": {
+		"ssnumber": "995295528"
+	},
+	"20037J": {
+		"Gang": "Warlocks",
+		"Location": "Test"
+	},
+	"20037M": {
+		"LastName": "Micheal",
+		"FirstName": "Jackson",
+		"NameID": "A-0000000029",
+		"AssociateLastName": "Abby",
+		"AssociateFirstName": "Abdul",
+		"CaseNo": "23-000004"
+	},
+	"20037N": {
+		"Juris": "BC - Brown County FireDepartment",
+		"BCNameID": "O-0000000001",
+		"NameID": "O-0000000001"
+	},
+	"49220": {
+		"PrimaryANameID": "A-0000000042",
+		"MergeANameID": "A-0000000043",
+		"LastName": "Gonzales",
+		"Race": "Asian",
+		"BirthDate": "06/30/1997",
+		"Sex": "Male",
+		"AliasesName": "Gonzales, Wilson",
+		"Address1": "150 Gold Star Hwy"
+	},
+	"23219": {
+		"LastName": "Benjamin",
+		"FirstName": "Katherine",
+		"MergeNameID": "A-0000000484",
+		"NameID": "A-0000000484",
+		"Activity": "Arrest",
+		"AtypeNameID": "A-0000000484"
+	},
+	"29332": {
+		"NameID": "A-0000000489",
+		"AtypeNameID": "A-0000000489",
+		"Password": "Pnx@2016",
+		"LastName": "william",
+		"FirstName": "Sphere",
+		"RealAddress1": "6057 Hoover Dr",
+		"RealName": "William, Sphere"
+	},
+	"32679": {
+		"Address": "101 W Acorn Dr",
+		"NameID": "A-0000000320",
+		"Address2": "Test",
+		"Address1": "6009 Business Park Dr"
+	},
+	"32665": {
+		"NameID": "A-0000000010",
+		"AssociatesNameID": "A-0000000007",
+		"AssociatesName": "Bruce, Wyne"
+	},
+	"32613": {
+		"LastName": "Sasa",
+		"FirstName": "Rara",
+		"CaseNo": "24-000005",
+		"PFCode": "AUTPOL",
+		"NameID": "A-0000000003"
+	},
+	"32825A": {
+		"LastName": "Bradley",
+		"FirstName": "Vincent",
+		"NameType": "A",
+		"NameID": "A-0000000377",
+		"Name": "Bradley, Vincent",
+		"CaseNo": "24-000003",
+		"VisitorNameID": "A-0000000078",
+		"PFCode": "AUTPOL",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Officer1": "AUTPOL",
+		"Status": "Dismissed",
+		"DistributionList": "Police QA",
+		"ReportingPeriod": "1 hour",
+		"NotifyEvent": "Screen Printed",
+		"Charge": "116-3",
+		"GangName": "AutoQA",
+		"ArrestBooking": "24-000002",
+		"Location": "812 N Buchanan St",
+		"RelationShip": "Cousin"
+	},
+	"32825B": {
+		"NameID": "A-0000000088",
+		"LastName": "Wilson",
+		"FirstName": "Benny",
+		"How": "Attempted to Arrest",
+		"CaseNo": "24-000002",
+		"Charge1": "343.50(12)(b)",
+		"Within": "15",
+		"Officer1": "Auto"
+	},
+	"35216": {
+		"LastName": "Talie",
+		"FirstName": "Frandy",
+		"RealName": "Talie, Frandy",
+		"NameID": "A-0000000495",
+		"PF": "AUTO"
+	},
+	"34950": {
+		"LastName": "Jordan",
+		"FirstName": "Holt",
+		"Name": "Jordan, Holt St",
+		"ColumnName": "Next Reminder Date"
+	},
+	"34492": {
+		"NameID": "A-0000000496",
+		"Password": "Pnx@2016",
+		"LastName": "Aud",
+		"FirstName": "bon",
+		"RealAddress1": "3198 Chickadee Rd"
+	},
+	"35227": {
+		"NameID": "A-0000000026",
+		"PFCode": "001",
+		"Name": "Test, Automation",
+		"Action": "Allow",
+		"Division": "Administration",
+		"Section": "Training",
+		"SquadCode": "4"
+	},
+	"35871": {
+		"MainName": "Adolph",
+		"NickName": "Ad",
+		"": ""
+	},
+	"35874": {
+		"NameType": "Adult",
+		"Juris": "BC - Brown County FireDepartment"
+	},
+	"37775": {
+		"Name": "John"
+	},
+	"38525": {
+		"NameID": "A-0000000508",
+		"AssociatesNameID": "A-0000000509",
+		"AssociatesName": "Josh, Rogers"
+	},
+	"38590": {
+		"NameID": "A-0000000503",
+		"AddressWithZip1": "341 Salvia St, Browns Mills, NJ 08015",
+		"NameID2": "A-0000000504",
+		"AddressWithZip2": "12 benny St, Atlantic Highlands, NJ 07716"
+	},
+	"38524": {
+		"NameID": "B-0000000060",
+		"BNameID": "B-0000000060",
+		"LicenseNo1": "96589"
+	},
+	"38522": {
+		"ArrestNo1": "24-000004",
+		"IncidentLocation": "101 W Acorn Dr",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"Database": "AutomationPoliceMJ",
+		"PF": "AUTO"
+	},
+	"38598": {
+		"NameID": "A-0000000402",
+		"CaseNo": "24-000068",
+		"How": "On-View Arrest",
+		"Officer1": "AUTO",
+		"Armed": "Unarmed",
+		"Charge": "100.03(22)(b)",
+		"Status": "Arrested Adult",
+		"PF": "AUTO"
+	},
+	"38810": {
+		"NameID": "A-0000000505",
+		"AtypeNameID": "A-0000000505",
+		"Type": "Against Society",
+		"Category": "Voo/vsv",
+		"Detail": "Victim1",
+		"MO Code": "3-AC-103",
+		"Juris": "BC - Brown County Police Department",
+		"BCNameID": "A-0000000012"
+	},
+	"38589": {
+		"NameID": "A-0000000505",
+		"DLClass": "A - CLASS A VEHICLE",
+		"DLEndorsements": "N - TANKER",
+		"DLRestrictions": "OILSUPPLY",
+		"LastName": "Boys",
+		"FirstName": "MAD",
+		"Address": "301 N Albany St"
+	},
+	"38586": {
+		"NameID": "A-0000000506",
+		"DL#": "test",
+		"SS#": "898-55-5555",
+		"DOB": "10/23/2024"
+	},
+	"38592": {
+		"Name": "JoshTest",
+		"NickName": "Automation"
+	},
+	"40508": {
+		"NameID": "A-0000000495",
+		"RealPhone#": "9952955284",
+		"RealName": "Talie, Frandy",
+		"RealPhoneNO": "(995) 295-5284"
+	},
+	"40917": {
+		"UCCategory": "Auto Login",
+		"UCAccountName": "AutomationTest",
+		"Notes": "ForTesting"
+	},
+	"42021": {
+		"MainName": "Johnson",
+		"NickName1": "AutomationFire",
+		"NickName": "Josh",
+		"NickName2": "AutomationFireJosh"
+	},
+	"42027": {
+		"ActivityType": "Damage"
+	},
+	"42034": {
+		"PrimaryANameID": "A-0000000032",
+		"MergeANameID": "A-0000000033",
+		"MergeNameID": "A-0000000033"
+	},
+	"42044": {
+		"GunPermit": "24-000001",
+		"Narrative1": "Automation",
+		"Subject": "JoshReport",
+		"Narrative2": "Team"
+	},
+	"42096": {
+		"NameID": "A-0000000507",
+		"CaseNo": "24-000091",
+		"PFCode": "Auto",
+		"ReasonCollected": "Blood Sample",
+		"Conviction": "100.025(5)",
+		"GridHeader1": "Charge",
+		"GridHeader2": "Collection Date",
+		"GridHeader3": "Case#",
+		"GridHeader4": "Statute",
+		"GridHeader5": "Description"
+	},
+	"42117": {
+		"FromDate": "10/25/2024",
+		"CaseNo": "24-000093",
+		"ColumnName": "Reason Collected",
+		"ColumnValue": "Blood Sample"
+	},
+	"42121": {
+		"NameID": "A-0000000538",
+		"BCNameID": "A-0000000013",
+		"Juris": "BC - Brown County Police Department",
+		"PhoneNo": "9952955284",
+		"PhoneNumber": "9952955284"
+	},
+	"42054": {
+		"LastName": "Dube",
+		"FirstName": "Kris",
+		"Address": "108 Applegate Ave",
+		"Time-In": "18:13",
+		"Time-Out": "19:20",
+		"Name": "Dube, Kris",
+		"Time-In1": "18:13",
+		"Time-Out1": "19:20",
+		"Time-In2": "18:15",
+		"Time-Out2": "19:26",
+		"Time-In3": "18:15",
+		"Time-Out3": "19:26"
+	},
+	"42239": {
+		"NameID": "A-0000000499",
+		"Name": "Wife, Rebort",
+		"Name1": "A-53 Wife, Rebort"
+	},
+	"44016": {
+		"ColumnName": "Last Activity"
+	},
+	"44321": {
+		"NameID": "A-0000000512",
+		"SpecialNeeds": "Tes",
+		"Comments": "MR.Beast",
+		"NameID1": "A-0000000513"
+	},
+	"44303": {
+		"FirstName": "Iron",
+		"LastName": "Mike",
+		"Name": "Mike, Iron"
+	},
+	"44249": {
+		"PrimaryANameID": "A-0000000516",
+		"MergeNameID": "A-0000000514",
+		"Height": "66",
+		"Weight": "66",
+		"Name": "GodFather, The",
+		"Address": "1 N Atwood Rd",
+		"NameID": "A-0000000514",
+		"InputValue1": "Height1",
+		"InputValue2": "Weight1",
+		"InputValue3": "Confidential Source ID Number",
+		"InputValue4": "Known or avowed (Admitted) Gang Member",
+		"InputValue5": "Status/Name Indicates Gang Affiliation"
+	},
+	"9112": {
+		"ReportName": "Cell Activity History"
+	},
+	"43990": {
+		"ArrestNo": "24-000008",
+		"SMT": "ART KNEE",
+		"NewAction": "Send for Approval",
+		"Status0": "Submitted"
+	},
+	"43996": {
+		"Type": "Against Person",
+		"Name1": "Icec, Newton",
+		"GangName": "QATeam",
+		"": ""
+	},
+	"44010": {
+		"NameID": "A-0000000518",
+		"Flags": "Armed Dangerous",
+		"NameID1": "A-0000000519"
+	},
+	"44020": {
+		"NameID": "A-0000000520",
+		"GangName": "AutoQA"
+	},
+	"44134": {
+		"Charge": "100.03(22)(b)"
+	},
+	"44318": {
+		"LastName": "Josh",
+		"FirstName": "Mani"
+	},
+	"44296": {
+		"LastName": "Messi",
+		"FirstName": "Lionel",
+		"Address": "606 Azusa",
+		"NameType": "O",
+		"PhoneType1": "H - Home",
+		"Phone": "9952955284",
+		"Extn": "144",
+		"PhoneNo": "(995) 295-5284",
+		"PhoneNumber1": "9952955284",
+		"PhoneNumberWithType": "H (995) 295-5284"
+	},
+	"44401": {
+		"NameID": "A-0000000521",
+		"Comment": "Automation",
+		"Flags": "Armed Dangerous",
+		"Flags1": "Domestic Violence",
+		"Subject": "Automation",
+		"PFCode": "AUTO",
+		"PrimaryANameID": "A-0000000522",
+		"Link": "1377116.jpg",
+		"MergeANameID": "A-0000000521"
+	},
+	"44371": {
+		"NameID": "A-0000000202",
+		"Juris": "BC - Brown County Police Department",
+		"GangName": "AutoQA",
+		"BCNameID": "A-0000000014"
+	},
+	"44316": {
+		"ArrestNo1": "24-000009",
+		"CaseNo": "24-000109",
+		"Notes1": "Automation",
+		"Notes": "Automation",
+		"Notes2": "Testing",
+		"Notes3": "AutomationTesting"
+	},
+	"44027": {
+		"UCAccountName": "Automation",
+		"MediaType": "GPlus",
+		"UCCategory": "Auto Login",
+		"URL": "https://accounts.google.com/Login#identifier",
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"UCUserName": "AutoTest",
+		"SiteID": "Auto2016",
+		"SelectMediaType": "GPlus",
+		"UCName": "Automation",
+		"Notes": "mani"
+	},
+	"44065": {
+		"NameID": "A-0000000266",
+		"Juris": "BC - Brown County Police Department",
+		"BCNameID": "A-0000000006"
+	},
+	"46127": {
+		"NameID": "A-0000000526",
+		"BCNameID": "A-0000000016",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"44248": {
+		"LastName": "King",
+		"FirstName": "Don",
+		"Address": "1 W Damn St E"
+	},
+	"46141": {
+		"UCCategory": "PhoenixAutomation",
+		"UCAccountName": "    ",
+		"UCAccountName1": "Mr.Josh",
+		"UCName": "Mr.Josh",
+		"UCAccountName2": "  "
+	},
+	"44497": {
+		"NameID": "A-0000000057",
+		"OffenderCategory": "Drug Offender",
+		"LastName": "Arun",
+		"FirstName": "Kumar"
+	},
+	"285054": {
+		"NameID": "A-0000000528",
+		"DistributionList": "Police Auto",
+		"ReportingPeriod": "Immediate",
+		"NotifyEvent": "Screen Printed",
+		"RequestedBy": "Prophoenix, Automation"
+	},
+	"46307": {
+		"NameID": "A-0000000531",
+		"Flags": "Armed Dangerous",
+		"Flags1": "Domestic Violence",
+		"Flags2": "Armed Dangerous"
+	},
+	"46308": {
+		"GangName": "Mad Boys 007",
+		"IdentificationType": "Color",
+		"Color": "Black",
+		"Description": "Danger"
+	},
+	"43442": {
+		"OffenderID": "1",
+		"CC": "1",
+		"Flags": "Armed Dangerous",
+		"Flags1": "Armed Dangerous",
+		"Comments": "TestMathew",
+		"Flags2": "Domestic Violence",
+		"Name": "Javier, Kai"
+	},
+	"46251": {
+		"NameID": "A-0000000532",
+		"CaseNo": "25-000002",
+		"Officer1": "Auto",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge": "100.03(22)(a)",
+		"Status": "Arrested Adult",
+		"BirthDate": "06/30/1997"
+	},
+	"46324": {
+		"LastName": "Vincent",
+		"FirstName": "Murphy",
+		"NameAs": "A",
+		"Address": "1201 Reutlinger Ave",
+		"NameType": "A",
+		"LastName1": "Xavi",
+		"FirstName1": "marsh",
+		"Address1": "108 Applegate Ave",
+		"Race": "White",
+		"Ethnic": "Carribean",
+		"Resident": "Unknown"
+	},
+	"46207": {
+		"NameID": "A-0000000533",
+		"ArrestBooking": "25-000001",
+		"Password": "Pnx@2016"
+	},
+	"46192": {
+		"NameID": "A-0000000534",
+		"AssociatesNameID": "A-0000000535",
+		"CaseNo": "25-000006",
+		"CaseNo1": "25-000006",
+		"CaseNo2": ""
+	},
+	"46252": {
+		"LastName": "Purple",
+		"FirstName": "Chamelon",
+		"Address": "108 Applegate Ave",
+		"BirthDate": "12/01/2006",
+		"ScarsMarksTattoos1": "ART ARM",
+		"ScarsMarksTattoos2": "ART BRSTS",
+		"ScarsMarksTattoos3": "ART ELBOW",
+		"ScarsMarksTattoos4": "AART KNEE",
+		"ScarsMarksTattoos5": "ART R BRST"
+	},
+	"46319": {
+		"NameID": "A-0000000536",
+		"CaseNo": "25-000007",
+		"How": "Attempted to Arrest",
+		"Charge": "100.03(14)",
+		"ParameterID": "302",
+		"ArrestNo": "24-000042",
+		"Officer1": "Auto",
+		"ColumnName": "Arrest#"
+	},
+	"46269": {
+		"LastName2": "Kalt",
+		"FirstName2": "Bill",
+		"Address": "1 Elizabeth St;PX",
+		"InvoiceClass": "Inspection",
+		"InvoiceType": "Smoke",
+		"BillToAccountLastName": "Kalt",
+		"LastName": "Kalt",
+		"ItemCode": "C1 - Chlorine",
+		"SubItemCode": "20",
+		"ActivityType": "Bill To Account",
+		"LastName1": "Jackel",
+		"FirstName1": "Joe",
+		"IncidentNo": "25-000001",
+		"Name": "Jackel, Joe",
+		"Activity": "Caller",
+		"ActivityType1": "Caller",
+		"BlackColor": "rgba(0, 0, 0, 1)",
+		"NameID": "A-0000000037"
+	},
+	"46205": {
+		"OffenderID": "3",
+		"Name": "Zusin, Maximo",
+		"Flags1": "Armed Dangerous",
+		"Flags2": "Domestic Violence",
+		"Comments": "Automation"
+	},
+	"46238": {
+		"Name": "Gary, Eric",
+		"Flags1": "Armed Dangerous",
+		"LastUpdatedDate": "05/09/2025",
+		"Comments": "Automation",
+		"AuthroziedBy": "TeamAutomation",
+		"EnteredBy": "Prophoenix, Automation"
+	},
+	"46244": {
+		"NameID": "A-0000000543",
+		"Address": "801 Drummond Ave,a1",
+		"Name": "Samuel,Gregory",
+		"Activity": "Visitor",
+		"ActivityType": "Visitor",
+		"VisitorsLocation": "801 Drummond Ave,a1"
+	},
+	"46249": {
+		"Address": "1799 W Saint Paul Ave",
+		"LastName": "Ryder",
+		"FirstName": "Zack"
+	},
+	"44413": {
+		"NameID1": "A-0000000540",
+		"NameID2": "A-0000000541",
+		"ArrestBooking": "25-000002",
+		"Location": "701 Skatepark Ct",
+		"ColumnName": "Case#"
+	},
+	"46257": {
+		"PrimaryANameID": "A-0000000530",
+		"MergeLastName": "Zusin",
+		"MergeFirstName": "Maximo",
+		"NameID": "A-0000000530",
+		"LastName": "Reese",
+		"MergeANameID": "A-0000000253",
+		"MergeNameID": "A-0000000253"
+	},
+	"46261": {
+		"CC#": "5",
+		"Type": "Business Notification",
+		"Name": "Juan, Elijah"
+	},
+	"46277": {
+		"NameID": "A-0000000547",
+		"LastName": "Figo",
+		"MergeANameID": "A-0000000548",
+		"ColumnName": "Aliases/Nicknames",
+		"ColumnName1": "Address"
+	},
+	"46432": {
+		"NameID": "A-0000000550",
+		"OffenderCategory": "Drug Offender"
+	},
+	"46564": {
+		"TemplateFor": "Arrest Entry Statement Template",
+		"Description": "Automation",
+		"TextName": "Victim Statement Temp",
+		"CaseNo": "25-000019",
+		"Richtext": "Test Automation",
+		"ColumnName": "Text Name",
+		"ColumnValue": "Victim Statement Temp"
+	},
+	"48499": {
+		"ParameterValue": "RMS Only",
+		"LastName": "Master",
+		"FirstName": "Henricks",
+		"Address": "1171 Delmar Dr",
+		"Resident": "Unknown",
+		"LastName1": "Plam",
+		"FirstName1": "Glan",
+		"Address1": "1066 Marquette St",
+		"ParameterValue1": "No"
+	},
+	"48529": {
+		"PrimaryANameID": "A-0000000553",
+		"MergeANameID": "A-0000000554",
+		"InputValue1": "SPN#",
+		"SPN": "SPN#: 56"
+	},
+	"48532": {
+		"FINo": "25-000001",
+		"NameID": "A-0000000555",
+		"ClothingItem": "Blouse",
+		"ClothingColor": "Black",
+		"Name": "Hudson, Alexander"
+	},
+	"48417": {
+		"Juris": "BC - Brown County Police Department",
+		"LastName": "NYC Moston Shop",
+		"Address": "10 Antrues St"
+	},
+	"48522": {
+		"LastName": "Brend",
+		"FirstName": "Nicholas",
+		"Address": "299 W Ashdale St",
+		"BirthDate": "06/30/1997",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"Resident": "Unknown",
+		"Password": "Pnx@2016",
+		"PseudonymLabelName": "Access Real Name"
+	},
+	"48545": {
+		"ColumnName": "Cell#",
+		"LastName": "Aaron",
+		"FirstName": "Finch",
+		"Name": "Aaron, Finch",
+		"CellStatusNameID0": "A-0000000124"
+	},
+	"44380": {
+		"PrimaryANameID": "A-0000000539",
+		"MergeIDType1": "J",
+		"PrimaryJNameID": "J-0000000001",
+		"MergeIDType2": "A",
+		"LastName": "A",
+		"NameIDType1": "J",
+		"NameIDType2": "A"
+	},
+	"48567": {
+		"LastName": "Mansuer",
+		"FirstName1": "Lendil",
+		"Address": "4765 Commercial Dr"
+	},
+	"48832": {
+		"LastName": "Ruben",
+		"FirstName": "Diax",
+		"Address": "299 W Ashdale St",
+		"NameType": "A",
+		"CaseNo": "25-000020",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(a)",
+		"Charge1": "100.03(15)(a)",
+		"BirthDate": "06/30/1997",
+		"Password": "Pnx@2016"
+	},
+	"48633": {
+		"LastName": "Arthur",
+		"LastName1": "Arthur",
+		"FirstName": "Shelby",
+		"Address": "1 Elizabeth St;PX",
+		"Juris": "PX - ProPhoenix Fire Department",
+		"Juris1": "BC - Brown County FireDepartment",
+		"Name": "Arthur, Shelby",
+		"SystemID": "115",
+		"Type": "Home",
+		"PhoneNumber": "9858585858"
+	},
+	"50458": {
+		"Name": "Harold, Das",
+		"NameID1": "A-0000000537"
+	},
+	"50426": {
+		"NameID": "A-0000000545",
+		"CaseNo": "25-000018",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(a)",
+		"Charge1": "100.03(15)(a)",
+		"Header": "Charge",
+		"Status": "Arrested Adult"
+	},
+	"48584": {
+		"NameID": "A-0000000550",
+		"DNAObtained": "--"
+	},
+	"50413": {
+		"Name": "Harold, Das",
+		"NameID": "A-0000000545",
+		"Address": "225 Dogwood St"
+	},
+	"50423": {
+		"LastName": "Suresh",
+		"FirstName": "Raina",
+		"Address": "299 W Ashdale St",
+		"SSNo": "111111111",
+		"SSNo1": "211211122"
+	},
+	"50469": {
+		"LastName": "Antony",
+		"FirstName": "Das",
+		"Address": "1 Elizabeth St;PX"
+	},
+	"50894": {
+		"LastName": "David@'^",
+		"LastName1": "Steve*$'^",
+		"LastName2": "Pat&!@'^",
+		"LastName3": "Jofra@'^",
+		"FirstName": "Warner'%^",
+		"FirstName1": "Smith'%^",
+		"FirstName2": "Cummins'%^",
+		"Address": "299 W Ashdale St",
+		"Address1": "1 Elizabeth St;PX",
+		"Name1": "David@'^, Warner'%^",
+		"Name2": "Steve*$'^, Smith'%^",
+		"Name3": "Pat&!@'^, Cummins'%^",
+		"Name4": "Jofra@'^"
+	},
+	"48866": {
+		"NameID": "A-0000000559",
+		"LastName": "Pandya",
+		"FirstName": "Naveen",
+		"Name": "Naveen, Pandya",
+		"CaseNo": "25-000026",
+		"ArrestNo": "25-000009",
+		"Link1": "Streo.pdf",
+		"Link2": "Drug Form.pdf",
+		"Within": "18",
+		"Password": "Pnx@2016"
+	},
+	"48794": {
+		"LastName": "John",
+		"FirstName": "Wick",
+		"Address": "299 W Ashdale St"
+	},
+	"50421": {
+		"LastName": "Hasim",
+		"FirstName": "Amla",
+		"Address": "299 W Ashdale St",
+		"Suffix": "--Add 4005 --",
+		"Suffix1": "NK",
+		"CodeValue": "NK",
+		"Description": "NK"
+	},
+	"50421A": {
+		"LastName": "Mark",
+		"FirstName": "Antony",
+		"Address": "299 W Ashdale St",
+		"Suffix": "--Add 4005 --",
+		"Suffix1": "NK",
+		"CodeValue": "NK",
+		"Description": "NK"
+	},
+	"53079": {
+		"NameID": "A-0000000023",
+		"NameType": "A"
+	},
+	"53035": {
+		"NameID": "A-0000000023",
+		"NamesEntryURL": "frmName.aspx",
+		"GunPemitEntryURL": "frmGunPermits.aspx",
+		"FIEntryURL": "frmNameFI.aspx",
+		"GangMasterEntryURL": "frmNameGangEntry.aspx",
+		"Juris": "PX - ProPhoenix",
+		"Location": "121 darrow Ave",
+		"GangName": "Test1"
+	},
+	"52032": {
+		"AtypeNameID": "A-0000000023",
+		"NameID": "A-0000000023",
+		"Type": "Air Force Serial Number",
+		"NameType": "Adult",
+		"ColumnName": "Last Activity",
+		"LastActivity": " 01/01/01 00:00"
+	},
+	"52430": {
+		"OrderNo0": "1",
+		"NameID": "A-0000000557",
+		"OrderNo1": "2",
+		"PhoneType0": "H - Home",
+		"PhoneType1": "C - Cell",
+		"Phone0": "2432432423",
+		"Extn": "12",
+		"Carrier": "Nextel",
+		"Notes": "Test Automation",
+		"Phone1": "2323232323",
+		"ColumnName": "Order#",
+		"PhoneNumber": "2432432423"
+	},
+	"53122": {
+		"Name1": "O-0000000070",
+		"Name2": "O-0000000071",
+		"NameType": "Other",
+		"NameType0": "B",
+		"NameAs": "B"
+	},
+	"52414": {
+		"ArrestNo": "25-000006",
+		"CaseNo1": "25-000032",
+		"Charge1": "100.06(2)",
+		"Status1": "Arrested Adult",
+		"CaseNo2": "25-000033",
+		"Status2": "Arrested Juvenile",
+		"CaseNo3": "25-000036",
+		"Charge2": "100.06(1g)(d)",
+		"Status3": "Dismissed"
+	},
+	"52464": {
+		"ArrestNo": "25-000004",
+		"CustodyReason": "Holding for Other Agency",
+		"RiskLevel": "Low Risk",
+		"AssignCellNo": "C6",
+		"AssignedBy": "1565"
+	},
+	"51939": {
+		"LineupNo": "25-000002",
+		"CaseNo": "25-000002",
+		"Officer": "P4400",
+		"NameID": "A-0000000022"
+	},
+	"54858": {
+		"NameID": "A-0000000567",
+		"ColumnName": "ID"
+	},
+	"54965": {
+		"NameID": "A-0000000544",
+		"CaseNo": "25-000007",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"LabelName": "PCH#",
+		"LabelName1": "OBTN#",
+		"PCH#": "123456789123456789123",
+		"OBTN#": "123456789123456789123",
+		"Charge": "100.025(4)",
+		"Status": "Arrested Adult",
+		"PCH": "12345678912345678912",
+		"OBTN": "12345678912345678912"
+	},
+	"54968": {
+		"CaseNo": "25-000039",
+		"ArrestNo1": "25-000007",
+		"ArrestNo2": "25-000008",
+		"ArrestNo3": "25-000009",
+		"ReportName": "Arrest Docket"
+	},
+	"54979": {
+		"Charge": "100.025(4)",
+		"Status": "Arrested Adult",
+		"Charge1": "100.025(4)",
+		"ArrestNo": "25-000007"
+	},
+	"54989": {
+		"LineupNo": "25-000002"
+	},
+	"54949": {
+		"NameID": "A-0000000037",
+		"Flags": "Armed Dangerous"
+	},
+	"55469": {
+		"NameID": "A-0000000572",
+		"Sex": "Male",
+		"Juris": "PX - ProPhoenix"
+	},
+	"55759": {
+		"NameID": "B-0000000025",
+		"Address": "17 Tanglewood Pl",
+		"CSZ": "Jamesburg, NJ 08831"
+	},
+	"55759A": {
+		"NameID": "A-0000000005",
+		"Address": "110 minn St",
+		"CSZ": "Mount Laurel, NJ 08054"
+	},
+	"55497": {
+		"Name": "Kenneth, Timothy",
+		"Type": "Business Notification"
+	},
+	"54977": {
+		"NameID": "A-0000000576",
+		"OffenderCategory": "Drug Offender",
+		"NameID1": "A-0000000576",
+		"NameID2": "B-0000000062"
+	},
+	"54978": {
+		"NameID": "A-0000000317"
+	},
+	"54959": {
+		"LastName": "Mendis",
+		"FirstName": "Nel",
+		"Address": "225 Dogwood St",
+		"Jacket": "98526"
+	},
+	"54959A": {
+		"LastName": "Kamoer",
+		"FirstName": "Nik",
+		"Address": "95 Smithfield Ave;PX"
+	},
+	"55117": {
+		"NameID": "A-0000000566",
+		"CaseNo": "25-000048",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Charge": "100.03(2)(a)"
+	},
+	"54982": {
+		"ColumnName": "Warrant"
+	},
+	"54997": {
+		"LineupNo": "25-000002"
+	},
+	"54947": {
+		"LastName": "The",
+		"FirstName": "UnderTaker",
+		"Address": "4220 King Arthur Pl"
+	},
+	"54974": {
+		"NameID": "A-0000000572",
+		"Sex": "Male",
+		"Flags1": "Armed Dangerous",
+		"Height": "77"
+	},
+	"54974A": {
+		"NameID": "A-0000000041",
+		"Sex": "Male",
+		"Flags1": "Armed Dangerous",
+		"Height": "77"
+	},
+	"54980": {
+		"ArrestNo": "25-000006",
+		"PersonNotifiedNameID": "A-0000000543",
+		"NotifiedRelationship": "Aunt",
+		"PersonNotifiedLastName": "Samuel",
+		"PersonNotifiedFirstName": "Gregory",
+		"ArrestNo1": "25-000005"
+	},
+	"58304": {
+		"NameType": "Adult",
+		"NameID": "A-0000000609"
+	},
+	"58308": {
+		"NameID": "A-0000000608",
+		"CaseNo": "25-000073",
+		"How": "Summoned/Cited",
+		"Charge": "100.02(1)",
+		"Status": "Arrested Adult",
+		"LastName": "Test!$&",
+		"FirstName": "Auto^&&*(",
+		"Within": "1",
+		"Password": "Pnx@2016",
+		"Name": "Robby, Creopto",
+		"AliasNickNames": "TEST!$&,AUTO^&&*(",
+		"Officer1": "7458"
+	},
+	"51552": {
+		"DateRangeFrom": "05/01/2025",
+		"ColumnName": "Last Activity"
+	},
+	"51552A": {
+		"DateRangeFrom": "05/01/2025",
+		"ColumnName": "Last Activity"
+	},
+	"54864": {
+		"NameID": "A-0000000577",
+		"CaseNo": "25-000058",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(b)",
+		"Status": "Arrested Adult",
+		"Suffix": "Jr",
+		"ReportName": "Arrest Docket",
+		"ArrestNo": "25-000011",
+		"LastName": "Yammal"
+	},
+	"54985": {
+		"NameID": "A-0000000578",
+		"GoToOption": "Name Merge",
+		"MergeNameID": "A-0000000579",
+		"MergeANameID": "A-0000000579"
+	},
+	"54972": {
+		"NameID": "A-0000000580",
+		"": ""
+	},
+	"54972A": {
+		"NameID": "A-0000000044"
+	},
+	"55900": {
+		"NameID": "A-0000000584",
+		"Juris": "BC - Brown County Police Department",
+		"BCNameID": "A-0000000017"
+	},
+	"55782": {
+		"LastName": "Wanger",
+		"FirstName": "Moocho",
+		"Address": "10124 Shaffer Valley Way",
+		"Sex": "Male",
+		"Resident": "Unknown",
+		"Height": "56",
+		"Weight": "56",
+		"FamilyNameID": "A-0000000585",
+		"BrotherLastName": "Tedture",
+		"BrotherFirstName": "Mater",
+		"relationShip": "Brother",
+		"AssociatesNameID": "A-0000000586",
+		"AssociatesName": "Fletcher, Abdie"
+	},
+	"58052": {
+		"ArrestNo": "25-000008",
+		"": ""
+	},
+	"57966": {
+		"PrimaryANameID": "A-0000000607",
+		"MergeONameID": "O-0000000074",
+		"LastName": "O'Quinn",
+		"FirstName1": "L'leel",
+		"MergeNameID": "O-0000000074",
+		"AliasesName": "O'Quinn, L'leel"
+	},
+	"57966A": {
+		"PrimaryANameID": "A-0000000046",
+		"MergeONameID": "O-0000000081",
+		"LastName": "O'Quinn",
+		"FirstName1": "L'leel",
+		"MergeNameID": "O-0000000081",
+		"AliasesName": "O'Quinn, L'leel"
+	},
+	"57960": {
+		"LastName": "POI",
+		"FirstName": "Kakashi",
+		"Address": "13201 Adventures Camp Ln",
+		"VisitorNameID": "A-000000540",
+		"RelationShip": "Brother",
+		"ColumnName": "ID",
+		"NameID": "A-0000000554",
+		"VisitorName": "Kenneth,Timothy"
+	},
+	"55834": {
+		"RealName": "Josh, Mani",
+		"ReportName": "Pseudonym Entry Report"
+	},
+	"55834A": {
+		"RealName": "Jones, Jack",
+		"ReportName": "Pseudonym Entry Report"
+	},
+	"54971": {
+		"Name": "MathewJude",
+		"NickName": "JospehKurasi"
+	},
+	"54973": {
+		"LastName": "Podi"
+	},
+	"54973A": {
+		"LastName": "Podi"
+	},
+	"55044": {
+		"NameID": "A-0000000590"
+	},
+	"55222": {
+		"NameID": "A-0000000540"
+	},
+	"55485": {
+		"GangName": "Red Dragon",
+		"IdentificationType": "Other",
+		"OtherTypeCode": "CMS",
+		"Description": "VerifyDangerous",
+		"Identification": "CMS"
+	},
+	"58289": {
+		"LastName": "Aaron",
+		"FirstName": "Finch",
+		"Name": "Aaron, Finch",
+		"Name1": "Colin, Cairo"
+	},
+	"58279": {
+		"ParameterValue": "RMS Only",
+		"SetNameAs1": "A",
+		"Address": "4220 King Arthur Pl",
+		"Resident": "Unknown",
+		"LastName": "Josh",
+		"FirstName": "Mani",
+		"LastName1": "Kumar",
+		"FirstName1": "Stalin",
+		"SetNameAs2": "J",
+		"ParameterValue1": "No"
+	},
+	"58227": {
+		"LastName": "Murrphy123",
+		"FirstName": "Peaky211",
+		"Address": "4220 King Arthur Pl",
+		"Activity": "Victim",
+		"NameID": "A-0000000606"
+	},
+	"58002": {
+		"GangName": "The Knife Gang",
+		"NameID": "A-0000000540",
+		"Status": "New Member"
+	},
+	"58007": {
+		"OffenderNameID": "A-0000000385",
+		"Ref#": "21-000001",
+		"Activity": "Offender"
+	},
+	"58010": {
+		"NameID": "B-0000000134"
+	},
+	"58012": {
+		"OffenderID": "7",
+		"Name": "Kenneth, Timothy",
+		"Type": "Business Notification"
+	},
+	"58045": {
+		"OffenderID": "7",
+		"Name": "Kenneth, Timothy",
+		"Flags1": "Armed Dangerous",
+		"Comments": "AutomationFlags",
+		"ColumnName": "Flags"
+	},
+	"58169": {
+		"PrimaryANameID": "A-0000000600",
+		"LastName": "Z",
+		"MergeNameID1": "A-0000000601",
+		"MergeNameID2": "A-0000000602",
+		"MergeNameID3": "A-0000000603",
+		"MergeNameID4": "A-0000000604",
+		"MergeNameID5": "A-0000000605"
+	},
+	"58000": {
+		"NameID": "A-0000000580",
+		"CaseNo": "25-000030",
+		"CriminalCourtCase": "35",
+		"ArrestNo": "25-000006",
+		"CustomName": "Test",
+		"Charge": "100"
+	},
+	"52288": {
+		"Juris": "GCP - Gloucester County Police Dept",
+		"NameID": "A-0000000002",
+		"MergeNameID": "A-0000000003",
+		"MergeANameID": "A-0000000003"
+	},
+	"54998": {
+		"NameID": "A-0000000581",
+		"GangName": "404 Gang",
+		"IdentificationType": "Color",
+		"ColorTypeCode": "Black",
+		"Notes": "Josh",
+		"PFDescription": "Prophoenix, Automation"
+	},
+	"55857": {
+		"GangName": "Mad Boys",
+		"GangName1": "Yakusa"
+	},
+	"57957": {
+		"ArrestNo": "25-000008",
+		"Notes1": "AutomationTesting",
+		"Notes": "AutomationTesting"
+	},
+	"60227": {
+		"NameID": "A-0000000612",
+		"SelectFinger": "Left Thumb"
+	},
+	"60231": {
+		"SMTCode": "ART L EYE",
+		"LastName": "Test",
+		"FirstName": "Automation",
+		"Make": "japan",
+		"Model": "kawasaki",
+		"VehicleDetail": "SexyGreen",
+		"VehicleColor": "Green"
+	},
+	"60177": {
+		"NameID": "A-0000000613",
+		"MergeANameID": "A-0000000614",
+		"MergeNameID1": "A-0000000614",
+		"MergeLastName": "Dakon",
+		"MergeFirstName": "Moree",
+		"InputValue1": "Sex",
+		"InputValue2": "Race"
+	},
+	"60226": {
+		"NameID": "A-0000000500",
+		"CaseNo": "25-000060",
+		"Officer1": "AUTO"
+	},
+	"60164": {
+		"NameID": "J-0000000068"
+	},
+	"60340": {
+		"NameID": "A-0000000616",
+		"SSNo": "111111111"
+	},
+	"60340A": {
+		"NameID": "A-0000000050",
+		"SSNo": "111111111"
+	},
+	"60230": {
+		"PrimaryANameID": "A-0000000040",
+		"MergeANameID": "A-0000000500"
+	},
+	"60230A": {
+		"PrimaryANameID": "A-0000000040",
+		"MergeANameID": "A-0000000026"
+	},
+	"60105": {
+		"LastName": "Gustavo",
+		"FirstName": "Luis",
+		"Address": "400 Spring St",
+		"Name": "Gustavo, Luis",
+		"Activity": "Visitor"
+	},
+	"60144": {
+		"NameID": "A-0000000617",
+		"GangName": "EL Chapo"
+	},
+	"60184": {
+		"ArrestNo": "25-000006",
+		"VehicleNo": "B-2",
+		"PlateNo": "343"
+	},
+	"60180": {
+		"GunPermitNo": "24-000001"
+	},
+	"60222": {
+		"ArrestNo": "25-000007",
+		"Officer2_1": "auto",
+		"Officer2_2": "AUTO"
+	},
+	"60020": {
+		"NameID": "A-0000000620",
+		"ActivityType1": "Arrest",
+		"Activity1": "Arrest",
+		"Activity2": "Citation (E Citation - Parking )",
+		"ActivityType2": "Citation (E Citation - Parking )",
+		"Charge1": "100.03(2)(a) - (Public Order Crimes)",
+		"Charge2": "100.03(15)(a), NU-Farm Contracts - Incorrect Grading"
+	},
+	"60022": {
+		"MatchAddress": "  --Inq 2204 --  "
+	},
+	"60022A": {
+		"MatchAddress": "  --Inq 2204 --  "
+	},
+	"60322": {
+		"NameID": "A-0000000600",
+		"CaseNo": "25-000050",
+		"Charge": "94.03(1)",
+		"Status": "Arrested Adult",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Count0": "1",
+		"Count1": "2",
+		"Officer1": "Auto",
+		"ColumnName": "Charge"
+	},
+	"60214": {
+		"NameID": "A-0000000560",
+		"Name": "Alejandro, Walsh",
+		"Address": "113 Heather St, Browns Mills, NJ 08015",
+		"ArrestBooking": "25-000006",
+		"Location": "101 driver Rd",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"60447": {
+		"NameID": "A-0000000623",
+		"CaseNo": "25-000078",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Officer1": "Auto",
+		"Charge": "94.03(1)",
+		"WindowWidth": "1288",
+		"WindowHeight": "812",
+		"ViewportWidth": "1274",
+		"ViewportHeight": "739",
+		"WindowWidth1": "1552",
+		"WindowHeight1": "832",
+		"ViewportWidth1": "1536",
+		"ViewportHeight1": "758"
+	},
+	"58287": {
+		"TabName1": "Main",
+		"TabName2": "Flag",
+		"TabName3": "Physical",
+		"TabName4": "Alias",
+		"TabName5": "Addresses",
+		"TabName6": "Phones",
+		"TabName7": "MJ",
+		"TabName8": "History",
+		"LastName": "Madonna",
+		"LastName1": "5698",
+		"Address": "125 Shoprite Way"
+	},
+	"52998": {
+		"NameID": "A-0000000625",
+		"EmpLastName": "Trish",
+		"Name1": "Trish",
+		"Occupation": "F",
+		"EmpNameID": "B-0000000062",
+		"LastName": "Cena",
+		"FirstName": "Rey",
+		"Name2": "Cena, Rey",
+		"FamilyNameID1": "A-0000000627",
+		"FamilyName": "Cena, Rey",
+		"AssociatesNameID1": "A-0000000627",
+		"AssociatesName": "Cena, Rey",
+		"VisitorNameID1": "A-0000000627",
+		"VisitorName": "Cena, Rey",
+		"Juris": "BC - Brown County Police Department",
+		"BCNameID": "A-0000000019",
+		"Code": "F",
+		"Description": "Finance",
+		"": ""
+	},
+	"52998B": {
+		"NameID": "A-0000000052",
+		"EmpLastName": "Cena",
+		"Name1": "Cena",
+		"Occupation": "F",
+		"EmpNameID": "B-0000000138",
+		"LastName": "Cena",
+		"FirstName": "Rey",
+		"Name2": "Cena, Rey",
+		"FamilyNameID1": "A-0000000051",
+		"FamilyName": "Cena, Rey",
+		"AssociatesNameID1": "A-0000000051",
+		"AssociatesName": "Cena, Rey",
+		"Juris": "BC - Brown County FireDepartment",
+		"BCNameID": "A-0000000004",
+		"Code": "F",
+		"Description": "Finance"
+	},
+	"52998A1": {
+		"LastName": "Cena",
+		"FirstName": "Rey",
+		"Name1": "Cena, Rey",
+		"CellStatusNameID1": "A-0000000627",
+		"CustodyReason": "New Arrest",
+		"RiskLevel": "Low Risk",
+		"AssignCellNo": "C9",
+		"DetaineeNameID": "A-0000000627",
+		"FINo": "25-000001",
+		"NameID": "A-0000000627",
+		"GangName": "The Knife Gang",
+		"Name": "Cena, Rey",
+		"PermitType": "GUN",
+		"PermitStatus": "Approved",
+		"OffenderCategory": "Drug Offender",
+		"Type": "Business Notification"
+	},
+	"60672": {
+		"NameID": "A-0000000619",
+		"OffenderCategory": "Sex Offender",
+		"NextOffender1": "100",
+		"NextOffender2": "9"
+	},
+	"60523": {
+		"FINo": "25-000001",
+		"Juris0": "BC - Brown County Police Department",
+		"Juris1": "PX - ProPhoenix"
+	},
+	"60729": {
+		"NameType": "A",
+		"Address": "301 N Albany St",
+		"LastName": "Sanchez",
+		"FirstName": "Alexes",
+		"SSNo": "123456789",
+		"Address1": "301 N Albany St",
+		"LastName1": "Garrage",
+		"FirstName1": "Morris"
+	},
+	"60728": {
+		"": ""
+	},
+	"46334": {
+		"LastName": "Jouse",
+		"FirstName": "Mourinho",
+		"Address": "301 N Albany St",
+		"NameType1": "O",
+		"SetNameAs1": "A",
+		"NameType2": "A"
+	},
+	"46334A": {
+		"LastName": "Jouse",
+		"FirstName": "Mourinho",
+		"Address": "301 N Albany St",
+		"NameType1": "O",
+		"SetNameAs1": "A",
+		"NameType2": "A"
+	},
+	"60620": {
+		"NameID": "A-0000000611",
+		"Height": "6",
+		"Weight": "60",
+		"EyeColor": "Black",
+		"HairColor1": "Blue",
+		"Code": "ART HIP",
+		"CodeValue": "ART HIP",
+		"CodeValueDesc": "305 Artificial Hip Joint",
+		"SMT": "ART HIP",
+		"Juris1": "BC - Brown County Police Department",
+		"ScarsMarksTattoos": "ART HIP",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Carribean",
+		"Resident": "Unknown",
+		"Juris2": "PX - ProPhoenix"
+	},
+	"63942": {
+		"ArrestNo": "25-000005",
+		"ColumnName1": "Name",
+		"ColumnName2": "Date",
+		"ColumnName3": "How Arrested",
+		"ColumnName4": "Status",
+		"": ""
+	},
+	"64019": {
+		"NameID": "A-0000000677",
+		"ScreeName": "Address Details"
+	},
+	"64168": {
+		"LastName": "Aron",
+		"FirstName": "Finch"
+	},
+	"64248": {
+		"NameID": "A-0000000678",
+		"BirthCountry1": "AT-Argentina",
+		"BirthCountry2": "US-United States of America"
+	},
+	"64248A": {
+		"NameID": "A-0000000054",
+		"BirthCountry1": "AT-Argentina",
+		"BirthCountry2": "US-United States of America"
+	},
+	"64259": {
+		"ArrestNo": "25-000009",
+		"Charge": "100.025(4)"
+	},
+	"64449": {
+		"Charge": "100.03(14)"
+	},
+	"65463": {
+		"LastName": "Mike",
+		"FirstName": "Owen",
+		"Address": "4722 Bocaire Blvd"
+	},
+	"63009": {
+		"NameType": "P"
+	},
+	"62716": {
+		"ArrestNo": "25-000013",
+		"Evidence": "Blood",
+		"SupDocs": "OTHER"
+	},
+	"62587": {
+		"NextJacketNumber0": "11111111111111",
+		"LastName": "marron",
+		"FirstName": "komas",
+		"Address": "13201 Adventures Camp Ln",
+		"NextJacketNumber1": "11111111111112",
+		"LastName1": "Tommy",
+		"FirstName1": "Kettan",
+		"LastName2": "Suchin",
+		"FirstName2": "tendulkar",
+		"NextJacketNumber3": "11111111111113",
+		"Jacket": "11111111111114",
+		"Jacket1": "11111111111115",
+		"LastName3": "Kendrick",
+		"FirstName3": "Fuse"
+	},
+	"63371": {
+		"LastName": "SRT",
+		"FirstName": "Dodge",
+		"Address": "13201 Adventures Camp Ln",
+		"Juris": "-No Security-"
+	},
+	"63462": {
+		"NameID": "A-0000000661",
+		"Juris": "--"
+	},
+	"63462A": {
+		"NameID": "A-0000000048",
+		"Juris": "--"
+	},
+	"62911": {
+		"ArrestNo": "25-000012",
+		"Notes": "test",
+		"Evidence": "Blood",
+		"": ""
+	},
+	"62698": {
+		"NameID": "A-0000000668",
+		"CriminalCourtCase": "788",
+		"Charge": "126"
+	},
+	"63371A": {
+		"LastName": "Park",
+		"FirstName": "Avenue",
+		"Address": "13201 Adventures Camp Ln",
+		"Juris": "-No Security-"
+	},
+	"62703": {
+		"NameID": "A-0000000668",
+		"CaseNo": "25-000097",
+		"How": "On-View Arrest",
+		"Officer1": "AUTO",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(a)",
+		"Court": "004",
+		"PDID#": "0107"
+	},
+	"66038": {
+		"NameID": "A-0000000682",
+		"CaseNo": "25-000102",
+		"How": "On-View Arrest",
+		"Officer1": "AUTO",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(a)",
+		"ChargeStatus": "No Process",
+		"Reason": "Downgraded"
+	},
+	"53028": {
+		"NameID": "A-0000000639",
+		"ColumnName": "Modified Date",
+		"EnteredBy": "Auto",
+		"EnteredByInGrid": "Prophoenix, Automation",
+		"Flags": "Armed Dangerous",
+		"Comment": "Test Auto"
+	},
+	"66177": {
+		"LineupNo": "20-000005",
+		"": ""
+	},
+	"66180": {
+		"Code": "ART ARM",
+		"Description": "543 Arm Artificial (Non Specified)",
+		"Code1": "ARM",
+		"CodeValue": "ART ARM",
+		"SMT": "ART ARM"
+	},
+	"66220": {
+		"NameID": "A-0000000644"
+	},
+	"66322": {
+		"NameID": "A-0000000620",
+		"CaseNo": "25-000030",
+		"ArrestDate": "03/28/2025",
+		"Officer1": "Auto",
+		"OffenseDate": "03/28/2025"
+	},
+	"66323": {
+		"LastName": "Zaltan",
+		"FirstName": "King"
+	},
+	"63296": {
+		"NameID": "A-0000000650",
+		"CaseNo": "25-000093",
+		"Officer1": "Auto",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge": "100.03(15)(a)",
+		"Password": "Pnx@2016",
+		"ItemType": "Arrest Entry",
+		"Location": "606 Azusa, Delran, NJ 08075",
+		"Module": "Arrest Entry",
+		"Officer": "True"
+	},
+	"67531": {
+		"LastName": "Poterys",
+		"FirstName": "Jacert",
+		"Address": "9 Autumn Rd",
+		"BrotherLastName": "Aaron",
+		"BrotherFirstName": "Finch",
+		"Phone": "H:(123) 456-7890",
+		"Name": "Aaron, Finch"
+	},
+	"67590": {
+		"LabelName1": "Homeless",
+		"LastName": "Churchil",
+		"FirstName": "Vincent",
+		"Address": "9 Autumn Rd",
+		"CustomName1": "Test",
+		"LabelName2": "Test",
+		"CustomName2": "Homeless",
+		"CustomName": "Test"
+	},
+	"67590A": {
+		"LabelName1": "Homeless",
+		"LastName": "boston",
+		"FirstName": "bakki",
+		"Address": "9 Autumn Rd",
+		"CustomName1": "Test",
+		"LabelName2": "Test",
+		"CustomName2": "Homeless",
+		"CustomName": "Test"
+	},
+	"67603": {
+		"Screenwidth": "3840",
+		"ScreenHeight": "1600"
+	},
+	"67617": {
+		"NameID": "A-0000000687",
+		"Type": "Arrest/Booking",
+		"ColumnName1": "Type",
+		"ColumnValue1": "Arrest/Booking",
+		"FromDate": "09/01/2025",
+		"ColumnName": "Date",
+		"Reason": "test",
+		"ColumnName2": "Reason",
+		"ColumnValue2": "test",
+		"CaseNo": "25-000106",
+		"ColumnName3": "Activity#",
+		"ColumnValue3": "25-000106",
+		"ExpungedBy": "AUTO",
+		"ColumnName4": "By",
+		"ColumnValue4": "AUTO",
+		"ReportName": "Name Expungement Lists",
+		"Name": "Vinton Store"
+	},
+	"67646": {
+		"Juris": "BC - Brown County Police Department",
+		"CaseYear": "21",
+		"CaseNumb": "96",
+		"CaseNo0": "25-000096",
+		"ArrestNo": "25-000006",
+		"ArrestNo1": "00-000006",
+		"FromDate": "02/01/2025",
+		"Charge": "abcd",
+		"NIBRS": "Simple Assault",
+		"Code": "abcd",
+		"ArrestStatus": "Pending",
+		"How": "On-View Arrest",
+		"ColumnName1": "How Arrested",
+		"ColumnValue1": "On-View Arrest",
+		"ApprovalStatus": "OnHold",
+		"ColumnName2": "Status",
+		"ColumnValue2": "On Hold",
+		"Division": "Administration",
+		"Section": "Administration",
+		"Squad": "DT - Detective"
+	},
+	"67646A": {
+		"NameType1": "Adult",
+		"ColumnName1": "Name ID",
+		"NameIDType1": "A",
+		"NameType2": "Business",
+		"NameIDType2": "B",
+		"NameType3": "Juvenile",
+		"NameIDType3": "J",
+		"LastName": "Zaltan",
+		"Name": "Zaltan, King",
+		"LastName1": "xxxx",
+		"FirstName": "King",
+		"FirstName1": "YYYY",
+		"MiddleName0": "Gerena",
+		"MiddleName1": "XXTs",
+		"Clothing0": "Test",
+		"Appearance0": "Test",
+		"Injuries0": "Test",
+		"Clothing1": "XXX",
+		"Appearance1": "XXX",
+		"Injuries1": "XXX"
+	},
+	"67646B": {
+		"Sex": "Male",
+		"Race": "White",
+		"DOB": "01/08/1969",
+		"Weight": "12",
+		"Height": "12",
+		"Weight1": "200",
+		"Height1": "345",
+		"IncidentLocation": "8 Saxon Rd",
+		"ArrestLocation0": "8 Saxon Rd",
+		"ArrestLocation1": "@#$$",
+		"IncidentLocation1": "#$",
+		"FirstPermise": "Even",
+		"SecondPermise": "Odd",
+		"Code": "Abcde",
+		"QAFormData": "Employee1@&"
+	},
+	"67646C": {
+		"LegacyRef": "Test",
+		"CaseOfficer": "AUTO",
+		"ReviewingNameID": "A-0000000484",
+		"ReasonForNonIssue": "Downgraded",
+		"ChargeStatus": "No Process",
+		"Reason": "Downgraded"
+	},
+	"67928": {
+		"FromDate": "10/25/2024",
+		"LastName": "Boston",
+		"FirstName": "Porsche",
+		"Address": "108 Applegate Ave",
+		"CaseNo": "25-000059",
+		"CriminalCourtCase": "Auto",
+		"Charge": "346",
+		"Conviction": "100.03(16)",
+		"PFCode": "AUTO",
+		"ReasonCollected": "Blood Sample",
+		"CaseNo0": "25-000059",
+		"ReportName": "DNA Collection Report"
+	},
+	"67945": {
+		"NameIDType0": "A",
+		"LastName": "a",
+		"NameID0": "A-0000000124",
+		"NameIDType1": "J",
+		"NameID1": "J-0000000067",
+		"NameIDType2": "O",
+		"NameID2": "O-0000000069",
+		"NameIDType3": "B",
+		"NameID3": "B-0000000060",
+		"NameID": "A-0000000639",
+		"PermitType": "GUN",
+		"PermitStatus": "Approved",
+		"Custom": "Testing",
+		"Officer": "Auto",
+		"BlueCode": "rgba(0, 0, 255, 1)",
+		"TabName1": "Main",
+		"Subject": "TestAutomation",
+		"Narrative1": "JavaSeleniumTesting",
+		"TabName2": "Narrative",
+		"Serial0": "123456",
+		"GunType": "Shotgun",
+		"GunMake": "AC",
+		"Caliber": "Single",
+		"TabName3": "Registration",
+		"TabName4": "History",
+		"History": "123456"
+	},
+	"68309": {
+		"NameID": "A-0000000722",
+		"PhoneType1": "H - Home",
+		"PhoneType2": "C - Cell",
+		"PhoneNo": "9952955284",
+		"PhoneNumber1": "1233333333",
+		"Jacket": "23344",
+		"DOB": "09/25/2000",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Carribean",
+		"SSno": "123-33-3333",
+		"DLExpDate1": "09/29/2025",
+		"DrivingLicenseNo": "3097",
+		"LicenseType1": "CDL",
+		"MaritalStatus": "Widowed",
+		"BirthCity": "Oklama",
+		"BirthState": "IN - Indiana",
+		"BirthCounty": "EAU CLAIRE",
+		"State": "NJ",
+		"FBINo": "12",
+		"Resident": "Resident (Of Your Jurisdiction)",
+		"BirthCountry0": "BD-Bahamas",
+		"Citizenship0": "AQ-Azores Islands",
+		"Passport": "123",
+		"ImmigrationNumber": "222",
+		"ImmigrationStatus": "Non-Immigrant (ICE)",
+		"FingerPrint": "22",
+		"Description": "Female",
+		"Juris": "BC - Brown County Police Department",
+		"ImmigrationNo": "222"
+	},
+	"68322": {
+		"NameID": "A-0000000723",
+		"LicenseType": "None",
+		"LicenseType1": "--",
+		"LicenseType2": "None"
+	},
+	"68325": {
+		"ArrestNo": "25-000009",
+		"": ""
+	},
+	"69666": {
+		"FirstName": "Torres",
+		"Name1": "Adams, Torres",
+		"ColumnName": "Name"
+	},
+	"69990": {
+		"DOB": "06/30/1997"
+	},
+	"69990A": {
+		"DOB": "06/30/1997"
+	},
+	"70098": {
+		"ColumnName1": "Type",
+		"ColumnName2": "Reinstated"
+	},
+	"70296": {
+		"Name": "Thayer, Winslow",
+		"Flags0": "Armed Dangerous",
+		"ColorCode": "rgba(153, 0, 0, 1)",
+		"ColumnName": "Flags"
+	},
+	"70338": {
+		"Address": "9 Autumn Rd",
+		"FirstName": "Kemmy",
+		"LastName": "Ponters"
+	},
+	"70376": {
+		"Location": "13201 Adventures Camp Ln",
+		"Disposition": "Advised",
+		"FIActivity": "Other",
+		"TabName1": "Name(s)",
+		"TabName2": "Vehicle(s)",
+		"TabName3": "Narrative",
+		"TabName4": "Map",
+		"TabName5": "Attachments",
+		"LastName": "John",
+		"FirstName": "Belly",
+		"Name0": "John, Belly"
+	},
+	"70383": {
+		"NameID": "A-0000000710",
+		"CriminalCourtCase": "45",
+		"Charge": "102"
+	},
+	"70405": {
+		"NameID": "A-0000000711",
+		"NameID0": "A-0000000711",
+		"OffenderCategory": "Drug Offender"
+	},
+	"70429": {
+		"LastName": "Frederick",
+		"": ""
+	},
+	"70429A": {
+		"LastName": "William"
+	},
+	"70502": {
+		"Address": "101 driver Rd",
+		"FirstName": "Patro",
+		"LastName": "Mastrey",
+		"GangName": "Weed'm Boys",
+		"ActivityType": "Gang"
+	},
+	"70521": {
+		"LastName": "Gousin",
+		"Address": "101 driver Rd"
+	},
+	"70521A": {
+		"LastName": "Gousin",
+		"Address": "13201 Adventures Camp Ln"
+	},
+	"70529": {
+		"ColumnHeader1": "Permit Status",
+		"": ""
+	},
+	"70543": {
+		"NameID": "A-0000000704",
+		"FamilyNameID": "A-0000000705",
+		"FamilyName": "Suffix,Name II"
+	},
+	"70579": {
+		"LastName": "Tamrid",
+		"FirstName": "Yurke",
+		"Address": "101 driver Rd",
+		"LabelName": "CountyNo",
+		"CountyNo": "Mander",
+		"LicenseType": "None",
+		"GednderIdentity0": "Male",
+		"Pronouns": "Co/co/cos/cos/coself",
+		"CountyNo1": "Mander",
+		"ImmigrationNo": "1044540",
+		"Description": "Male",
+		"LicenseType1": "None",
+		"DrivingLicenseNo": "123456789"
+	},
+	"70579A": {
+		"LastName": "Jackie",
+		"FirstName": "Fertys",
+		"Address": "4220 King Arthur Pl",
+		"LabelName": "CountyNo",
+		"CountyNo": "Mander",
+		"LicenseType": "Commercial DL",
+		"GednderIdentity0": "Male",
+		"Pronouns": "Co/co/cos/cos/coself",
+		"CountyNo1": "Mander",
+		"ImmigrationNo": "1044540",
+		"Description": "Male",
+		"LicenseType1": "Commercial DL",
+		"DrivingLicenseNo": "123456789"
+	},
+	"71833": {
+		"NameID": "B-0000000066",
+		"MergeNameID": "O-0000000082"
+	},
+	"71862": {
+		"NameType": "A",
+		"NameID": "A-0000000032",
+		"ActivityType": "Jail Cell"
+	},
+	"71863": {
+		"ColumnValue": "A",
+		"ColumnName": "ID",
+		"LastName": "postr",
+		"FirstName": "kingdom",
+		"Address": "299 W Ashdale St",
+		"LastName1": "david",
+		"FirstName1": "villa"
+	},
+	"71901": {
+		"PrimaryANameID": "A-0000000620",
+		"LastName": "Martin",
+		"ColumnName": "Name",
+		"ColumnValue1": "Martin",
+		"FirstName1": "Creopto",
+		"ColumnValue2": "Creopto",
+		"PrimaryONameID": "O-0000000012",
+		"MergeANameID": "A-0000000620",
+		"MergeNameID0": "A-0000000620",
+		"MergeBNameID": "B-0000000012",
+		"MergeNameID1": "B-0000000012",
+		"MergeJNameID": "J-0000000002",
+		"MergeNameID2": "J-0000000002"
+	},
+	"72041": {
+		"Juris": "BC - Brown County Police Department",
+		"ColumnValue1": "BC",
+		"ColumnName1": "Juris",
+		"NameID": "A-0000000744",
+		"BCNameID": "A-0000000484",
+		"OtherJurisNameID1": "A-0000000021",
+		"ActivityType": "Arrest",
+		"AllJurisValue": ",BC,GCP,TP,SC,BP",
+		"Juris0": "PX - ProPhoenix"
+	},
+	"72066": {
+		"LastName": "Clash",
+		"FirstName": "Clans",
+		"Address": "299 W Ashdale St",
+		"State": "PA"
+	},
+	"72096": {
+		"NameID": "A-0000000759",
+		"OffenderCategory": "Drug Offender"
+	},
+	"72107": {
+		"LastName": "Boony",
+		"Address": "301 N Albany St",
+		"CitationNo": "JE24",
+		"CaseNo": "25-000163",
+		"How": "On-View Arrest",
+		"Armed": "Unarmed",
+		"Charge": "100.03(14)",
+		"Status": "Arrested Adult",
+		"Officer1": "Auto"
+	},
+	"72126": {
+		"ArrestNo": "25-000012",
+		"Charge1": "100.03(2)(a)",
+		"Status": "Arrested Adult",
+		"Charge2": "100.03(14)",
+		"City": "Charlotte",
+		"State": "NC",
+		"Zip": "28205"
+	},
+	"72134": {
+		"JNameID": "J-0000000071",
+		"CaseNo": "25-000123",
+		"Officer1": "Auto",
+		"Charge": "100.03(15)(a)",
+		"AgencyAction": "Handled Within the Department"
+	},
+	"72157": {
+		"DetaineeID": "A-0000000091",
+		"NameID": "A-0000000560",
+		"RiskLevel": "Low Risk",
+		"AssignCellNo": "C4",
+		"CustodyReason": "New Arrest",
+		"ActivityType": "Cell Assigned"
+	},
+	"72178": {
+		"ArrestNo": "25-000012",
+		"How1": "Prosecutor Review",
+		"How": "On-View Arrest",
+		"How2": "On-View Arrest"
+	},
+	"72234": {
+		"NameID": "A-0000000687",
+		"": ""
+	},
+	"72293": {
+		"SiteID": "2344"
+	},
+	"72300": {
+		"LastName": "Brucee",
+		"FirstName": "Dome",
+		"Address": "108 Applegate Ave",
+		"Jacket": "9946",
+		"BirthDate": "11/16/1961",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Carribean",
+		"SSNo": "343458835",
+		"SSno1": "343-45-8835",
+		"DrivingLicenseNo": "4565947",
+		"LicenseType": "None",
+		"LicenseType0": "None",
+		"DLExpDate0": "11/10/2036",
+		"DLClass": "A -  CLASS A VEHICLE",
+		"DLRestrictions": "OILSUPPLY",
+		"DLEndorsements": "F - FARM SERVICE CDL",
+		"BirthCounty": "ADAMS",
+		"CountyNo": "3795",
+		"State": "5696",
+		"FBI": "3795",
+		"Resident": "Unknown",
+		"ImmigrationNo": "574955",
+		"GednderIdentity0": "Male",
+		"Height": "22",
+		"Weight": "34",
+		"EyeColor": "Black",
+		"Condition0": "Normal",
+		"SMT": "ART L BRST",
+		"Juris": "BC - Brown County Police Department",
+		"Name": "Brucee, Dome",
+		"MaritalStatus": "Married",
+		"BirthCity": "New Jersey",
+		"BirthState": "NJ - New Jersey",
+		"FBINo": "3795",
+		"BirthCountry0": "US-United States of America",
+		"Citizenship0": "US-United States of America",
+		"Passport": "98995",
+		"FingerPrint": "Right Thumb",
+		"Email": "test@prophoenix.com",
+		"Description": "Male",
+		"Pronouns": "Co/co/cos/cos/coself",
+		"HairLength": "Shaved",
+		"EyeColor0": "Black",
+		"HairColor0": "Black",
+		"HairStyle": "Other",
+		"FacialHair": "Beard",
+		"Teeth": "Full Denture – Upper",
+		"Build": "Small",
+		"Chin": "395",
+		"Skin": "Black",
+		"Hand": "Right Handed",
+		"Handicapped": "Mental",
+		"PhysicalDescription": "Mark on RightHand",
+		"ImmigrationStatus": "Illegal",
+		"NameID": "A-0000000745"
+	},
+	"72311": {
+		"ArrestNo": "25-000013",
+		"CaseNo": "25-000070",
+		"Charge": "100.03(16)",
+		"Armed1": "Unarmed",
+		"Armed": "Other Firearm"
+	},
+	"72315": {
+		"Location": "108 Applegate Ave",
+		"Disposition": "Advised"
+	},
+	"72343": {
+		"LastName": "navishlee",
+		"FirstName": "Kowqut",
+		"Address": "108 Applegate Ave",
+		"BCNameID": "A-0000000003",
+		"Juris": "BC - Brown County Police Department",
+		"Juris1": "PX - ProPhoenix",
+		"": ""
+	},
+	"72394": {
+		"Height0": "abc",
+		"Weight0": "abc",
+		"Height1": "45",
+		"Weight1": "34"
+	},
+	"72405": {
+		"GangName": "MiamiBoys",
+		"UpdatedBy": "Lock"
+	},
+	"72419": {
+		"LastName": "Raj",
+		"FirstName": "Dhan",
+		"Address": "108 Applegate Ave"
+	},
+	"72419A": {
+		"LastName": "Mock",
+		"FirstName": "Bilzerian",
+		"Address": "4220 King Arthur Pl"
+	},
+	"72420": {
+		"NameID": "A-0000000746",
+		"TabName1": "Arrest",
+		"TabName2": "Charge",
+		"TabName3": "Release",
+		"TabName4": "Personal Data",
+		"CaseNo": "25-000170",
+		"Officer1": "Auto",
+		"Charge": "100.03(15)(a)",
+		"CrimeStatus": "Original",
+		"ArrestStatus": "Complete",
+		"ComplaintNameID": "A-0000000720",
+		"RemarksText": "Test",
+		"Offender": "98",
+		"PCH#": "Test",
+		"OBTN#": "Auto",
+		"Evidence": "Hair",
+		"BailStatus": "Test",
+		"CourtType": "Domestic Court",
+		"TabName5": "Medical",
+		"TabName6": "Disposition",
+		"TabName7": "Emp/School",
+		"TabName8": "Associates",
+		"TabName9": "Comments",
+		"TabName10": "Statement",
+		"TabName11": "Charging Conf",
+		"TabName12": "Attachments",
+		"TabName13": "Map",
+		"TabName14": "Cell",
+		"TabName15": "History",
+		"TabName16": "Approval"
+	},
+	"72449": {
+		"LineupNo": "25-000006",
+		"ColumnName0": "Activity Type"
+	},
+	"72454": {
+		"ArrestNo": "25-000016",
+		"AssignCellNo": "C5"
+	},
+	"72500": {
+		"NameID": "A-0000000755",
+		"CaseNo": "25-000188",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "100.03(16)",
+		"Status": "Arrested Adult",
+		"Evidence": "Gloves-Latex"
+	},
+	"72528": {
+		"Address": "1 O’Connor St,KING’S",
+		"NameID": "A-0000000647",
+		"Type": "Old",
+		"LastName": "Perty",
+		"FirstName": "Queen",
+		"Address1": "108 Applegate Ave"
+	},
+	"72669": {
+		"Juris0": "BC - Brown County Police Department",
+		"ColumnName0": "Juris",
+		"ColumnValue0": "BC",
+		"Juris1": "PX - ProPhoenix",
+		"FIActivity": "Carrying Suspicious Objects",
+		"ColumnName1": "FI Activity",
+		"ColumnValue1": "Carrying Suspicious Objects",
+		"Disposition": "Advised",
+		"ColumnName2": "Dispostion",
+		"ColumnValue2": "Advised",
+		"FromDate": "11/01/2025",
+		"LastName": "Marti",
+		"FirstName": "Lautoro",
+		"Name0": "Marti, Lautoro",
+		"FINo": "25-000002",
+		"Officer": "AUTO",
+		"ColumnName3": "Officers",
+		"ColumnValue3": "AUTO",
+		"VehicleNo": "123123",
+		"State": "NJ",
+		"ClothingItem": "Blouse",
+		"ClothingColor": "Beige",
+		"PatDown": "Alcohol",
+		"SearchConducted": "Pat-Down/Frisk Conducted",
+		"Description": "Test",
+		"ColumnName4": "FI#",
+		"ColumnValue4": "25-000002",
+		"Patrol": "Patrol Area 1"
+	},
+	"72733": {
+		"NameID": "A-0000000762",
+		"DL#": "1233",
+		"ActualDLNo": "4333",
+		"SS#": "122-33-3333",
+		"DOB": "11/25/2025",
+		"Juris0": "BC - Brown County Police Department"
+	},
+	"72774": {
+		"NameID": "A-0000000673",
+		"Reason": "Test",
+		"ArrestBooking": "25-000042",
+		"Password": "Pnx@2016"
+	},
+	"72799": {
+		"IncidentLocation0": "108 Applegate Ave",
+		"ArrestLocation0": "108 Applegate Ave",
+		"IncidentLocation": "108 Applegate Ave"
+	},
+	"72802": {
+		"NameID": "A-0000000761",
+		"GangName": "Weed'm Boys",
+		"ActivityType": "Gang"
+	},
+	"72805": {
+		"PrimaryANameID": "A-0000000740",
+		"LastName": "Test",
+		"MergeANameID": "A-0000000033",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"72896": {
+		"LineupNo": "25-000009",
+		"CaseNo": "25-000059",
+		"NameID": "A-0000000730",
+		"Officer": "Auto"
+	},
+	"72918": {
+		"Age0": "56",
+		"AgeRange0": "0",
+		"AgeRange1": "ABC"
+	},
+	"72938": {
+		"ItemType": "Arrest Entry",
+		"WindowWidth": "1330",
+		"WindowHeight": "828",
+		"ViewportWidth": "1330",
+		"ViewportHeight": "799"
+	},
+	"72940": {
+		"WindowWidth": "1430",
+		"WindowHeight": "748",
+		"ViewportWidth": "1430",
+		"ViewportHeight": "719",
+		"NameID": "A-0000000048"
+	},
+	"72940A": {
+		"WindowWidth": "1430",
+		"WindowHeight": "748",
+		"ViewportWidth": "1430",
+		"ViewportHeight": "719",
+		"NameID": "A-0000000044"
+	},
+	"72962": {
+		"LastName": "J",
+		"MatchAddress0": "1 - No",
+		"MatchNameType0": "1 - No",
+		"InitialOnly0": "1 - No",
+		"MatchAddress1": "2 - Yes",
+		"MatchNameType1": "2 - Yes",
+		"InitialOnly1": "2 - Yes"
+	},
+	"74101": {
+		"GangName": "94Gang",
+		"EstimatedMembers": "40",
+		"Address1": "9 Autumn Rd",
+		"Address2": "101 W Acorn Dr",
+		"IdentificationType0": "Color",
+		"LabelName0": "Color",
+		"IdentificationType1": "Symbols",
+		"LabelName1": "Symbols",
+		"IdentificationType2": "Graffiti",
+		"LabelName2": "Graffiti",
+		"IdentificationType3": "Phrases",
+		"LabelName3": "Phrases",
+		"IdentificationType4": "Clothing",
+		"LabelName4": "Clothing Type",
+		"IdentificationType5": "Other",
+		"LabelName5": "Other Type Code",
+		"OtherTypeCode": "CMS",
+		"Description": "Testing on Process 2566",
+		"IdentificationType": "Other",
+		"TabName1": "Identification",
+		"NameID": "A-0000000626",
+		"IdentificationType6": "Color",
+		"IdentificationValue6": "Black"
+	},
+	"74101A": {
+		"GangName": "94Gang",
+		"NameIDType0": "A",
+		"LastName0": "A",
+		"NameID0": "A-0000000317",
+		"NameType0": "Adult",
+		"NameType1": "Juvenile",
+		"NameIDType1": "J",
+		"LastName1": "A",
+		"NameID1": "J-0000000067",
+		"NameID": "A-0000000767",
+		"Rank": "Police Officer",
+		"GangSet": "41",
+		"LevelOfCriteria": "High",
+		"LocationOfActivity": "Street",
+		"PatrolArea": "Patrol Area 1",
+		"SocialMediaNotes": "Test",
+		"TabName": "Main",
+		"TabName1": "Identification",
+		"TabName2": "Notes",
+		"IdentificationType": "Color",
+		"ColorTypeCode": "Black",
+		"Notes": "Automation",
+		"PFDescription": "Prophoenix, Automation",
+		"IdentificationType0": "Symbols",
+		"Symbols": "Police",
+		"TabName3": "Members"
+	},
+	"74101B": {
+		"GangName": "94Gang",
+		"Vehicle": "2345",
+		"Activity0": "Driver",
+		"VehicleComments": "Test",
+		"Vehicle0": "2345-NJ",
+		"TabName": "Vehicle",
+		"State": "NJ"
+	},
+	"74101C": {
+		"GangName": "94Gang",
+		"UpdatedBy": "Auto",
+		"PFName": "Prophoenix, Automation",
+		"Notes": "Automation",
+		"TabName": "Notes"
+	},
+	"74282": {
+		"Juris0": "PX - ProPhoenix",
+		"GunPermitNo0": "26-000001",
+		"ColumnName0": "Gun Permit#",
+		"ColumnValue0": "26-000001",
+		"DataType0": "Date Reapplied",
+		"DataTypeFrom": "01/01/2026",
+		"DataTypeTo": "01/21/2026",
+		"LastName0": "Leon",
+		"FirstName0": "Jame",
+		"OwnerName0": "Leon, Jame",
+		"PermitType": "GUN",
+		"ColumnName1": "Permit Type",
+		"ColumnValue1": "GUN",
+		"ColumnName2": "Permit Status",
+		"ColumnValue2": "Approved",
+		"Custom": "Test",
+		"ColumnName3": "Custom1",
+		"ColumnValue3": "Test",
+		"Serial": "ASER5677ERT",
+		"ColumnName4": "Serial#",
+		"ColumnValue4": "ASER5677ERT",
+		"GunType": "Ammunition",
+		"ColumnName5": "Gun Type",
+		"ColumnValue5": "Ammunition",
+		"GunMake": "AA",
+		"ColumnName6": "Gun Make",
+		"ColumnValue6": "ALBANIA CODE BY COUNTRY IF MAKE CAN NOT BE DETERMINED.",
+		"Caliber": "2mm"
+	},
+	"74282A": {
+		"NameIDType0": "A",
+		"LastName": "a",
+		"NameIDType1": "J",
+		"NameIDType2": "B",
+		"NameIDType3": "O",
+		"NameID0": "A-0000000048",
+		"NameID1": "J-0000000035",
+		"NameID2": "B-0000000028",
+		"NameID3": "O-0000000069",
+		"NameID": "A-0000000756",
+		"PermitType": "GUN",
+		"NameType0": "Adult",
+		"NameType1": "Juvenile",
+		"NameType2": "Business",
+		"NameType3": "Other"
+	},
+	"74282B": {
+		"LastName0": "Dietrick",
+		"OwnerName": "Dietrick, Jean",
+		"Officer": "AUTO",
+		"Custom": "Testing",
+		"BlueCode": "rgba(0, 0, 255, 1)",
+		"TabName0": "Main"
+	},
+	"74282C": {
+		"LastName0": "Dietrick",
+		"OwnerName": "Dietrick, Jean",
+		"Subject": "Testing",
+		"Narrative1": "Script Running",
+		"BlueCode": "rgba(0, 0, 255, 1)",
+		"TabName0": "Narrative"
+	},
+	"74282D": {
+		"LastName0": "Dietrick",
+		"OwnerName": "Dietrick, Jean",
+		"Serial0": "123456",
+		"GunType": "Bomb",
+		"GunMake": "AAN",
+		"Caliber": "9mm",
+		"GunMakeDesc": "ARMSAN SILAH SANAYI - TURKEY",
+		"BlueCode": "rgba(0, 0, 255, 1)",
+		"TabName0": "Registration"
+	},
+	"74282E": {
+		"LastName0": "Dietrick",
+		"OwnerName": "Dietrick, Jean",
+		"GunType0": "Bomb",
+		"Serial0": "123456",
+		"History": "123456",
+		"BlueCode": "rgba(0, 0, 255, 1)",
+		"TabName0": "History",
+		"PopupMessage": "123456"
+	},
+	"74324": {
+		"LastName0": "Lillian",
+		"FirstName0": "Harper",
+		"Name": "Lillian, Harper",
+		"ColumnName0": "R",
+		"ColumnValue0": "W",
+		"Race": "White",
+		"Eyes": "Black",
+		"ColumnName1": "Eyes",
+		"ColumnValue1": "BLK",
+		"Sex": "Female",
+		"ColumnName2": "S",
+		"ColumnValue2": "F",
+		"Hair": "Black",
+		"ColumnName3": "Hair",
+		"ColumnValue3": "BLK",
+		"AgeFrom": "26",
+		"AgeTo": "70",
+		"ColumnName4": "Age",
+		"ColumnValue4": "26-70",
+		"Complexion": "Albino",
+		"ColumnName5": "Complexion",
+		"ColumnValue5": "ALB",
+		"SMTCode": "ART ARM",
+		"Item": "Blouse",
+		"Color": "Black",
+		"Description": "Test"
+	},
+	"74324A": {
+		"Plate": "1234",
+		"State": "NJ - New Jersey",
+		"Make": "Kawasaki",
+		"Model": "H2R",
+		"VehicleDetail": "Most Wanted",
+		"VehicleColor": "Green"
+	},
+	"74359": {
+		"Juris0": "PX - ProPhoenix",
+		"CaseNo": "26-000003",
+		"FIActivity": "Gambling",
+		"PatDownFriskConducted": "Firearm",
+		"SearchConducted": "Pat-Down/Frisk Conducted",
+		"Disposition": "Advised",
+		"Location": "1 W Damn St E",
+		"Officer": "AUTO",
+		"PatDown": "Firearm",
+		"LastName": "The",
+		"FirstName": "Mercurial",
+		"Name0": "The, Mercurial",
+		"NameID": "A-0000000768",
+		"ClothingItem": "Boots",
+		"ClothingColor": "Beige",
+		"Description": "Test",
+		"Vehicle": "4159-NJ",
+		"TabName": "Name(s)"
+	},
+	"74359A": {
+		"LastName": "The",
+		"FirstName": "Mercurial",
+		"Name0": "The, Mercurial",
+		"TabName": "Vehicle(s)",
+		"VehiclePlate": "4159-NJ",
+		"Description": "Automation",
+		"TabName1": "Narrative"
+	},
+	"74388": {
+		"BirthDate": "12/08/1976",
+		"LastName": "The",
+		"FirstName": "Doctor",
+		"Address": "103 david St"
+	},
+	"74393": {
+		"PrimaryANameID": "A-0000000770",
+		"NameID": "A-0000000769",
+		"Message": "(6071) A-0000000770 Merged With A-0000000769"
+	},
+	"74399": {
+		"NameID": "A-0000000771",
+		"Type0": "Home",
+		"PhoneNo0": "(995) 295-5284",
+		"PhoneType1": "C - Cell",
+		"Phone0": "1234567899",
+		"Type1": "Cell",
+		"PhoneNo1": "(123) 456-7899",
+		"PhoneType2": "W - Work",
+		"Phone1": "1222222222",
+		"Type2": "Work",
+		"PhoneNo2": "(122) 222-2222"
+	},
+	"74406": {
+		"LastName": "Anderson",
+		"Juris": "PX - ProPhoenix"
+	},
+	"74423": {
+		"LastName": "Thayer",
+		"FirstName": "Winslow",
+		"FINo": "26-000001",
+		"Name0": "Thayer, Winslow",
+		"TabName": "Name(s)"
+	},
+	"74447": {
+		"NameID": "A-0000000009",
+		"JacketNo": "20",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"74462": {
+		"NameID": "A-0000000772",
+		"CaseNo": "26-000005",
+		"How": "On-View Arrest",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Status": "Arrested Adult",
+		"Charge": "100.03(2)(a)",
+		"BusinessNameID": "B-0000000067",
+		"OccupationCodevlaue": "C",
+		"Name": "Ixigoi",
+		"Address": "108 Applegate Ave, Jamesburg, NJ 08831",
+		"OccupationCodeDescrption": "Construction",
+		"CustodyReason": "New Arrest",
+		"RiskLevel": "Low Risk",
+		"AssignCellNo": "01"
+	},
+	"74478": {
+		"Name1": "David, Camaron",
+		"Name2": "Rebort, James",
+		"Name3": "Levi, L",
+		"PFCode": "60328",
+		"PFName": "Aadam, Aedil"
+	},
+	"74484": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Address": "9801 Siberian Dr",
+		"Suffix": "Jr",
+		"Address2": "698 MacArthur Rd",
+		"County": "ADAMS",
+		"PhoneNumber": "9088887888",
+		"PhoneType1": "H - Home",
+		"PhoneNumber1": "9088886888",
+		"PhoneType2": "C - Cell"
+	},
+	"74484A": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"Jacket": "78543",
+		"Jacket1": "2",
+		"BirthDate": "06/30/1997",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Carribean",
+		"SSNo": "674234444",
+		"SSno": "674234444",
+		"DrivingLicenseNo": "1133",
+		"LicenseType": "None",
+		"LicenseType0": "None",
+		"DLExpDate0": "12/23/2111",
+		"DLClass": "B - Commercial Vehicle B",
+		"DLRestrictions": "OILSUPPLY",
+		"DLEndorsements": "N - TANKER",
+		"BirthCity": "New Jersey",
+		"BirthCounty": "ADAMS",
+		"CountyNo": "89",
+		"State": "45678",
+		"FBI#": "89067",
+		"Resident": "Unknown",
+		"Passport": "45677544",
+		"ImmigrationNo": "896545",
+		"ImmigrationStatus": "Illegal",
+		"GednderIdentity0": "Male",
+		"Pronouns": "He/him/his/his/himself",
+		"Type": "Air Force Serial Number",
+		"Number": "78655",
+		"Password": "Pnx@2016",
+		"RealAddress1": "606 Azusa",
+		"TabName": "Main",
+		"MaritalStatus": "Married",
+		"BirthState": "NJ - New Jersey",
+		"FBINo": "89067",
+		"BirthCountry0": "US-United States of America",
+		"Citizenship0": "US-United States of America",
+		"FingerPrint": "Right Thumb",
+		"Email": "test@prophoenix.com",
+		"Description": "Male",
+		"DOB": "06/30/1997",
+		"SSno1": "674-23-4444"
+	},
+	"74612": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"Flags": "Domestic Violence",
+		"EnteredBy": "AUTO",
+		"AuthorizedBy0": "Automation",
+		"Comment": "Test",
+		"Flags1": "Armed Dangerous",
+		"AuthorizedBy1": "Automation",
+		"": ""
+	},
+	"75892": {
+		"Facility": "Phoenix Police Department",
+		"InmateType": "Male",
+		"NameID": "A-0000000077",
+		"CustodyReason": "Hold for Immigration",
+		"RiskLevel": "Security Risk",
+		"ActivityType": "Cell Assigned",
+		"AssignCellNo": "C3"
+	},
+	"74620": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"Height": "75",
+		"Weight": "150",
+		"EyeColor": "Black",
+		"HairLength": "Short",
+		"HairStyle": "Afro",
+		"FacialHair": "Beard",
+		"Teeth": "Full Denture – Both",
+		"Build": "Small",
+		"Condition0": "Normal",
+		"ScarsMarksTattoos": "ART ARM",
+		"Description": "Test",
+		"SMT": "ART ARM",
+		"Chin": "Dodge",
+		"Handicapped": "Hearing",
+		"Skin": "Albino",
+		"Hand": "Right Handed",
+		"PhysicalDescription": "Mark on RightHand",
+		"TabName": "Physical",
+		"EyeColor0": "Black",
+		"HairColor0": "Black"
+	},
+	"74623": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Alias",
+		"AliasesName": "David, Beckam",
+		"Address": "299 W Ashdale St",
+		"Type": "Temporary",
+		"Country": "United States of America"
+	},
+	"74624": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Addresses",
+		"Address": "150 Spirit Lake Rd",
+		"Type": "Alternate",
+		"Country": "United States of America"
+	},
+	"74661": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Phones",
+		"Type0": "Home",
+		"PhoneNO": "(908) 888-7888",
+		"Type1": "Cell",
+		"PhoneNo1": "(908) 888-6888",
+		"PhoneType0": "W - Work",
+		"Phone": "9952955284",
+		"Type2": "Work",
+		"PhoneNo2": "(995) 295-5284"
+	},
+	"74683": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Emp/School",
+		"EmpLastName": "s",
+		"NameIDType0": "B",
+		"NameID0": "B-0000000048",
+		"EmpNameID": "B-0000000048",
+		"Occupation": "03",
+		"Type": "Alternate",
+		"EMPName0": "Unemployed",
+		"Type0": "Alternate",
+		"NameType0": "Business"
+	},
+	"74689": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Family",
+		"FamilyNameID": "A-0000000736",
+		"FamilyName": "Manning,Kristen"
+	},
+	"74690": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Info",
+		"ActualDLNo": "9952955284",
+		"ssnumber": "9003131757",
+		"SSNo": "900-31-3175"
+	},
+	"74696": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Gang",
+		"GangName": "EL Dorado"
+	},
+	"74697": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Comments",
+		"Subject": "AtumationTest",
+		"PFCode": "AUTO"
+	},
+	"74701": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Comments",
+		"AssociatesNameID": "A-0000000740",
+		"CaseNo": "25-000045",
+		"AssociatesName": "Snow, Mike",
+		"AssociatesNameID0": "A-0000000740"
+	},
+	"74745": {
+		"LastName": "David",
+		"FirstName": "Beckam",
+		"MiddleName": "Pastrom",
+		"Name": "David, Beckam Pastrom Jr",
+		"Name0": "David, Beckam Pastrom Jr",
+		"TabName": "Comments",
+		"VisitorNameID": "A-0000000680",
+		"VistorLastname": "Mr",
+		"VisitorFirstName": "Ak",
+		"RelationShip": "Aunt",
+		"FutureDate": "2",
+		"VisitorName": "Mr, Ak",
+		"VisitorLastName": "Mr",
+		"VisitorNameID0": "A-0000000680"
+	},
+	"74750": {
+		"LastName": "bokki",
+		"FirstName": "plo",
+		"Address": "150 Spirit Lake Rd",
+		"SSNo": "858585856",
+		"LastName1": "her",
+		"FirstName1": "garciar",
+		"PreBookOfficer": "AUTO",
+		"InmateType": "Beltop",
+		"ConfineReason": "Board",
+		"SentenceStatus": "Hung Up",
+		"ArrestingOfficer": "Josh",
+		"ArrestingOfficerID": "3096",
+		"Sex": "Male"
+	},
+	"74775": {
+		"LastName": "matt",
+		"FirstName": "hardy",
+		"Address": "620 MacArthur Rd",
+		"GoToOption": "Social Media",
+		"Address1": "2301 Scoville Ave",
+		"Juris": "BC - Brown County Police Department"
+	},
+	"74796": {
+		"LastName": "Heniken",
+		"Address": "606 Azusa",
+		"Flags": "Armed Dangerous",
+		"AliasLastName": "Lionel",
+		"AliasFirstName": "Andreas",
+		"AliasMiddleName": "Messi",
+		"AliasesName": "Lionel, Andreas Messi I",
+		"Suffix": "I",
+		"TabName": "Alias",
+		"Address1": "9 Autumn Rd",
+		"Type": "Old",
+		"TabName1": "Addresses",
+		"PhoneType0": "H - Home",
+		"Type0": "Home",
+		"PhoneNo0": "(875) 645-6778",
+		"Phone": "8756456778",
+		"TabName2": "Phones",
+		"Type1": "Home",
+		"PhoneNo1": "(875) 645-6778",
+		"LicenseType": "Gas Station",
+		"LicenseNo0": "1234567890",
+		"TabName3": "Business",
+		"Subject": "NameEntryComments",
+		"TabName4": "Comments",
+		"PFCode": "AUTO",
+		"LastName1": "a",
+		"NameID0": "A-0000000484",
+		"PhoneNumber": "1212121212",
+		"TabName5": "Contacts",
+		"NameRelation": "Building Owner",
+		"Name": "Aaron, Olivia",
+		"VisitorNameID": "A-0000000640",
+		"RelationShip": "Aunt",
+		"TabName6": "Visitors",
+		"VisitorName": "Pineda, Regina",
+		"Juris0": "BC - Brown County Police Department",
+		"OtherJurisNameID0": "A-0000000002",
+		"TabName7": "MJ",
+		"BCNameID": "A-0000000002",
+		"Name0": "Heniken",
+		"Address2": "1 N Atwood Rd"
+	},
+	"74796A": {
+		"LastName": "London",
+		"FirstName": "Lob",
+		"Address": "9 Autumn Rd",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"Resident": "Unknown",
+		"TabName1": "Main",
+		"Flags": "Armed Dangerous",
+		"TabName2": "Flags",
+		"Height": "23",
+		"Weight": "75",
+		"EyeColor": "Black",
+		"TabName3": "Physical",
+		"EyeColor0": "Black",
+		"AliasLastName": "Fiat",
+		"AliasFirstName": "Volso",
+		"AliasMiddleName": "Tiscott",
+		"Suffix": "Jr",
+		"AliasesName": "Fiat, Volso Tiscott Jr",
+		"TabName4": "Alias",
+		"Address1": "1 N Atwood Rd",
+		"Type": "Old",
+		"TabName5": "Addresses",
+		"PhoneType0": "H - Home",
+		"Phone": "89000000000",
+		"TabName6": "Phones",
+		"Type0": "Home",
+		"PhoneNo0": "(890) 000-0000",
+		"BusinessNameID": "A-0000000028",
+		"Code": "A",
+		"Description": "Agricultural",
+		"TabName7": "Emp/School",
+		"BusinessName": "A. O. Smith",
+		"FamilyNameID": "A-0000000640",
+		"TabName8": "Family",
+		"FamilyName": "Pineda, Regina",
+		"ActualDLNo": "123456789",
+		"ssnumber": "232323232",
+		"TabName9": "Info",
+		"GangName": "Mad Boys",
+		"TabName10": "Gang",
+		"Subject": "Selenium",
+		"TabName11": "Comments",
+		"PFCode": "AUTO",
+		"AssociatesNameID": "A-0000000645",
+		"TabName12": "Associates",
+		"AssociatesName": "Sawyer, Ryder",
+		"VisitorNameID": "A-0000000700",
+		"RelationShip": "Aunt",
+		"TabName13": "Visitors",
+		"VisitorName": "Lancaster, Ann-Marrie",
+		"Juris0": "BC - Brown County Police Department",
+		"OtherJurisNameID0": "A-0000000003",
+		"BCNameID": "A-0000000003",
+		"TabName14": "MJ",
+		"Charge": "10",
+		"TabName15": "DNA",
+		"Name0": "London, Lob",
+		"Address2": "1 N Atwood Rd"
+	},
+	"74796B": {
+		"LastName": "Jazz",
+		"FirstName": "Honda",
+		"Address": "9 Autumn Rd",
+		"Sex": "Male",
+		"Race": "White",
+		"Ethnic": "Unknown",
+		"Resident": "Unknown",
+		"TabName1": "Main",
+		"Flags": "Armed Dangerous",
+		"TabName2": "Flags",
+		"Height": "23",
+		"Weight": "75",
+		"EyeColor": "Black",
+		"TabName3": "Physical",
+		"EyeColor0": "Black",
+		"AliasLastName": "Fiat",
+		"AliasFirstName": "Volso",
+		"AliasMiddleName": "Tiscott",
+		"Suffix": "Jr",
+		"AliasesName": "Fiat, Volso Tiscott Jr",
+		"TabName4": "Alias",
+		"Address1": "1 N Atwood Rd",
+		"Type": "Old",
+		"TabName5": "Addresses",
+		"PhoneType0": "H - Home",
+		"Phone": "89000000000",
+		"TabName6": "Phones",
+		"Type0": "Home",
+		"PhoneNo0": "(890) 000-0000",
+		"BusinessNameID": "A-0000000028",
+		"Occupation": "A",
+		"TabName7": "Emp/School",
+		"BusinessName": "A. O. Smith",
+		"FamilyNameID": "A-0000000640",
+		"TabName8": "Family",
+		"FamilyName": "Pineda, Regina",
+		"ActualDLNo": "123456789",
+		"ssnumber": "232323232",
+		"TabName9": "Info",
+		"GangName": "Mad Boys",
+		"TabName10": "Gang",
+		"Subject": "Selenium",
+		"TabName11": "Comments",
+		"PFCode": "AUTO",
+		"AssociatesNameID": "A-0000000645",
+		"TabName12": "Associates",
+		"AssociatesName": "Sawyer, Ryder",
+		"VisitorNameID": "A-0000000700",
+		"RelationShip": "Aunt",
+		"TabName13": "Visitors",
+		"VisitorName": "Lancaster, Ann-Marrie",
+		"Juris0": "BC - Brown County Police Department",
+		"OtherJurisNameID0": "A-0000000003",
+		"TabName14": "MJ",
+		"Charge": "10",
+		"TabName15": "DNA",
+		"Name0": "Jazz, Honda",
+		"Address2": "1 N Atwood Rd"
+	},
+	"77793": {
+		"LastName": "Alcott",
+		"FirstName": "Antony",
+		"Address": "2253 Farland Ave",
+		"Sex": "Male",
+		"SSNo": "798456386",
+		"SSNo1": "798-45-6386",
+		"SSno1": "798-45-6386",
+		"PreBookOfficer": "AUTO",
+		"InmateType": "Beltop",
+		"ConfineReason": "Board",
+		"SentenceStatus": "Hung Up",
+		"ArrestingOfficer": "AUTO",
+		"ArrestingOfficerID": "789",
+		"ReviewType0": "Intake",
+		"Action1": "Approved",
+		"ClosingComments": "For TC - 77793",
+		"Password": "Pnx@2016"
+	},
+	"76126": {
+		"LastName": "Fleix",
+		"Sex0": "Male",
+		"ColumnName0": "Sex",
+		"ColumnValue0": "Mal...",
+		"LastName1": "XSSSSSSSSSS",
+		"Race0": "White",
+		"ColumnName1": "Race",
+		"ColumnValue1": "Whi...",
+		"DOB": "01/09/1946",
+		"ColumnName2": "DOB",
+		"ColumnValue2": "01/09/1946",
+		"Age0": "80",
+		"ColumnName3": "Age",
+		"ColumnValue3": "80",
+		"Height0": "30",
+		"ColumnName4": "HGT",
+		"ColumnValue4": "30",
+		"Weight0": "30",
+		"ColumnName5": "WGT",
+		"ColumnValue5": "30",
+		"Address": "101 W Acorn Dr",
+		"ColumnName6": "Address",
+		"ColumnValue6": "101 W Acorn Dr, Grafton, WI 53024",
+		"City": "Grafton",
+		"State0": "WI - Wisconsin",
+		"Patrol0": "Patrol Area 1",
+		"TrackingCodeValue": "TB",
+		"Flag": "Armed Dangerous",
+		"NameID": "A-0000000860",
+		"Flags": "Armed Dangerous",
+		"SPN#0": "205",
+		"ColumnName7": "SPN#",
+		"ColumnValue7": "205",
+		"Telephone#0": "9952955284",
+		"ColumnName8": "Phone#",
+		"ColumnValue8": "'H (995) 295-5284",
+		"County#0": "3097",
+		"CountyNo0": "3097"
+	},
+	"77449": {
+		"Juris": "BC - Brown County Police Department",
+		"LastName": "Epstien",
+		"FirstName": "David",
+		"Name": "Epstien, David",
+		"BCNameID": "A-0000000864",
+		"Juris0": "BC - Brown County Police Department",
+		"ActivityType": "Arrest"
+	},
+	"77497": {
+		"NameID": "A-0000000864",
+		"TabName": "Activity",
+		"Activity": "Arrest",
+		"ActivityType": "Arrest",
+		"ActivityType1": "Victim",
+		"Activity1": "Victim"
+	},
+	"77519": {
+		"ArrestNo": "25-000011",
+		"Charge": "100.03(15)(b)",
+		"NameID": "A-0000000624",
+		"Name": "Almanda, Thiago",
+		"CaseNo": "25-000079",
+		"ActivityType0": "Arrest",
+		"ActivityNo0": "25-000079",
+		"Password": "Pnx@2016"
+	},
+	"77525": {
+		"LineupNo": "26-000002",
+		"CaseNo": "25-000045",
+		"NameID": "A-0000000624",
+		"NameID1": "A-0000000865",
+		"Officer": "Auto"
+	},
+	"77527": {
+		"ReportName1": "Arrest Blotter Report",
+		"ReportName2": "Arrest by Race Ethnicity",
+		"ReportName3": "Arrest Record List",
+		"ReportName4": "Arrests by Statute Report",
+		"ReportName5": "Arrests List",
+		"ReportName6": "Arrests YTD Summary Report",
+		"ReportName7": "Booking List With Release Detail",
+		"ReportName8": "Bookings List",
+		"ReportName9": "Charges by Race & Age"
+	},
+	"77533": {
+		"LastName": "Speed",
+		"FirstName": "x",
+		"Address": "3 bank St",
+		"EyeColor0": "Black",
+		"HairColor0": "Black",
+		"Condition0": "Normal",
+		"LastName1": "Cubarasi",
+		"FirstName1": "tert",
+		"Description": "543 Arm Artificial (Non Specified)",
+		"SMT": "ART ARM",
+		"EyeColor1": "Blue",
+		"HairColor1": "Brown",
+		"Condition1": "Normal"
+	},
+	"77685": {
+		"LastName": "Casagrand",
+		"FirstName": "Villa",
+		"Address": "6059 Sollicitudin Rd;PX",
+		"PhoneType1": "H - Home",
+		"PhoneNumber": "9952955284",
+		"PhoneNo": "9952955284",
+		"PhoneType2": "C - Cell",
+		"PhoneNumber1": "9003131757",
+		"Juris": "BC - Brown County Police Department",
+		"Juris0": " -- "
+	},
+	"77798": {
+		"Name": "Aron, Finch",
+		"OffenderID": "9",
+		"TabName1": "Notification",
+		"TabName2": "Attachment",
+		"Flags0": "Armed Dangerous",
+		"TabName3": "Flag",
+		"Type": "Business Notification",
+		"": ""
+	},
+	"77817": {
+		"LastName": "John",
+		"FirstName": "Carter",
+		"Address": "199 Sand Hill Crane Dr",
+		"Flags0": "Armed Dangerous",
+		"JurisInGrid0": "PX",
+		"Juris0": "BC - Brown County Police Department",
+		"Juris1": "PX - ProPhoenix",
+		"LastName1": "Pill",
+		"FirstName1": "Happy",
+		"Address1": "199 Sand Hill Crane Dr"
+	},
+	"77817A": {
+		"LastName": "Liz",
+		"FirstName": "Braddy",
+		"Address": "13201 Adventures Camp Ln",
+		"Flags0": "Armed Dangerous",
+		"JurisInGrid0": "PX",
+		"Juris0": "BC - Brown County FireDepartment",
+		"Juris1": "PX - ProPhoenix",
+		"LastName1": "Pill",
+		"FirstName1": "Happy",
+		"Address1": "13201 Adventures Camp Ln",
+		"": ""
+	},
+	"77837": {
+		"98SPValue": "V - Guest Visitors",
+		"LastName": "Henry",
+		"FirstName": "Nate",
+		"Address": "199 Sand Hill Crane Dr"
+	},
+	"77847": {
+		"PrimaryNameID": "A-0000000202",
+		"MergeNameID": "A-0000000743",
+		"": ""
+	},
+	"77859": {
+		"ArrestNo": "26-000007",
+		"Password": "Pnx@2016",
+		"NameID": "A-0000000862",
+		"CaseNo": "26-000049",
+		"Officer1": "Auto",
+		"Armed": "Unarmed",
+		"Charge": "100.025(5)"
+	},
+	"77861": {
+		"Juris": "BC - Brown County Police Department",
+		"NameID": "A-0000000003",
+		"": ""
+	},
+	"78352": {
+		"NameID0": "A-0000000915",
+		"LastName0": "Jammie",
+		"FirstName0": "Poerty",
+		"NameID1": "J-0000000072",
+		"LastName1": "Luion",
+		"FirstName1": "Tyuio",
+		"NameID2": "B-0000000070",
+		"LastName2": "Pwer house",
+		"LastName": "t",
+		"NameIDType0": "A",
+		"NameIDType1": "J",
+		"NameIDType2": "B",
+		"LastName3": "Zelensiki",
+		"FirstName3": "Motors",
+		"Address": "299 W Ashdale St",
+		"NameType0": "A",
+		"Race": "Asian",
+		"Ethnic": "Unknown",
+		"Resident": "Unknown"
+	},
+	"79715": {
+		"LastName": "Zelensiki",
+		"FirstName": "Motors",
+		"CaseNo": "26-000125",
+		"IncidentLocation": "108 Applegate Ave",
+		"How": "On-View Arrest",
+		"Officer1": "Josh99",
+		"Officer2_0": "Auto",
+		"CrimeStatus": "Original",
+		"ArrestStatus": "Complete",
+		"ComplaintNameID": "A-0000000923",
+		"WarrantNo": "26-000078",
+		"Armed": "Unarmed",
+		"Armed1": "Rifle",
+		"Offender": "456",
+		"RemarksText": "Automation",
+		"PCH#": "708",
+		"OBTN#": "908",
+		"VehicleNo": "WI-1234",
+		"PlateNo": "1234",
+		"Evidence": "Blood",
+		"Notes": "test",
+		"ArrestLocation": "108 Applegate Ave",
+		"Charge": "100.03(16)",
+		"Status": "Arrested Adult",
+		"CourtType": "Juvenile Court",
+		"Court": "009"
+	},
+	"79795": {
+		"LastName": "Zelensiki",
+		"FirstName": "Motors",
+		"CaseNo": "26-000125",
+		"TabName": "Medical",
+		"TechinicianCode": "AUTO",
+		"Notes": "Notes",
+		"TechinicianCodeDescription": "Prophoenix, Automation"
+	}
+}

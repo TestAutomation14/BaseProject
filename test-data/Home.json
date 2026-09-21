@@ -1,0 +1,1518 @@
+{
+
+  "105460": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "CaseNo": "18-000008",
+    "Code":"L0000000020",
+    "StorageLocation":"Storage container 5"
+  },
+  "105461": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "CaseNo": "18-000008"
+    
+  },
+  "105462": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "CaseNo": "18-000008"
+  },
+  "105471": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "TitleRank":"Detective",
+    "Badge":"220",
+    "PFCode": "P006"
+  },
+  "105497": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "Badge":"220",
+    "PFCode": "P006"
+  },
+  "105506": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "PFCode": "P001"
+  },
+  "105509": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "PFCode": "P001"
+  },
+  "105511": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "FleetID": "Vinton-WDA",
+    "StorageLocation":"Fleet Location1",
+	"ServiceType":"Body Damage Repair"
+  },
+  "105517": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "FleetID": "Vinton-WDA"
+  },
+  "106639": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "FleetID": "Vinton-WDA"
+  },
+  "106640": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "InventoryNo": "18-000011"
+  },
+  "106641": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "InventoryNo": "18-000011"
+  },
+  "106642": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "InventoryNo": "18-000011"
+  },
+  "106645": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "InventoryNo": "18-000011"
+  },
+  "106646": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "InventoryNo": "18-000011"
+  },
+  "106665": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "PFCode": "P001"
+  },
+  "106705": {
+    "UserName": "P002",
+    "Password": "Pnx@2016"
+  },
+  "106706": {
+    "UserName": "P002",
+    "Password": "Pnx@2016"
+  },
+  "106707": {
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+  "106708": {
+    "UserName": "P002",
+    "Password": "Pnx@2016"
+  },
+  "106709": {
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+   "106710": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "PF": "Patrol, Officer",
+    "PFCode": "P001"
+  },
+  "106711": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "ActivityType":"Damage"
+  },
+  "106712": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "ActivityType":"Damage"
+  },
+  "149116": {
+    "BookName": "Phone",
+    "LastName": "Jerry",
+    "FirstName": "Jack",
+    "LastName1": "Kanchi",
+    "FirstName1": "Mack",
+    "Name1": "Jerry Jack",
+    "Name2": "Kanchi Mack",
+    "Extension": "234"
+  },
+  "149214": {
+    "LinkName": "Call Entry",
+    "ScreenID": "2410",
+    "ScreenName": "Call Entry"
+  },
+  "155210": {
+    "UserName": "automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "MessageID": "Automation",
+    "Subject": "Automation Team Working Together",
+    "Division": "Administration",
+    "Section": "Administration",
+    "PFCode": "Auto",
+    "PFCode1": "PRMS"
+  },
+  "179813": {
+    "UserName": "P003",
+    "Password": "Pnx@2016",
+    "Status": "Keypunch",
+    "CaseNo": "18-000089"
+  },
+  "179849": {
+    "Status": "Keypunch",
+    "CaseNo": "18-000090"
+  },
+  "238693": {
+    "Status": "OnHold",
+    "Officer": "AUTO"
+  },
+  "240637": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "ItemType": "Report Entry",
+    "Officer": "P001",
+    "ItemType1": "Report Entry"
+  },
+  "242537": {
+    "Message": "Records message shows",
+    "PFCode":"Auto",
+    "Code":"Auto",
+    "PFDescription":"Prophoenix,Automation AUTO"
+    
+  },
+  "244229": {
+    "WarrantNo": "20-000002",
+    "Password": "Pnx@2016",
+    "PFCode": "AUTO",
+    "Disposition": "Expired"
+  },
+  "244230": {
+    "Juris": "BC - Brown County Police Department",
+    "PFInbox": "23Rt"
+  },
+  "244247": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "Division": "Administration",
+    "Section": "Administration"
+  },
+  "248772": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "Officer": "P001",
+    "Status": "Report Due",
+    "Status1": "Submitted"
+  },
+  "248844": {
+    "LinkName": "Support",
+    "ScreenID": "2410",
+    "URL": "www.gmail.com",
+    "FilePath": "d://ded"
+  },
+  "250173": {
+    "UserName": "P001",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "RequestNo": "20-000001",
+    "Rcvdatetime": "07/17/20 15:19",
+    "RequestedBy": "Alabama, Eastern",
+    "RequestType": "Open Records Request",
+    "CallAndCase": "20-000056",
+    "AssignedTo": "P001"
+  },
+  "250174": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "RequestNo": "20-000002",
+    "Rcvdatetime": "07/17/20 15:29",
+    "RequestedBy": "Alabama, Eastern",
+    "RequestType": "Open Records Request",
+    "DueClosedDate": "Due: 07/01/22",
+    "CallAndCase": "20-000057",
+    "AssignedTo": "P002"
+  },
+  "250437": {
+    "ActivityType": "Residential Patrol",
+    "LastName": "Warne",
+    "FirstName": "Shane",
+    "Activity": "Arrested",
+    "Name": "Warne, Shane"
+  },
+  "252266": {
+    "ItemType": "Citation Entry",
+    "ItemType1": "Report",
+    "ItemType2": "Report Entry",
+    "Status": "OnHold",
+    "Status1": "Submitted"
+  },
+  "252295": {
+    "UserName": "PA001",
+    "Password": "Pnx@2016",
+    "Status": "Keypunch",
+    "Status1": "Submitted",
+    "Officer": "PA001"
+  },
+  "253691": {
+    "Status": "OnHold",
+    "Officer": "AUTO",
+    "Status1": "Report Due",
+    "Status2": "Rejected"
+  },
+  
+  "255722": {
+    "Location": "101 Virginia St, Racine, WI 53405",
+    "StreetName": "101 Virginia St",
+    "Juris": "PX - ProPhoenix",
+    "Juris1": "--"
+  },
+  "255738": {
+    "CodeID": "5126",
+    "CodeValue": "7",
+    "CategoryGroup":"PI - Police",
+    "Category": "M - Maintenance",
+    "BillToAccountNameID": "A - 0000000022"
+  },
+  "258293": {
+    "RequestedPF": "INNC",
+    "RequestedbyPF": "INNC",
+    "RequestedbyPF1": "IN",
+    "Description": "##Notification",
+    "PFCode": "INNC",
+    "DistributionList": "Fire station",
+    "ReportingPeriod": "Immediate",
+    "NotifyEvent": "121 - Involved in Traffic Stop",
+    "RequestedBy": "####Notification, InActive",
+    "Email": "rajas@prophoenix.com",
+    "Name": "Raja Sadaraj",
+    "UserName": "IN001",
+    "Password": "Pnx@2016"
+  },
+  "258917": {
+    "CategoryGroup": "JCELL - Jail Cell",
+    "Category": "JC03 - Detainee Movement",
+    "ActivityType": "Cell Assigned",
+    "ActivityStatus": "Request/To-Do",
+    "Subject": "Recurrence functionality",
+    "PFCode": "AUTO",
+    "PF": "AUTO",
+    "ActivityStatus1": "Scheduled Item",
+    "EndAfter": "2",
+    "PFNotesToolTip": "Prophoenix, Automation"
+  },
+  "258918": {
+    "Owner": "AUTO",
+    "CodeValue": "V001",
+    "Summary": "create a new vendor",
+    "Status": "Submitted",
+    "Contact": "Xavier, Monoranjan  ( Building Owner, Manager, Agent)",
+    "PFCode": "PRMS",
+    "Owner1": "PRMS",
+    "Code":"PRMS",
+    "Vendor": "001"
+  },
+  "258922": {
+    "CategoryGroup": "FACIL - Facility",
+    "Category": "PBLDG - Police Admin Building Check",
+    "ActivityType": "Building Check Okay",
+    "ActivityStatus": "Request/To-Do",
+    "Subject": "Test Data7",
+    "Subject0": "Test Data7"
+  },
+  "258923": {
+    "Product": "Police",
+    "ReportName": "Test",
+    "Juris": "BC - Brown County Police Department"
+  },
+  "259721": {
+    "CategoryGroup": "CAD - CAD",
+    "Category": "WDA - WDA",
+    "ActivityType": "Officer Intiative",
+    "ActivityStatus": "Completed Activity",
+    "PFCode": "AUTO",
+    "CFS": "AU2017",
+    "SRC": "911 Lines",
+    "Location": "5934 Dearborn Ave",
+    "Subject": "Activity Entry Checking",
+    "ActivityInGrid":"New Activity Log Created"
+  },
+  "60390": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "AutomationPoliceMJ"
+  },
+  
+  "261084": {
+    "ActivityType": "Car Wash",
+    "CategoryGroup":"FLEET - Fleet",
+    "Category":"Vehicle Maintenance",
+    "EnteredBy":"AUTO",
+    "Title":"Whiteboard @",
+    "PFCode":"AUTO",
+    "ActivityInGrid":"New Activity Log Created",
+    "Subject":"F4 Key Functionality",
+    "Subject0":"F4 Key Functionality",
+    "Notes":"F4 Key Functionality"
+    
+  },
+  "261086": {
+    "CategoryGroup": "ADMIN - Administrative",
+    "ActivityType": "Department Head Meeting",
+    "Category": "MTG - Meetings",
+    "ActivityStatus": "Request/To-Do",
+    "Subject": "Activity search screen from Home module",
+    "PFCode": "PRMS",
+    "Status": "OND - On Duty",
+    "PFActivity": "W - Worked",
+    "HoursWorked": "8",
+    "Points": "50",
+    "PFNo": "PRMS",
+    "PFStatus": "OND - On Duty",
+    "HoursWorkedOperator": "=",
+    "HoursValue": "8",
+    "Credit": "=",
+    "CreditValue": "50",
+    "PayScale": "1 - Pay Scale 1"
+  },
+  "261409": {
+    "PFStatus": "OND - On Duty",
+    "PayScale": "2 - Pay Scale 2",
+    "Status": "Request/To-Do",
+    "PFStatus1": "Check All"
+  },
+  "261412": {
+    "CategoryGroup": "OPS - Operations",
+    "Category": "PTL - Patrol",
+    "ActivityType": "Report Writing",
+    "Subject": "creating a new Activity Entry2",
+    "ActivityStatus": "In-Progress Activity",
+    "PFCode":"Lock"
+  },
+  "261413": {
+    "CodeID": "5126",
+    "CodeValue": "VEHOK",
+    "Title": "Whiteboard"
+  },
+  "261419": {
+    "Subject": "Delete the Activity entries from Activity entry",
+    "Status": "Request/To-Do"
+  },
+  "261422": {
+    "CategoryGroup": "PI - Police",
+    "Category": "M - Maintenance",
+    "ActivityType": "Maintenance",
+    "ActivityStatus": "Request/To-Do",
+    "Subject": "Activity with Maintenance Tab",
+    "CurrentMileage": "256",
+    "CurrentHours": "56",
+    "Vendor": "1001",
+    "Cost": "200",
+    "InventoryNo": "18-000010",
+    "InvOrPartNo": "18-000010"
+  },
+  "261423": {
+    "CategoryGroup": "PI - Police",
+    "Category": "Vi - Visitors",
+    "ActivityType": "Guest Visitors",
+    "ActivityStatus": "Request/To-Do",
+    "Subject": "Activity with Visitor Tab",
+    "LastName": "Madison",
+    "FirstName": "James",
+    "Name":"Madison,James",
+    "Notes": "Automation Test",
+    "Time-In": "12:30",
+    "Time-Out": "14:30",
+    "PFCode": "P004",
+    "PFActivity": "S - Staged",
+    "Status": "OND - On Duty",
+    "PFUnit": "PRMS",
+    "HoursWorked": "48",
+    "Points": "50",
+    "HoursPaid": "200",
+    "PayScale": "1 - Pay Scale 1"
+  },
+  "261424": {
+    "CategoryGroup": "FACIL - Facility",
+    "Category": "PBLDG - Police Admin Building Check",
+    "ActivityType": "Building Issue Found",
+    "ActivityStatus": "Scheduled Item",
+    "Subject": "my Reminder Tab in Assigned PF login",
+    "PFCode": "P002",
+    "PFActivity": "R - Responded",
+    "Status": "OND - On Duty",
+    "PFUnit": "PRMS",
+    "HoursWorked": "48",
+    "PF":"Supervisor, Officer",
+    "Points": "50",
+    "HoursPaid": "200",
+    "PayScale": "1 - Pay Scale 1",
+    "AssignedPF": "P002",
+    "UserName": "P002",
+    "Password": "Pnx@2016"
+  },
+  "263142": {
+    "UserName": "P002",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation"
+  },
+ 
+  "265262": {
+    "UserName": "CM001",
+    "Password": "Pnx@2016",
+    "CaseNo": "21-000042"
+  },
+  "272998": {
+    "UserName": "automation",
+    "Password": "Pnx@2016",
+    "Database": "PoliceMJAutomation",
+    "CaseNo": "20-000002"
+  },
+  "273895": {
+    "Category": "3 - Unit Journal",
+    "ActivityType": "Skills Review",
+    "Subject": "Add multiple PF's in PF tab",
+    "PFCode": "001",
+    "ActivityStatus": "In-Progress Activity"
+  },
+  "273924": {
+    "ItemType": "Expense Entry",
+    "RefNo": "21-000003"
+  },
+  "277263": {
+    "Category": "5 - General Journal",
+    "ActivityType": "Public Event Attended",
+    "ActivityStatus": "Completed Activity",
+    "Subject": "TestDataForDuplication",
+    "PFCode": "45F"
+  },
+  "60601": {
+    "PF": "PRMS",
+    "Message": "Test",
+    "Unit":"087",
+    "To":"Raja, Sadaraj"
+  },
+  "278644": {
+    "PF": "Auto",
+    "Unit": "PRMS"
+  },
+  "281417": {
+    "UserName": "p001",
+    "Password": "Pnx@2016",
+    "PFName": "Patrol, Officer-P001           ",
+    "AutoPFName": "Prophoenix, Automation-AUTO",
+    "AutoPFName1": "Raja, Sadaraj",
+    "PFCode": "Auto",
+    "PFCode1": "PRMS",
+    "ActivityType": "Cell Assigned"
+  },
+  "284227": {
+    "CaseNo": "21-000038"
+  },
+  "106713": {
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+  "106668": {
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+  "106668B": {
+    "UserName": "P001",
+    "Password": "Pnx@2016"
+  },
+  "135725":{
+ 	"CaseNo":"18-000070",
+  	"InvestNo":"22-000007",
+  	"Status":"Open",
+  	"CaseNumber":"18-000070"
+  },
+  "145030": {
+  "Unit": "1123",
+  "Message": "Test Automation",
+  "BoloType": "Alert",
+  "BoloType1": "  --Select--  ",
+  "BoloStatus": "Active",
+  "BoloStatus1": "Withdrawn",
+  "BoloStatus2": "  --Select--  ",
+  "PFInbox": "AUTO",
+  "Sender": "Prophoenix,Automation-AUTO"           
+  },
+  "144887":{
+  "Text1": "Test",
+  "Text2": "=",
+  "Text3": "=A",
+  "Text4": ";A",
+  "Text5": ";Finch Aaron",
+  "Text6": ";Aaron,Finch",
+  "Text7": ";jenny arthur II",
+  "Text8": ";arthur,jenny,II, Mr",
+  "Text9": ".22-2",
+  "Text10": "/Boat123",
+  "Text11": "/Newton/WI",
+  "Text12": ";",
+  "Text13": ".2",
+  "Text14": ".00002",
+  "Text15": ".2022-00002",
+  "Text16": ".2022-2",
+  "Text17": "/",
+  "Text18": ";Aaron",
+  "CommonName0":"Acorn",
+  "Names0":"Aaron",
+  "ColumnName0":"Name",
+  "LastName":"Aaron",
+  "FirstName":"Finch",
+  "RegistrationNo":"BOAT123",
+  "State":"WI - Wisconsin"
+  
+ 
+  },
+  "8997":{
+"Sender":"Prophoenix,Automation-AUTO",
+"From":"Automation,Prophoenix",
+"PFInbox":"Auto",
+"Unit":"P001",
+"Message":"Automation Bolo Test",
+"BoloType":"Alert",
+"BoloStatus":"Active",
+"WithdrawnMessage":"Withdrawn Message"
+
+},
+"9125":{
+"PFCode":"AUTPOL",
+"Name":"Automation,Police"
+},
+"9149": {
+		"TextType": "CM Assignment Comments"
+	},
+  "9113":{
+  "Text1": ".",
+  "Text2": ".22-00002",
+  "Text3":"$",
+  "Text4":"$00002",
+  "Text5":"$23-2",
+  "Text6":"$2",
+  "Text7":"$20-00001",
+  "Text8":"$2023-00003",
+  "Text9":"$2023-4",
+  "Text10":"=9801 Siberian Dr",
+  "Text11":"#2566565656",
+  "Text12": "*265656565",
+  "Text13": ":18"
+  },
+  "10310":{
+  "FormName":"Employment Application",
+  "UserName":"Admin",
+  "Password":"Pleasant14",
+  "Database":"AutomationPoliceMJ"
+  },
+  
+  "105087": {
+		"LastName": "Gonzales",
+		"FirstName": "Washington",
+		"NameType": "A",
+		"NameID": "A-0000000114"
+	},
+	"105073": {
+		"LastName": "Hayes",
+		"FirstName": "Russel",
+		"NameType": "A",
+		"NameID": "A-0000000112"
+	},
+	"105081": {
+		"LastName": "Sanchez",
+		"FirstName": "Stewart",
+		"NameType": "A",
+		"NameID": "A-0000000113"
+		
+	},
+	"105088": {
+		"LastName": "Martinez",
+		"FirstName": "Turner",
+		"NameType": "A",
+		"NameID": "A-0000000115"
+	},
+	"9117": {
+		"PFCode": "65",
+		"Name": "Aa, Mo",
+		"TrainingType": "Evidence Collection",
+		"CourseTitle": "Investigative"
+	},
+	"288600":{
+	 "PFCode": "brad1",
+	 "LastName": "Pitt",
+     "FirstName": "Brad",
+    "PhoneType": "W - Work",
+   "PhoneNumber": "1234567890",
+    "PhoneNo":"1234567890",
+    "PhoneNumber1":"9874563210",
+    "PhoneNo1":"9874563210"
+  },
+  
+  "13868":{
+	"TextName":"Prophoenix",
+	"Category":"Document - File",
+	"FileName":"img2.png"
+	},
+	
+"186986": {
+	"PF": "PASS",
+	"Message": "Test Automation",
+	"To": "Automation, Testing",
+	"Sender": "Prophoenix,Automation-AUTO"
+	},
+	
+	"186987": {
+	"BoloStatus": "Active",
+	"To": "Automation, Testing",
+	"Sender": "Prophoenix,Automation-AUTO"
+	},
+	
+	"186989": {
+	"ActivityType": "Roll Call Briefing",
+	"ActivityBy": "P022",
+	"By": "Prophoenix, Automation",
+	"LastName": "Alexa",
+	"FirstName": "Amelia",
+	"Notes": "Test Data",
+	"Name": "Alexa, Amelia",
+	"ActivityNo": "23-000001"
+	},
+	
+	"187814": {
+	"Receiver": "Automation,Police-AUTPOL",
+	"Sender": "Prophoenix,Automation-AUTO"
+	},
+	
+	"203757": {
+	"ActivityType": "Check All",
+	"Sender": "Prophoenix,Automation-AUTO"
+	},
+	
+	"205106": {
+	"CustomName": "Automation"
+	},
+	
+	"199132": {
+	"PF": "AUTO",
+	"Message": "Automation Testing"
+	},
+	
+	"207318": {
+	"BookName": "Selenium",
+	"Description": "Automation Details",
+	"LastName": "Allen",
+	"FirstName": "Mathew",
+	"MiddleName": "Singh",
+	"Address": "525 Barrymore Dr, Moorestown, NJ 08057",
+	"PhoneNo": "4891120472",
+	"Log": "Automation Test",
+	"PhoneBook": "Selenium",
+	"Roster": "Early Shift",
+	"Name": "Allen, Singh Mathew"
+	},
+	
+
+  "134085":{
+    "InventoryNo":"23-000004",
+    "By":"AUTPOL",
+    "QtyReceived":"1",
+    "UnitCost":"100"
+	},
+	"134087":{
+    "InventoryNo":"20-000003"
+	},
+	
+	 "134088":{
+    "InventoryNo":"23-000007"
+	},
+	
+	 "166243":{
+    "CategoryGroup":"CAD - CAD"
+	},
+	
+	"166265":{
+    "Category":"DAM - Damage"
+	},
+	
+	"166796":{
+    "ActivityType":"Check All"
+	},
+	
+	"166840":{
+    "ActivityBy":"AUTO"
+	},
+	
+	"166905":{
+    "Unit":"AUTO"
+	},
+	
+	"166910":{
+    "ActivityStatus":"Check All"
+	},
+	
+	"167528":{
+    "Credit": "=",
+    "CreditValue": "50"
+	},
+	
+	"167599":{
+    "AssignedShift":"Day Shift (1st)"
+	},
+	
+	"168038":{
+    "Type":"Civilian Employee"
+	},
+	
+	"168059":{
+    "EnteredBy":"AUTO"
+	},
+	
+	"168064":{
+    "Subject":"events based"
+	},
+	
+	"168065":{
+	"RefType": "Name ID"
+	},
+	
+	"184915":{
+	"MessageID":"1996",
+	"Subject":"Automation Test"
+	},
+	"162477":{
+	"CategoryGroup":"PI - Police",
+	"Category":"M - Maintenance",
+	"ActivityType":"Maintenance",
+	"ActivityStatus":"In-Progress Activity",
+	"Location":"121 darrow Ave",
+	"Subject":"Test",
+	"PFCode":"PA001",
+	"Address":"121 darrow Ave"
+	
+	},
+	"45208":{
+	"CategoryGroup":"OPS - Operations",
+	"Category":"MTG - Meetings",
+	"ActivityType":"Incident",
+	"ActivityStatus":"In-Progress Activity",
+	"Unit":"108",
+	"Fleet":"123DE",
+	"Location":"103 david St",
+	"Subject":"Test",
+	"PFCode":"P015",
+	"PFActivity":"W - Worked",
+	"Status":"OND - On Duty",
+	"PFUnit":"101",
+	"HoursWorked":"12",
+	"Credits":"",
+	"HoursPaid":"12",
+	"PayScale":"3 - Recruit"
+	},
+	"27461":{
+	"CategoryGroup":"OPS - Operations",
+	"Category":"PTL - Patrol",
+	"ActivityType":"Park Patrol",
+	"ActivityStatus":"In-Progress Activity",
+	"Unit":"108",
+	"Fleet":"123DE",
+	"Location":"103 david St",
+	"Subject":"Test",
+	"PFCode":"P015",
+	"PFActivity":"W - Worked",
+	"Status":"OND - On Duty",
+	"PFUnit":"101",
+	"HoursWorked":"12",
+	"Credits":"",
+	"HoursPaid":"12",
+	"PayScale":"3 - Recruit"
+	},
+	"170632":{
+	"CategoryGroup":"PI - Police",
+	"Category":"M - Maintenance",
+	"ActivityType":"Maintenance",
+	"ActivityStatus":"Request/To-Do",
+	"Unit":"108",
+	"Fleet":"123DE",
+	"Location":"121 darrow Ave",
+	"Subject":"Maintenance Activity",
+	"PFCode":"P015",
+	"PFActivity":"W - Worked",
+	"Status":"OND - On Duty",
+	"PFUnit":"101",
+	"HoursWorked":"12",
+	"Credits":"12",
+	"HoursPaid":"12",
+	"PayScale":"3 - Recruit",
+	"Template":"Activity Entry 30",
+	"RefType":"CustID",
+	"RefNo":"12",
+	"Priority":"Medium",
+	"Custom":"Demo",
+	"AssignedPF":"P016",
+	"Comments":"Test",
+	"Duration":"Minute(s)",
+	"UserName":"P015",
+	"Password":"Pnx@2016",
+	"Database":"AutomationPoliceMJ",
+	"ScheduledPFCode":"A108"
+	},
+	"149462":{
+	"RefNo":"23-000001",
+	"PFCode":"AUTO"
+
+	},
+	"166956":{
+	"Priority":"Critical"
+	},
+	"166959":{
+	"Fleet":"123AB"
+	},
+	"Scr":{
+	"Follow-UpBy":"Today",
+	"Subject":"Activity Functional"
+	},
+	"166961":{
+	"ActivityStatus":"Completed Activity"
+	},
+	"166962":{
+	"Division":"Administration"
+	},
+	"166986":{
+	"Section":"CM Investigator"
+	},
+	"166990":{
+	"Team":"Off-group 2"
+	},
+	"167011":{
+	"PFNo":"Auto",
+	"Description":"Team, Automation"
+	},
+	
+	"167032":{
+	"PFActivity":"W - Worked"
+	},
+	"16370":{
+	"TextType":"Names Comments",
+	"Juris":"  --  ",
+	"Text":"testAutinm"
+	},
+
+	"167572":{
+	"PayScale":"1 - Pay Scale 1"
+},
+	"9109":{
+	"UserName":"Heandry",
+	"Password":"Auto@2020",
+	"Database":"AutomationPoliceMJ",
+	"PFNo":"1589",
+	"PFCode":"1589",
+	"RoleAssignment":"Supervisor",
+	"EnteredBy":"Heandry, Nicolos",
+	"DateFrom":"12/19/2023",
+	"DateTo":"12/20/2023",
+	"FormName":"Demo",
+	"FormRefNo":"107"
+	},
+	"166960":{
+	"Follow-UpBy":"Today",
+	"Subject":"Activity Functional"
+	},
+	"20241":{
+	"DistributionListName":"Automation Team",
+	"PFNo":"AUTPOL"
+	},
+	"21771":{
+	"Password":"Pnx@2016",
+	"PFCode":"AUTO",
+	"StatisticsTab1":"Arrest Count Report",
+	"StatisticsTab2":"Average Call Take Time by PF",
+	"StatisticsTab3":"Average Citizen Response Time for P1",
+	"StatisticsTab4":"Average Citizen Response Time for P2",
+	"StatisticsTab5":"Average Response Time Report",
+	"StatisticsTab6":"Incident Counts YTD",
+	"StatisticsTab7":"Incident Report Count",
+	"StatisticsTab8":"Unit Down"
+	},
+	
+	"20773":{
+	"PFCode":"AUTO",
+	"CaseNo":"24-000002",
+	"SelectForm":"TestingAuto (Multiple)",
+	"Name":"TEST",
+	"FormName":"Sample QA Form image with clear_001",
+	"Action1":"Send for Approval",
+	"Action2":"Approve"
+    },
+  
+    "29400":{
+"PFCode":"AUTPOL",
+"Category":"Scan - Document"
+    },
+    
+	"29364": {
+		"Subject": "Sub1",
+		"StartDate": "05/20/2024",
+		"StartTime": "0000",
+		"EndDate": "05/21/2024",
+		"EndTime": "1200",
+		"Subject0": "Sub1",
+		"Subject1": "test",
+		"Subject2": "Test2"
+	},
+    "32676":{
+    "Custom1":"Auto",
+    "Custom2":"Automation",
+    "Name":"Jerry Jack"
+},
+
+   "9151":{
+    "TemplateFor":"Activity Entry Template",
+    "ActivityStatus":"Request/To-Do",
+    "ActivityType":"Back in Service",
+    "TextName":"Activity Entry Template",
+    "Template":"Activity Entry Template",
+    "Text":"Test Automation",
+    "Template1":"Activity Entry Template existing",
+    "Text1":"Test Activity Entry Template existing",
+    "TextName":"Activity Entry Template"
+    },
+
+    "35419":{
+	"Module":"Fire Station",
+	"StationCode":"Auto",
+	"StationName":"AutomationAUT"
+	},
+  
+  "35471":{
+  "ToBePrinted":"30"
+  },
+  "44136": {
+	"MessageID": "1001",
+	"Subject": "Testing purpose for Automation TC ID - 44136",
+	"Division":"Administration"
+   },
+   "47793":{
+   "Password":"Pnx@2016"
+},
+"47793A":{
+   "Password":"Pnx@2016"
+},
+"47793B":{
+   "Password":"Pnx@2016"
+},
+ "50482":{
+  "Status":"Rejected"
+  },
+  "50777":{
+"CalendarResource":"8"
+    }, 
+  "44117":{
+	"FeatureName1":"Phoenix Alert (SWAT) App",
+	"FeatureName2":"Phoenix AI MugMatch",
+	"FeatureName3":"Purge",
+	"FeatureName4":"Microsoft Entra ID login support",
+	"IconSrc1":"EntraID.svg",
+	"FeatureDescription1":"The Phoenix Alert (SWAT) App is a rapid response tool for SWAT teams, offering real-time communication, GPS tracking, and live data to enhance coordination and situational awareness during critical operations.",
+	"FeatureDescription2":"Phoenix AI Mugmatch is an advanced facial recognition platform that uses AI to quickly match suspect mugshots against the Phoenix database, enhancing law enforcement's ability to identify individuals in real-time during investigations or field operations.",
+	"FeatureDescription3":"The Purge feature supports the selective removal of specific data types, including Calls, Cases, Bookings, Citations, Reports, Crash data, Attachments, NCIC records, and AVL information, to ensure compliance with retention policies."
+  }
+ ,
+  "53029":{
+	"Password": "Pnx@2016"
+ },
+  "53029A":{
+    "Password":"Pnx@2016"
+ },
+ "55225":{
+	"ActivityFromDate":"01/11/2024",
+	"ActivityFromTime":"0000",
+	"TimeRangeFrom1":"1800",
+	"TimeRangeFrom2":"0600",
+	"TimeRangeTo1":"0600",
+	"TimeRangeTo2":"1800",
+	"Subject1":"LASOP PD",
+	"Subject2":"LASOP FD"
+ },
+ "55225A":{
+	"ActivityFromDate":"01/11/2024",
+	"ActivityFromTime":"0000",
+	"TimeRangeFrom1":"1800",
+	"TimeRangeFrom2":"0600",
+	"TimeRangeTo1":"0600",
+	"TimeRangeTo2":"1800",
+	"Subject1":"LASOP PD",
+	"Subject2":"LASOP FD"
+ },
+ "55385": {
+	"FeatureName1": "Phoenix Drawing Tool",
+	"FeatureDescription1": "Effortlessly create accurate crash and crime scene diagrams with full integration into Phoenix RMS.",
+	"IconSrc1": "Phoenix_DrawingTool.png",
+	"FeatureName2": "Phoenix Alert (SWAT) App",
+	"FeatureName3": "Purge"
+},
+"55546": {
+	"FeatureName1": "Phoenix Drawing Tool",
+	"FeatureName2": "Phoenix AI MugMatch",
+	"FeatureName3": "Phoenix AI Transcription",
+	"FeatureName4": "FTO (Field Training Officer module)",
+	"FeatureName5": "CAD QA/QI",
+	"FeatureName6": "Property Module Enhancements",
+	"FeatureName7": "Special Needs Registry",
+	"FeatureName8": "Power BI Dashboards",
+	"FeatureName9": "Microsoft Entra ID login support",
+	"FeatureDescription1": "Effortlessly create accurate crash and crime scene diagrams with full integration into Phoenix RMS.",
+	"FeatureDescription2": "Phoenix AI Mugmatch is an advanced facial recognition platform that uses AI to quickly match suspect mugshots against the Phoenix database, enhancing law enforcement's ability to identify individuals in real-time during investigations or field operations.",
+	"FeatureDescription3": "Utilize Phoenix to transcribe, translate, and summarize audio and video files - all seamlessly integrated within RMS.",
+	"FeatureDescription4": "Track Daily Observation Reports (DORs), document remedial training hours, track absence reports, compile weekly, end-of-phase, and end-of-training reports, and consolidate all documentation for submission to HR.",
+	"FeatureDescription5": "Conduct QA evaluations for Call Takers and Dispatchers handling Law, Fire, and EMS calls to enhance CAD system quality and efficiency.",
+	"FeatureDescription6": "Several key enhancements added to the Property module. These include improved auditing with barcode bulk uploads, item count displays under each location, enhanced property search options, and a streamlined pull request process.",
+	"FeatureDescription7": "Citizens with special needs can register their needs, emergency contact details, and a photograph. Name flags are generated in RMS, and that information is shared with CAD and WDA.",
+	"FeatureDescription8": "Several new BI Dashboards are available for both Power BI Pro and Enterprise.",
+	"FeatureDescription9": "Single sign-on, self service password reset, multifactor authentication.",
+	"CopyRights1": "© 2025 ProPhoenix Corporation, All Rights Reserved",
+	"CopyRights2": "Rls Version : 2024 R2",
+	"WhatsNewHeaderText1": "Welcome to",
+	"WhatsNewHeaderText2": "Phoenix 2024 R2",
+	"RMSTitle": "LAW RMS",
+	"RMSRlsVersion": "2024 R2",
+	"WhatsNewContent1": "What's New?",
+	"WhatsNewContent2": "Click on a feature to learn more"
+},
+"55546A": {
+	"CopyRights1": "© 2025 ProPhoenix Corporation, All Rights Reserved",
+	"CopyRights2": "Rls Version : 2024 R2",
+	"RMSTitle": "IA RMS",
+	"RMSRlsVersion": "2024 R2"
+},
+"58360": {
+	"Module": "Personnel"
+},
+"58360A": {
+	"Module": "Personnel"
+},
+"58360B": {
+	"Module": "Personnel"
+},
+"55885":{
+	"HeaderName1":"JurisID",
+	"HeaderName2":"Date",
+	"HeaderName3":"Sender",
+	"HeaderName4":"Receiver",
+	"HeaderName5":"Message",
+	"HeaderName6":"UnitRef",
+	"HeaderName7":"",
+	"Unit":"087",
+	"CodeValue":"087",
+	"ToFromPF":"AUTO",
+	"Sender":"Prophoenix,Automation-AUTO",
+	"Receiver":"Prophoenix,Automation-AUTO",
+	"Message":"Unit Search Functionality Verification",
+	"Message1":"Unit Search Functionality Verification",
+	"Message2":"Audit Entry - Show Filter & Display Filter",
+	"FromDate":"02/07/2002"
+	
+},
+
+"60326": {
+	"CategoryGroup": "PI - Police",
+	"Category": "M - Maintenance",
+	"Subject": "ActivityEntryWhileClickRefreshButtonAttachmentTabColorChangedFromBlueToBlackCRM187054_60326",
+	"Link": "https://ch175.prophoenix.com/law",
+	"EnterPartNo": "Engine",
+	"Description": "Service",
+	"Qty": "1",
+	"Cost": "100",
+	"InvOrPartNo": "Engine",
+	"TabName1": "Attachment",
+	"TabName2": "Maintenance"
+},
+ "60285":{
+    "UserName": "P001",
+	"Password": "Pnx@2016"
+ },
+ "60281":{
+    "UserName": "P001",
+	"Password": "Pnx@2016"
+ },
+ "60235":{
+	"BookName":"Detail",
+	"Name":"William Josh"
+ },
+ "60235A":{
+	"BookName":"Detail",
+	"Name":"William Josh"
+ },
+ "60237":{
+	"UserName":"Admin",
+	"Password":"Pleasant14"
+ },
+  "60237A":{
+	"UserName":"Admin",
+	"Password":"Pleasant14"
+ },
+ "55896":{
+	"PF":"P002",
+	"To":"Supervisor, Officer",
+	"Division":"Administration",
+	"Message":"Verify that functionality of the Message Entry Screen"
+ },
+"60345": {
+	"ActivityType": "33 - Roll Call",
+	"PFNo": "001",
+	"EnteredBy":"Test, Automation",
+	"PFActivity": "W - Worked",
+	"HoursWorkedOperator": "=",
+	"HoursValue": "10:00",
+	"Credit": "=",
+	"CreditValue": "2",
+	"Type": "Full Time Paid Employee",
+	"AssignedShift": "A Shift"
+},
+
+"55969":{
+"Division":"Administration"
+},
+"64254":{
+"SelfProfileText":"Text",
+"TextType":"Names Comments"
+},
+"62502":{
+"CategoryGroup":"FLEET - Fleet",
+"Category":"VEHCK - Vehicle Inspection",
+"ActivityType":"Vehicle Check Okay",
+"Subject":"Points Alpha Numeric Check",
+"PFCode":"Auto",
+"Points":"FG23",
+"Credit":"=",
+"CreditValue":"FG23"
+},
+"63652":{
+"Category":"5 - General Journal",
+"ActivityType":"Maintenance",
+"ActivityStatus":"Completed Activity",
+"Subject":"Phoenix Automation",
+"NameID1":"A-0000000055",
+"Activity1":"Caller",
+"Name1":"Bentley, Landon",
+"NameID2":"A-0000000056",
+"Activity2":"Injured",
+"Name2":"Asher, Chase"
+},
+"62926":{
+"Juris":"PX - ProPhoenix",
+"CategoryGroup":"OPS - Operations",
+"Category":"PTL - Patrol",
+"ActivityType":"Residential Patrol",
+"ActivityStatusOption1":"Scheduled Item",
+"ActivityStatusOption2":"Request/To-Do",
+"ActivityStatusOption3":"In-Progress Activity",
+"ActivityStatusOption4":"Completed Activity",
+"ActivityStatusOption5":"Cancelled",
+"ActivityStatus":"Completed Activity",
+"Unit":"087",
+"Fleet":"387",
+"Location":"Alsip",
+"Subject":"Test Automation",
+"PFCode":"2023",
+"PFActivity":"W - Worked",
+"PFOptions1":"W - Worked",
+"PFOptions2":"S - Staged",
+"PFOptions3":"R - Responded",
+"HoursWorked":"1",
+"HoursPaid":"1",
+"AutoPFName":"Prophoenix, Automation-AUTO",
+"Template":"Activity Entry Template existing",
+"Comments":"Test Automation",
+"NameID":"A-0000000657",
+"Activity":"Victim",
+"Text1":"Test Activity Entry Template existing",
+"Name1":"Declan, Finn",
+"Duration":"Minute(s)"
+},
+"66042":{
+"LinkName1":"Test",
+"LinkName2":"Test1",
+"URL":"https://ch175.prophoenix.com/Law/Names/frmName.aspx?hdnMode=ADD&KPIInt=FALSE&IsWindow=1&RepositoryID=2210&ModuleName=Names&ScreenName=Name%20Entry&ScrWidth=1430&ScrHeight=720&ScreenHeight=1080&ScreenW",
+"FilePath":"\\10.103.1.175",
+"LinkName3":"Test2",
+"URL1":"https://cumberland.infoshare.cloud/Cumberland_Live/AspSoft/ExternalAuthen/ExternalLogin.aspx"
+},
+"62506":{
+"Name":"Test Automation",
+"RichText":"Test Automation",
+"Custom1":"TestCustom",
+"Log":"TestLog",
+"PhoneType":"Work",
+"Position":"23",
+"LastName":"Test",
+"FirstName":"Automation"
+},
+"62506A":{
+"Name":"Test Automation",
+"RichText":"Test Automation",
+"Custom1":"TestCustom",
+"Log":"TestLog",
+"PhoneType":"Work",
+"Position":"23",
+"LastName":"Test",
+"FirstName":"Automation"
+},
+"62533":{
+"ActivityType":"BRIEF - Roll Call Briefing",
+"Cell":"12",
+"Subject":"Test Subject"
+},
+
+
+
+"68398":{
+"ParamValue0":"True",
+"Subject0":"CRM#151789",
+"Details0":"102 Systemparameter",
+"Subject1":"Parameter",
+"ParamValue1":"False",
+"Subject2":"Parameter",
+"Subject":"Parameter",
+"ActivityNo":"25-000008",
+"Subject3":"CRM#151789"
+
+},
+
+"69491":{
+"SearchContent0":"CAD",
+"videoName":"Rapid SOS Integration with CAD",
+"SearchContent1":"Expungement",
+"WebinarName":"Expungements",
+"SearchContent2":"CAD",
+"WebinarColumnName":"Webinar Name"
+
+},
+
+"69539":{
+
+"ActivityType":"15 - Visitor Log",
+"Category":"2 - Station Journal",
+"Category0":"2 - Station Journal",
+"ActivityType0":"15 - Visitor Log"
+
+},
+
+"60526":{
+
+"PhoneBook":"Detail",
+"Name":"kaltelon will",
+"ReportName":"Contact Details"
+
+
+},
+  "60601A": {
+    "PF": "FRMS",
+    "Message": "Test",
+    "Unit":"ASF007",
+    "To":"Raja, Sadaraj"
+  },
+  
+  "69694":{
+  
+  "ParamValue":"White Board Only",
+  "ParamValue1":"Both",
+  "WhiteBoardOnlyScreenHeight":"852px",
+  "WhiteBoardAndLinkScreen":"396px"
+  
+  },
+	
+	
+	
+  "69694A":{
+  
+  "ParamValue":"White Board Only",
+  "ParamValue1":"Both",
+  "WhiteBoardOnlyScreenHeight":"852px",
+  "WhiteBoardAndLinkScreen":"396px"
+  
+  },
+  
+  "69858":{
+  "ParamValue1":"False",
+  "ParamValue2":"True",
+  "CategoryGroup":"OPS - Operations",
+  "Category":"PTL - Patrol",
+  "ActivityType":"Residential Patrol",
+  "ActivityStatus":"Completed Activity",
+  "Subject":"69858",
+  "Subject0":"69858"
+ 
+  
+  },
+  "70549":{
+  "ActivityNo":"25-000009",
+  "Subject":"VerifyTheDuplicateTemplateDropDownFucntioanlity",
+  "TextName":"Duplicate",
+  "Description":"Duplicate",
+  "Template":"Duplicate"
+  
+  },
+ 
+ "71860":{
+ "CategoryGroup":"E - Event For CAD",
+ "Category":"OUT - Outdoor Gathering",
+ "ActivityType":"Annual OutDoor Gathering",
+ "Subject":"Autoamtion",
+ "TabName0":"Public Education"
+
+ },
+ "72668":{
+ "KeyWords":"Defect Document 195541",
+ "Doc":"Fire",
+ "DocumentName":"Defect Document 195541"
+
+ },
+ "72681":{
+ "K90":"Robby / Kevin, Lewis",
+ "Cost":"12345678",
+ "Category":"K9 Vet Expenses",
+ "Category0":"K9 Vet Expenses",
+ "purposeLength":"100"
+ },
+ 
+ "72703":{
+ "LinkName1":"Personnel Search",
+ "ScreenID":"1211",
+ "PFCode":"60328",
+ "PFName":"Aadam, Aedil",
+ "LinkName":"Personnel Search"
+ },
+ 
+ "72719":{
+ 
+"NameType":"--",
+"LastName":"C",
+"columnValue":"Juris",
+"Text1":";C",
+"ColumnName0":"Juris",
+ "UserName0":"Deborah",
+ "Password0":"Pnx@2016",
+ "Database":"AutomationPoliceMJ"
+ },
+ 
+ "73257":{
+ "LinkName0":"AbcXYZabc123!@#$%^&*()_+=-{}[]|:;'<>,.?/",
+ "HeaderColumnValue0":"Link Name",
+ "HeaderColumnValue1":"Screen or Link",
+ "HeaderColumnValue2":"View Order",
+ "linkNameLength":"50",
+ "LinkName1":"Schedule",
+ "ScreenID":"2410",
+ "ScreenName":"Call Entry",
+ "LinkName2":"URL",
+ "URL3":"https://tfs.prophoenix.com/Development/_search?text=63918&type=workitem&pageSize=25",
+ "URL1":"AbcXYZabc123!@#$%^&*()_+=-{}[]|:;'<>,.?/",
+ "URLLength":"200",
+ "LinkName3":"URL",
+ "LinkName4":"FilePath",
+ "FilePath2":"\\\\\\\\10.103.1.175\\Phoenix WDA V2\\Resources\\CommandCodeXML\\Finish.xml",
+ "FilePath1":"AbcXYZabc123!@#$%^&*()_+=-{}[]|:;'<>,.?/",
+ "FilePAthLength":"200",
+ "FilePath4":"\\\\\\\\10.103.1.175\\Phoenix WDA V2\\Resources\\CommandCodeXML\\Finish.xml"
+ 
+ 
+ 
+ },
+ "74249":{
+ 
+ "LinkName":"Case Search Screen",
+ "LinkName0":"Case Search Screen",
+ "ScreenID":"2411",
+ "ScreenIdescription":"Case Search",
+ "URL":"http://www.google.com",
+ "URL1":"http://www.google.com",
+ "LinkName1":"Automation Testing",
+ "FilePath":"\\\\\\\\10.103.1.175\\Phoenix WDA V2\\Resources\\CommandCodeXML\\Finish.xml",
+ "FilePath2":"\\\\\\\\10.103.1.175\\Phoenix WDA V2\\Resources\\CommandCodeXML\\Finish.xml",
+ "LinkName2":"File Path",
+ "ViewOrder0":"0"
+
+ },
+ 
+ "74526":{
+ "MyRemainderValues0":"Offender Registration",
+ "MyRemainderValues1":"Offender Supervision",
+ "MyRemainderValues2":"Offender Reminders"
+ 
+ 
+ },
+
+  "74295":{
+ "CategoryGroup":"OPS - Operations",
+ "Category":"Patrol",
+ "ActivityType":"Residential Patrol",
+ "ActivityStatus":"Completed Activity",
+ "Subject":"ActivityEntryUnderPFTabWhileSelectingThe",
+ "PFCode":"60328",
+ "PFActivity":"W - Worked",
+ "Status":"OND - On Duty",
+ "HoursWorked":"2:00",
+ "Points":"2",
+ "PFUnit":"087",
+ "HoursPaid":"3:00",
+ "PayScale":"1 - Pay Scale 1",
+ "PFCodeDescription":"Aadam, Aedil",
+ "PFActivity0":"Worked",
+ "PFActivity1":"W - Worked",
+  "Status1":"OND - On Duty",
+ "Status0":"On Duty",
+ "Unit":"087",
+ "Credits":"2",
+ "PayScale0":"Pay Scale 1",
+  "PayScale1":"1 - Pay Scale 1",
+ "PFCode0":"60328",
+ "Hours0":"2:00",
+ "HoursPaid0":"3:00",
+ "Unit0":"087"
+	},
+	"75098": {
+		"Juris1": "PX - ProPhoenix",
+		"Juris2": "BC - Brown County Police Department",
+		"Juris3": "GCP - Gloucester County Police Dept",
+		"Juris4": "TP - Tiffin Police Department",
+		"Juris5": "SC - Seneca County Police Dept",
+		"Juris6": "BP - Bloomville Police Dept"
+},
+
+"78351A": {
+	"ActivityNo": "26-000005",
+	"Subject": "For Test Case - 78351A",
+	"Comments": "To verify TC - 78351A",
+	"ActivityInGrid": "To verify TC - 78351A"
+},
+ 
+ "77687":{
+ "ActivityNo":"25-000010",
+ "Subject":"08,Fight",
+ "CustomName0":"DIV",
+ "ColumnName0":"DIV",
+ "CustomName1":"SEC",
+ "ColumnName1":"SEC",
+ "CustomName2":"CustomTeam",
+ "ColumnName2":"CustomTeam",
+ "CustomName3":"CustomSquad",
+ "ColumnName3":"CustomSquad",
+ "DivisionCustomLabel":"DIV",
+ "SectionCustomLabel":"SEC",
+ "TeamCustomLabel":"CustomTeam",
+ "SquadCustomLabel":"CustomSquad"
+
+ },
+ 
+ "77794":{
+ "ReportName":"Hours / Credits Summary by Activity Type",
+ "To":"devsmtp@prophoenix.com",
+ "Subject":"devsmtp@prophoenix.com",
+ "Message":"devsmtp@prophoenix.com"
+  },
+
+ "77718":{
+ 			"ItemType":"NERIS"
+ 		}
+  
+	}
+	
+	

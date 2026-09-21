@@ -1,0 +1,564 @@
+{
+	"107576": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"State": "WI",
+		"WarrantLastName": "Vinton",
+		"WarrantFirstName": "Raja",
+		"WarrantNo": "23-000001",
+		"PlateNumber": "111",
+		"LastName": "Vinton",
+		"FirstName": "Raja"
+	},
+	"107577": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"ProtectionOrder": "01 - Restrained from Person and Child",
+		"PetitionerNameID": "A-0000000041"
+	},
+	"107580": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"charge": "221.0636(1)(b)",
+		"Name": "Gonzales, Washington"
+	},
+	"107580R2": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"charge": "221.0636(1)(b)",
+		"Name": "Gonzales, Washington"
+	},
+	"107582": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"PFCode":"P001"
+	},
+	"107583": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gibbon",
+		"WarrantFirstName": "Creek",
+		"WarrantNo": "24-000087"
+	},
+	"107583R2": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005"
+	},
+	"107584": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"ByPF": "Patrol,Officer",
+		"PFCode":"P001"
+	},
+	"107584R2": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"ByPF": "Patrol,Officer"
+	},
+	"107587": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005"
+	},
+	"107587R2": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005"
+	},
+	"107588": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Gonzales",
+		"WarrantFirstName": "Washington",
+		"WarrantNo": "18-000005",
+		"ByPF": "Patrol,Officer"
+	},
+	"107592": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantNo": "18-000001",
+		"PFCode": "P001"
+	},
+	"107617": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Levi",
+		"WarrantFirstName": "L",
+		"WarrantNo": "18-000007",
+		"WarrantType":"A"
+	},
+	"107617R2": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Levi",
+		"WarrantFirstName": "L",
+		"WarrantNo": "18-000007"
+	},
+	
+	"107745": {
+		"UserName": "P001",
+		"Password": "Pnx@2016",
+		"WarrantLastName": "Arun",
+		"WarrantFirstName": "Kumar",
+		"LastName": "Arun",
+		"FirstName": "Kumar"
+	},
+	"108044": {
+		"UserName": "Warrant",
+		"Password": "Pnx@2016"
+	},
+	"243234": {
+		"Expiration": "Mandatory",
+		"DefaultDispositon": "Served",
+		"WarrantType": "C",
+		"Description": "Autotesting"
+	},
+	"245188": {
+		"Status": "Active/Open",
+		"WarNo": "20-000002",
+		"UpdateStatus": "Other",
+		"FirstName":"PATRICK",
+		"LastName":"Lawrence",
+		"DLExpDate1":"09/09/2025",
+		"SSNo":"343-24-3243",
+		"DLExpDate2":"07/09/2025",
+		"SSNo1":"435-43-5435"
+	},
+	"257054": {
+		"WarrantNo": "22-000011",
+		"NameShownInWarrant": "Pulaski, Victor",
+		"AddressShownInWarrant": "1339 Magnolia St,Richmond,VA,23222",
+		"NameID": "A-0000000324",
+		"Type": "Anticipatory Bail",
+		"Status": "Active/Open",
+		"WantCharge": "110.06(3)(b)",
+		"ByPF": "Prophoenix,Automation"
+	},
+		"257057": {
+		"Warrant": "20-00003",
+		"NameID": "A-0000000326",
+		"WarrantName": "Willow, Juniper",
+		"WarrantAddress": "1399 Juniper St,Richmond,VA,23222",
+		"NameShownInWarrant": "Willow, Juniper",
+		"AddressShownInWarrant": "1399 Juniper St,Richmond,VA,23222",
+		"Details": "W/M, 5/7/2000"
+	},
+	"260152": {
+		"WarNo": "20-000111",
+		"UserName": "Auto",
+		"EmpPF": "Auto",
+		"InvalidPassword": "Invalid",
+		"Password": "Pnx@2016",
+		"WarrantNo": "20-000111"
+	},
+	"278655": {
+		"Authority": "1",
+		"AuthorityDescription": "Test Automation Team",
+		"ORINumber": "15241478",
+		"AuthorityTitle": "Test Automation Team",
+		"PaperType": "1",
+		"CodeValue": "1",
+		"Description": "1",
+		"PaperTypeDescription": "1",
+		"Description1":"Test Automation Team"
+	},
+	"278224": {
+		"NameID": "A-0000000442",
+		"WarrantNo": "21-001253"
+	},
+	"261092": {
+		"NameID": "A-0000000363",
+		"NameID1": "A-0000000362",
+		"NameID2": "A-0000000364",
+		"NameID3": "A-0000000365",
+		"LastName": "Tacony",
+		"FirstName": "Mascher",
+		"WarrantNo": "20-000666",
+		"LastName1": "Creek"
+	},
+	"289839": {
+		"TextType": "Warrant Narrative"
+	},
+	"292613": {
+		"WarrantType": "A",
+		"WarrantType1":"A",
+		"WarrantType2":"C",
+		"Description1": "Anticipatory Bail",
+		"Description2":"Bail Cancelled"
+	},
+	"289953": {
+		"NameID": "J-0000000060",
+		"WarrantNo": "24-000012",
+		"Warrant": "24-000012",
+		"WantCharge":"420"
+	},
+	"296442": {
+		"WarrantNo": "19-000005",
+		"WarNo": "19-000005",
+		"Address": "55 cove Rd"
+	},
+	"WarrantEntry": {
+		"WarrantNo": "22-000016",
+		"NameID": "A-0000000178",
+		"Type": "Anticipatory Bail",
+		"Status": "Active/Open",
+		"WantCharge": "110.06(3)(d)"
+	},
+	"WarrantTypeEntry": {
+		"WarrantType": "N",
+		"Description": "Automation Test"
+	},
+	"11630": {
+		"WarrantNo": "18-000010"
+	},
+	"11486A": {
+		"UserName": "automation",
+		"Password": "Pnx@2023",
+		"Database": "AutomationNJ",
+		"WarrantNo": "18-000014",
+		"TowNo": "18-000003",
+		"TextName": "TestTemplate",
+		"Template1": "Default Template",
+		"Template2": "TestTemplate",
+		"Text": "Test Automation"
+	},
+	"12995": {
+		"Juris": "BC - Brown County Police Department",
+		"LastName": "Jones",
+		"FirstName": "Robert",
+		"Address": "149 N 11th Ave;PX",
+		"WarrantLastName": "Jones",
+		"WarrantFirstName": "Robert",
+		"WarrantNo": "23-000010",
+		"Type": "Automation",
+		"Status": "Active/Open",
+		"WantCharge": "140",
+		"NameShownInWarrant": "Jones, Robert",
+		"AddressShownInWarrant": "149 N 11th Ave;PX,Hanford,CA,93230"
+	},
+	"12993": {
+		"Juris": "  --  ",
+		"Juris1": "BC - Brown County Police Department",
+		"WarrantLastName": "James",
+		"WarrantFirstName": "Barker",
+		"Juris2": "PX - ProPhoenix"
+	},
+"12908": {
+		"WarrantNo": "23-000002",
+		"Warrant":"23-000007",
+		"NameID": "A-0000000058",
+		"ProtectionOrder": "01 - Restrained from Person and Child",
+		"TypeOfOrder": "Child Abuse Injunction {ss. 813.122(5)(a)}",
+		"Charge": "813.122",
+		"Description": "NU-Child Abuse Injunction",
+		"WantCharge": "100",
+		"Name": "Sam, Vinton"
+	},
+	"9137":{
+	"UserName":"Automation",
+	"Password":"Pnx@2023",
+	"Database":"AutomationNJ",
+	"WarrantNo":"23-000001",
+	"Notes":"&Test",
+	"Remarks":"&Test",
+	"WarNo":"23-000001"
+	},
+	"20026":{
+	"UserName":"Automation",
+	"Password":"Pnx@2023",
+	"Database":"AutomationNJ",
+	"Disposition":"Withdrawn",
+	"PFCode":"Auto",
+	"WarrantNo":"24-000005"
+	},
+	"20229":{
+	"Warrant": "23-000009",
+	"NameID":"A-0000000003",
+	"WantCharge":"46",
+	"TypeOfOrder":"Child Abuse Injunction {ss. 813.122(5)(a)}",
+	"Charge": "813.122",
+	"Type":"Anticipatory Bail",
+	"Charge1":"100.02(1) - FU-Dump Produce"
+	
+	},
+	"44307":{
+	"PFCode": "P001",
+	"WarrantNo": "24-000020",
+	"WarrantNo1": "24-000088",
+	"CourtNo": "15",
+	"CourtNo1": "2",
+	"BlackColor":"rgba(0, 0, 0, 1)",
+	"RedColor":"rgba(153, 0, 0, 1)"
+	},
+	
+	"44133":{
+	"NameID":"A-0000000003",
+	"ProtectionOrder": "01 - Restrained from Person and Child",
+	"WarrantNo": "24-000010"
+	},
+	"46248":{
+	"WarrantNo":"24-000061",
+	"NameID":"A-0000000527",
+	"WantCharge":"99"
+	
+	
+	},
+	"51970":{
+		"Warrant":"25-002000",
+		"NameID":"A-0000000574"
+	},
+	
+	"60167":{
+		"Disposition":"Served",
+		"PFCode":"AUTPOL",
+		"WarrantNo":"25-000012",
+		"Password":"Pnx@2016"
+	},
+	
+	"58374":{
+		"WarrantType":"I",
+		"Description":"WantH",
+		"DefaultDisposition":"Served",
+		"Expiration":"Yes"
+	},
+	
+	"58384":{
+		"WarrantNo":"25-000007",
+		"NameID":"A-0000000041",
+		"Type":"Contempt",
+		"Status":"Returned",
+		"WantCharge":"Charge-6"	
+	},
+	
+	"58669":{
+		"WarrantNo":"25-000009",
+		"TextData":"Typing...",
+		"UpdateStatus":"Detainer",
+		"UserName":"AUTPOL",
+		"Disposition":"Expired",
+		"Password":"Pnx@2016"
+	},
+	
+	"58381":{
+		"FromDate":"06/01/2021",
+		"WarrantNo":"21-001252",
+		"WarrantNo1":"25-000010",
+		"Type":"Contempt",
+		"Status":"Other",
+		"AuthState":"AK",
+		"AuthCode":"193256",
+		"TypeOfOrder":"Domestic Abuse Injunction {ss. 813.12(4)(a)}"		
+	},
+	
+	"BatchClearanceEntry":{
+		"Disposition":"Served By Arrest",
+		"PFCode":"AUTO",
+		"WarrantNo":"",
+		"Password":"Pnx@2020"
+	},
+
+	"62498":{
+	"WarrantNo":"20-000666"
+	},
+	"62507":{
+		"WarrantType": "I",
+		"Description": "WantH",
+		"DefaultDisposition": "Served",
+		"Expiration": "Yes",
+		"WarrantType1": "I"
+	},
+	"63610":{
+	"WarrantType0":"C",
+	"Description1":"AutomationTest1",
+	"expirationOptions1":"Mandatory",
+	"expirationOptions2":"No",
+	"expirationOptions3":"Yes",
+	"DefaultDisposition":"Bail Posted",
+	"WarrantType1":"D",
+	"WarrantType2":"E",
+	"Expiration1":"Mandatory",
+	"Expiration2":"No",
+	"Description2":"AutomationTest2",
+	"WarrantType3":"F",
+	"Description3":"AutomationTest3",
+	"Expiration3":"Yes",
+	"Warrant":"25-000002",
+	"NameID":"A-0000000033",
+	"Type1":"AutomationTest1",
+	"Type2":"AutomationTest2",
+	"Type3":"AutomationTest3",
+	"Disposition":"Bail Posted"
+  },
+  "63271":{
+	"LastName":"Sanjay",
+	"FirstName":"Jason",
+	"Address":"299 W Ashdale St",
+	"Warrant":"25-000056",
+	"Type":"Anticipatory Bail",
+	"Status":"Other",
+	"WantCharge":"340",
+	"Name":"Sanjay, Jason",
+	"Juris":"BC - Brown County Police Department",
+	"JurisInGrid":"BC"
+		},
+		
+	"63271A":{
+	"LastName":"Hapang",
+	"FirstName":"Lolyd",
+	"Address":"299 W Ashdale St",
+	"Warrant":"25-000057",
+	"Type":"Anticipatory Bail",
+	"Status":"Other",
+	"WantCharge":"341",
+	"Name":"Hapang, Lolyd",
+	"Juris":"BC - Brown County Police Department",
+	"JurisInGrid":"BC"
+  	},
+  	"62509":{
+  	"WarrantNo":"24-000001",
+  	"WarNo":"24-000001",
+  	"Disposition":"Bail Posted",
+  	"ByPfCode":"AUTO",
+  	"ByPfDescription":"Prophoenix, Automation",
+  	"ByORIState":"WI",
+  	"ByORICode":"0010100",
+  	"Password":"Pnx@2016"
+  	},
+  	"72106":{
+  	"NameID":"A-0000000757",
+  	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"charge":"100.03(8)(e)",
+  	"Charge":"100.03(8)(e)",
+  	"Description":"NU-Contractor Assess Line Item Deduction"
+  	},
+  	"74678":{
+  	"ParameterID":"1011",
+  	"NextWarrantNo1":"6",
+  	"NameID":"A-0000000823",
+  	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"WarrantNo1":"000006"
+  	},
+	"74688": {
+	"NameID": "A-0000000816",
+	"Type": "Anticipatory Bail",
+	"Status": "Active/Open",
+	"WantCharge": "200",
+	"MandatoryLabelText1":"Want/Warrant#",
+	"WarrantNo":"25-000004"
+	},
+	"74688A": {
+	"NameID": "A-0000000819",
+	"Type": "Anticipatory Bail",
+	"Status": "Active/Open",
+	"WantCharge": "200",
+	"NonMandatoryLabelText1":"Want/Warrant#",
+	"color1":"rgba(0, 0, 153, 1)"
+	},
+	"74712":{
+	"WarrantType1":"A - Anticipatory Bail",
+	"Type1":"Anticipatory Bail",
+	"WarrantType2":"B - Contempt",
+	"Type2":"Contempt",
+	"WarrantType3":"C - Bail Cancelled",
+	"Type3":"Bail Cancelled",
+	"NameID": "A-0000000815",
+	"Status": "Active/Open",
+	"WantCharge": "200"
+	},
+	"74732":{
+	"WarrantAuthority1":"AK 193256 -",
+	"WarrantLocation1":"AK 193256 -",
+	"NameID":"A-0000000830",
+  	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"AuthState":"AK",
+  	"AuthCode":"193256",
+  	"State1":"AK",
+  	"LocationCode1":"193256",
+  	"AuthorityState1":"AL",
+  	"Authority":"3253275",
+  	"LocationState1":"AL",
+  	"LocationCode2":"3253275",
+  	"AuthState1":"AL",
+  	"AuthCode1":"3253275",
+  	"State2":"AL" 	
+	},
+	"74746":{
+	"NameID":"A-0000000833",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"WarrantNo":"25-000005"
+	},
+	"74746A":{
+	"NameID":"A-0000000835",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"WarrantNo":"25-000006"
+	},
+	"74768":{
+	"NameID":"A-0000000836",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"CaseNo1":"11-000001",
+  	"CaseNo2":"26-000026",
+  	"charge":"10-2-1.2"
+	},
+	"74768A":{
+	"NameID":"A-0000000837",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"CaseNo1":"11-000001",
+  	"charge":"10-2-1.2",
+  	"CaseNo2":"26-000026"
+	},
+	"74780":{
+	"ParameterID":"1012",
+	"NameID":"A-0000000840",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"Complainant1":"Complainant1234"
+	},
+	"74783":{
+	"ParameterID":"1007",
+	"NameID":"A-0000000840",
+	"Type":"Anticipatory Bail",
+  	"Status":"Active/Open",
+  	"WantCharge":"200",
+  	"HeldBy1":"Default1234"
+	}
+}

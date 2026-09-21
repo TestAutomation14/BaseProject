@@ -1,0 +1,1085 @@
+{
+  "258310": {
+    "K9Name": "Lieutenant",
+    "Certification": "Supervisor",
+    "DateCertified": "01/01/2020",
+    "Award": "Millanium",
+    "AwardingBody": "Famous Award",
+    "Training": ""
+  },
+  "260155": {
+    "UserName": "Automation",
+    "Password": "Pnx@2016",
+    "Database": "Police MJ",
+    "CallNo": "20.000182",
+    "Address": "309 Jan Phyl Pl",
+    "FromDate": "01/01/2010"
+  },
+  "272388": {
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeActivity": "Walk-Through",
+    "Proofing": "01 - Food",
+    "CallNo": "21.000152",
+    "LocationOfActivity": "1154 Roscoe St",
+    "ReportingPFNo": "Auto",
+    "Location": "1154 Roscoe St"
+  },
+  "239968":{
+  	"CallNo": "21.000005",
+  	"CaseNo": "21-000005",
+  	"Date":"01/06/2021",
+  	"Time":"14:37:09",
+  	"K9Handler":"Sergeant / John, Jerlin"
+  
+  },
+  "272390": {
+    "K9Handler": "Jason / Jason, Walker",
+    "TypeActivity": "Walk-Through",
+    "LocationOfActivity": "1154 Roscoe St",
+    "ReportingPFNo": "Auto"
+  },
+  "272393": {
+    "CallNo": "21.000151",
+    "K9Handler": "Jason / Jason, Walker",
+    "Address": "1154 Roscoe St",
+    "TypeOfIncident": "Bomb Squad",
+    "DetectionType": "Narcotics"
+  },
+  "272394": {
+    "CallNo": "21.000151",
+    "PFCode": "Auto",
+    "Screen": "4730 - Report Entry",
+    "Description": "K9 Call# 21.000151"
+  },
+  "272396": {
+    "CallNo": "21-000154",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeOfIncident": "Building Collapse",
+    "DetectionType": "Others",
+    "Address": "150 Spirit Lake Rd",
+    "RefNo": "21.000154"
+  },
+  "272397": {
+    "CallNo": "21.000152",
+    "CaseNo": "21-000152",
+    "RefNo": "21.000152"
+  },
+  "272431": {
+    "K9Name": "Phoenix",
+    "EffectiveFrom": "12/07/2020",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "Handler": "Prophoenix, Automation"
+  },
+  "272441": {
+    "K9Name": "Sergeant",
+    "K9Handler": "Sergeant / John, Jerlin",
+    "TypeActivity": "Walk-Through",
+    "LocationOfActivity": "1154 Roscoe St",
+    "Facility": "County K9 Training Center",
+    "Instructor": "Professional K9 Handlers Assoc",
+    "TrainingCategory": "General Training",
+    "Handler": "John, Jerlin"
+  },
+  "272565": {
+    "TypeOfVisit": "Veterinary technician",
+    "ReasonForVisit": "Visit for testing",
+    "LastName": "Loudon",
+    "FirstName": "Marshall",
+    "Reason": "Visit for testing",
+    "K9Handler": "Jason / Jason, Walker"
+  },
+  "272587": {
+    "K9Name": "Cavalo",
+    "Officer": "P006",
+    "K9Handler":"P006",
+    "Handler": "P006, P006"
+  },
+  "273427": {
+    "Handler": "K9001",
+    "K9Handler": "K9, Team",
+    "Medications": "Dolo",
+    "Dossage": "650",
+    "Vaccine": "Rabies",
+    "K9OrHandler": "Lieutenant / K9, Team",
+    "TypeOfVisit": "Veterinary technician",
+    "ReasonForVisit": "Injection",
+    "NameID": "A-0000000289",
+    "LastName": "Selaer",
+    "FirstName": "Hurt",
+    "Reason": "Injection"
+  },
+  "273428": {
+    "Handler": "K9001",
+    "TypeOfVisit": "Veterinary technician",
+    "Reason": "Injection",
+    "K9Handler": "Lieutenant / K9, Team"
+  },
+  "273429": {
+    "CallNo": "21.000155",
+    "CaseNo": "21-000155",
+    "K9Handler": "Jason / Jason, Walker",
+    "TypeOfIncident": "AirCraft Crash",
+    "DetectionType": "Firearms",
+    "Address": "11 Grandview Rd",
+    "Handler": "Jason, Walker",
+    "K9Name": "Jason"
+  },
+  "273431": {
+    "CallNo": "21.000155",
+    "CaseNo": "21-000155",
+    "Handler": "K9001",
+    "Template": "Template",
+    "Officer": "Prophoenix, Automation",
+    "Remarks": "Hi We are Doing Testing Added Template for Automation",
+	"K9Name": "Lieutenant"
+  },
+  "273432": {
+    "CallNo": "21.000155",
+    "CaseNo": "21-000155",
+    "K9Name": "Lieutenant",
+    "K9Handler": "K9, Team",
+    "Certification": "Senior",
+    "Location": "1 Elizabeth St",
+    "Comments": "Certified As Senior"
+  },
+  "273433": {
+    "CallNo": "21.000155",
+    "CaseNo": "21-000155",
+    "K9Name": "Lieutenant",
+    "K9Handler": "K9, Team",
+    "Award": "Best Officer Award",
+    "AwardingBody": "And Promoted As Lieutenant",
+    "Comments": "Promotion"
+  },
+  "273471": {
+    "CallNo": "21.000157",
+    "CaseNo": "21-000157",
+    "PFCode": "Auto",
+    "NameID": "A-0000000200",
+    "Name": "Prophoenix, Automation",
+    "Name1": "Grande, Brell",
+    "Notes": "PF Added to Grid"
+  },
+  "273473": {
+    "CallNo": "21.000157",
+    "CaseNo": "21-000157",
+    "TypeOfPreventiveAction": "Suspect Control",
+    "IfOther": "Controlling suspects"
+  },
+  "273474": {
+    "CallNo": "21.000157",
+    "CaseNo": "21-000157",
+    "TypeOfSearch": "Building Search",
+    "SubType": "Suspect",
+    "Notes": "Note Filled In Search And Trecking"
+  },
+  "273502": {
+    "CallNo": "21.000157",
+    "CaseNo": "21-000157",
+    "FormName": "K9QaForms"
+  },
+  "273503": {
+    "CallNo": "21.000157",
+    "CaseNo": "21-000157",
+    "Template": "K9Template",
+    "Text1": "K9 Report "
+  },
+  "273504": {
+    "CallNo": "21.000164",
+    "CaseNo": "21-000164",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeOfIncident": "Building Collapse",
+    "DetectionType": "Others",
+    "Address": "1203 Dousman St",
+    "RefNo": "21.000164"
+  },
+  "273506": {
+    "K9Handler": "Milo, JASPER / Mahi, Ks",
+    "K9Name": "Milo, JASPER",
+    "Instructor": "K-9 Handler",
+    "K9HandlerNull":"--Select--"
+  },
+  "273508": {
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "Trainer": "K-9 Handler",
+    "TrainingCategory": "Narcotics Training",
+    "Category": "Narcotics Training",
+    "TrainingType": "Building Search",
+    "SubType": "Blood"
+  },
+  "273509": {
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "Trainer": "K-9 Handler",
+    "TrainingCategory": "Narcotics Training"
+  },
+  "273511": {
+    "K9Name": "Phoenix",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeActivity": "Walk-Through",
+    "LocationOfActivity": "1154 Roscoe St",
+    "Facility": "County K9 Training Center",
+    "Instructor": "Professional K9 Handlers Assoc",
+    "TrainingCategory": "Narcotics Training",
+    "AidNo": "AN001",
+    "Trainer": "K-9 Handler",
+    "Category": "Narcotics Training",
+    "AidType": "Seizure Alert",
+    "StartDate": "05/19/21"
+  },
+  "273513": {
+    "K9Name": "Phoenix",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeActivity": "Walk-Through",
+    "LocationOfActivity": "1154 Roscoe St",
+    "Facility": "County K9 Training Center",
+    "Instructor": "Professional K9 Handlers Assoc",
+    "TrainingCategory": "Narcotics Training",
+    "PF": "K9001",
+    "ID": "K9001",
+    "NameID": "A-0000000424",
+    "Name": "Norman, Handler",
+    "Trainer": "K-9 Handler",
+    "Category": "Narcotics Training",
+    "PFCode": "K9001",
+    "StartDate": "05/19/21"
+  },
+  "273544": {
+    "K9Name": "Lieutenant",
+    "Handler": "K9, Team"
+  },
+  "273601": {
+    "CADCFS": "RE2020",
+    "Location": "400 Spring St",
+    "CADDisposition": "Tow",
+    "Unit": "AUTO",
+    "Type": "K9 Incident Detail.PDF",
+    "NameID": "A-0000000286",
+    "Activity": "Caller",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeOfIncident": "Building Collapse",
+    "DetectionType": "Others",
+    "Address": "400 Spring St"
+  },
+  "273602": {
+    "Type": "Supplemental Report",
+    "CallNo": "21.000163",
+    "CaseNo": "21-000163",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TypeOfIncident": "Building Collapse",
+    "DetectionType": "Others"
+  },
+  "273603": {
+    "CallNo": "21.000163",
+    "CaseNo": "21-000163",
+    "Type": "Supplemental Report"
+  },
+  "274312": {
+    "K9Name": "Lieutenant",
+    "K9Handler": "K9, Team",
+    "FormName": "K9 Personnel (Multiple)"
+  },
+  "278636": {
+    "CodeID": "5073",
+    "Description": "Juris K9 Training Center",
+    "Ref1": "172 Rock Ridge Ave,12701",
+    "Facility": "Juris K9 Training Center",
+    "TrainingNo": "21-000003",
+    "AddressLabelText": "(172 Rock Ridge Ave,12701)",
+    "Category": "Narcotics Training"
+  },
+  "278656": {
+    "K9Name": "Shaw Preethi",
+    "K9Name1": "Jason",
+    "Medications": "Adderall",
+    "Dossage": "40",
+    "Vaccine": "Rabies"
+  },
+  "278660": {
+    "TrainingNo": "21-000004",
+    "Category": "Firearms Training",
+    "AidNo": "2468"
+  },
+  "278661": {
+    "K9Name": "Shaw Preethi",
+    "DOB": "10/13/1996",
+    "K9Handler": "Cessor / Hammond, Harris",
+    "NameID": "A-0000000442"
+  },
+  "278662": {
+    "TrainingNo": "21-000004",
+    "Category": "Firearms Training",
+    "Code": "AUTO",
+    "PFCode": "AUTO",
+    "NameID": "A-0000000444",
+    "PF": "AUTO"
+  },
+  "282070": {
+    "K9Name": "Freedom",
+    "Handler": "Record, Clerk",
+    "K9OrHandler": "Freedom / Record, Clerk",
+    "CaseNo": "21-000157"
+  },
+  "282072": {
+    "K9Handler": "Milo, JASPER / Mahi, Ks",
+    "NameID": "A-0000000447"
+  },
+  "282073": {
+    "TypeOfVisit": "Zoo veterinarian",
+    "ReasonForVisit": "Test1",
+    "K9Name": "Buckeye1",
+    "PrimaryFunction": "Bomb detector",
+    "K9EmployeeName": "BU003",
+    "Breed": "Doberman",
+    "Sex": "Male",
+    "DOB": "11/13/2001"
+  },
+  "286726": {
+    "K9Name": "Patrol Dept",
+    "K9Handler": "Patrol Dept / Jackal, Steve",
+    "WithoutImgHeight": "110px",
+    "WithoutImgWidth": "104px",
+    "TypeOfVisit": "Veterinary technician",
+    "ReasonForVisit": "CHECK UP",
+    "ReasonForVisit0": " "
+  },
+  "287549": {
+    "TrainingNo": "21-000004",
+    "NewAction": "Send for Approval",
+    "HistoryStatus": "Submitted",
+    "HistoryStatus1": "Approved",
+    "Status": "Submitted"
+  },
+  "287550": {
+    "NameID": "A-0000000399",
+    "CaseNo": "21-000248",
+    "Name": "Browne,Hill",
+    "MutualAid": "Yes",
+    "Activity": "K9 Report Name",
+    "CallNo": "21-000248"
+  },
+  "288585": {
+    "CaseNo": "21-000248",
+    "TrainingNo": "21-000003"
+  },
+  "289931": {
+    "CaseNo": "21-000253",
+    "Text": "Automation Narrative Created for Case no 21-000253",
+    "Template": "K9Tempelate",
+    "Text1":"Adding K9 Report Narrative tab and Saving without any issue"
+  },
+  "289932": {
+    "TrainingNo": "21-000007",
+    "K9OrHandler":"Phoenix / Prophoenix, Automation",
+    "AidNo": "1",
+    "Search": "Luggage",
+    "Burried": "45.00",
+    "Elevation": "54",
+    "Result": "Aid of Bite",
+    "ResultCode": "1",
+    "Plant": "18:51",
+    "Start": "19:49",
+    "Found": "19:49"
+  },
+  "289941": {
+    "CaseNo": "23-000044",
+    "K9Name": "Phoenix",
+    "Category": "Firearms Training",
+    "K9Handler": "Phoenix / Prophoenix, Automation",
+    "TrainingNo": "23-000002",
+    "DescribeArea":"Automation testing"
+  },
+  "289954": {
+    "TrainingNo": "23-000002",
+    "TrainingCategory": "General Training",
+    "PFId": "PA002",
+    "PFCode": "PA002",
+    "NameID": "J-0000000064",
+    "ParticipantsActivity": "Trainer",
+    "CaseNo": "23-000036",
+    "Name": "Hewitt,King Jr",
+    "Status": "On Hold",
+    "MutualAid": "Yes"
+  },
+  "286726A": {
+    "CaseNo": "21-000207",
+    "Color": "rgba(0, 0, 0, 1)",
+    "ExplosiveCodeID": "--Add 4104 --",
+    "FireArmsCodeID": "--Add 4183 --",
+    "TrainingNo": "21-000002",
+    "Location": "898 Old Eau Claire Rd",
+    "Specify": "1234567",
+    "Burried":"1234567"
+  },
+  "282070A": {
+    "K9Name": "Freedom",
+    "Handler": "Reocrd, Clerk",
+    "K9OrHandler": "Freedom / Reocrd, Clerk",
+    "CaseNo": "23-000043",
+    "K9HandlerInactive": "##Jockey / ##History, Work"
+  },
+  "282070B": {
+    "K9Name": "Freedom",
+    "Handler": "Reocrd, Clerk",
+    "K9Handler": "Freedom / Reocrd, Clerk",
+    "K9OrHandler": "Freedom / Reocrd, Clerk",
+    "CaseNo": "23-000043",
+    "K9HandlerInactive": "##Freedom / ##Reocrd, Clerk"
+  },
+  "282070C": {
+    "K9Name": "Freedom",
+    "K9OrHandler": "Freedom / Reocrd, Clerk",
+    "K9Handler": "Freedom / Reocrd, Clerk",
+    "K9HandlerInactive": "##Freedom / ##Reocrd, Clerk"
+  },
+  
+  "KCE":{
+  "CallNo":"22-000005"
+  },
+  "10652":{
+  "CallNo":"23-000015",
+  "PFCode":"Auto"
+  },
+
+  "11449":{
+  "CallNo":"21-000250",
+  "K9Handler":"Sergeant / John, Jerlin"
+  },
+
+  "11486B":{
+  "CallNo":"23.000015",
+  "TextName":"TestTemplate",
+  "Template":"TestTemplate",
+  "CaseNo":"21-000005",
+  "Text":"Test Automation"
+  },
+  "12137":{
+  "K9Handler":"Cessor / Hammond, Harris",
+  "TrainingNo":"21-000004",
+  "FileName":"TestJPG.jpg",
+  "TotalImage":"Total Images (2)"
+  },
+
+  "11800":{
+  "CallNo":"23.000025",
+  "K9Handler":"Sergeant / John, Jerlin",
+  "TypeOfIncident":"Building Collapse",
+  "DeptName":"ProPhoenix",
+  "CaseNo":"23.000015"
+  },
+  "199135":{
+  "K9Handler":"Cessor / Hammond, Harris",
+  "LocationOfActivity":"35 Sierra Ave;PX",
+  "ReportingPFNo":"AUTO",
+  "TypeActivity":"Public Demonstration"
+  },
+  "202994":{
+  "CallNo":"23-000036",
+  "K9Handler":"Cessor / Hammond, Harris",
+  "Address":"108 Applegate Ave",
+  "TypeOfIncident":"Building Collapse",
+  "Description":"K9 Call# 23.000036"
+  },
+  "205134":{
+  "CallNo":"23-000037",
+  "K9Handler":"Phoenix / Prophoenix, Automation",
+  "Address":"9 Autumn Rd",
+  "TypeOfIncident":"AirCraft Crash",
+  "CaseNo":"23-000037"
+  },
+  "275265":{
+  "K9Handler":"auto test / CADCFS, CAD Dispotion",
+  "K9Name":"auto test"
+  },
+  "275954":{
+  "K9Name":"Automation",
+  "K9EmployeeName":"20",
+  "PrimaryFunction":"K-9 Officer",
+  "Breed":"Doberman",
+  "Sex":"Male",
+  "DOB":"07/10/2017",
+  "Officer":"CM002",
+  "K9Handler":"CM002",
+  "Handler":"CM, Supervisor"
+  },
+  "289935":{
+  "TrainingNo":"23-000001",
+  "Category":"General Training",
+  "AidType":"Vaccination",
+  "Year":"2023",
+  "VehiclePlate":"4155",
+  "State":"WI"
+  },
+  "273468":{
+  "CallNo":"23.000039",
+  "K9Handler":"Milo, JASPER / Mahi, Ks",
+  "DetectionType":"Safety",
+  "PlateNo":"24876",
+  "State":"NJ"
+  },
+  "292617":{
+  "K9Name":"Milo, JASPER",
+  "AID":"28",
+  "AnimalNameID":"H-0000000028"
+  },
+  "292620":{
+  "SelectedJuris":"BC - Brown County Police Department",
+  "Juris1":"BC"
+  },
+  "275955":{
+  "CallNo":"23.000038",
+  "K9Handler":"Lieutenant / K9, Team",
+  "LocationOfActivity":"4220 King Arthur Pl",
+  "ReportingPFNo":"AUTO",
+  "TypeActivity":"Walk-Through",
+  "TrainingCategory":"General Training",
+  "CaseNo":"23-000038"
+  },
+  "275266":{
+  "K9Name":"Cheems_Balltze",
+  "K9Name#":"#Cheems_Balltze",
+  "Handler":"Berry, John"
+  },
+  "275267":{
+  "K9Name":"Butler",
+  "Handler":"Ethan, Ryan II "
+  },
+  "275268":{
+  "K9Name":"Bailey",
+  "K9Handler":"PASS",
+  "Handler":"Automation, Testing;"
+  },
+  "288588":{
+  "K9Name":"Phoenix"
+  },
+
+	"15753": {
+		"K9Handler": "Sergeant / John, Jerlin",
+		"TrainingCategory": "General Training",
+		"AidNo": "415",
+		"Plant": "12:05",
+		"Start": "02:50",
+		"Found": "23:20",
+		"Quantity":"2.23",
+		"VehiclePlate":"5356",
+		"State":"WI"
+		
+	},
+
+  "12938B":{
+  "CallNo":"23-000047",
+  "Report":"K9 Incident Detail",
+  "InitialCFS":"1",
+  "ReportedLocation":"101 W Acorn Dr",
+  "CADDisposition":"K9",
+  "PrimeUnit":"K9UNIT"
+  },
+  "12938A":{
+  "IncidentNo":"23-000009",
+  "Report":"K9 Incident Detail",
+  "InitialCFS":"101",
+  "ReportedLocation":"9 Autumn Rd;PX ",
+  "Disposition":"K9",
+  "PrimeUnit":"K9"
+  },
+  
+  "18518":{
+  "CallNo":"23.000005",
+  "K9Handler":"Sanchez / James, Madisen",
+  "TypeOfIncident":"Immediate Reply"
+  },
+  "18529A":{
+  "TypeOfIncident":"Immediate Reply",
+  "PFCode":"201",
+  "K9Handler":"Sanchez / James, Madisen"
+},
+
+ "20167":{
+  "K9Handler":"auto test / CADCFS, CAD Dispotion",
+  "LocationOfActivity":"150 Spirit Lake Rd",
+  "ReportingPFNo":"AUTO",
+  "TypeActivity":"Public Demonstration"
+},
+"20281": {
+    "K9Name": "Bailey",
+    "Medications": "Glychipage",
+    "Dossage": "320"
+    },
+
+"20272":{
+"RoleName":"System",
+"ScreenId1":"4732",
+"ScreenId2":"4729",
+"ScreenId3":"4728",
+"ScreenId4":"4730",
+"UserName":"test",
+"Password":"Auto@2020",
+"Database":"AutomationPoliceMJ",
+"ScreenName1":"Medical Visit Entry",
+"ScreenName2":"K9 Activity Entry",
+"ScreenName3":"K9 Training Entry",
+"ScreenName4":"Report Entry",
+"TypeOfVisit":"Veterinary technician",
+"K9Handler":"Kelvin / Ram, Harish",
+"TrainingCategory":"General Training",
+"K9Name":"Prosper",
+"":""
+},
+"20272A":{
+"RoleName":"System",
+"ScreenId1":"4732",
+"ScreenId2":"4729",
+"ScreenId3":"4728",
+"ScreenId4":"4730",
+"UserName":"test",
+"Password":"Auto@2020",
+"Database":"AutomationPoliceMJ",
+"ScreenName1":"Medical Visit Entry",
+"ScreenName2":"K9 Activity Entry",
+"ScreenName3":"K9 Training Entry",
+"ScreenName4":"Report Entry",
+"TypeOfVisit":"Veterinary technician",
+"K9Handler":"Kelvin / Ram, Harish",
+"TrainingCategory":"General Training",
+"K9Name":"Prosper",
+"":""
+},
+
+  "11638": {
+    "K9Handler":"AUTO",
+    "K9Name": "Tommy",
+    "K9Name1": "#Tommy",
+    "PrimaryFunction": "Bomb detector",
+    "K9EmployeeName": "T452",
+    "Breed": "Indian Breed",
+    "Sex": "Male",
+    "DOB": "01/05/2012"
+  },
+  
+  "11639": {
+    "K9Name1": "#Tommy"
+    },
+    "26172":{
+    "K9Name" : "Patrol Dept",
+    "CallNo":"24.000016",
+    "":""
+},
+
+     "27141":{
+    "K9Name":"Charlie",
+    "TypeOfIncident":"Immediate Reply"
+    },
+    
+   "26155":{
+  	"UserName":"Automation",
+	"Password":"Pnx@2023",
+	"Database":"AutomationNJ",
+	"LocationOfActivity":"2799 S Gladstone Pl",
+	"TypeActivity":"Other",
+	"ReportingPFNo":"Auto",
+	"K9Handler":"DontUseK9 / NJBot, Automation"
+    },
+    
+    "27142":{
+	"LocationOfActivity":"300 BOYLSTON Ave E",
+	"TypeActivity":"Other",
+	"ReportingPFNo":"001",
+	"K9Handler":"Charlie / Michael, Delgiorno"
+    },
+    
+	"29454": {
+		"K9Handler": "John / Cad, Auto",
+		"TrainingNo":"23-000001"
+    },
+	"ExpenseEntry":{
+		"ExpenseClass":"K9",
+		"PFCode":"45F",
+		"Category":"K9 Vet Expenses"
+	},
+	"44137":{
+	"K9Handler":"Charlie / Michael, Delgiorno",
+	"TypeOfIncident":"Immediate Reply",
+	"IncidentNo":"24-000013"
+	},
+	"44137B":{
+	"K9Handler":"Charlie / Michael, Delgiorno",
+	"TypeOfIncident":"Immediate Reply",
+	"IncidentNo":"24-000014"
+	},
+	"44137A":{
+	"CallNo":"24-000013",
+	"K9Handler":"auto test / CADCFS, CAD Dispotion",
+	"TypeOfIncident":"AirCraft Crash"
+	},
+	
+	"44137C":{
+	"K9Handler":"Charlie / Michael, Delgiorno",
+	"TypeOfIncident":"Immediate Reply",
+	"IncidentNo":"24-000015"
+  },
+	"43945":{
+	"CallNo":"24-000099",
+	"K9Handler":"Rudran / Automation, Testing",
+	"TypeOfIncident":"AirCraft Crash",
+	"PFCode":"CM002"
+	},
+	"43977":{
+	"K9Name":"Kelvin",
+	"TrainingNo":"21-000005",
+	"Certification":"Primary",
+	"Award":"Automation"
+	},
+	"43948":{
+	"K9Name":"Rudran"
+	},
+	"42262":{
+	"UserName": "Automation",
+	"Password": "Pnx@2023",
+	"Database": "AutomationNJ",
+	"K9Handler":"Rudranth / Automation, Selenium",
+	"CallNo":"24-000084",
+	"Burried":"1234567.00"
+	},
+	"44247":{
+	"UserName": "Automation",
+	"Password": "Pnx@2023",
+	"Database": "AutomationNJ",
+	"K9Name":"Rudranth",
+	"Award":"TestAuto",
+	"AwardingBody":"Selenium"
+  },
+	
+	"37735":{
+		    "CallNo":"24.000094",
+		"PFCode":"45F",
+		"Category":"K9 Vet Expenses",
+		"VehicleNumber": "WS15421",
+		"VehicleNumber1": "FS15421",
+		"vehicleState": "NJ",
+		"Plate0": "WS15421-NJ",
+		"Plate1": "FS15421-NJ",
+		"Officer": "AUTO",
+		"Unit": "4",
+		"UnitNo": "1",
+		"State": "NJ",
+		"StatePlate0": "NJ-WS15421",
+		"StatePlate1": "NJ-FS15421",
+		"VINNo0": "FS5184848",
+		"VINNo1": "D85456211",
+		"Serial0":"FS5184848",
+		"Serial1":"D85456211"
+},
+"48772":{
+"CallNo":"25-000004",
+"Status":"OnHold",
+"Status1":"Rejected",
+"ItemType":"K9 Report Entry",
+"RefNo":"25.000004",
+"RejCnt2":"1",
+"RejectCount1":"0",
+"RejectCount2":"1",
+"RejCnt1":"",
+"NewAction1":"Comment",
+"RejectionCode":"Other Reason(s)",
+"NewAction2":"Send for Approval",
+"UserName":"Automation",
+"Password":"Pnx@2023",
+"Database":"AutomationNJ",
+"NewAction3":"Reject"
+},
+"50681":{
+"ExpenseClass":"K9"
+},
+	"50473":{
+	"Name":"Account, Person"
+	},
+	"52462":{
+    "CallNo": "25.000004",
+	"Amount":"100.00"
+	},
+	"58042":{
+	"K9Name":"Bailey",
+	"Officer":"DEM001",
+	"EffectiveFrom":"05/24/2025",
+	"Handler":"Demo, Search"
+},
+
+"58042A":{
+    "K9Name":"Charlie",
+	"Officer":"PAA001",
+	"EffectiveFrom":"05/01/2025",
+	"Handler":"Account, Person"
+},
+"57933":{
+ "K9Name":"AJAX",
+ "Breed":"Cane Corso",
+ "Handler":"PASS",
+ "HandlerGrid":"Automation, Testing",
+ "PrimaryFunction":"Bell Training",
+ "Sex":"Female",
+ "K9Name1":"Scoopy"
+},
+"57967":{
+"K9Handler":"Cessor / Hammond, Harris"
+},
+"57967A":{
+"K9Handler":"Charlie / Michael, Delgiorno"
+},
+"58078":{
+"K9Name":"Test",
+"PrimaryFunction":"Bell Training",
+"Breed":"Andalusian Horse",
+"Sex":"Male"
+},
+"58153":{
+"K9Handler":"Cessor / Hammond, Harris",
+"TypeOfVisit":"Veterinary technician",
+"ReasonForVisit":"Test",
+"NameID":"A-0000000632",
+"Cost":"3223233",
+"PO":"453453443",
+"ProcedurePerformed":"Test",
+"MedicationsPrescribed":"Test",
+"VeterinarianInstructions":"Test",
+"Notes":"Test"
+},
+"58176":{
+"Juris":"PX - ProPhoenix",
+"K9Handler":"Milo, JASPER / Mahi, Ks",
+"VisitDateFrom":"09/05/2021",
+"VisitDateTo":"09/06/2021",
+"Date":"09/06/21",
+"TypeOfVisit":"Zoo veterinarian"
+},
+"58176A":{
+"Juris":"PX - ProPhoenix Fire Department",
+"K9Handler":"Charlie / Michael, Delgiorno",
+"VisitDateFrom":"09/05/2021",
+"VisitDateTo":"06/12/2025",
+"Date":"06/12/25",
+"TypeOfVisit":"Test"
+},
+"58205":{
+"Juris":"PX - ProPhoenix",
+"K9Handler":"auto test / CADCFS, CAD Dispotion",
+"CallNo":"23-000002",
+"CaseNo":"23-000002",
+"FromDate":"07/19/2023",
+"ToDate":"07/21/2023",
+"Location":"6498 N Shore Dr",
+"DateInGrid":"07/19/23 15:56",
+"CallInGrid":"23.000002"
+},
+"58361":{
+"CallNo":"25.000085",
+"NewAction0":"Send for Approval",
+"CodeValue":"AUTO",
+"CodeDescription":"Prophoenix, Automation"
+},
+"58299":{
+"CallNo":"25-000084",
+"K9Handler":"Cavalo / Berry, John",
+"TypeOfIncident":"AirCraft Crash"
+},
+"58292":{
+"Juris":"PX - ProPhoenix",
+"K9Handler":"auto test / CADCFS, CAD Dispotion",
+"CallNo":"25.000082",
+"PlateNo":"ABC123",
+"State":"AL - Alabama",
+"FromDate":"01/07/2025",
+"ToDate":"02/08/2025",
+"Address":"898 Old Eau Claire Rd;Chippewa Falls, WI 54729",
+"ApprovalStatus":"OnHold",
+"FromDateInGrid":"01/07/25",
+"ToDateInGrid":"02/08/25",
+"CaseNo":"25-000082",
+"ApprovalStatusInGrid":"On Hold"
+},
+"58195": {
+"TrainingNo": "25-000001",
+"TrainingCategory": "General Training",
+"RichText": "Test Automation",
+"AidNo": "12",
+"PFCode": "CadTest",
+"NameID": "CadTest",
+"MutualAid": "No",
+"Name": "Cad, Auto",
+"K9Handler": "Phoenix / Prophoenix, Automation"
+},
+
+"68196":{
+"K9Name":"Robbin",
+"K9Name1":"Raaby",
+"K9Handler":"P009",
+"K9Handler1":"PA002",
+"K9Handler2":"PA003",
+"ColumnName0":"K9 Name",
+"ColumnName1":"Handler",
+"ColumnName2":"Effective From",
+"ColumnName3":"Inactive",
+"ColumnName4":"Inactive Date",
+"Handler":"EdgeWood, Celia"
+},
+
+
+"68365":{
+"UserName":"NEW",
+"Password":"Pnx@2016",
+"TrainingNo":"21-000005",
+"TrainingCategory":"General Training",
+"AidNo":"68365"
+
+},
+
+"68459":{
+
+"CallNo":"25.000131",
+"CaseNo":"25-000131",
+"ArrestedPersons":"33",
+"Assist":"33",
+"NumberOFSuspectLocated":"33",
+"WasSuspectOrPersonBittenByK9":"Yes",
+"ApprehensionOrLocationOfSuspectOrPersonWasThroughDirectUseOfK9":"Yes",
+"IfBittenDescribeInjury":"Deep Bite",
+"SurfaceType":"Ceramic Tile",
+"Conditions":"101 - Clear",
+"ActivityLocation":"Business",
+"DescribeArea":"Business",
+"Location":"US",
+"PackagingOrContainer":"Cooler",
+"Specify":"NONE",
+"OtherAreasChecked":"NONE",
+"PlateNo":"64582",
+"State":"NJ",
+"Burried":"64582",
+"Elevation":"NONE",
+"positiveFinalTrainedResponse":"p - Positive",
+"ObservedBehavioural":"Breathing Change",
+"IfOther":"NONE",
+"SuspectedNarcoticesLocated":"Yes",
+"NarcoticsDetectionType":"Marijuana",
+"NarcoticsDetectionIfOther":"Marijuana",
+"LocationOfSuspectedNarcotics":"Yes",
+"SuspectedExplosivesLocated":"Yes",
+"ExplosiveDetectionType":"Light",
+"ExplosiveDetectionIfOther":"Light",
+"ExplosiveDetectionLocationOfSuspectedExplosive":"Light",
+"SuspectedFireArmsLocatedDropdown":"Yes",
+"FireArmsDetectionType":"Detector",
+"FireArmsDetectionIfOther":"Detector",
+"LocationOfSuspectedFireArms":"Wewewe",
+"PFCode":"AUTO",
+"PFCode0":"AUTO",
+"ParticipantsActivity":"Decoy",
+"Notes":"Decoy",
+"Name":"Prophoenix, Automation",
+"Name0":"Prophoenix, Automation"
+
+
+
+},
+"69566": {
+		"K9Handler": "heller / Valcon, Madrid",
+		"TrainingCategory": "General Training",
+		"Terrain": "Asphalt",
+		"ActivityLocation": "Garage",
+		"SurfaceType": "Asphalt",
+		"Conditions": "101 - Clear",
+		"AidNo": "2205",
+		"K9OrHandler": "heller / Valcon, Madrid",
+		"PFCode": "AUTO",
+		"Name": "Prophoenix, Automation",
+		"LengthOfTrack": "23",
+		"SelectLengthOfTrack": "1 - 23",
+		"TrackSurface":"TrackSurface",
+		"GroundSurfaceCondition": "tought",
+		"ApproxAgeOfTrackTime": "10:00",
+		"TimeTakenToTrack": "10:00",
+		"SuspectObjectLocated": "ObjectLocate",
+		"RichText":"Test Automation",
+		"DescribeArea":"Test Automation",
+		"Notes":"Automation",
+		"HandlerComment":"Test Automation",
+		"TrainerComment":"Test Automation",
+		"Tab0":"Details",
+		"Tab1":"Objectives",
+		"Tab2":"Comments",
+		"Tab3":"Training Aids",
+		"Tab4":"Participants",
+		"Tab5":"Track & Map",
+		"Tab6":"Track Data"
+	},
+	
+	"69676":{
+	"K9Handler":"walli / Easton, Jace",
+	"TrainingCategory":"Narcotics Training",
+	"AidNo":"69676",
+	"VINNo":"WI-5456",
+	"Plate":"5456",
+	"State":"WI",
+	"K9OrHandler":"walli / Easton, Jace"
+
+	},
+	
+	"68735":{
+	"K9Handler":"valley / Hayes, Jett",
+	"TrainingCategory":"Narcotics Training"
+	},
+	  "69857":{
+  "K9Name":"Robin",
+  "K9EmployeeName":"2265",
+  "PrimaryFunction":"K-9 Officer",
+  "Breed":"Doberman",
+  "Sex":"Male",
+  "DOB":"08/10/2015",
+  "Officer":"CadTest",
+  "K9Handler":"CadTest",
+  "Handler":"Cad, Auto"
+  },
+  
+  "68709":{
+  "CallNo":"25.000085",
+  "CaseNo":"25-000085",
+  "PFCode":"AUTO",
+  "ParticipantsActivity":"Decoy",
+  "Notes":"AUTO",
+  "PFCode0":"WAut",
+  "Name0":"WDA, Automation",
+  "PFCode1":"WAut",
+  "PFCode2":"AUTO",
+  "Name2":"Prophoenix, Automation"
+  
+  },
+  "73926":{
+  "PlateNo0":"!@#$%^&*(){}:>?:<",
+  "PlateNo1":"Test's",
+  "PlateNo2":"TestAutomation1255",
+  "vehicle0":"Tests"
+  
+  
+  },
+  
+  "74394":{
+  "CaseNo":"26-000002",
+  "CallNo":"26.000002",
+  "TypeOfPreventiveAction":"Suspect Control",
+  "IfOther":"Automation",
+  "WarningGiven":"Yes",
+  "NumberGiven":"131",
+  "K9Actions":"Barking",
+  "K9Supect":"Compliant"
+  },
+  
+  "74394A":{
+  "CaseNo":"26.000002",
+  "CallNo":"26.000002",
+ "LengthOfTrack":"23",
+ "TrackSurfaces":"Hard",
+ "SurfacesCondition":"Damaged",
+ "AgeOfTrack":"23:06",
+ "timeOfTrack":"23:00",
+ "SubjectLocated":"ObjectLocate",
+ "Notes":"verifyTheK9ReportsTabFunctionality_Prevention_Action_Search_Tracking_74394A",
+ "Measurement":"1 - 23"
+  }
+}

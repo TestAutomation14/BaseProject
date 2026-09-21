@@ -1,0 +1,1090 @@
+{
+	"MLEntry": {
+		"MailStatus": "Receive"
+	},
+	"OSCSEntry": {
+		"OutOfServiceReason": "Maintainence",
+		"Comments": "Test Automation",
+		"Building": "Racine County Jail",
+		"Floor": "1H",
+		"Pod": "DR3",
+		"Cell": "1H001"
+	},
+	"BCEntry": {
+	"Building": "Kanabec County Jail",
+	"Floor": "1K",
+	"Pod": "10A",
+	"Cell": "1A"
+	},
+	"BDEntry": {
+	"BuildingCode": "1201",
+	"BuildingName": "Test Automation"
+	},
+	"CFEntry": {
+	"SPNNo": "12"	
+	},
+	"GVEntry":{
+	"GrievanceType": "AP",
+	"InmateSPN": "10"
+	},
+	"DPEntry": {
+	"SPNNo": "3",
+	"Building": "Racine County Jail"
+	},
+	"IMEntry": {
+	"SPNNo": "2",
+	"Action": "Assigned",
+	"AssignCellNo": "1H004"
+	},
+	"IPEntry": {
+	"SPNNo": "5",
+	"Description": "Test Automation",
+	"Quantity": "5",
+	"CodeValue": "12",
+	"IssueReason": "Issued for rent"
+	},
+	"LLEntry": {
+	"SPNNo": "1"
+	},
+	"IREntry": {
+	"SPNNo": "4"
+	},
+	"VLEntry": {
+	"SPNNo": "8",
+	"NameType": "A",
+	"AssociationType": "Visitors"
+	},
+	"VREntry": {
+	"MaxLengthPerVisit": "10",
+	"MinLengthToNotify": "10",
+	"MaxVisitPerDay": "10",
+	"Period": "10"
+},
+"139729A":{
+"SPNNo": "17",
+"Reason": "Facility Management Classification",
+"Classification": "Max Level 1"
+},
+"139729B":{
+"SPNNo": "18",
+"Reason": "Facility Management Classification",
+"Classification": "Max Level 1"
+},
+"145808A":{
+"SPNNo":"18",
+"AssociationType":"Visitors",
+"SPNNo1":"9"
+},
+"109949":{
+"SPNNo":"11",
+"Comments": "Test Automation",
+"PF": "AUTO",
+"DataType": "Sign Out"
+},
+"108762":{
+"MailStatus": "Send",
+"SPNNo": "13"
+},
+"44451":{
+"Location": "Kanabec County Jail",
+"Floor": "1K",
+"Pod": "10A",
+"Cell": "1A",
+"Category": "03",
+"SubCategory": "A2",
+"ActivityType": "102",
+"ReportedByPF": "AUTO",
+"LogInfo":"Test Automation",
+"Building": "Kanabec County Jail"
+},
+"123873":{
+"Building":"Kanabec County Jail",
+"Floor": "1K",
+"Pod": "10A",
+"Cell": "1A",
+"SPNNo": "8"
+},
+"61004":{
+"Building":"Kanabec County Jail",
+"Floor": "1K",
+"Pod": "10A",
+"Cell": "1A",
+"Notes": "Test Automation"
+},
+"46213":{
+"OutOfServiceReason": "Maintainence",
+"Comments": "Test Automation",
+"Building": "RatthaPNX",
+"Floor": "01",
+"Pod": "01",
+"Cell": "Cell one",
+"Comments1": "Test Automation"
+},
+"144052":{
+"BuildingCode": "1001",
+"BuildingName": "Automation",
+"Address": "35 Sierra Ave",
+"PhoenType1": "M - Mobile",
+"Phone1": "2456983145",
+"PhoenType2": "W - Work",
+"Phone2": "5426987123",
+"BedCount": "2",
+"MaxInmateCount": "2",
+"Notes": "Test Automation"
+},
+"113175":{
+"GrievanceType":"AP",
+"SPNNo": "20",
+"BuildingName":"Kanabec County Jail",
+"Floor": "1K",
+"Pod": "10A",
+"Cell": "1A",
+"Bed": "2",
+"Status": "Approved",
+"AssociatedIncidentYear":"19",
+"AssociatedIncidentNo": "000001",
+"NarrativeComments": "Test Automation"
+},
+"113181":{
+"SPNNo":"20",
+"ResponseComments": "Test Automation",
+"Disposition": "Gulity",
+"SupervisorComments": "Test Automation"
+},
+"114955":{
+"SPNNo": "20",
+"AppealType":"Normal",
+"Comments": "Test Automation",
+"AppealDisposition": "NG",
+"Disposition": "Not Gulity"
+},
+"49190":{
+"FloorCode": "100",
+"FloorAlias": "1",
+"ImageFile": "pexels-pixabay-36717.jpg"
+},
+"49194":{
+"Code":"123",
+"PodName": "Test Automation",
+"ImageFile": "pexels-pixabay-36717.jpg",
+"NoOfCells": "10",
+"Notes": "Testing",
+"OccupantTypes": "Male",
+"Classification": "Max Level 1"
+},
+"49202":{
+"CellNumber": "11A",
+"CellType": "Small",
+"CellSecurity": "Safety Cell",
+"CellSexType": "Male",
+"TotalBeds": "10",
+"Notes": "Testing"
+},
+"49230":{
+"BedID": "1A",
+"Description": "Bed",
+"SortOder": "1"
+},
+"53890":{
+"SPNNo": "20",
+"Building": "Kanabec County Jail",
+"Status": "Submitted",
+"AssociatedIncidentYear": "19",
+"AssociatedIncidentNO": "000001",
+"IncidentSummary": "Testing"
+},
+"144219":{
+"Status": "Submitted",
+"SPNNo": "20",
+"ReportType0": "Incident Report"
+},
+"128729A":{
+"SPNNo": "16",
+"EventType": "Classification",
+"SubType": "Inside Classification",
+"Subject": "Inside Classification",
+"Repeat":"Weekly",
+"Notes": "Automation",
+"Name": "Jeffery, Joshuva"
+},
+"128729B":{
+"SPNNo": "23",
+"EventType": "Classification",
+"SubType": "Outside Classification",
+"Subject": "Outside Classification",
+"Repeat":"Weekly",
+"Notes": "Automation",
+"Name": "Paradise, Calumet"
+},
+"55949":{
+"SPNNo": "20",
+"Action": "Assigned",
+"AssignCellNo": "122",
+"Comments": "Automation"
+},
+"128733":{
+"SPNNo": "20",
+"Building": "Kanabec County Jail",
+"Status": "Approved"
+},
+"143218":{
+"SPNNo":"26",
+"FirstReviewPF":"AUTPOL",
+"Comments":"Test Automation",
+"secondReviewPf":"AUTPOL",
+"FinalReviewPf":"AUTPOL",
+"ReleaseType":"EC - Electronic Monitoring",
+"Label":"Electronic Monitoring"
+},
+"143219":{
+"SPNNo":"26",
+"AssignCellNo":"1DC3",
+"AssignBedNo":"2",
+"ReviewPF":"AUTPOL",
+"Comment":"Automation",
+"ApprovedPF":"AUTPOL",
+"Label":"Active-In"
+},
+"10236":{
+"SPNNo":"15",
+"Visitor":"Mikeqwo, Morganpfu",
+"Comments":"Test Automation",
+"Area":"Block A",
+"Booth":"Booth one",
+"Status":"Completed"
+},
+"44842":{
+"VisitorNameType":"A",
+"VisitorNameID":"0000000269",
+"FacilityVisitReason":"Test",
+"VisitorBadge":"Test1",
+"VisitLocation":"Kanabec County Jail",
+"Status":"Completed"
+},
+"10279":{
+"SPNNo":"24",
+"AssociationType":"Friends",
+"NameType":"A",
+"NameID":"246",
+"VisitorName":"Paradise, Calumet",
+"Area":"Block A",
+"Booth":"Booth two",
+"Status":"Completed"
+},
+"26753":{
+"SPNNo":"3",
+"CMSBooking":"19-000003",
+"Item":"Coin",
+"Description":"Automation",
+"color":"Black",
+"Quantity":"20",
+"Officer":"Auto",
+"Password":"Pnx@2016",
+"Action":"Received from Inmate",
+"Location":"Bag"
+
+},
+"29343":{
+"IncidentYearFrom":"24",
+"IncidentNoFrom":"000001",
+"SPN":"28",
+"Name":"Jones, Cox",
+"LastName":"Jones",
+"ReportType0":"Disciplinary report",
+"Password":"Pnx@2016",
+"Officer":"Prophoenix, Automation",
+"Report0":"Disciplinary report",
+"Report1":"Incident Report",
+"ReportType1":"Incident Report"
+},
+"42070":{
+"Building": "Racine County Jail"
+},
+"42086":{
+"Building":"Kanabec County Jail",
+"Floor":"1K",
+"Pod":"10A",
+"Cell":"1A"
+},
+
+"50843":{
+"VisitorNameType1":"A",
+"VisitorNameID1":"0000000033",
+"VisitorNameType2":"A",
+"VisitorNameID2":"0000000034",
+"VisitLocation":"Kanabec County Jail",
+"AuthorizedArea":"Visiting Hall",
+"VisitorName0":"Test, T", 
+"VisitorName5":"Test,T",
+"VisitorName1":"Sasa, Sasa",
+"VisitorName6":"Sasa,Sasa",
+"Visitor0":"Sasa, Sasa",      
+"Status":"Completed",
+"VisitorNameType3":"A",
+"VisitorNameID3":"0000000058",
+"VisitorNameType4":"A",
+"VisitorNameID4":"0000000056",
+"VisitorName3":"Sam, Vinton",
+"VisitorName4":"Williams, Vinton",
+"VisitorName7":"Sam,Vinton",
+"VisitorName8":"Williams,Vinton",
+"FacilityVisitReason":"Test",
+"ColumnName":"Visitor"
+
+
+},
+
+"53066":{
+"VisitorNameType1":"A",
+"VisitorNameID1":"0000000088",
+"VisitorNameType2":"A",
+"VisitorNameID2":"0000000089",
+"VisitLocation":"Kanabec County Jail",
+"AuthorizedArea":"Visiting Hall",
+"VisitorName0":"Wilson, Benny", 
+"VisitorName5":"Wilson,Benny",
+"VisitorName1":"Moore, Perez",
+"VisitorName6":"Moore,Perez",
+"Visitor0":"Moore, Perez",      
+"Status":"Completed",
+"VisitorNameType3":"A",
+"VisitorNameID3":"0000000090",
+"VisitorNameType4":"A",
+"VisitorNameID4":"0000000091",
+"VisitorName3":"Taylor, Bailey",
+"VisitorName4":"Anderson, Gray",
+"VisitorName7":"Taylor,Bailey",
+"VisitorName8":"Anderson,Gray",
+"FacilityVisitReason":"Test",
+"ColumnName":"Visitor"
+},
+"50072":{
+"SPNNo": "25",
+"SPN":"25",
+"CellValue":"1DC4",
+"Offenses":"211",
+"Officer":"Auto",
+"Sanction":"Phone Suspension",
+"Duration":"3",
+"DurationType":"Hour(s)",
+"Status":"Approved",
+"Officer":"Auto"
+},
+"53140":{
+"SPNNo":"75",
+"NameID":"A-0000000023",
+"Name1":"Mikevjr, Morganhly",
+"VisitorName1":"Mikeqmw, Morgansvw",
+"Area":"Block B",
+"Booth":"Booth three",
+"Status":"Completed",
+"AssociationType":"Visitors",
+"VisitorName":"Mikevjr, Morganhly",
+"SPNNo1":"76",
+"NameID":"A-0000000026",
+"VisitorName1":"Mikevjr, Morganhly",
+"Name2":"Mikeqmw, Morgansvw",
+"Visitor1":"Mikeqmw, Morgansvw",
+"InmateName1":"Naomi, Aidan",
+"Visitor2":"Mikevjr, Morganhly",
+"InmateName2":"Emily, Taylor"
+},
+"58282":{
+"BuildingName":"PhoenixTower",
+"Code":"2023"
+},
+"58269":{
+"FromDate":"05/22/2025",
+"ToDate":"05/22/2025",
+"SPNNo":"83",
+"CMSBooking#":"25-000027",
+"SPNNo1":"21",
+"SPN#":"83"
+},
+"58230":{
+"BuildingName":"PhoenixTower",
+"PodName":"SlickPod",
+"OccupantTypes":"Female",
+"OccupantType":"Female",
+"Classification":"Min Level 2"
+},
+"58207":{
+"CodeID":"5008",
+"CodeValue":"44",
+"Description":"Testing",
+"CMSBooking":"24-000015",
+"Officer":"A208",
+"Reason":"Initial classification",
+"Classification":"Testing",
+"SPNNo":"80"
+},
+"42069":{
+"ReportedBy":"KV007",
+"SPNNo":"23",
+"Duration":"22",
+"DurationType":"Hour(s)",
+"DurationHours":"2",
+"Sanction":"CANTEEN SANCTION",
+"Offenses":"211",
+"SPN":"23"
+},
+"55407":{
+"Location":"Kanabec County Jail",
+"ActivityType":"106",
+"ReportedByPF":"P033",
+"SPN":"88",
+"Type":"Inmate"
+},
+"55212":{
+"SPNNo":"89"
+},
+"60599":{
+	"Classification":"Min-Level 1",
+	"Period":"Mid Noon",
+	"PubVisitPeriod":"Male",
+	"PubVisitFromTime":"13:00",
+	"PubVisitToTime":"14:00",
+	"ProVisitFromTime":"10:00",
+	"ProVisitToTime":"11:00",
+	"PubVisitToTime1":"14:00",
+	"PubVisitFromTime1":"12:00",
+	"ProVisitFromTime1":"12:00",
+	"ProVisitToTime1":"11:00"
+},
+"60275": {
+	"ScheduledFromDate": "08/04/2012",
+	"ScheduledFromTime": "10:00"
+},
+"63054": {
+	"SPNNo": "94",
+	"ReleaseType": "EC - Electronic Monitoring"
+},
+"62856":{
+	"SPNNo":"98",
+	"Visitor1":"Wehmeier, Eric",
+	"Visitor2":"Schmitt, Eric",
+	"Area":"Block A",
+	"Booth":"Booth one",
+	"Status":"Completed",
+	"VisitorName2":"Schmitt, Eric"
+},
+"63255":{
+	"SPNNo":"100",
+	"Visitor":"Cedrone, Mark",
+	"Visitor1":"Cedrone, Mark",
+	"NameID1":"A-0000000675",
+	"AssociationType":"Visitors",
+	"Area":"Block B",
+	"Booth":"Booth three",
+	"Status":"Completed"
+},
+"62905":{
+	"GrievanceNo":"19-000001"
+},
+"63585": {
+	"Description1": "Activity",
+	"Description2": "Clarity Purpose",
+	"CategoryCode": "03",
+	"CategoryDescription": "Activity",
+	"SubCategoryCode": "A2",
+	"SubCategoryDescription": "Clarity Purpose"
+},
+"63621": {
+	"InmateName": "Vashsholtz, Jeffrey",
+	"DataType": "Both",
+	"SPNNo": "101",
+	"Item": "4",
+	"PF": "AUTO",
+	"Description1": "Process Segment books"
+},
+"63678": {
+	"FromDate1": "T",
+	"FromDate2": "T+15",
+	"FromDate3": "T+15M",
+	"FromDate4": "T+1Y",
+	"FromDate5": "'",
+	"FromDate6": "K",
+	"FromDate7": "H",
+	"ToDate1": "T",
+	"ToDate2": "T+15",
+	"ToDate3": "T+15M",
+	"ToDate4": "T+1Y",
+	"ToDate5": "'",
+	"ToDate6": "K",
+	"ToDate7": "H"
+},
+"69789":{
+	"SPNNo": "110",
+	"Review": "WAut",
+	"SecondReview": "WAut",
+	"FinalReview": "WAut",
+	"ReleaseType": "EC - Electronic Monitoring"
+},
+"62714":{
+"FromDate0":"10/14/2025",
+"ToDate0":"10/14/2025",
+"Building":"Racine County Jail",
+"Date":"10-14-25",
+"FloorPod":"Floor 1D DAY ROOM 1  (36)",
+"headers1":"Full Name",
+"headers2":"SPN#",
+"headers3":"Location",
+"headers4":"Building",
+"headers5":"Floor",
+"headers6":"Pod Name",
+"headers7":"Classification",
+"Header1":"Date/Time Modified",
+"Header2":"From (Status)",
+"Header3":"To (Status)",
+"Header4":"By PF#"
+},
+"69882": {
+"Date1": "10/13/2025",
+"Time1": "17:39",
+"VisitorNameType":"A",
+"VisitorNameID":"0000000716",
+"FacilityVisitReason":"Inmate Relation",
+"VisitLocation":"Walworth County",
+"Name":"Price,Logan",
+"VisitorName0":"Price, Logan",
+"VisitorName1":"Price,Logan",
+"AuthorizedArea":"Visiting Hall",
+"Status":"Completed"
+},
+"63356": {
+"Juris1": "PX - ProPhoenix",
+"Building1": "Kanabec County Jail",
+"Building2":"Milwakee Jail",
+"Building3":"PhoenixTower",
+"Building4":"Racine County Jail",
+"Building5":"Racine County Records",
+"Building6":"RatthaPNX",
+"Building7":"Sherburne Huber Jail",
+"Building8":"Walworth County",
+"Building9":"Washington Count Sheriff",
+"BuildingName":"Kanabec County Jail",
+"BuildingCode1":"WCS",
+"BuildingCode2":"KCJ"
+},
+"63227": {
+"Building1": "Racine County Jail",
+"Floor1": "3C",
+"UnAssignedValue":"0/",
+"AssignedValue":"1/10",
+"Label1":"Bunk#",
+"Label2":"SPN",
+"Label3":"Name",
+"LabelValue1":"1",
+"LabelValue2":"6",
+"LabelValue3":"Dhiv, Dhivya",
+"CellValue1":"1/10",
+"CellValue2":"0/12",
+"SPN1":"6",
+"Name1":"Dhiv, Dhivya"
+},
+"70582": {
+"IncidentYearFrom": "25",
+"IncidentNoFrom": "000002",
+"IncidentYearTo": "25",
+"IncidentNoTo": "000002",
+"IncidentNo1":"25-000002",
+"RoleName":"System Administrator",
+"ScreenID":"8272",
+"IncidentYearFrom1":"19",
+"IncidentNoFrom1":"000001",
+"IncidentYearTo1":"19",
+"IncidentNoTo1":"000001",
+"IncidentNo2":"19-000001",
+"Disabled":"disabled",
+"LabelValue3":"Dhiv, Dhivya",
+"CellValue1":"1/10",
+"CellValue2":"0/12",
+"SPN1":"6",
+"Name1":"Dhiv, Dhivya"
+},
+"62888":{
+"Location":"Racine County Jail",
+"Floor":"1D",
+"Pod":"DR1",
+"Category":"03",
+"SubCategory":"A2",
+"ActivityType":"102",
+"ReportedByPF":"AUTO",
+"SPN":"129",
+"LastName":"Arlen",
+"FirstName":"Arlen",
+"Type1":"Inmate",
+"ID1":"129",
+"Name1":"Arlen,Arlen",
+"NamesPF1":"AUTO",
+"Type2":"Employee",
+"ID2":"AUTO",
+"Name2":"Prophoenix, Automation",
+"NameID1":"A-0000000745",
+"Type3":"Others",
+"ID3":"A-0000000745",
+"Name3":"Kaia,Callen",
+"PF1":"Prophoenix, Automation",
+"LogInfo":"Selenium",
+"Text1":"Selenium",
+"Subject1":"BREAKOUT",
+"ActivityType1":"102",
+"ActivityTypeDescription1":"BREAKOUT"
+},
+"72135":{
+"SPNNo":"11"
+},
+"72137":{
+"FromDate":"11/08/2023",
+"IncidentYearFrom1":"25",
+"IncidentNoFrom1":"000003",
+"IncidentYearTo1":"25",
+"IncidentNoTo1":"000003",
+"IncidentNo1":"25-000003",
+"ReportType0":"Incident Report",
+"ReportName":"CMS Incident Report",
+"Officer":"Prophoenix, Automation",
+"Report0":"Incident Report"
+},
+"72156":{
+"UserName0":"Clarke",
+"Password0":"Password@1234",
+"Database":"AutomationPoliceMJ",
+"Location":"Racine County Jail",
+"ActivityType":"100",
+"ReportedByPF":"PFAE492",
+"LogInfo0":"Monish automation",
+"LogInfo1":"Dan automation",
+"PFCode":"PFAE492",
+"ReportedPF":"PFAE492",
+"PF0":"Clarke, Aiden",
+"UserName1":"Reynolds",
+"PF1":"Reynolds, Maya",
+"Text0":"Monish automation",
+"Text1":"Dan automation"
+},
+"72421":{
+"BuildingCode":"AutoCod6",
+"BuildingName":"AutomationTest6",
+"RFIDTag1":"RFID1",
+"BarCode1":"Bar1",
+"BuildingCode1":"AutoCode",
+"FloorCode":"Fcode",
+"FloorAlias":"Falias",
+"ImageFile":"One.jpg",
+"RiskLevel1":"Low Risk",
+"Code":"Fcode",
+"Code1":"Bcode",
+"PodName":"PodName",
+"CellNumber":"CellNo1",
+"CellAlias":"CellA1",
+"CellType":"Holding Cell",
+"CellSexType":"Male",
+"TotalBeds":"11",
+"PodName1":"PodName",
+"CellNumber1":"CellNo1"
+},
+"72459":{
+"CodeID1":"1004",
+"CodeValue":"T",
+"Description":"Auto Test",
+"SPNNo":"132",
+"Action":"Assigned",
+"AssignCellNo":"1DC2",
+"BunkNo":"2",
+"Offense":"100",
+"Type1":"Auto Test",
+"Location1":"Racine County Jail",
+"ReportingOfficer1":"PRMS"
+},
+"72474":{
+"ReportedPF":"AUTPOL",
+"NamesPF1":"pnx440",
+"Name1":"Mahi, Ks"
+},
+"72487":{
+"SPNNo":"138",
+"Location1":"Racine County Jail",
+"Offense":"212",
+"CaseYear":"25",
+"CaseNo":"000003",
+"ReportingOfficer1":"PRMS",
+"Type1":"Huber"
+},
+"72496":{
+"SPN1":"139",
+"SPN#":"139",
+"Item1":"Coin",
+"SPNNo":"139"
+},
+"72509":{
+"SPNNo":"142",
+"Action":"Change Cell Assignment",
+"Header1":"CellAlias",
+"Header2":"CellNumber",
+"AssignCellNo":"1DC2",
+"BunkNo":"2",
+"Location1":"1DC2-2"
+},
+"72671":{
+"LastName1":"Balu1",
+"FirstName1":" ",
+"SPNNo":"546464646"
+},
+"72685":{
+"CMSBooking1":"25-000077",
+"SPN":"136",
+"Location1":"Racine County Jail",
+"ReportingOfficer1":"P008",
+"Offense":"211",
+"Type1":"Major",
+"SPN1":"22",
+"WitnessSPNNo":"12",
+"NotesForInmate":"1234",
+"NameType":"A",
+"NameID":"0000000022",
+"NotesforOthers":"1234",
+"Type2":"Inmate",
+"Type3":"Others"
+},
+"72742":{
+"SPNNo":"133",
+"Location1":"Racine County Jail",
+"ReportingOfficer1":"P008",
+"Offense":"211",
+"Type1":"Major",
+"ReportType1":"Incident Report"
+},
+"72785":{
+"SPN1":"134",
+"ReportedPF1":"Prophoenix, Automation",
+"Password":"Pnx@2016",
+"QuickActivityMode1":"CMS",
+"QuickActivityMode2":"Police RMS"
+},
+"63003":{
+"BuildingCode":"A001",
+"BuildingName":"Automation01",
+"Address":"495 Flatbush Ave",
+"PhoenType1":"H - Home",
+"Phone1":"6546466464",
+"PhoenType2":"C - Cell",
+"Phone2":"2342342343",
+"BedCount":"1212",
+"MaxInmateCount":"99",
+"Notes":"Automation",
+"RFIDTag1":"AT1",
+"BarCode1":"AT1",
+"Supervisor":"Lock"
+},
+"63003A":{
+"BuildingCode":"A001",
+"BuildingName":"Automation01",
+"FloorCode":"AT1",
+"ImageFile":"AT1.jpg",
+"RiskLevel1":"Low Risk",
+"FloorAlias1":"AT1",
+"Code":"BPAuto1",
+"PodName":"AutoPod1",
+"NoOfCells":"100",
+"OccupantTypes":"Male",
+"Classification":"Max Level 1",
+"Camera1":"Booking Camera",
+"OccupantType":"Male",
+"PodCode1":"BPAuto",
+"PodAlias1":"BPAuto",
+"PodName1":"AutoPod1",
+"BuildingCode1":"A001",
+"BuildingName1":"Automation01",
+"FloorCode1":"AT1",
+"FloorName1":"AT1"
+},
+"63003B":{
+"BuildingName":"Automation01",
+"FloorAlias1":"AT1",
+"PodName1":"AutoPod1",
+"CellNumber":"100",
+"CellType":"Holding Cell",
+"CellSexType":"Male",
+"CellSecurity":"Dorn cell",
+"RiskLevel1":"Low Risk",
+"TotalBeds":"100",
+"CellNumber1":"100",
+"CellAlias1":"100",
+"Type1":"Holding Cell",
+"Sex1":"Male",
+"Beds1":"100"
+},
+"63003C":{
+"BuildingName":"Automation01",
+"FloorAlias1":"AT1",
+"PodName1":"AutoPod1",
+"CellNumber1":"100",
+"BedID":"1",
+"Description":"Bed",
+"BedID1":"1",
+"Description1":"Bed",
+"NameID":"A-0000000023",
+"ReceivingFacility1":"Automation01",
+"InmateType":"Racine City Police",
+"ConfineReason":"Board",
+"SentenceStatus":"Felony - Pre - Trial",
+"Sex":"Female",
+"ArrestingOfficer":"Auto",
+"ArrestingOfficerID":"89"
+},
+"76095":{
+"Building":"Automation01",
+"Floor":"AT1",
+"Pod":"BPAuto",
+"Cell":"100",
+"TopLeft1":"746,283",
+"TopRight1":"661,266",
+"BottomLeft1":"661,266",
+"BottomRight1":"142,233",
+"InfoDisplay1":"0",
+"color":"rgba(0, 170, 0, 1)"
+},
+"63219":{
+"SPNNo":"140",
+"AssociationType":"Visitors",
+"NameID":"A-0000000775",
+"Relationship1":"Wife",
+"ReciprocalRelationship1":"Husband",
+"Visitor":"Oliver, Caldwell",
+"VisitorName":"Oliver, Caldwell",
+"VisitorName1":"Oliver, Caldwell",
+"Visitor1":"Oliver, Caldwell",
+"ScheduleDate":"",
+"Area":"Block A",
+"Booth":"Booth seven",
+"Status":"Completed"
+},
+"63219A":{
+"SPNNo":"141",
+"SPNNo1":"146",
+"AssociationType":"Visitors",
+"NameID":"A-0000000785",
+"Relationship1":"Wife",
+"ReciprocalRelationship1":"Husband",
+"Visitor":"Livingston, Mason",
+"VisitorName":"Livingston, Mason",
+"VisitorName1":"Livingston, Mason",
+"Visitor1":"Livingston, Mason",
+"Area":"Block A",
+"Booth":"Booth one"
+},
+"63219B":{
+"SPNNo":"149",
+"AssociationType":"Visitors",
+"NameID":"A-0000000787",
+"Relationship1":"Wife",
+"ReciprocalRelationship1":"Husband",
+"Visitor":"Kensington, Henry",
+"VisitorName":"Kensington, Henry",
+"VisitorName1":"Kensington, Henry",
+"Visitor1":"Kensington, Henry",
+"Area":"Block A",
+"Booth":"Booth one"
+},
+"63332":{
+"GrievanceType":"AP",
+"SPNNo":"158",
+"LastName1":"Nathan",
+"FirstName1":"Hamilton",
+"Building1":"Racine County Jail",
+"ReportingOfficer1":"P866",
+"AssociatedIncidentYear":"26",
+"AssociatedIncidentNo":"000001",
+"NarrativeComments":"Automation"
+},
+"63332A":{
+"SPNNo":"158",
+"RespondingOfficer1":"P855",
+"ResponseComments":"Auto",
+"Text1":"Automation",
+"Disposition":"Gulity",
+"Status":"Submitted",
+"Supervisor1":"P866           -Aadwin, Aalmar",
+"Supervisor2":"P866 -Aadwin, Aalmar",
+"SPN":"158",
+"Status1":"Approved",
+"CMSBooking1":"26-000019"
+},
+"63332B":{
+"SPNNo":"158",
+"Status1":"Approved",
+"Supervisor1":"P855",
+"SupervisorComments":"Automation Test",
+"Text1":"Automation Test",
+"ForwardToPF1":"B55577",
+"PF1":"05306",
+"AppealType":"Normal",
+"Disposition1":"Gulity",
+"AppealOfficer1":"60328"
+},
+"68354":{
+"RoleName":"System Admin",
+"ScreenID":"8240",
+"Building":"Kanabec County Jail",
+"RoleName":"System Administrator",
+"ReportedPF":"AUTPOL"
+},
+"70059":{
+"StatusCode":"EC",
+"ReleaseType":"EC - #Electronic Monitoring"
+},
+"63069":{
+"VisitorNameType1":"A",
+"VisitorNameID1":"0000000788",
+"VisitorName1":"Caleb,Thornton",
+"VisitorName":"Caleb,Thornton",
+"FacilityVisitReason":"Inmate Relation",
+"VisitLocation":"Kanabec County Jail",
+"AuthorizedArea":"Visiting Hall",
+"Building1":"KCJ",
+"BuildingFilter":"Kanabec County Jail",
+"Status":"Completed",
+"Name":"Caleb, Thornton",
+"Status1":"Completed",
+"VisitorName2":"Caleb, Thornton"
+},
+"63069A":{
+"VisitorNameType1":"A",
+"VisitorNameID1":"0000000861",
+"VisitorName1":"Stonebridge, Zachary",
+"VisitorName":"Stonebridge,Zachary",
+"FacilityVisitReason":"Inmate Relation",
+"VisitLocation":"Kanabec County Jail",
+"AuthorizedArea":"Visiting Hall",
+"Building1":"KCJ",
+"BuildingFilter":"Kanabec County Jail",
+"Status":"Completed",
+"Name":"Stonebridge, Zachary",
+"Status1":"Completed",
+"VisitorName2":"Stonebridge, Zachary",
+"Visitor2":"Stonebridge, Zachary",
+"VisitorNameType3":"A",
+"VisitorNameID3":"0000000792",
+"VisitorName3":"Ellington,Owen",
+"Building2":"KCJ",
+"VisitorName4":"Ellington, Owen",
+"Visitor4":"Ellington, Owen",
+"Building4":"KCJ"
+},
+"63069B":{
+"VisitorNameType1":"A",
+"VisitorNameID1":"0000000795",
+"VisitorName1":"Bradford,Dylan",
+"VisitorName":"Ellington,Owen",
+"FacilityVisitReason":"Inmate Relation",
+"VisitLocation":"Kanabec County Jail",
+"AuthorizedArea":"Visiting Hall",
+"Building1":"KCJ",
+"BuildingFilter":"Kanabec County Jail",
+"Status":"Completed",
+"Name":"Ellington, Owen",
+"Status1":"Completed",
+"VisitorName2":"Bradford, Dylan",
+"VisitorNameType":"A",
+"VisitorNameID":"0000000796",
+"VisitorName3":"Ellington,Owen",
+"Building2":"KCJ",
+"VisitorName4":"Ellington, Owen",
+"Visitor4":"Ellington, Owen",
+"Building4":"KCJ"
+},
+"63069C":{
+"StartDateTime1":"09/10/2019 22:38"
+},
+"74787":{
+"SPNNo":"188",
+"Building":"Kanabec County Jail",
+"ReportingOfficer1":"60328",
+"Offense":"212",
+"IncidentSummary":"Learning new skills takes time, patience, and consistent effort. Every small step you take builds confidence and experience. Mistakes are part of growth, not failure. Stay curious, keep practicing daily, and believe in your ability to improve and succeed.Learning new skills takes time, patience, an.",
+"IncidentYearFrom1":"26",
+"IncidentNoFrom1":"000002",
+"IncidentYearTo1":"26",
+"IncidentNoTo1":"000002",
+"IncidentNo1":"26-000002",
+"Offense1":"213",
+"length1":"300"
+},
+"74803":{
+"SPNNo":"12",
+"Building":"Kanabec County Jail",
+"ReportingOfficer1":"60328",
+"Offense":"212",
+"IncidentYearFrom1":"26",
+"IncidentNoFrom1":"000003",
+"IncidentYearTo1":"26",
+"IncidentNoTo1":"000003",
+"IncidentNo1":"26-000003",
+"Comments":"Learning new skills takes time, patience, and consistent effort. Every small step you take builds confidence and experience. Mistakes are part of growth, not failure. Stay curious, keep practicing daily, and believe in your ability to improve and succeed.Learning new skills takes time, patience, and consistent effort. Every small step you take builds confidence and experience. Mistakes are part of growth, not failure. Stay curious, keep practicing daily, and believe in your ability to improve and succeed.Learning new skills takes time, patience, and consistent effort. Every small step you take builds confidence and experience. Mistakes are part of growth, not failure. Stay curious, keep practicing daily, and believe in your ability to improve and succeed.Learning new skills takes time, patience, and consistent effort. Every small step you take builds confidence and experience. Mistakes are part of growth, not failure. Stay curious, keep practicing daily, and believe in your ability th.",
+"Location1":"Kanabec County Jail",
+"length1":"1000",
+"Location2":"Kanabec County Jail , , , "
+},
+"62986":{
+"IncidentYearFrom1":"25",
+"IncidentNoFrom1":"000001",
+"IncidentYearTo1":"25",
+"IncidentNoTo1":"000003",
+"IncidentNo1":"25-000001",
+"IncidentNo2":"25-000002",
+"IncidentYearFrom2":"25",
+"IncidentNoFrom2":"000001",
+"IncidentYearTo2":"25",
+"IncidentNoTo2":"000001",
+"FromDate":"01/15/2026",
+"FromTime":"01:00",
+"ToTime":"20:00",
+"DateType1":"Hearing",
+"FromDateTime1": "01/15/2026",
+"ToDateTime1": "05/02/2026",
+"DateType2":"Incident",
+"FromDateTime2": "01/16/2026",
+"ToDateTime2": "06/18/2026",
+"Building1":"Kanabec County Jail",
+"Floor1":"1K",
+"Pod1":"TEst",
+"Pod2":"10A",
+"Cell1":"1A",
+"NameType1":"Name",
+"LastName1":"Arjun",
+"FirstName1":"Mehta",
+"Name":"Arjun, Mehta",
+"InmateName1":"Arjun, Mehta",
+"NameType2":"SPN",
+"SPN1":"131",
+"SPN2":"212",
+"Name1":"Kavya, Rao",
+"Offense":"211",
+"Description1":"Major offence",
+"Dispostion":"1",
+"HearingDispositionCode1":"1",
+"HearingDispositionDescription1":"1",
+"ReportedBy":"AUTO",
+"Supervisor":"60328",
+"SupervisorCode1":"60328",
+"SupervisorCodeDescription1":"Aadam, Aedil",
+"OffenseType1":"Major",
+"Type1":"Major",
+"Sanction1":"CANTEEN SUSPENSION",
+"Sanction":"CANTEEN SUSPENSION",
+"Status":"Approved",
+"InmateType1":"Beltop",
+"DetailsReportOfficer1":"AUTO",
+"OfficerCode1":"AUTO",
+"OfficerDescription1":"Prophoenix, Automation",
+"RowCount1":"1",
+"IncidentNumber":"3",
+"IncidentYear":"25"
+}
+
+
+
+
+
+}
