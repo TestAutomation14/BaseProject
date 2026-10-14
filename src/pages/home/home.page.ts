@@ -10716,9 +10716,15 @@ export class TextMgmtPage {
     }
 
     async EnterAtTextName(): Promise<void> {
-        await this.uITextNameEdit.click();
+        const textName = BaseData.getTestValue('TextName');
+        if (!textName) {
+            throw new Error('TextName is missing from the active test data.');
+        }
+
         await this.uITextNameEdit.clear();
-        await this.uITextNameEdit.fill(BaseData.getTestValue('TextName'));
+        await this.uITextNameEdit.pressSequentially(textName);
+        await this.uITextNameEdit.press('Tab');
+        await expect(this.uITextNameEdit).toHaveValue(textName);
     }
 
     async EnterRichTextAsStatementTab(): Promise<void> {

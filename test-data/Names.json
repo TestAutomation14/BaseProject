@@ -2535,11 +2535,11 @@
 	"46564": {
 		"TemplateFor": "Arrest Entry Statement Template",
 		"Description": "Automation",
-		"TextName": "Victim Statement Temp",
+		"TextName": "DOAText",
 		"CaseNo": "25-000019",
 		"Richtext": "Test Automation",
 		"ColumnName": "Text Name",
-		"ColumnValue": "Victim Statement Temp"
+		"ColumnValue": "DOAText"
 	},
 	"48499": {
 		"ParameterValue": "RMS Only",

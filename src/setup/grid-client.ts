@@ -217,6 +217,60 @@ const leaseHeartbeatTimers = new Map<string, NodeJS.Timeout>();
 const LEASE_HEARTBEAT_MS = 10_000;
 const LEASE_STALE_MS = 60_000;
 
+let shutdownHooksRegistered = false;
+let shutdownCleanupInProgress = false;
+
+async function cleanupTrackedSessions(reason: string): Promise<void> {
+  if (shutdownCleanupInProgress) return;
+  shutdownCleanupInProgress = true;
+
+  const entries = [...sessionNodeMap.entries()].map(([workerIndex, controllerUrl]) => ({
+    workerIndex,
+    controllerUrl,
+    container: sessionContainerMap.get(workerIndex),
+    leasePath: sessionLeaseMap.get(workerIndex)
+  }));
+
+  for (const entry of entries) {
+    try {
+      await deleteRemoteBrowser(
+        entry.workerIndex,
+        undefined,
+        reason,
+        entry.controllerUrl,
+        entry.container
+      );
+    } catch {
+      // Ignore cleanup errors during shutdown — the controller may already have
+      // removed the session, or the process may be exiting abruptly.
+    }
+  }
+
+  shutdownCleanupInProgress = false;
+}
+
+function registerShutdownHooks(): void {
+  if (shutdownHooksRegistered) return;
+  shutdownHooksRegistered = true;
+
+  const handleShutdown = (reason: string) => {
+    console.warn(`[RemoteBrowser] Graceful shutdown cleanup triggered by ${reason}.`);
+    void cleanupTrackedSessions(reason).catch(() => {});
+  };
+
+  process.on('SIGINT', () => handleShutdown('SIGINT'));
+  process.on('SIGTERM', () => handleShutdown('SIGTERM'));
+  process.on('beforeExit', () => handleShutdown('beforeExit'));
+  process.on('uncaughtException', (error) => {
+    handleShutdown('uncaughtException');
+    throw error;
+  });
+  process.on('unhandledRejection', (reason) => {
+    handleShutdown('unhandledRejection');
+    throw reason;
+  });
+}
+
 function getLeaseDirectory(controllerUrl: string): string {
   const controllerId = Buffer.from(controllerUrl).toString('base64url');
   return path.join(os.tmpdir(), 'playwright-grid-leases', controllerId);
@@ -351,6 +405,8 @@ async function releaseSessionLease(leasePath: string | undefined): Promise<void>
     }
   }
 }
+
+registerShutdownHooks();
 
 function getRetryDelayMs(workerIndex: number, retryIntervalMs: number): number {
   const jitterMs = Number(getSetting('GRID_RETRY_JITTER_MS') || 1000);

@@ -1,5 +1,5 @@
 ﻿// @ts-nocheck
-import { Page, Locator, FrameLocator } from '@playwright/test';
+import { expect, Page, Locator, FrameLocator } from '@playwright/test';
 import { BrowserHelpers } from '../../helpers/browser-helpers';
 import { AcknowledgePage, ConfirmPage } from '../popup.page';
 import { BaseData } from '../../data/base-data';
@@ -11703,6 +11703,8 @@ export class TextScreenPage {
   readonly excelIcon: Locator;
   readonly includeInactiveCheckBox: Locator;
   readonly uIResultGrid: Locator;
+  readonly nextButton: Locator;
+  readonly previousButton: Locator;
 
   constructor(page: Page) {
     this.page = page;
@@ -11727,6 +11729,8 @@ export class TextScreenPage {
     this.excelIcon = page.locator("//img[@title=\'Export to Excel\']");
     this.includeInactiveCheckBox = page.locator('#chkActive');
     this.uIResultGrid = page.locator('#grdText');
+    this.nextButton = page.locator('#grdText_ctl00_lnkbtnNext');
+    this.previousButton = page.locator('#grdText_ctl00_lnkbtnPrev');
   }
 
   async clickAddNew(): Promise<void> {
@@ -11740,11 +11744,17 @@ export class TextScreenPage {
       el.style.backgroundColor = 'yellow';
     });
 
-    // 2. Click the button
-    await this.searchButton.click();
+    const searchNavigation = this.page.waitForEvent('framenavigated', {
+      predicate: frame => frame.url().includes('frmTextSrch'),
+      timeout: 30_000,
+    });
 
-    // 3. Wait for the table data row to appear in the DOM
-    await this.page.locator('tbody tr').first().waitFor({ state: 'visible', timeout: 15000 });
+    await this.searchButton.click();
+    const searchFrame = await searchNavigation;
+    await searchFrame.waitForLoadState('networkidle');
+
+    await expect(this.uIResultGrid.getByRole('columnheader', { name: 'Text Name', exact: true }))
+      .toBeVisible();
   }
 
 
@@ -11817,14 +11827,16 @@ export class TextScreenPage {
   }
 
   async verifyAtTextNameInGrid(): Promise<void> {
-    let columnName: string = BaseData.getTestValue("ColumnName");
-    let columnValue: string = BaseData.getTestValue("ColumnValue");
-    const columnValues = await this.grid.getColumnValues(
+    const columnName = BaseData.getTestValue('ColumnName');
+    const columnValue = BaseData.getTestValue('ColumnValue');
+    await expect(this.uIResultGrid.locator('tbody[mkr="rows"] tr')).not.toHaveCount(0);
+    const columnValues = await this.grid.getAllColumnValuesAcrossPages(
       this.page,
       this.uIResultGrid,
-      columnName
+      columnName,
+      this.nextButton,
+      this.previousButton
     );
-    // 2. Verify the expected JSON value is present in the returned array
     expect(columnValues).toContain(columnValue);
   }
 
@@ -21746,4 +21758,3 @@ export class ExternalInterfaceLogPage {
   }
 
 }
-

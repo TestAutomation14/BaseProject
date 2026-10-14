@@ -325,60 +325,59 @@ export class GridHelpers {
         page: Page,
         gridLocator: Locator,
         headerName: string,
-        nextButton: Locator
+        nextButton: Locator,
+        previousButton?: Locator
     ): Promise<string[]> {
         const allColumnValues: string[] = [];
+
+        if (previousButton) {
+            while (!(await this.isPagerDisabled(previousButton))) {
+                const currentPageValues = await this.extractSinglePageColumn(gridLocator, headerName);
+                await previousButton.click({ force: true, noWaitAfter: true });
+                await expect.poll(
+                    () => this.extractSinglePageColumn(gridLocator, headerName)
+                ).not.toEqual(currentPageValues);
+            }
+        }
 
         while (true) {
             // 1. Extract values from the target grid
             const currentPageValues = await this.extractSinglePageColumn(gridLocator, headerName);
             allColumnValues.push(...currentPageValues);
 
-            // 2. FAST CHECK: Is the button completely removed from the DOM?
-            if (await nextButton.count() === 0) {
-                console.log('Next button is not available. Reached the last page.');
+            if (await this.isPagerDisabled(nextButton)) {
                 break;
             }
 
-            // 3. FAST CHECK: Is the button hidden? (resolves instantly)
-            if (!(await nextButton.isVisible())) {
-                console.log('Next button is hidden. Reached the last page.');
-                break;
-            }
-
-            // 4. SAFE DISABLED CHECK: Bypass the 120s timeout
-            try {
-                // A. Check for ASP.NET custom disabled classes or missing hrefs (very common in grids)
-                const isCustomDisabled = await nextButton.evaluate((el) => {
-                    if (el.classList.contains('aspNetDisabled') || el.classList.contains('disabled')) return true;
-                    if (el.tagName === 'SPAN') return true; // Grid turned the link into plain text
-                    if (el.tagName === 'A' && !el.hasAttribute('href')) return true; // Link has no destination
-                    return false;
-                });
-
-                if (isCustomDisabled) {
-                    console.log('Next button has a disabled class/state. Reached the last page.');
-                    break;
-                }
-
-                // B. Playwright's standard disabled check, restricted to 1 second
-                const isDisabled = await nextButton.isDisabled({ timeout: 1000 });
-                if (isDisabled) {
-                    console.log('Next button is disabled. Reached the last page.');
-                    break;
-                }
-            } catch (error) {
-                // If checking the disabled state throws an error (e.g., element detached), assume we are on the last page.
-                console.log('Next button is no longer interactable. Reached the last page.');
-                break;
-            }
-
-            // 5. Click next and wait for grid to refresh
-            await nextButton.click();
-            await page.waitForLoadState('networkidle');
+            // Click the pager and wait for its postback to replace the grid rows.
+            await nextButton.click({ force: true, noWaitAfter: true });
+            await expect.poll(
+                () => this.extractSinglePageColumn(gridLocator, headerName)
+            ).not.toEqual(currentPageValues);
         }
 
         return allColumnValues;
+    }
+
+    private async isPagerDisabled(button: Locator): Promise<boolean> {
+        if (await button.count() === 0 || !(await button.isVisible())) {
+            return true;
+        }
+
+        const isCustomDisabled = await button.evaluate((el) => {
+            if (el.classList.contains('aspNetDisabled') || el.classList.contains('disabled')) return true;
+            if (el.tagName === 'SPAN') {
+                const action = el.closest('a, button, [role="button"]');
+                if (!action || action.classList.contains('aspNetDisabled') || action.classList.contains('disabled')) {
+                    return true;
+                }
+                if (action.tagName === 'A' && !action.hasAttribute('href')) return true;
+            }
+            if (el.tagName === 'A' && !el.hasAttribute('href')) return true;
+            return false;
+        });
+
+        return isCustomDisabled || await button.isDisabled({ timeout: 1000 });
     }
 
     /**
@@ -408,21 +407,28 @@ export class GridHelpers {
 
 
     //Try for new methods
-    async getTable(page: Page, tableSelector: string): Promise<Locator> {
-        return page.locator(tableSelector);
+    async getTable(page: Page, table: string | Locator): Promise<Locator> {
+        return typeof table === 'string' ? page.locator(table) : table;
     }
-    async getColumnHeader(page: Page, tableSelector: string, columnName: string): Promise<Locator> {
+    async getColumnHeader(page: Page, table: string | Locator, columnName: string): Promise<Locator> {
         // 1. Uses getTable
-        const table = await this.getTable(page, tableSelector);
+        const grid = await this.getTable(page, table);
         // 2. Finds header cell using XPath relative to the table
-        return table.locator(`xpath=.//th[normalize-space()='${columnName}'] | .//tr[1]//td[normalize-space()='${columnName}']`);
+        return grid.locator(`xpath=.//th[normalize-space()='${columnName}'] | .//tr[1]//td[normalize-space()='${columnName}']`);
     }
 
-    async getColumnValues(page: Page, tableSelector: string, columnName: string): Promise<string[]> {
-        const table = await this.getTable(page, tableSelector);
+    async getColumnValues(page: Page, table: string | Locator, columnName: string): Promise<string[]> {
+        const grid = await this.getTable(page, table);
+
+        const header = grid.getByRole('columnheader', { name: columnName, exact: true })
+            .or(grid.locator(`th[key="${columnName}"]`))
+            .first();
+        if (await header.count() > 0) {
+            return this.extractSinglePageColumn(grid, columnName);
+        }
 
         // 1. Get all header texts
-        const allHeaders = await table.locator('xpath=.//th | .//tr[1]//td').allInnerTexts();
+        const allHeaders = await grid.locator('xpath=.//th | .//tr[1]//td').allInnerTexts();
 
         // 2. Find the 1-based index
         const columnIndex = allHeaders.findIndex(h => h.trim() === columnName.trim()) + 1;
@@ -432,7 +438,7 @@ export class GridHelpers {
         }
 
         // 3. Get all cell values matching that column index
-        const cells = table.locator(`xpath=.//tr//td[${columnIndex}]`);
+        const cells = grid.locator(`xpath=.//tr//td[${columnIndex}]`);
         const values = await cells.allInnerTexts();
 
         return values.map(val => val.trim());

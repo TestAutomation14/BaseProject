@@ -111,7 +111,7 @@ export default defineConfig({
             viewport: { width: 1920, height: 1080 },
         headless: false,
         launchOptions: {
-          slowMo: HEADED ? 150 : 0,
+          slowMo: 1000,
           args: ['--disable-popup-blocking'],
           }
         }
